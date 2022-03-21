@@ -5214,6 +5214,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好的，我现在就去办。”编辑快步离去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220321T064054Z" creationid="sitong" creationdate="20220321T064054Z">
+        <seg>"Yes. I'll be on it." The editor left quickly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好的，有空切磋切磋。”麦格侧身避开，然后直接告辞离去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27378,6 +27386,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Michael put down the missive, and said to Dicus, "Make some preparations. I want to write a letter to the Falk Tribe. All the pro-peace factions have to handle matters calmly now. The Norland Continent will descend into a new racial war once the situation goes out of control. By then, nobody will be able to do anything to salvage the situation."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>迈洛晃悠悠的走进了主编室，在加兰对面坐下，翘起二郎腿，幽幽道：“我看你还是直接把麦老板请来给你写稿子好了，就这销量，已然碾压无数成名已久的美食家。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220321T064416Z" creationid="sitong" creationdate="20220321T064416Z">
+        <seg>Mylo sauntered into the Chief Editor's office and sat in front of Garlan. He crossed his leg and said slowly, "I think you should just get Boss Mag to write for you instead. This sales had already thrashed many famous food magazines."</seg>
       </tuv>
     </tu>
     <tu>
