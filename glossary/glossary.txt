@@ -2845,3 +2845,4 @@ DVD	DVD
 拍黄瓜	Smashed Cucumber Salad
 料汁	flavoring sauce
 金瓶梅	The Plum in the Golden Vase
+皮冻	frozen soup
