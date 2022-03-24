@@ -2846,3 +2846,4 @@ DVD	DVD
 料汁	flavoring sauce
 金瓶梅	The Plum in the Golden Vase
 皮冻	frozen soup
+蟹黄灌汤包	crab roe soup dumpling
