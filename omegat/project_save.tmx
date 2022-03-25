@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“只要你是酒馆老板，那就都可以报名参与，不过必须要使用本酒馆独家酿造的酒。本届活动已经筹办了一个月了，三日后正式举行现场品酒，今日是报名的最后期限。”埃菲说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T123741Z" creationid="sitong" creationdate="20220325T123640Z">
+        <seg>"You can qualify as long as you're a tavern onwner, but you have to use wine brewed specially in yoru tavern. It had already been a month since the preparation for this year</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“只要让它放凉就可以了是吧？”伊琳娜看着麦格问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -2818,6 +2826,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"But, Chief…" That orc tired to reason with Auster, only to be abruptly cut off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“可有报名限制？具体又在哪日举办呢？”麦格问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T123632Z" creationid="sitong" creationdate="20220325T123632Z">
+        <seg>"Is there a limitation to the registration? Where and when exactly is it held?" Mag asked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20482,6 +20498,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T142207Z" creationid="sitong" creationdate="20220321T142207Z">
         <seg>If he were to kill Sean now, he could not guarantee that Andre would not do anything crazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果能够在品酒大会上脱颖而出，甚至是获得金奖，那这家酒馆也会因此名气大涨，成为洛都酒馆业的下一个明星酒馆。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T123555Z" creationid="sitong" creationdate="20220325T123555Z">
+        <seg>If they could emerge victorious in the liquor tasting event, or even win a gold medal, the popularity of that tavern would boom and it would become the next star tavern in Rodu.</seg>
       </tuv>
     </tu>
     <tu>
