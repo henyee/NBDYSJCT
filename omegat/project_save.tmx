@@ -5966,6 +5966,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“小姐，那是……”小丫鬟看着埃菲手里的酒，有些紧张的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160406Z" creationid="sitong" creationdate="20220325T160406Z">
+        <seg>"Young Mistress, that is..." the servent maid said nervously when she saw the wine in Eiffie's hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“小姐，麦米餐厅到了。”马车挺稳，外便传来车夫的声音。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -12974,6 +12982,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是？！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160446Z" creationid="sitong" creationdate="20220325T160446Z">
+        <seg>"This is?!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这机器真的超级好用啊，输出超稳定，我用一天时间就把他整明白了，比我当初那堆破烂好用太多了。”汉娜毫不掩饰对新机器的喜爱，“我现在已经把我和我爷爷的几个朗姆酒配方调试出来了，新机器酿造出来的成品质量更好，而且能够保证品质，坏酒率极低。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -14930,6 +14946,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>A rich liquor aroma wafted out instantly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一股清新淡雅的酒香随之飘了出来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160442Z" creationid="sitong" creationdate="20220325T160442Z">
+        <seg>A light refreshing scent wafted out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19694,6 +19718,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>啵~</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160428Z" creationid="sitong" creationdate="20220325T160428Z">
+        <seg>Pop~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>喝了两杯酒的伊琳娜目光已经有些迷离，回头看了一眼波比，美腿微蹙，又是看着麦格挑了挑眉示意。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -20110,6 +20142,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲拔开酒塞。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160434Z" creationid="sitong" creationdate="20220325T160434Z">
+        <seg>Eiffie pulled the cork.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲接着说道：“品酒大会是洛都酒馆行业一年一度的盛会，洛都城内，甚至是洛斯帝国其他城市的酒馆都会拿出自己最好的美酒，在品酒大会上一决高下。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T123506Z" creationid="sitong" creationdate="20220325T123506Z">
@@ -20122,6 +20162,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Eiffie stomped her feet angrily. A cold wind blew over. She shivered and ran back to her tavern, hugging herself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲没有理会她，双手捧着酒瓶走到桌前，看着麦格道：“哈迪斯先生，请品一品这瓶。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160425Z" creationid="sitong" creationdate="20220325T160425Z">
+        <seg>Eiffie ignored her and brought the wine to the counter. She looked at Mag and said, "Mr. Hades, try this."</seg>
       </tuv>
     </tu>
     <tu>
@@ -20160,8 +20208,8 @@
       <tuv lang="zh-CN">
         <seg>埃菲走到酒柜后，踩着椅子，从最上层的柜子中央取了一瓶用精致酒瓶装着的酒下来。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220325T160327Z" creationid="sitong" creationdate="20220325T160327Z">
-        <seg>Eiffie walked to the wine cabinet, stepped on a chair, and took out an exquisite bottle from the top most capinet.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160334Z" creationid="sitong" creationdate="20220325T160327Z">
+        <seg>Eiffie walked to the wine cabinet, stepped on a chair, and took out an exquisite bottle from the top most cabinet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23290,6 +23338,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>It was the aroma of the liquor that he had smelled at the door, but it was much richer and seductive in the tavern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>是颇为地道的白兰地的风味，而且还是历时弥久的陈酿佳品。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160605Z" creationid="sitong" creationdate="20220325T160605Z">
+        <seg>It did resembled an authentic brandy, the very old kind at that.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29734,6 +29790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这特殊的芳香，只有蒸馏葡萄酒在酒桶中发酵足够长久的时间才会出现。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160654Z" creationid="sitong" creationdate="20220325T160654Z">
+        <seg>Its unique fragrance was one only present in a grape spirit that had been fermented long enough.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这画像上画的是一个有着银色头发的小精灵，用水彩笔做的画，画的正是艾米。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32330,6 +32394,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag's eyes lit up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格眼睛一亮，这高雅醇和的酒香，比起茅台或许差了点，但也足够令人惊讶。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160526Z" creationid="sitong" creationdate="20220325T160526Z">
+        <seg>Mag's eyes lit up. Such a mild and elegant fragrant might be incomparable to maotai but it was still shocking.</seg>
       </tuv>
     </tu>
     <tu>
