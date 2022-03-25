@@ -7150,6 +7150,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我去取酒。”麦格感觉到气氛不太对劲，准备开溜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T141243Z" creationid="sitong" creationdate="20220325T141243Z">
+        <seg>"I'll get my wine." Mag could sense the atmosphere and was ready to scoot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我去叫孩子们。”麦格笑着转身带上门。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -10746,6 +10754,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"W-wait for me to get changed." Irina turned to look at the closet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“等一下。”埃菲重新按住麦格，“我还有一瓶酒，请哈迪斯先生再帮我品一品。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T160237Z" creationid="sitong" creationdate="20220325T141245Z">
+        <seg>"Hold on." Eiffie pressed Mag down again. "I have another bottle of wine. Please help me try it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -20130,6 +20146,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Eiffie rolled her eyes, and said, "He dares to take 2000 copper coins for a bottle of liquor because his liquor is indeed good. How are we going to follow suit?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲觉得心脏又中了一箭。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220325T141230Z" creationid="sitong" creationdate="20220325T141230Z">
+        <seg>Eiffie felt as though she was shot in her heart once more.</seg>
       </tuv>
     </tu>
     <tu>
