@@ -6686,6 +6686,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“当然，当你用完这个酒窖里的酒时，希望你已经能够将你酿的泰坦酒装桶再次放入酒窖之中。”麦格看着有点出神的埃菲说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T143947Z" creationid="Longbell" creationdate="20220326T143947Z">
+        <seg>"Of course, I hope you could already fill this cellar with the Titan Liquor that you brewed after the Titan Liquor in this cellar is finished." Mag said to Eiffie, who was a little out of sorts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“很好，我喜欢。不过，我们要怎么做？”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -13122,6 +13130,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"What magic beast is this? Why have I never seen it before?" Irina was also rather curious.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这是你父亲留给你的财富，不是让你将他们全部留在酒窖中怀念的，而是应该让他们继续在酒的江湖中叱咤风云，就像当年你父亲做的那样。”麦格扯开门上挂着的老旧锁，轻轻推开了酒窖的大门。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T143904Z" creationid="Longbell" creationdate="20220326T143904Z">
+        <seg>"This is the wealth that your father left for you. He didn't mean for you to keep them all in the cellars to reminisce about him. Instead, you should continue to let them rule the world of liquor, just like what your father did before." Mag tore away the old lock on the door and gently pushed open the cellar's doors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20574,6 +20590,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲微微张着嘴巴，看着地上的封条，又是看看那扇酒窖大门。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T143846Z" creationid="Longbell" creationdate="20220326T143846Z">
+        <seg>Eiffie stared at the seal on the floor with her mouth slightly agape before looking at the doors of the cellar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲微微张着嘴，有些不可思议的看着麦格，难道这个家伙在偷偷观察她吗？</seg>
       </tuv>
       <tuv lang="en-US" changeid="jeremy" changedate="20220326T125519Z" creationid="jeremy" creationdate="20220326T125519Z">
@@ -20682,6 +20706,14 @@
       </tuv>
       <tuv lang="en-US" changeid="jeremy" changedate="20220326T125534Z" creationid="jeremy" creationdate="20220326T125534Z">
         <seg>Eiffie stared at Mag and hesitated for a moment before she nodded and said, "Please give me a minute."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲看着麦格，郑重点头道：“我会的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T144000Z" creationid="Longbell" creationdate="20220326T144000Z">
+        <seg>Eiffie looked at Mag and solemnly nodded, "I will."</seg>
       </tuv>
     </tu>
     <tu>
@@ -24946,6 +24978,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The faint liquor's aroma spread to the surroundings with Saipan Tavern as its center point.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>淡淡酒香伴着橡木桶的香味涌来，虽然在地底之下，但通风系统做的非常不错，历经数十年依旧没有陈腐的气息。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T143931Z" creationid="Longbell" creationdate="20220326T143924Z">
+        <seg>The faint fragrance of the oak barrels greeted their nose. Even though they were underground, the ventilation system was very well-done. There was no rotting smell even after decades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33482,6 +33522,15 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag said, "There were a few family murder cases last night in Rodu. The victims were all the generals related to this campaign against orcs and their families. The murder means were very cruel. In addition, the murderer set everything ablaze to end off. I suspect that this incident is related to Josh. He might have returned to Rodu."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格走入酒窖，伸手抚摸着橡木桶，提议道：“个人建议你用这个酒窖里的酒参加本届品酒大会，然后用这一批泰坦酒替代你的酒馆里现在卖的泰坦酒，小瓶灌装，提高酒的单价，让泰坦酒馆重新步入高端酒馆的行列。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T144510Z" creationid="Longbell" creationdate="20220326T144510Z">
+        <seg>Mag entered the cellar and reached out to touch the oak barrels. He suggested, "I personally suggest that you use the liquor in this cellar to take part in this year's liquor tasting and then use this batch of Titan Liquor to replace the Titan Liquor that you are selling in your tavern now. Put them in small bottles and increase their individual price to put Titan Tavern back into the realm of high-end of taverns."
+</seg>
       </tuv>
     </tu>
     <tu>
