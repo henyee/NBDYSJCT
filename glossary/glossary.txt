@@ -2851,3 +2851,4 @@ DVD	DVD
 金奖	gold award
 酒窖	cellar
 泰坦酒	Titan Liquor
+小丫鬟	little maid
