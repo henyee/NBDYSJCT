@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“事情真的不是这样子的啊！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T140123Z" creationid="Longbell" creationdate="20220326T140123Z">
+        <seg>"It's not what you think it is!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“亚伯罕公爵和这酒馆老板的关系肯定不一般！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -21686,6 +21694,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>完蛋鸟。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T140145Z" creationid="Longbell" creationdate="20220326T140132Z">
+        <seg>Oh crap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>实在是有些疲倦。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33306,6 +33322,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag was on the brink of tears. If he'd known, he would have subdued that demon the moment he opened the door, and there would not have been so much trouble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格觉得这下真是越抹越黑了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T140651Z" creationid="Longbell" creationdate="20220326T140651Z">
+        <seg>Mag felt it got worse as he tried to explain.</seg>
       </tuv>
     </tu>
     <tu>
