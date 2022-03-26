@@ -1430,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你也不想想，就算我有这贼心，可我有这贼胆吗？我敢吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T142814Z" creationid="Longbell" creationdate="20220326T142814Z">
+        <seg>"Why did it never cross your mind that I wouldn't dare to even if I had that intention?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你也少喝点吧，注意身体。”胖老板说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -1754,6 +1762,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Your eyes must be playing tricks on you, or did you have too much fun last night that you're too weak now?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你瞧瞧你这气生的，伤身就不值得了，我会心疼的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T141909Z" creationid="Longbell" creationdate="20220326T141909Z">
+        <seg>"Why are you getting angry? It's not worth it if you hurt your health. My heart will ache."</seg>
       </tuv>
     </tu>
     <tu>
