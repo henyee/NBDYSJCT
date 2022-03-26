@@ -3798,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“啊……她昨天晚上说房间里有老鼠，害怕所以跑到我房间里睡觉觉呢。”麦格连忙把门带上，笑着解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T182756Z" creationid="Longbell" creationdate="20220326T182756Z">
+        <seg>Mag quickly closed the door and smilingly explained, "Erm...she said there's a mouse in her room last night. She came to sleep in my room because she was afraid."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“啊……我……偶偶来吃。”卡诺表情一囧，麦米餐厅可不是他能经常消费的餐厅。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -16240,8 +16248,8 @@
       <tuv lang="zh-CN">
         <seg>不过艾米探着小脑袋往麦格的房间里瞧，一边道：“母亲大人没有在房间里呢，她昨天晚上是不是在你这里睡觉觉呢？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220326T182602Z" creationid="Longbell" creationdate="20220326T182602Z">
-        <seg>However, Amy poked her head into Mag's room to take a look as she said, "Mother isn't in her room. Did she come sleep with you?"</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T182610Z" creationid="Longbell" creationdate="20220326T182602Z">
+        <seg>However, Amy poked her head into Mag's room to take a look as she said, "Mother isn't in her room. Did she come sleep with you last night?"</seg>
       </tuv>
     </tu>
     <tu>
