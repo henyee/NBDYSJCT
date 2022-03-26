@@ -2847,3 +2847,5 @@ DVD	DVD
 金瓶梅	The Plum in the Golden Vase
 皮冻	frozen soup
 蟹黄灌汤包	crab roe soup dumpling
+品酒大会	liquor tasting
+金奖	gold award
