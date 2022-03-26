@@ -2849,3 +2849,5 @@ DVD	DVD
 蟹黄灌汤包	crab roe soup dumpling
 品酒大会	liquor tasting
 金奖	gold award
+酒窖	cellar
+泰坦酒	Titan Liquor
