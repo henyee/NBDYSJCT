@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“为什么？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T130812Z" creationid="Longbell" creationdate="20220326T130812Z">
+        <seg>"Why?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“主教大人，这家麦米餐厅就是我们的目的地，餐厅老板麦格先生……”卡诺带着希利来到麦米餐厅门口，这会已经到了饭点，门口已经排起了长队。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -1490,6 +1498,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Where did you go and have fun? You didn't even come back for dinner? You're getting all capable, aren't you?" A big woman stood at the door of an old house. When she saw Pasa staggering over, she raised her voice, and tightened her grip on the clog in her hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你只有十二酒窖的酒，而泰坦酒是需要窖藏来赋予灵魂的，没有一二十年的沉淀发酵，根本称不上好酒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T131004Z" creationid="Longbell" creationdate="20220326T130850Z">
+        <seg>"Because you only have 12 cellars of liquor and the Titan Liquor needs to age to give it its soul. Withoutu aging for 10 to 20 years, it cannot be considered as a good liquor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5880,8 +5896,8 @@
       <tuv lang="zh-CN">
         <seg>“对了，你还得每日限量销售，仅限在店饮用。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220326T130617Z" creationid="Longbell" creationdate="20220326T130617Z">
-        <seg>"Oh yes. You have to </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T130809Z" creationid="Longbell" creationdate="20220326T130617Z">
+        <seg>"Oh yes. You have to limit the number of bottles you sell daily and they could only be consumed within the tavern."</seg>
       </tuv>
     </tu>
     <tu>
