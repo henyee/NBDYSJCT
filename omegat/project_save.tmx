@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13816,8 +13816,8 @@
       <tuv lang="zh-CN">
         <seg>“那是十几二十年前的物价了，你要考虑通货膨胀的啊大姐，当年猪肉才五个铜币一斤呢，现在你在街上要是能找到二十铜币一斤的猪肉，那肯定是注水的。”麦格翻了个白眼。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220326T125428Z" creationid="Longbell" creationdate="20220326T124746Z">
-        <seg>"That was the price of commodities 20 years ago. You have to take inflation into consideration, Sister. The price of pork was only 5 copper coins per 500 grams back then, and if you can g</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T130235Z" creationid="Longbell" creationdate="20220326T124746Z">
+        <seg>"That was the price of commodities 20 years ago. You have to take inflation into consideration, Sister. The price of pork was only 5 copper coins per 500 grams back then, and if you can find pork that is priced at 20 copper coins per 500 grams now, you can be sure that it has problems." Mag rolled his eyes.</seg>
       </tuv>
     </tu>
     <tu>
