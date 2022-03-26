@@ -5878,6 +5878,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“对了，你还得每日限量销售，仅限在店饮用。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T130617Z" creationid="Longbell" creationdate="20220326T130617Z">
+        <seg>"Oh yes. You have to </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“对了，昨天我们套回来的两只大肥鹅还没有吃呢。”艾米突然想起了一件重要的事情，“要不我们晚上还是回家吃烤鹅吧。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27216,8 +27224,8 @@
       <tuv lang="zh-CN">
         <seg>而且，一个拿了品酒大会金奖的高端酒，竟然卖两百铜币一瓶。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220326T130526Z" creationid="Longbell" creationdate="20220326T130320Z">
-        <seg>Furthermore, how could a high-end liquor that won the liquor tasting's gold award sell for 200 copper coins per bottle?</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T130557Z" creationid="Longbell" creationdate="20220326T130320Z">
+        <seg>Furthermore, how could a high-end liquor that won the liquor tasting's gold award only sell for 200 copper coins per bottle?</seg>
       </tuv>
     </tu>
     <tu>
@@ -30226,6 +30234,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>If this owner has not learned from Boss Mag before, he is simply a genius!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这老板还真是实在的可爱。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T130605Z" creationid="Longbell" creationdate="20220326T130552Z">
+        <seg>This boss was really cute.</seg>
       </tuv>
     </tu>
     <tu>
