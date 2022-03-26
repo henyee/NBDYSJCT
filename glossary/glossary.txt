@@ -2852,3 +2852,4 @@ DVD	DVD
 酒窖	cellar
 泰坦酒	Titan Liquor
 小丫鬟	little maid
+小家伙	little one
