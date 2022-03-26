@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不是不是，我是说我在酒窖里坐着给她解释那蒸馏设备的原理和用法。”麦格连忙解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T135847Z" creationid="Longbell" creationdate="20220326T135847Z">
+        <seg>Mag quickly explained, "No, no. I meant I was working hard at explaining the principles and usage of the distillation equipment in the cellar."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“不是你想的那样的。”麦格连忙道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -3026,6 +3034,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Ha." Mag laughed disrespectfully.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“呵呵。”伊琳娜冷冷一笑，“做久了当然会腰酸，所以我应该要体谅一下你吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220326T135630Z" creationid="Longbell" creationdate="20220326T135508Z">
+        <seg>"Hoho." Irina sneered. "Of course, it would hurt after you 'worked' for a long time. Should I be considerate towards you?"</seg>
       </tuv>
     </tu>
     <tu>
