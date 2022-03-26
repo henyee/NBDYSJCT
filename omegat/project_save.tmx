@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你父亲是一位优秀的酿酒师，以及一位有想法的设计师。”麦格合上册子，看着埃菲认真的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125553Z" creationid="jeremy" creationdate="20220326T125553Z">
+        <seg>Mag closed the booklet and seriously said to Eiffie, "Your father was an outstanding brewer and a designer who was very imaginative."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你的酒馆不开门吗？”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -2278,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“别误会，我不是馋你的酒谱，我是想根据你的酿酒方法给你定制一套蒸馏设备，一步到位，尽量减少操作可能带来的影响。”麦格解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125532Z" creationid="jeremy" creationdate="20220326T125532Z">
+        <seg>"Don't be mistaken. I'm not after your brewing manual. I simply want to custom make a set of distillation equipment for you according to your brewing methods. We will settle everything at one go and minimize any operational mistakes." Mag explained.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“别说小姑娘了，那圆滚滚的东西也惹不起。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -2826,6 +2842,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"But I want to learn." Amy reached her hand out, grabbed two of Mag's fingers and swayed them from side to side as she peladed, "I want to learn a simple dish too. That way, I can make it for everyone."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“可是父亲当年酿酒也是这样的……”埃菲皱眉道，可她小时候进酒窖，明明看到父亲酿酒时也是蒸汽缭绕的模样。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125512Z" creationid="jeremy" creationdate="20220326T125512Z">
+        <seg>"But that was how Father brewed the liquor back then..." Eiffie said with a frown. She had seen how her father was surrounded by steam during brewing when she entered the cellar as a young girl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5598,6 +5622,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“如果我父亲听到你的称赞，他一定会非常开心。”埃菲的脸上终于露出了笑容，颇为骄傲的说道：“这个酒坊，以及整个酒馆和地下酒窖，全部都是他一手设计的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125555Z" creationid="jeremy" creationdate="20220326T125555Z">
+        <seg>"My father would be very happy if he could hear your praises." A smile appeared on Eiffie's face and she proudly said, "This brewery, the whole tavern and this underground cellar were all designed by him."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“如果有什么需要帮助的，尽管和我说，我会力所能及的提供帮助。”麦格点点头道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -7482,6 +7514,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I have no brothers," Mag quickly clarified when he saw the half-tipsy, half-vengeful Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我的茅台酒和你这泰坦酒的酿造工艺有相似之处，所以我能看出你这套装置的问题。当然，你的酿造工艺上也可能有问题，不过我没有看过你酿酒，不好说。”麦格解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125522Z" creationid="jeremy" creationdate="20220326T125522Z">
+        <seg>"My Maotai's brewing process is similar to your Titan Liquor's, that's why I can pinpoint the problems with your equipment. Of course, there might also be a problem with your brewing techniques, but I can't say much as I haven't seen how you distill your liquor." Mag explained.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11886,6 +11926,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“费用就不必了，就当是埃菲小姐告知我品酒大会的消息的回报吧。”麦格笑着摇了摇头，取出卷尺量了一下这个酿酒坊的各项尺寸，站在一旁思考了一会，又是看着埃菲道：“不知可否看看埃菲小姐的酿酒册？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125527Z" creationid="jeremy" creationdate="20220326T125527Z">
+        <seg>"There's no need for a fee. Just take it as the reciprocation for Miss Eiffie telling me about the liquor tasting." Mag shook his head smilingly. He took out the measuring tape to measure the dimensions of this brewery. After standing there and pondered for a while, he said to Eiffie, "May I see Miss Eiffie's brewing manual?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“走了。”麦格拍了一下阿紫的背，阿紫腾空而起，向着混乱之城的方向飞去，而麦格则闭上了眼睛开始休息。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -12226,6 +12274,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"This…" Abraham couldn't close his mouth for a long time after hearing the news that his butler reported to him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这……”埃菲面露犹豫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125529Z" creationid="jeremy" creationdate="20220326T125529Z">
+        <seg>"This..." Hesitation appeared on Eiffie's face.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12682,6 +12738,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T070213Z" creationid="sitong" creationdate="20220325T070204Z">
         <seg>"This is probably the peak of the crab roe soup dumpling,{" Mag could not help but praise himself. It was indeed the soup dumpling that he had failed countless of times for.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这套设备老化太严重了，而且本身的产出效率很低，你的使用方法也有问题，蒸馏酒的精华便在那云雾之中，你却让他们白白逃走了，所以酿出来的酒才会味淡如水。”麦格看着埃菲，道：“如果我没有猜错的话，你酿酒的产出率极低，所以在调配的时候只能增加水的用量，进一步拉低了酒的品质。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125516Z" creationid="jeremy" creationdate="20220326T125516Z">
+        <seg>"This set of equipment is too old and its productivity is already low to begin with. There is also something wrong with the way you use it. The essence of the distilled spirits is in that steam, and yet you let them escape. That's why the liquor you brewed is tasteless like water." Mag looked at Eiffie and said, "If I have guessed correctly, your distillation output is extremely low, so you have to increase the water usage during the mixing and that further decreases the liquor's quality."</seg>
       </tuv>
     </tu>
     <tu>
@@ -14030,6 +14094,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“酿酒步骤记载的非常详细，想必埃菲小姐这些年也已经手法纯熟，但你的酿酒坊该推翻重建了。”麦格看着埃菲的眼睛：“你应该开启属于你的时代，而不只是守着他留下的荣耀。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125558Z" creationid="jeremy" creationdate="20220326T125558Z">
+        <seg>"The steps of the brewing process were very  well-documented. I believe Miss Eiffie is already familiar with it, but your brewery needs to be torn down and rebuilt." Mag looked into Eiffie's eyes and said, "You start your own era and not defend the glory that your father left behind."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“醒了？”房间门被打开，麦格站在门口，看着坐在地上的伊琳娜微笑着问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -14838,6 +14910,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一套用了三十四年的蒸馏设备，哪怕是不锈钢，也早该报废了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125459Z" creationid="jeremy" creationdate="20220326T125459Z">
+        <seg>A set of distilling equipment that had been used for 34 years should have been scraped even if it was made of stainless steel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一定是系统坏掉了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -15178,6 +15258,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>In no time at all, Mag came out with a small tray. There were drunkard peanuts, pig ears salad, and pig tongue salad, as well as a shot glass.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不一会，埃菲拿着一本泛黄的小册子回来，郑重的递给了麦格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125537Z" creationid="jeremy" creationdate="20220326T125537Z">
+        <seg>Shortly after, Eiffie returned with a yellowed booklet and passed it to Mag solemnly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19350,6 +19438,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>可酿酒的设备不是这样的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125457Z" creationid="jeremy" creationdate="20220326T125457Z">
+        <seg>However, that didn't apply to the brewing equipment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>台下再次一阵欢呼。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T151749Z" creationid="sitong" creationdate="20220321T151749Z">
@@ -19618,6 +19714,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After a brief interaction with the neighbors, Mag and his family quickly left.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>和麦格猜想的差不多，泰坦酒的酿造方法和白兰地接近，里边详细记载了酿这道酒要用到的各种材料和配方，包括酿造的各种详细步骤，只是在酿造器械的使用上交代的比较简略。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125544Z" creationid="jeremy" creationdate="20220326T125544Z">
+        <seg>It was almost as Mag guessed, the Titan Liquor's brewing method was similar to the brandy's brewing method. All the ingredients and formulae that were needed to brew this liquor were recorded in the manual, including all the procedures in detail. However, the details on how to operate the brewing machine was minimal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20078,6 +20182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>在最后边，还有两幅未完成的草图，真是他对于蒸馏设施的改良设想。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125551Z" creationid="jeremy" creationdate="20220326T125551Z">
+        <seg>Finally, there were two incomplete drawings of his modification on the distillation apparatus at the end. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>在毛线游戏上没什么天赋的艾米，遇上了毫无天赋的诺亚，终于找到了这个游戏的乐趣。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -20190,6 +20302,22 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲微微张着嘴，有些不可思议的看着麦格，难道这个家伙在偷偷观察她吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125519Z" creationid="jeremy" creationdate="20220326T125519Z">
+        <seg>Eiffie stared at Mag with disbelief and an open mouth. Did this fellow observe her secretly?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲恍然，伸手轻轻抚摸着那台老旧的蒸馏设备，过了许久像是下定了决心，回头看着麦格恳切道：“哈迪斯先生，可否请求您帮我改进这套设备，我愿意支付您一笔合适的费用。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125524Z" creationid="jeremy" creationdate="20220326T125524Z">
+        <seg>Eiffie finally understood. She reached out to caress that old distillation equipment. After a long time and seemingly set her mind to it, she turned around and sincerely said to Mag, "Mr. Hades, can I ask you to modify this equipment for me? I am willing to pay you an appropriate fee."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲愣了好一会，突然一个激灵回过神来，一下收回了自己伸到一半的手，就差打了个立正，露出了一个尴尬而不失礼貌的笑容，“啊哈哈……我是对面酒馆的老板娘，特意来和哈迪斯先生你们一家打个招呼，刚刚和客人们喝了不少酒，有点醉了，差点摔了一跤，还好哈迪斯先生出手扶了我一把，你们好啊。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -20230,6 +20358,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲沉默了一会，神情郑重的点了点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125600Z" creationid="jeremy" creationdate="20220326T125600Z">
+        <seg>Eiffie was quiet for a moment before nodding with a solemn expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲没有理会她，双手捧着酒瓶走到桌前，看着麦格道：“哈迪斯先生，请品一品这瓶。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T160425Z" creationid="sitong" creationdate="20220325T160425Z">
@@ -20246,6 +20382,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲的父亲那时正值壮年，或许还没有考虑传承的问题，自己了然于胸的操作自然不需要累赘记载。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125546Z" creationid="jeremy" creationdate="20220326T125546Z">
+        <seg>Eiffie's father was at the prime of his life then, so he didn't consider the issue of passing on his legacy. The operation which he knew very well naturally didn't need to be recorded in detail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲的脸上终于露出了笑容，微微昂起下巴，骄傲道：“这是泰坦酒。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220326T101952Z" creationid="sitong" creationdate="20220326T101952Z">
@@ -20258,6 +20402,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Eiffie stared at Mag, who had a confident smile on his face, with a frozen expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲看着麦格犹豫了一会，还是点了点头道：“请稍等。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125534Z" creationid="jeremy" creationdate="20220326T125534Z">
+        <seg>Eiffie stared at Mag and hesitated for a moment before she nodded and said, "Please give me a minute."</seg>
       </tuv>
     </tu>
     <tu>
@@ -21938,6 +22090,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Fruit wine had even less alcohol content than beer. Therefore, Bobby and Irina would be drunk before even drinking much of Maotai, which had high alcohol content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>年代感十足的小册子，牛皮纸的封皮已经被磨破，但依旧非常干净，看得出埃菲的珍重。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125539Z" creationid="jeremy" creationdate="20220326T125539Z">
+        <seg>The booklet looked old. Its kraft paper cover was already torn, but it was still very clean. It was obvious that Eiffie treasured it very much.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24254,6 +24414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>泰坦酒历久弥香，越是陈酿，越是迷人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125455Z" creationid="jeremy" creationdate="20220326T125455Z">
+        <seg>The Titan Liquor aged with time. The older it was, the more mesmerizing it got.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>泰坦酒馆也刚刚关门歇业，对着的那扇窗户关着，但里边亮着灯，偶偶还能看到人影走过，应该是老板娘的闺房。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T162317Z" creationid="sitong" creationdate="20220321T162317Z">
@@ -26102,6 +26270,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千零六十二章 隐藏的富婆</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125449Z" creationid="jeremy" creationdate="20220326T125449Z">
+        <seg>Chapter 2062: Hidden Rich Woman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千零六十章 酒是好酒</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T115847Z" creationid="sitong" creationdate="20220325T115847Z">
@@ -26702,6 +26878,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>翻开小册子，麦格很快找到了泰坦酒的酿酒方法记录。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125541Z" creationid="jeremy" creationdate="20220326T125541Z">
+        <seg>Flipping open the little booklet, Mag soon found the records of the Titan Liquor's brewing method.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>老板从门口的书架上拿起一本画本，笑着道：“骑士画本还是我们店里的主打啊，小朋友爱看的骑士打败魔王的故事，姑娘爱看的骑士打败魔王英雄救美的故事，男人爱看的骑士打败魔王英雄救美之后的故事……”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26990,6 +27174,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而且这套蒸馏设备的设计其实缺陷非常多，转化效率低下，操作还非常复杂，如果不是这套设备的设计者，或者没有经过专业的训练，很难掌控。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125506Z" creationid="jeremy" creationdate="20220326T125506Z">
+        <seg>Furthermore, the design of this distillation equipment actually had a lot of defects. The conversion efficiency was low and the operation was very complicated. If the person wasn't this distillation equipment's designer, or hadn't gone through professional training, it would be very difficult to control it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而且都是品质极高的食材。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27274,6 +27466,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Merante had dripped Annie's blood essence into the septaria oracle during the journey. The thin red lines on the septaria oracle changed to gold. The closer they got to the Twilight Forest, the more the golden light sparkled like the starry sky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而正是这个缘故，让毫无酿酒基础的埃菲的酿酒师之路变得十分坎坷。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125548Z" creationid="jeremy" creationdate="20220326T125548Z">
+        <seg>And because of that, it made the path in becoming a brewer for Eiffie, who had no experience in brewing at all, very difficult.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28606,6 +28806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>说实话，比汉娜那一套差多了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125508Z" creationid="jeremy" creationdate="20220326T125508Z">
+        <seg>Frankly speaking, it was much worse than Hannah's set.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>说实话，第一眼看到这两道菜，他便想到了麦米餐厅，想到了同样颜色红亮的凉拌菜：夫妻肺片。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -29498,6 +29706,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This baddie system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这套蒸馏设备无法形成一个封闭的蒸馏空间，意味着蒸馏过程中有许多酒液是直接跑调的，而且和空气的过分接触，也导致了酒液的纯度极大降低。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125502Z" creationid="jeremy" creationdate="20220326T125502Z">
+        <seg>This distillation equipment couldn't form a sealed distillating space. This meant a lot of liquor had escaped during the distillation process and the exceeding interaction with air caused the liquor's purity to greatly decrease.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31782,6 +31998,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格微笑道：“我会给你画好酒坊的设计图纸，蒸馏设备的图纸我也会给你画出来，你可以找几家不同的铁匠铺打制零件，到时候我来拼装。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125602Z" creationid="jeremy" creationdate="20220326T125602Z">
+        <seg>Mag smilingly said, "I will draw the brewery's design and the distillation equipment's blueprints for you. You can get a few blacksmiths to build the spare parts and I will come to assemble them for you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格心里顿时暖暖的，这就是信任啊。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32730,6 +32954,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag filled up Pasa's glass once again. However, he did not clink glasses with him again. This was not beer. If they drank one cup after another, this leftover wine would be gone in no time, and he would not know what to do if this fellow got drunk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格给汉娜的朗姆酒工厂设计了全套的设备，自然能够一眼看出这套设备的缺陷。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="jeremy" changedate="20220326T125510Z" creationid="jeremy" creationdate="20220326T125510Z">
+        <seg>Mag had designed the entire set of equipment for Hannah's rum brewery, so naturally he could see the defects in this set of equipment.</seg>
       </tuv>
     </tu>
     <tu>
