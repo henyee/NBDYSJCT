@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你就喝那个？”伊琳娜看了眼麦格的那碗豆浆。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T115915Z" creationid="Longbell" creationdate="20220327T115915Z">
+        <seg>"You're drinking that?" Irina looked at Mag's soybean milk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你就是当老板娘的命，跑堂这种活让你来做，实在太大材小用了。”麦格一脸认真道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -7370,6 +7378,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I'm happy too," Mag said, likewise with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我也得好好补补。”麦格深以为然的点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T120027Z" creationid="Longbell" creationdate="20220327T120027Z">
+        <seg>"I deserved some nourishment too." Mag nodded thoughfully.</seg>
       </tuv>
     </tu>
     <tu>
