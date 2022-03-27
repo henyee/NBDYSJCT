@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21942,6 +21942,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>好在双方的战力完全不在一个水平线上，所以没有表现出旗鼓相当和争锋相对的势头，以埃菲的快速落败告终。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T131907Z" creationid="sitong" creationdate="20220327T131907Z">
+        <seg>Thankfully, they were not on the same level. Therefore, it was not very competitive and Eiffie quickly ended in defeat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>好在楼上还有一位超级医疗兵，只是现在正处于醉酒状态，他也不太确定能否把她唤醒。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26982,6 +26990,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>神仙打架，殃及池鱼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T130545Z" creationid="sitong" creationdate="20220327T130545Z">
+        <seg>When the elephants fight, the grass gets trampled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>种族战争之后，洛斯帝国在废墟和荒地之中建起了这座大城，七横八纵的笔直大道将整座城分为数十个大小相同的坊市，而皇宫则位于整座城市的中央，格局和唐代的长安有些类似。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27602,6 +27618,14 @@
       </tuv>
       <tuv lang="en-US" changeid="jeremy" changedate="20220326T125449Z" creationid="jeremy" creationdate="20220326T125449Z">
         <seg>Chapter 2062: Hidden Rich Woman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千零六十六章 妇女之友</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T130454Z" creationid="sitong" creationdate="20220327T130454Z">
+        <seg>Chapter 2066: Friends Of Women</seg>
       </tuv>
     </tu>
     <tu>
@@ -34674,6 +34698,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag was on the brink of tears. If he'd known, he would have subdued that demon the moment he opened the door, and there would not have been so much trouble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格觉得自己就是一条无辜的小鱼儿。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T130557Z" creationid="sitong" creationdate="20220327T130557Z">
+        <seg>Mag felt as though he was an innocent blade of grass.</seg>
       </tuv>
     </tu>
     <tu>
