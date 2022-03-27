@@ -7392,8 +7392,8 @@
       <tuv lang="zh-CN">
         <seg>“我也得好好补补。”麦格深以为然的点头。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220327T120027Z" creationid="Longbell" creationdate="20220327T120027Z">
-        <seg>"I deserved some nourishment too." Mag nodded thoughfully.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T124527Z" creationid="Longbell" creationdate="20220327T120027Z">
+        <seg>"I deserved some nourishment too." Mag nodded in agreement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8850,6 +8850,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Yes. He is rather talented in certain aspects." Mag nodded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是啊，她有着一双令所有漫画家羡慕的手。”麦格深以为然点头，或许这就是点了触手怪天赋的漫画家吧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T124644Z" creationid="Longbell" creationdate="20220327T124515Z">
+        <seg>"Yes. She has a pair of hands that are envied by every comic artists." Mag nodded in agreement. Perhaps, this was a comic artist that had the tentacle monster's natural talent.</seg>
       </tuv>
     </tu>
     <tu>
