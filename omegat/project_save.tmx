@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34274,6 +34274,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag stood at the door and looked in. It was a two-story building; it was tall enough, and it had some space between it and the shops at its side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格端了一碗十全大补的鸡汤放在伊琳娜面前，笑着道：“特意给你炖的，放了些生命之水，好好补补。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T115856Z" creationid="Longbell" creationdate="20220327T115856Z">
+        <seg>Mag placed a bowl of "Ten Essence Herbal Soup" in front of Irina and smilingly said, "I brewed this specially for you. I had put in some in some Spring of Life. You deserved some nourishment."</seg>
       </tuv>
     </tu>
     <tu>
