@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13366,6 +13366,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是我父亲酿的酒，三十多年前酿的。”埃菲平静的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T103039Z" creationid="sitong" creationdate="20220327T103039Z">
+        <seg>"This is the wine my father brewed more than 30 years ago," Eiffie said calmly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是我的事，我不需要他为我做什么，虽然他已经做的足够多。”伊琳娜平静道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -14214,6 +14222,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“那是我家小姐酿的酒！怎么会是假酒。”小丫鬟插嘴道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T102938Z" creationid="sitong" creationdate="20220327T102938Z">
+        <seg>"That's the wine our Young Mistress made! How could it be fake wine?" the servant maid at the side interrupted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“那是自然。”伊琳娜嘴角微翘，显然非常受用。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -14330,6 +14346,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"In that case, what would these cucumber be used for?" Amy asked, puzzled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那这？”麦格看着埃菲手里抱着的酒瓶。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T102952Z" creationid="sitong" creationdate="20220327T102952Z">
+        <seg>"This?" Mag looked at the wine bottle Eiffie was holding in her arms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21030,6 +21054,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲的表情顿时一僵。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T102914Z" creationid="sitong" creationdate="20220327T102914Z">
+        <seg>Eiffie froze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲看着脸上洋溢着自信微笑的麦格，表情微凝。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -21058,6 +21090,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T144000Z" creationid="Longbell" creationdate="20220326T144000Z">
         <seg>Eiffie looked at Mag and solemnly nodded, "I will."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲秀气的眉毛微微上挑，竟是忍不住想生气？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T103445Z" creationid="sitong" creationdate="20220327T103445Z">
+        <seg>Eiffie raised her beautiful brows and actually felt like blowing her top?</seg>
       </tuv>
     </tu>
     <tu>
@@ -33634,6 +33674,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T130217Z" creationid="sitong" creationdate="20220325T130132Z">
         <seg>Miss saw the seriousness in Eiffie's pleading eyes and hesitated. In the end, he nodded and said, "Actually, I'm not very knowledgeable about wine brewing but if you trust me, I can give it a try."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格看着埃菲沉默了一会，安慰道：“没关系，不是每一个人都能做到子承父业的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T103119Z" creationid="sitong" creationdate="20220327T103119Z">
+        <seg>Mag glanced at Eiffie and fell silent for a while. After that, he consoled, "It's alright. Not everyone could take over their father's business."</seg>
       </tuv>
     </tu>
     <tu>
