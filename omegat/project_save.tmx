@@ -20406,6 +20406,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>吃过早餐，麦格把碗筷收拾了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T121923Z" creationid="Longbell" creationdate="20220327T121923Z">
+        <seg>Mag cleaned up the table after breakfast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>吃过早餐，麦格给梅兰特和诺亚爷俩送了份早餐，一家人便又出门游玩去了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24618,6 +24626,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The news of the great general's residence being burnt down and Great General Blum being  assassinated last night had already spread in the city of Rodu. It became one of the people's hot after-meal discussion topics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>昨晚操劳过度，今天的一切外出活动取消，只想在家里安心休养一日。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T122900Z" creationid="Longbell" creationdate="20220327T122900Z">
+        <seg>He worked too hard last night so all outdoor activities were cancelled today. He only wanted to recuperate at home.</seg>
       </tuv>
     </tu>
     <tu>
