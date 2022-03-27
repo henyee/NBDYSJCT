@@ -12366,6 +12366,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“请小主按照系统任务去完成，一切解释归系统所有。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T145827Z" creationid="sitong" creationdate="20220327T145816Z">
+        <seg>"Please complete the System's mission. The System would reserve all rights for final explanations."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“请慢用。”麦格将威士忌放下。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -12938,6 +12946,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T103921Z" creationid="sitong" creationdate="20220327T103921Z">
         <seg>"Go on?" Mag looked at her innocently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T145843Z" creationid="sitong" creationdate="20220327T145843Z">
+        <seg>"Er..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -14282,6 +14298,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Have a good rest, then. It must be very tiring on your first day moving in. See you tomorrow." Eiffie pretended that she did not understand what Irina was implying, and turned to leave, even closing the door behind her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那你倒是解释啊。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T145834Z" creationid="sitong" creationdate="20220327T145823Z">
+        <seg>"So explain it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -19794,6 +19818,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Garlan sighed and shook his head. "What do we normal people know? However, I've heard that dozens of orc tribes were massacred by us. This is most likely not going to end well. Let's pray for ourselves."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>加兰和迈洛看着大门紧闭的麦米餐厅，都有些傻眼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T150947Z" creationid="sitong" creationdate="20220327T150947Z">
+        <seg>Garlan and Mylo looked at the tightly shut door of Mamy Restaurant in shock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28106,6 +28138,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220322T053518Z" creationid="sitong" creationdate="20220322T053518Z">
         <seg>System: "???"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>系统：……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T145839Z" creationid="sitong" creationdate="20220327T145839Z">
+        <seg>System: ...</seg>
       </tuv>
     </tu>
     <tu>
