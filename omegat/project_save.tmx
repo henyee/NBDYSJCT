@@ -15734,6 +15734,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一进酿酒坊，最引人瞩目的当属位于正中央的蒸馏装置。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T112208Z" creationid="sitong" creationdate="20220327T112208Z">
+        <seg>The moment one entered the brewery, the thing that stood out the more was the distillation unit right in the centre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一进门，酒香的确诱人。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26826,6 +26834,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>In the empty tavern, there was a bottle of wine, a plate of peanuts, two shot glasses, and a crying man.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>空气中飘荡着淡淡的酒香，一旁还有一个小酒窖。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220327T112754Z" creationid="sitong" creationdate="20220327T112754Z">
+        <seg>There was a faint wine fragrance in the air and there was a little cellar at the side.</seg>
       </tuv>
     </tu>
     <tu>
