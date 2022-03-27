@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“可是工厂那边没有人会用。”伊琳娜摇头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T125055Z" creationid="Longbell" creationdate="20220327T125055Z">
+        <seg>"But nobody at the factory knows how to use it." Irina shook her head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“可是我想学呢。”艾米伸手抓住了麦格的两根手指，轻轻晃着，央求道：“我也想学一个简单的菜呢，这样下次就可以做给大家吃了。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -10034,6 +10042,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It's alright, I can settle the cashier's role." Irina waved her hand calmly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没关系，等过两天我自己回去操作。”麦格也不放心让别人操作，那可是核动力的印刷机，要是操作失误自爆了，那混乱之城可就真是核平了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T125305Z" creationid="Longbell" creationdate="20220327T125305Z">
+        <seg>"It's fine.I'll return to operate it myself two days later." Mag wasn't going to let someone else operate it either. That was a nuclear-powered printing machine. If it exploded due to mishandling, Chaos City would be completely leveled.</seg>
       </tuv>
     </tu>
     <tu>
