@@ -2855,3 +2855,5 @@ DVD	DVD
 小家伙	little one
 玛拉	Mala
 画本	picture book
+核动力	nuclear-powered
+印刷机	printing machine
