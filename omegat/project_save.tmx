@@ -4502,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“嗯，等零件到了，我会帮你组装调试的，使用的方法也要现场教你才行。”麦格点点头，埃菲毕竟不是汉娜，对于机械一无所知。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220328T092805Z" creationid="Longbell" creationdate="20220328T092805Z">
+        <seg>"Alright, I will hep you assemble the spare parts once they are ready. I have to teach you how to use it on the spot too." Mag nodded. Eiffie wasn't Hannah. She had no idea about machinery at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“嗯，起来吃早饭吧，煮了些粥。”麦格有些宠溺的看着她。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -7586,6 +7594,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I agree too. The orcs are currently split into two groups. The pro-peace group is stronger than us now. We might not be able to defeat the dwarves and goblins. What do we have to fight with the Roth Empire?" another chief quickly chimed in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我今天早上已经把图纸给了三位老铁匠，三天内应该就能出成品，到时候还要劳烦哈迪斯先生帮忙组装呢。”埃菲看着麦格说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220328T092310Z" creationid="Longbell" creationdate="20220328T092310Z">
+        <seg>Eiffie said to Mag, "I have passed the blueprint to three old blacksmiths this morning. The end products should be ready in three days time. I will have to bother Mr. Hades to help me assemble them then."</seg>
       </tuv>
     </tu>
     <tu>
@@ -12712,8 +12728,8 @@
       <tuv lang="zh-CN">
         <seg>“谢谢。”埃菲甜甜的说道，双手捧着茶杯，暖着手。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220328T092100Z" creationid="Longbell" creationdate="20220328T092100Z">
-        <seg>"Thank you."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220328T092142Z" creationid="Longbell" creationdate="20220328T092100Z">
+        <seg>"Thank you." Eiffie said sweetly. She held the teacup with both her hands to warm them up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34314,6 +34330,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag nodded slightly, and said, "Seems like we are basically sure that it was Josh who did this. Chaos City is investigating the ministry of defense right now. He should have gone over Andre to start this war so that he could absorb the resentment of those innocent people who were massacred."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格微微点头，重新坐下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220328T092159Z" creationid="Longbell" creationdate="20220328T092159Z">
+        <seg>Mag nodded and sat down again.</seg>
       </tuv>
     </tu>
     <tu>
