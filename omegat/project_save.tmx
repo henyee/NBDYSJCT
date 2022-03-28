@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1248,8 +1248,8 @@
       <tuv lang="zh-CN">
         <seg>“他要是有这贼胆，早就先摸上我的床了，还轮得到外面的小婊砸？呵，男人。”伊琳娜放下笔，合上日记本。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220326T150422Z" creationid="Longbell" creationdate="20220326T150422Z">
-        <seg>"He would have climb into my bed if he has the guts. Why will the little b*tches out there ever stand a chance?" Ha, men." Irina put down her pen and closed the diary.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T130533Z" creationid="Longbell" creationdate="20220326T150422Z">
+        <seg>"He would have climbed into my bed if he has the guts. Why will the little b*tches out there ever stand a chance?" Ha, men." Irina put down her pen and closed the diary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21854,6 +21854,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲站在门外，手里提着一个小篮子，裹紧了自己的小棉马甲，天气还是那么冷，这个该死的冬天显得格外漫长。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220328T063225Z" creationid="Longbell" creationdate="20220328T063225Z">
+        <seg>Eiffie was standing at the door with a small basket. She pulled her cotton vest tighter. The weather was still so cold. This damn winter seemed especially long.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲翻了个白眼道：“别人敢一瓶酒卖两千铜币，那是因为人家的酒的确好，我们拿头跟啊？”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -23946,6 +23954,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Of course, he would kneel down even quicker if he knew that the archbishop of the Holy See was currently searching for her everywhere to get her to be their holy maiden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，要是她里边不是穿着裙子，应该不会像现在这样冷。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220328T063650Z" creationid="Longbell" creationdate="20220328T063650Z">
+        <seg>Of course, she wouldn't be feeling so cold if it wasn't for the fact that she was wearing a dress.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34928,8 +34944,8 @@
       <tuv lang="zh-CN">
         <seg>麦格端了一碗十全大补的鸡汤放在伊琳娜面前，笑着道：“特意给你炖的，放了些生命之水，好好补补。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220327T115856Z" creationid="Longbell" creationdate="20220327T115856Z">
-        <seg>Mag placed a bowl of "Ten Essence Herbal Soup" in front of Irina and smilingly said, "I brewed this specially for you. I had put in some in some Spring of Life. You deserved some nourishment."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220327T130606Z" creationid="Longbell" creationdate="20220327T115856Z">
+        <seg>Mag placed a bowl of "Ten Essence Herbal Soup" in front of Irina and smilingly said, "I brewed this specially for you. I have put in some Spring of Life. You deserved some nourishment."</seg>
       </tuv>
     </tu>
     <tu>
