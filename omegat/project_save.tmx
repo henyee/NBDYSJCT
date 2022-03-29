@@ -15774,6 +15774,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>「中心区封印因年代久远磨损失效，克苏鲁上半截躯体曾突破封印成功。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T060627Z" creationid="sitong" creationdate="20220329T060627Z">
+        <seg>[Central region's seal had lost its effects due to the passing of time. Cthulhu's top half had succeeded in breaking out of the seal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>「天空岛下方封印点封印被外力破除，克苏鲁下半截躯体消失。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T060103Z" creationid="sitong" creationdate="20220329T060103Z">
@@ -17946,6 +17954,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T054235Z" creationid="sitong" creationdate="20220329T054235Z">
         <seg>Situation Evaluation: Do Not Intervene!]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>事件评估：第一序列事件！已上报！将立刻追踪克苏鲁下落，将其重新封印！」</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T060534Z" creationid="sitong" creationdate="20220329T060534Z">
+        <seg>Situation Evaluation: Category 1 Incident! Already Reported! To Trace Cthulhu Down Immediately And Reseal It!]</seg>
       </tuv>
     </tu>
     <tu>
