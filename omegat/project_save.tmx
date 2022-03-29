@@ -15782,6 +15782,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>「在距离中心区封印三十里处的一座未记载大城市中，发现了克苏鲁的部分躯体，不可思议的是它们被加工之后，作为食材进行贩卖，被普通新住民购买之后进行烹饪和食用。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061633Z" creationid="sitong" creationdate="20220329T061633Z">
+        <seg>[Part of Cthulhu's body was found in an undocumented big city about 15 km away from the central seal region. The incredible thing was that it could was sold as an ingredient after it was being processed and had been bought by the new inhabitants to be cooked and eaten. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>「天空岛下方封印点封印被外力破除，克苏鲁下半截躯体消失。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T060103Z" creationid="sitong" creationdate="20220329T060103Z">
@@ -17944,16 +17952,16 @@
       <tuv lang="zh-CN">
         <seg>事件评估：前往克苏鲁封印点查探！」</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220329T054526Z" creationid="sitong" creationdate="20220329T054526Z">
-        <seg>Situation Evaluation: Proceed To Cthulhu's Seal Point For In-Depth Investigation!]</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061311Z" creationid="sitong" creationdate="20220329T054526Z">
+        <seg>Situation Evaluation: Proceed to Cthulhu's seal point for in-depth investigation!]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="zh-CN">
         <seg>事件评估：可不进行干预！」</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220329T054235Z" creationid="sitong" creationdate="20220329T054235Z">
-        <seg>Situation Evaluation: Do Not Intervene!]</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061248Z" creationid="sitong" creationdate="20220329T054235Z">
+        <seg>Situation Evaluation: Do not intervene!]</seg>
       </tuv>
     </tu>
     <tu>
@@ -17968,8 +17976,8 @@
       <tuv lang="zh-CN">
         <seg>事件评估：第一序列事件！已上报！将立刻追踪克苏鲁下落，将其重新封印！」</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220329T060534Z" creationid="sitong" creationdate="20220329T060534Z">
-        <seg>Situation Evaluation: Category 1 Incident! Already Reported! To Trace Cthulhu Down Immediately And Reseal It!]</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061332Z" creationid="sitong" creationdate="20220329T060534Z">
+        <seg>Situation Evaluation: Category 1 incident! Already reported! To trace Cthulhu down immediately and reseal it!]</seg>
       </tuv>
     </tu>
     <tu>
@@ -23566,6 +23574,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>将对神秘强者继续追踪，如出现限制级强者将上报！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061357Z" creationid="sitong" creationdate="20220329T061357Z">
+        <seg>Continue tracing mysterious powerhouse. Report if off-limit powerhouse appears!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>将思绪收回，麦格认真思考了一会关于印刷机的制造方案。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220322T035452Z" creationid="sitong" creationdate="20220321T162824Z">
@@ -25354,6 +25370,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Auster, who had lost an arm, furrowed his brows deeply. "What can we do?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>新住民已发现克苏鲁的存在，理解程度正在评估中……」</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061439Z" creationid="sitong" creationdate="20220329T061439Z">
+        <seg>New inhabitants had discovered the existence of Cthulhu. Extent of understanding under evaluation...]</seg>
       </tuv>
     </tu>
     <tu>
