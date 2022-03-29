@@ -21910,6 +21910,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>在这座城市中还发现了一个名为‘蒸汽机’的机械，利用煤炭燃烧获取蒸汽推动活塞运动转化为动能，从而获得一种稳定而可控的动能，以此作为交通工具、生产的重要动能。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T062028Z" creationid="sitong" creationdate="20220329T062028Z">
+        <seg>A machine known as "Steam engine" was also found in this city. It produces kinetic energy by using the steam produced by burning coal to push the piston, thereby obtaining a stable and controllable form of kinetic energy to be used for transportation and production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>在这条落寞的小街上，一家新开的小酒馆里，他竟然吃到了能够与麦米餐厅媲美的美食！</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32354,6 +32362,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This ring had a GPS tracking function and a crisis status alert function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这或许可以作为古大陆住民跨入蒸汽时代的标志，按照应用情况，蒸汽机应该很快便会在诺兰大陆上普及应用，推动社会变革！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T062139Z" creationid="sitong" creationdate="20220329T062139Z">
+        <seg>This could be the sign of the ancient continent moving into the steam engine era. According to usage situation, the steam engine should be able to gain wide usage on Norland Continent and cause societal revolution!</seg>
       </tuv>
     </tu>
     <tu>
