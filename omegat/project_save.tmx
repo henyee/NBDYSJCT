@@ -24750,6 +24750,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>我的天呐！竟然有人在食用克苏鲁！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061646Z" creationid="sitong" creationdate="20220329T061646Z">
+        <seg>Oh my gosh! Someone was actually eating Cthulhu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>我裂开了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -30030,6 +30038,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而食用这种食材的方法来自一位名为‘麦格’的厨师，而贩卖克苏鲁的躯体的那家店铺也似乎和他有关。关切！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061846Z" creationid="sitong" creationdate="20220329T061823Z">
+        <seg>The method for eating this ingredient originated from a chef known as "Mag". The shop selling Cthulhu's body seemed to be related to him too. Take note!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而麦格也已经关了火，稍等了一会，端起三屉包子从厨房里出来。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220324T095647Z" creationid="sitong" creationdate="20220324T095647Z">
@@ -32706,6 +32722,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Such squares whose target customers were the locals would have more delicious local snacks than those so-called foodie streets. This was Mag's years of experience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这种食材被称为：章鱼须。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061659Z" creationid="sitong" creationdate="20220329T061659Z">
+        <seg>This ingredient was called: Octopus tentacle.</seg>
       </tuv>
     </tu>
     <tu>
