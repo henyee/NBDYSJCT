@@ -2857,3 +2857,4 @@ DVD	DVD
 画本	picture book
 核动力	nuclear-powered
 印刷机	printing machine
+观察者日志	Observer's Diary
