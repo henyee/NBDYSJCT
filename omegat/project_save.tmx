@@ -19974,6 +19974,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>其种族守护拉莱耶旧城入口封印已达五千二百三十年，超出约定年限二百三十年，目前封印状态完好，破损风险较低。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T054139Z" creationid="sitong" creationdate="20220329T054139Z">
+        <seg>This race had guarded the entrance of the ancient city R'lyeh for 5230 years, exceeding the promised period by 230 years. The sea is currently in good condition and the risk of it being damaged is rather low.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>冰凉凉的绿豆糕入口，甜味被降低了少许，依旧细腻爽口，轻轻一咬便在嘴里化开，口感细润紧密，清香绵软不粘牙，的确十分美味，一改之前甜腻的感觉。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -31098,6 +31106,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>It was the one who gave the review but now, the dish did not make it to the menu. That meant that its standard could not be compared to a human's and this was terrible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>该种族记忆封印状态未解除，协议泄漏风险较低。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T054218Z" creationid="sitong" creationdate="20220329T054218Z">
+        <seg>The sealed memory status of this race had yet to be broken and there is a rather low risk of the agreement being leaked.</seg>
       </tuv>
     </tu>
     <tu>
