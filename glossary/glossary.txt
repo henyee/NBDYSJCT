@@ -2860,3 +2860,4 @@ DVD	DVD
 观察者日志	Observer's Diary
 拉莱耶	R'lyeh
 事件评估	Situation Evaluation
+天空岛	Sky Isle
