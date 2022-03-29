@@ -17958,6 +17958,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>事件评估：已在封印点留下监控精灵，严防克苏鲁下半截躯体试图解除封印进行合体！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061230Z" creationid="sitong" creationdate="20220329T061230Z">
+        <seg>Situation Evaluation: Surveillance elves left at the seal location to prevent Cthulhu's lower-half from attempting to break out of the seal to merge with it's top!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>事件评估：第一序列事件！已上报！将立刻追踪克苏鲁下落，将其重新封印！」</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T060534Z" creationid="sitong" creationdate="20220329T060534Z">
@@ -27570,6 +27578,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Currently, he couldn't do anything about it. He didn't even know how to explain this incident to Vanessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>目前新封印稳定，由于切割的无限进行，克苏鲁处于逐渐虚弱状态，或许存在被彻底杀死的可能。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220329T061120Z" creationid="sitong" creationdate="20220329T061120Z">
+        <seg>New seal is currently stable. Due to the unlimited cutting, Cthulhu is currently weak and might possibly be completely killed.</seg>
       </tuv>
     </tu>
     <tu>
