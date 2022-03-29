@@ -2859,3 +2859,4 @@ DVD	DVD
 印刷机	printing machine
 观察者日志	Observer's Diary
 拉莱耶	R'lyeh
+事件评估	Situation Evaluation
