@@ -15790,6 +15790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>「在新建立的人类族群国度‘洛斯帝国’的国都发现克苏鲁傀儡的留存痕迹，并且通过‘感知’获知该傀儡为该国皇子，身份已经暴露。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220330T064217Z" creationid="sitong" creationdate="20220330T064217Z">
+        <seg>[Traces of Cthulhu's puppet found in a newly established human country, "Roth Empire". Through "perception", the puppet was known to be the prince of the country. His identity had already been exposed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>「在距离中心区封印三十里处的一座未记载大城市中，发现了克苏鲁的部分躯体，不可思议的是它们被加工之后，作为食材进行贩卖，被普通新住民购买之后进行烹饪和食用。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T061633Z" creationid="sitong" creationdate="20220329T061633Z">
@@ -17962,6 +17970,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The purchase was very successful. Mag used all his bargaining skills, and every strike hit the seller right at the heart. Finally, Mag bought this property in the Rodu's city center with 1,051,200 copper coins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>事件评估：傀儡数量、实力未知，克苏鲁正在试图恢复实力并可能制造更多的惨案。」</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220330T064118Z" creationid="sitong" creationdate="20220330T064118Z">
+        <seg>Situation Evaluation: Number of puppets unknown. Cthulhu was attempting to regain its powers and might cause more tragedies.]</seg>
       </tuv>
     </tu>
     <tu>
@@ -25442,6 +25458,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T061439Z" creationid="sitong" creationdate="20220329T061439Z">
         <seg>New inhabitants had discovered the existence of Cthulhu. Extent of understanding under evaluation...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>新住民的实力依旧普遍较低，自保能力较弱，并且没有可靠的搜寻被控制者的能力。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220330T064049Z" creationid="sitong" creationdate="20220330T064049Z">
+        <seg>The new inhabitants were still rather weak and could not defend themselves. On top of that, they did not have the ability to search for the controller.</seg>
       </tuv>
     </tu>
     <tu>
