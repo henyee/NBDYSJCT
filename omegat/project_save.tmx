@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你们这种残次品系统不都是丢到一起养蛊的吗？互不干扰可还行？世界终究只有一个王，三十年河东，三十年河西的口号呢？”麦格有点不信。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220330T071353Z" creationid="sitong" creationdate="20220330T071353Z">
+        <seg>"Aren't all you subpar Systems thrown together? Why wouldn't the Systems disturb each other? There would ultimately only be one king in the world. change is the only constant, the wheel of fortune turns. Why is it not possible?" Mag did not buy that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你们饿了吧，我去给你们做早……午餐。”麦格从床上爬起来。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -29170,6 +29178,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The system was getting a headache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>系统沉默了一会，似乎在分析，道：“可能性极低！如果该系统发现了农场，应当能够判断这个世界存在另一个系统，不可与对方进行接触，更不可对对方的任务进行干扰。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220330T071215Z" creationid="sitong" creationdate="20220330T071215Z">
+        <seg>The System fell silent for a while, as though it was analyzing, and said, "The possibility is very low! If that System found the farm, it should be able to tell that another System existed in this world and would not interact with the other party, much less to intervene with the other party's missions."</seg>
       </tuv>
     </tu>
     <tu>
