@@ -15784,8 +15784,8 @@
       <tuv lang="zh-CN">
         <seg>「在古大陆发现了诸多神秘空间通道，链接多处神秘圈养点，物种有明显被改造和定向培养的痕迹，但现场未发现圈养者。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220329T062703Z" creationid="sitong" creationdate="20220329T062703Z">
-        <seg>[Many mysterious passageways had been found in the ancient continent, joining many mysterious rearing places. There are obvious traces of species being transformed and reared. The owner fo these places had yet to be found. </seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220330T063220Z" creationid="sitong" creationdate="20220329T062703Z">
+        <seg>[Many mysterious passageways had been found in the ancient continent, joining many mysterious rearing places. There are obvious traces of species being transformed and reared. The owner of these places had yet to be found. </seg>
       </tuv>
     </tu>
     <tu>
@@ -21794,6 +21794,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The roly-poly fat orange cat was too recognizable. After Saipan Tavern got famous, others could easily discover the abnormality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>圈养地发现一系列超出当前古大陆科技水平的工具，疑似来自外来文明，暂时无法确定其是否具有敌意和入侵意图。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220330T063436Z" creationid="sitong" creationdate="20220330T063436Z">
+        <seg>A series of tools that were way more advanced than the standard of technology in the current ancient continent at the rearing places. Suspected to be from external civilisations. Currently unable to ascertain if there were any hostile or invasive intentions.</seg>
       </tuv>
     </tu>
     <tu>
