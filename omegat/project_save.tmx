@@ -1966,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你要的酒和菜。”麦格端着托盘出来，放下开好瓶的酒和三道下酒菜，然后侧身退到一旁。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T150653Z" creationid="Longbell" creationdate="20220331T150653Z">
+        <seg>"Your liquor and side dishes." Mag came out with a tray. After putting down the opened liquor and three side dishes, he stepped to the side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你觉得我信吗？”</seg>
       </tuv>
       <tuv lang="en-US">
