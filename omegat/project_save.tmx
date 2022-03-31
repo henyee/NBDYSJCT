@@ -32606,6 +32606,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这他喵的是酒馆，我也知道你要喝酒啊。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T132852Z" creationid="Longbell" creationdate="20220331T132852Z">
+        <seg>This is a fricking tavern. Of course I know you want to drink liquor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这件事之前露娜就和他说过，解决孩子们的生存问题，是序列排在让孩子们上学之前的重要事项。</seg>
       </tuv>
       <tuv lang="en-US">
