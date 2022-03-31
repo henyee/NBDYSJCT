@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33906,6 +33906,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag let out a long sigh. He actually felt as though he had just ended a busy day at Mamy Restaurant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>门口站着的是一个年轻漂亮的女人，她身上的白黑色紧身衣麦格只在电影里看过，一般是科幻片，或者某种剧情片。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T081535Z" creationid="Longbell" creationdate="20220331T081535Z">
+        <seg>A young and beautiful woman stood at the door. Mag had only seen her black-and-white tight in movies before and it was usually the sci-fi movies or dramatic movies.</seg>
       </tuv>
     </tu>
     <tu>
