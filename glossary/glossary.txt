@@ -2869,3 +2869,4 @@ DVD	DVD
 古大陆	ancient continent
 新住民	new inhabitant
 高级文明	advanced civilization
+营养膏	nutritional cream
