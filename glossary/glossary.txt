@@ -2865,3 +2865,5 @@ DVD	DVD
 胜算	odds
 晞	Xi
 观察者	Observer
+装备仓	equipment bay
+古大陆	ancient continent
