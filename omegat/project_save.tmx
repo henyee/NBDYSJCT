@@ -9896,8 +9896,8 @@
       <tuv lang="zh-CN">
         <seg>“本系统已经切断各农场与餐厅之间的物流体系，并且构建了一个新的虚拟物流体系，对方暂时无法通过空间通道找到餐厅。不过无法排除他们通过其他渠道找到你，因为我们对对方一无所知。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220331T173208Z" creationid="sitong" creationdate="20220331T173208Z">
-        <seg>y"I have already cut all logistical system connecting the farms and the restaurant, and had built a new virtual logistical system. They would be unable to find the restaurant through the spacial channel for the time being</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T173420Z" creationid="sitong" creationdate="20220331T173208Z">
+        <seg>y"I have already cut all logistical system connecting the farms and the restaurant, and had built a new virtual logistical system. They would be unable to find the restaurant through the space passage for the time being. However, we cannot rule out the possibility of them finding you through other means because we knwo nothing about them."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11794,6 +11794,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T153206Z" creationid="sitong" creationdate="20220327T153206Z">
         <seg>"The octopus ball is so good!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“章鱼须加工厂少了一台切割机，他们应当是知晓旧日支配者的存在，并且多半站在善良守序阵营，否则摧毁封印对他们而言轻而易举。”系统答道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T173646Z" creationid="sitong" creationdate="20220331T173646Z">
+        <seg>"A cutting maching from the octopus processing plant is missing. They should be aware of the Great Old Ones' existence and should most probably be on the side of kindness and order. Otherwise, it would be a piece of cake for them to destroy the seal," the System replied.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36550,6 +36558,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格稍稍松了口气，又道：“还有一个问题，如果高级文明真的存在，那他们是否会对旧日支配者负责？如果有他们的加入，那些让人头疼的家伙，或许应对起来会更容易一些。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T173519Z" creationid="sitong" creationdate="20220331T173519Z">
+        <seg>Mag heaved a sigh of relief and said, "1 more question. If a even more advanced civilization does exist, would they be responsible for the Great Old Ones? If they join us, it might be a little easier to handle those fellows."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格站在门口，看着他一直消失在街头，确定他能够自己回家，这才转身进了餐厅，关了招牌灯。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -36690,6 +36706,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag recalled his smacking move just now and tried to control his stregth and the angle of his smacking. After that, he wielded his cleaver again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格结束了和系统的对话，坐在书桌前发呆。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T173700Z" creationid="sitong" creationdate="20220331T173700Z">
+        <seg>Mag ended his conversation with the System and sat by the study table, spacing out.</seg>
       </tuv>
     </tu>
     <tu>
