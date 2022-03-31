@@ -2870,3 +2870,4 @@ DVD	DVD
 新住民	new inhabitant
 高级文明	advanced civilization
 营养膏	nutritional cream
+空间通道	space passage
