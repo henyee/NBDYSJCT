@@ -2863,3 +2863,4 @@ DVD	DVD
 天空岛	Sky Isle
 未知	Unknown
 胜算	odds
+晞	Xi
