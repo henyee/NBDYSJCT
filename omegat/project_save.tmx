@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“五五开。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T092726Z" creationid="Longbell" creationdate="20220331T092726Z">
+        <seg>"50-50."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“亚伯罕公爵和这酒馆老板的关系肯定不一般！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -7946,6 +7954,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Irina looked at Mag and smilingly asked, "I heard that there was an increase in the number of customers yesterday?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我和她打，有几成胜算？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T092716Z" creationid="Longbell" creationdate="20220331T092716Z">
+        <seg>"What's the percentage of me winning?"</seg>
       </tuv>
     </tu>
     <tu>
