@@ -3302,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“听起来都不是什么好结果。”麦格摇头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T173011Z" creationid="sitong" creationdate="20220331T173011Z">
+        <seg>"Doesn't sound good either way." Mag shook his head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“吸收了那些怨气和精血之后，他的实力在九级以上，但未到十级，这个实力想要杀死安德烈和乔修，再镇压一切反对成为洛斯帝国的国王，是根本不可能的事情。”麦格摇头，“就算是我，也很难杀死身处洛都皇宫中的安德烈。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -9882,6 +9890,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I am lodging in your mind. Our interaction uses brainwaves, so there will be no sound, and no one will realize."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“本系统已经切断各农场与餐厅之间的物流体系，并且构建了一个新的虚拟物流体系，对方暂时无法通过空间通道找到餐厅。不过无法排除他们通过其他渠道找到你，因为我们对对方一无所知。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T173208Z" creationid="sitong" creationdate="20220331T173208Z">
+        <seg>y"I have already cut all logistical system connecting the farms and the restaurant, and had built a new virtual logistical system. They would be unable to find the restaurant through the spacial channel for the time being</seg>
       </tuv>
     </tu>
     <tu>
