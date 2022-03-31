@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6110,6 +6110,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“如果天道无所不在，无所不知，却又是未知和无法形容的存在，通过系统与外界进行交流，通过系统控制的宿主统治一个又一个的世界……那你觉得他像什么？”麦格的喉咙滚动了一下，感觉自己的想法的确有些危险。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T172649Z" creationid="sitong" creationdate="20220331T172649Z">
+        <seg>"If God is everywhere and all-knowing, yet it was also unknown and indescribable, communicates with the outside world through the system,and rules world after world by controlling the hosts through systems... what do you think it's like?" Mag swallowed. He did think that his thoughts were rather dangerous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“如果我父亲听到你的称赞，他一定会非常开心。”埃菲的脸上终于露出了笑容，颇为骄傲的说道：“这个酒坊，以及整个酒馆和地下酒窖，全部都是他一手设计的。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="jeremy" changedate="20220326T125555Z" creationid="jeremy" creationdate="20220326T125555Z">
@@ -6306,6 +6314,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220320T032347Z" creationid="sitong" creationdate="20220320T032347Z">
         <seg>"Would you like to receive another transmigration course?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“宿主的问题已经触及危险领域，请收起这些危险的想法！”系统警告道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T172452Z" creationid="sitong" creationdate="20220331T172452Z">
+        <seg>"Your questions have already infringed the dangerous field. Please take back these dangerous thoughts!" the System warned.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11864,8 +11880,8 @@
       <tuv lang="zh-CN">
         <seg>“系统对于一个陌生世界的了解，除却通过天道获得的基础信息之外，也是要进行探索才能知晓的。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220330T072412Z" creationid="sitong" creationdate="20220330T072412Z">
-        <seg>"A System's understanding of a foreign world could only be known through exploration other than obtaining basic information from the Way."</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T155738Z" creationid="sitong" creationdate="20220330T072412Z">
+        <seg>"A System's understanding of a foreign world could only be known through exploration other than obtaining basic information from God."</seg>
       </tuv>
     </tu>
     <tu>
@@ -35602,6 +35618,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag turned on the ice cream machine, which had four choices, and began distributing the ice cream to the children.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格托着下巴思考了一会，突然问道：“我突然很好奇天道究竟是什么？究竟是什么样的存在？为什么要创造出系统，并且分发到各个世界？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220331T155817Z" creationid="sitong" creationdate="20220331T155731Z">
+        <seg>Mag propped his head on his hand and thought for a while. Suddenly, he asked, "I am suddenly curious about what God is? What kind of existence is it? Why did it create the System and send them out to various worlds?"</seg>
       </tuv>
     </tu>
     <tu>
