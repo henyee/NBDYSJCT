@@ -23168,8 +23168,8 @@
       <tuv lang="zh-CN">
         <seg>她的装备仓中有充足的食物，古大陆的食物对她毫无吸引力，点餐入座是学习新住民的行为。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220331T144817Z" creationid="Longbell" creationdate="20220331T144338Z">
-        <seg>Her equipment bay had ample food. The ancient continent's food wasn't attractive to her at all. Ordering food was part of learning about the </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T144924Z" creationid="Longbell" creationdate="20220331T144338Z">
+        <seg>Her equipment bay had ample food. The ancient continent's food wasn't attractive to her at all. Ordering food was part of learning about the new inhabitants' behavior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24850,6 +24850,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T105111Z" creationid="sitong" creationdate="20220327T105111Z">
         <seg>Of course, Mag was still deeply sympathetic towards Eiffie's experiences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，对新住民的饮食调查，也是观察者的工作之一。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T145024Z" creationid="Longbell" creationdate="20220331T145024Z">
+        <seg>Of course, investigating about the new inhabitants' food was also one of the Observer's jobs.</seg>
       </tuv>
     </tu>
     <tu>
