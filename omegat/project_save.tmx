@@ -7960,8 +7960,8 @@
       <tuv lang="zh-CN">
         <seg>“我和她打，有几成胜算？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220331T092716Z" creationid="Longbell" creationdate="20220331T092716Z">
-        <seg>"What's the percentage of me winning?"</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T093100Z" creationid="Longbell" creationdate="20220331T092716Z">
+        <seg>"What's the odds of me winning?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14394,6 +14394,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This chowhound really knows how to enjoy his food. Normal people can't really execute the move of buying side dishes at a tavern. Mag raised his eyebrows slightly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这胜算，不太吉利啊。”麦格皱眉，立马放松了身体，看着门口那姑娘微笑道：“抱歉，酒馆已经歇业，如果要喝酒的话，请明天再来吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T093657Z" creationid="Longbell" creationdate="20220331T093657Z">
+        <seg>"This odds doesn't look very auspiscious." Mag frowned. He instantly relaxed his body and smiled at the girl at the door, "I'm sorry. The tavern is already closed. Please come again tomorrow if you want to drink."</seg>
       </tuv>
     </tu>
     <tu>
