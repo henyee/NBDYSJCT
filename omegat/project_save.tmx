@@ -10238,6 +10238,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“歇业？”女人微微蹙眉，清冷的眼眸看着麦格，露出了思考的表情，“那需要换一个理由吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T094822Z" creationid="Longbell" creationdate="20220331T093900Z">
+        <seg>"Closed for the night?" The woman frowned and looked at Mag with her cold eyes. She revealed a pondering expression. "Then, do I need to use another excuse?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“此事我已知晓。”主教希利微微点头，“我奉教皇之命前来，不必忌讳任何人，而且这小姑娘对我们教会至关重要，我不会伤害她的。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -14400,8 +14408,8 @@
       <tuv lang="zh-CN">
         <seg>“这胜算，不太吉利啊。”麦格皱眉，立马放松了身体，看着门口那姑娘微笑道：“抱歉，酒馆已经歇业，如果要喝酒的话，请明天再来吧。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220331T093657Z" creationid="Longbell" creationdate="20220331T093657Z">
-        <seg>"This odds doesn't look very auspiscious." Mag frowned. He instantly relaxed his body and smiled at the girl at the door, "I'm sorry. The tavern is already closed. Please come again tomorrow if you want to drink."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T093905Z" creationid="Longbell" creationdate="20220331T093657Z">
+        <seg>"This odds doesn't look very auspiscious." Mag frowned. He instantly relaxed his body and smiled at the girl at the door, "I'm sorry. The tavern is already closed for the night. Please come again tomorrow if you want to drink."</seg>
       </tuv>
     </tu>
     <tu>
