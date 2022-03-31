@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“为了不引起对方的注意，本系统已经切断了所有检测装置，但可以确定的是，对方依旧是碳基生物，不是机器人。”系统很快回复。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T123605Z" creationid="Longbell" creationdate="20220331T123605Z">
+        <seg>"In order not to attract the other party's attention, this System has already cut off all detection devices. However, we can be sure that the other party is still carbon-based life and not a robot." The system swiftly replied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“为了保持神秘感和小主的积极性，我们做系统的一般都不会透露奖励的，更有甚者是用大转盘来保持随机性。”系统解释道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -11890,6 +11898,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"System, please don't issue anymore unreasonable mission such as asking me to make breakfast in the future. This is an insult to someone who has a father who has perfect culinary skills." Amy seriously said inwardly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“系统，这不会是个机器人吧？一个没有感情的杀手？”麦格在心里问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T122513Z" creationid="Longbell" creationdate="20220331T122513Z">
+        <seg>"System, this isn't a robot, right? She's also not an assassin with emotions, right?" Mag asked inwardly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22992,8 +23008,8 @@
       <tuv lang="zh-CN">
         <seg>女人只是冷漠的注视着他，那张精致的脸犹如万年不化的冰块，就连目光也冷漠的可怕，仿佛没有感情一般。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220331T100129Z" creationid="Longbell" creationdate="20220331T100129Z">
-        <seg>The woman only stared at him coldly. That exquisite face seemed to be made from </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T122404Z" creationid="Longbell" creationdate="20220331T100129Z">
+        <seg>The woman only stared at him coldly. That exquisite face seemed to be made from ice, even the gaze was horribly cold, as if there weren't any emotions in them.</seg>
       </tuv>
     </tu>
     <tu>
