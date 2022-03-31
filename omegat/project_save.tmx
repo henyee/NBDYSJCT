@@ -27312,8 +27312,8 @@
       <tuv lang="zh-CN">
         <seg>浓浓的酒香味从那个白色瓷瓶中徐徐飘来，竟是让从来不饮酒的她也觉得颇为美妙。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220331T150936Z" creationid="Longbell" creationdate="20220331T150936Z">
-        <seg>The rich liquor's aroma that drifted out from that white porcelain bottle, actually made her, who had never drink before, think that it was exquisite.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T150947Z" creationid="Longbell" creationdate="20220331T150936Z">
+        <seg>The rich liquor's aroma that drifted out from that white porcelain bottle actually made her, who had never drink before, think that it was exquisite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30618,6 +30618,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The three knights also returned to their senses. They looked around, puzzled, and did not seem to have realized what happened to them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而那两道用耳朵和舌头做成的菜，和她预想的完全不同，看起来甚至有点……诱人？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T151204Z" creationid="Longbell" creationdate="20220331T151204Z">
+        <seg>And, those two side dishes that were made from ears and tongues, were completely different from her expectations. They were looked a little...enticinng?</seg>
       </tuv>
     </tu>
     <tu>
