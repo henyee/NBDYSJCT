@@ -2868,3 +2868,4 @@ DVD	DVD
 装备仓	equipment bay
 古大陆	ancient continent
 新住民	new inhabitant
+高级文明	advanced civilization
