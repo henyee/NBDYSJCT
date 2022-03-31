@@ -31806,6 +31806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>装备仓中调配好营养比例的营养膏，能够提供充足的营养，同时保证健康。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220331T160706Z" creationid="Longbell" creationdate="20220331T155533Z">
+        <seg>There was a nutritional cream that had all the nutrients well-mixed up in the equipment bay. It could provide sufficient nutrients while making sure that it was healthy at the same time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>要不是打不过，诺亚肯定还要再说点什么。</seg>
       </tuv>
       <tuv lang="en-US">
