@@ -2862,3 +2862,4 @@ DVD	DVD
 事件评估	Situation Evaluation
 天空岛	Sky Isle
 未知	Unknown
+胜算	odds
