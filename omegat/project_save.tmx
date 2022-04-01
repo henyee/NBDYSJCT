@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20974,6 +20974,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>准备结账的晞打了个一个饱嗝，这让她有点惊讶。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T203954Z" creationid="Longbell" creationdate="20220401T203954Z">
+        <seg>Xi, who was prepared to settle her bill, burped, which surprised her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>几乎同时，系统的声音在麦格的脑海中响起。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -22554,6 +22562,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Drinking was an activity that would last for a rather long time. If a side dish was unable to stay as good as it was after a long time, it was a failed dish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>嗝~</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T203921Z" creationid="Longbell" creationdate="20220401T203921Z">
+        <seg>Burp~</seg>
       </tuv>
     </tu>
     <tu>
@@ -32466,6 +32482,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Although there was only one bill, they had earned 2030 copper coins. That would have surpassed many at Romo street.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然她的表情一只保持着高冷的模样，但麦格从她夹菜的频率看得出，哪怕是高等文明的存在，依旧抵挡不住美食的诱惑。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T203912Z" creationid="Longbell" creationdate="20220401T203912Z">
+        <seg>Although her expression was still as cold and aloof as before, Mag could see from the frequency of her picking up the dishes that even an advanced civilization's being couldn't resist the temptation of good food.</seg>
       </tuv>
     </tu>
     <tu>
