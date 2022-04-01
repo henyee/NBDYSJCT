@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8542,6 +8542,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“或许他们的身体已经拥有快速分解酒精的能力。”系统答道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T110335Z" creationid="Longbell" creationdate="20220401T110335Z">
+        <seg>"Perhaps, their bodies already have the ability to break down alcohol quickly." The system answered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“或许我们应该去一趟洛都。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -10730,6 +10738,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Helena actually did not deploy troops to arrest the marching elves. What does she have up her sleeves again this time?" Snarr stood at the window on the second floor of a two-story building. He watched as more elves joined the march, and observed the sparse dots that were the guards around the march as he frowned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“淡淡的烟熏味是威士忌的特色，并非酒的品质问题，当你接受这个设定的时候，你就会发现这酒同样令人着迷。”麦格微笑着解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T111336Z" creationid="Longbell" creationdate="20220401T111336Z">
+        <seg>"The faint smokey taste is the whiskey's specialty. It's not the problem of the liquor. After you accept that setting, you will discover this liquor is also equally intoxicating." Mag explained smilingly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25438,6 +25454,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>微微眯眼，细细体会着那淡淡的焦香和烟熏味，就像有一匹野马在心间奔跑一般，的确有着与先前那瓶不同的感觉与饮用体验。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T112341Z" creationid="Longbell" creationdate="20220401T112341Z">
+        <seg>She narrowed her eyes to sample that faint smokey taste. It felt as if a mustang was racing in her heart. it indeed had a different sensation and drinking experience from the previous bottle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>怎么会有这样不解风情的男人。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26606,6 +26630,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>晞倒了一杯威士忌，抿了一口，眉头微蹙，有些疑惑的看了眼杯中的酒，又是看了一眼麦格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T110718Z" creationid="Longbell" creationdate="20220401T110718Z">
+        <seg>Xi poured a glass of whiskey and took a sip. She frowned slightly. She looked at the liquor in the glass in front of her and then glanced at Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>晞平静的观察着这座酒馆，不久之后，她的目光落到了那柜台上。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T145107Z" creationid="Longbell" creationdate="20220331T145107Z">
@@ -26618,6 +26650,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T162201Z" creationid="Longbell" creationdate="20220331T162201Z">
         <seg>Xi's eyes widened instantly and she showed a disbelief expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>晞若有所思，还是仰头把杯里的酒喝了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T111850Z" creationid="Longbell" creationdate="20220401T111850Z">
+        <seg>Xi was thoughtful, but she still downed the liquor in the glass.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34418,6 +34458,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The wine was good, and it was worth its price of 2,000 copper coins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>酒量好不要紧，茅台威士忌掺着喝，那可是威力无穷的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T111626Z" creationid="Longbell" creationdate="20220401T111626Z">
+        <seg>It didn't matter that she had an excellent alcohol tolerance, the aftermath of drinking Maotai and whiskey was formidable.</seg>
       </tuv>
     </tu>
     <tu>
