@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9422,6 +9422,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是啊，安妮姐姐你快过来坐吧，这是我刚刚买回来的呢，超大一包。”艾米把手里的纸袋放在桌上，颇为自豪的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T133518Z" creationid="sitong" creationdate="20220401T133518Z">
+        <seg>"Yeah. Big Sister, come take a seat here quickly. I just bought them back. There's a lot of food," Amy said proudly as she put the bag of food on the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是啊，小老板非常受客人们喜爱，长得可爱，说话又有趣，而且不时还会教训一些不守规矩的客人，俨然成了麦米餐厅的守护神了。”卡诺笑着点头道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -14266,6 +14274,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"This little girl wants to win one goose with each ring?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这就对了，乖。”艾米脸上重新露出了笑容。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T130313Z" creationid="sitong" creationdate="20220401T130313Z">
+        <seg>"That's it. Good." Amy smiled.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22078,6 +22094,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>听埃菲称呼这种汤为糊涂汤，倒是和河南糊涂汤有着异曲同工之妙。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T132003Z" creationid="sitong" creationdate="20220401T132003Z">
+        <seg>Eiffie called it the cucumber soup and it did look rather similar to the Hunan cucumber soup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>听起来是一个能够和‘时间停止’一争高下的羞耻技能。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24018,6 +24042,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Annie nodded obediently. She sat down and read through the picture books before picking the watercolor brush at the side to continue drawing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>安妮也刚好从楼上下来，看着桌上的食物，露出几分讶异的表情，用手语指着艾米问道：“艾米，这是你出去买的吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T132050Z" creationid="sitong" creationdate="20220401T132050Z">
+        <seg>Just then, Annie came down and saw the table full of food. She asked Amy using sign language with a shock, "Amy, did you buy these?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -36250,6 +36282,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag turned on the ice cream machine, which had four choices, and began distributing the ice cream to the children.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格打开食盒，取出了三碗加了各种菜的糊糊，面上撒了几颗绿色的葱花，看起来倒是挺不错的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T130451Z" creationid="sitong" creationdate="20220401T130451Z">
+        <seg>Mag opened the lunchbox and took ut three bowls of soup with various vegetables in it. There were some chopped green onions garnishing it and it looked rather delicious.</seg>
       </tuv>
     </tu>
     <tu>
