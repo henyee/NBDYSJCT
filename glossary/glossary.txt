@@ -2872,3 +2872,4 @@ DVD	DVD
 营养膏	nutritional cream
 空间通道	space passage
 代号：9527	Codename: 9527
+高等文明	advanced civilization
