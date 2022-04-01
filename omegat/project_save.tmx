@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26238,6 +26238,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>接下来晞不再说话，安静的喝完了那瓶威士忌和三份下酒菜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T130454Z" creationid="Longbell" creationdate="20220401T130454Z">
+        <seg>Xi stopped talking after that and quietly finished that bottle of whiskey and the three side dishes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>接着露娜又和麦格聊了一会关于希望学园的事情。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33010,6 +33018,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Fortunately, Amy reacted quickly. She kicked it toward the wall, and successfully prevented it from falling to the floor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>还好麦格留了一手，让系统把那台印刷机转移到了混乱之城。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T130302Z" creationid="Longbell" creationdate="20220401T130302Z">
+        <seg>It was fortunate that Mag got the system to shift that printing machine to Chaos City.</seg>
       </tuv>
     </tu>
     <tu>
