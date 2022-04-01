@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2226,6 +2226,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Mix the red oil first?" Mag was a little surprised at Amy's suggestion but after thinking about it for a while, he nodded and said, "I'll give it a shot."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“全地形的车吗？”艾米思考了一下，记在了心里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T122805Z" creationid="sitong" creationdate="20220401T122805Z">
+        <seg>"An all-terrain vehicle?" Amy thought for a while and remembered it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36314,6 +36322,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>When Mag returned from the market with a basket, he "bumped" into Eiffie who had been following him for three blocks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格提着食盒进门，一边随口道：“对了，今天许愿井要是灵验的话，就让它送我们一台车吧，最好是全地形的那种，这样买菜就方便了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T122339Z" creationid="sitong" creationdate="20220401T122339Z">
+        <seg>Mag brought the lunchbox in and said, "Oh, right, if the wishing well works, let's make it give us a vehicle, best if it's an all-terrain vehicle. That way, it would be more convenient for grocery shopping."</seg>
       </tuv>
     </tu>
     <tu>
