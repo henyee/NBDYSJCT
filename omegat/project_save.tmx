@@ -5310,6 +5310,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“大转盘是概率抽奖，本系统无法保证小主获得的奖品是什么。”系统解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T124214Z" creationid="sitong" creationdate="20220401T124214Z">
+        <seg>"The big wheel is a lucky draw based on probability. I am unable to guarantee what your prize would be," the System explained.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“天呐，不是这样子滴，要先穿过来才对，你好笨哦。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -8424,8 +8432,8 @@
       <tuv lang="zh-CN">
         <seg>“我要全地形的车哦。”艾米提醒道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220401T123921Z" creationid="sitong" creationdate="20220401T123921Z">
-        <seg>"I want an all-terrain vehicle," Mag reminded.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T123926Z" creationid="sitong" creationdate="20220401T123921Z">
+        <seg>"I want an all-terrain vehicle," Amy reminded.</seg>
       </tuv>
     </tu>
     <tu>
