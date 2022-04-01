@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -338,6 +338,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"He shouldn't have done it. No matter how we look at this fight for the throne, Josh still has a 50% chance of winning. Why did he do such stupid things before His Majesty has made his decision?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不必了，我已经看过。”晞微微摇头，心中却是有些疑惑，有些迟疑是否需要对这个人类进行记忆搜索。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T124338Z" creationid="Longbell" creationdate="20220401T124338Z">
+        <seg>"There's no need for that. I have already seen it." Xi shook her head slightly, but she still had some suspiscions. She was deliberating if she should conduct a memory search on this human in front of her.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1642,6 +1650,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"You guys must be hungry. I'll go make break— lunch for you guys." Mag got up from the bed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你倒是挺不客气的啊。”麦格眉梢微挑，高等文明对于低等文明的下意识轻视暴露无遗。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T125151Z" creationid="Longbell" creationdate="20220401T125151Z">
+        <seg>"You're really not shy." Mag raised his brows slightly. The subconscious discrimination that an advanced civilization had for a lower civilization was blatant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5010,6 +5026,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Here." Mag froze for a while. He recalled his arrogance at the door just now, but still handed over the money bag with today's earnings to Irina obediently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“地动当然有感受到，房子有明显的震动，还有官差来询问。”麦格点点头，一脸坦荡道：“不过你说的是我们家隔壁的隔壁的房子吧？那的确是我的屋子，但一直空置着，姑娘要是想去瞧瞧，我可以给你开门。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T123918Z" creationid="Longbell" creationdate="20220401T123918Z">
+        <seg>"Of course, I felt the earthquake. The house shook obviously and officials came to ask questions." Mag nodded and said with an honest expression, "However, are you talking about the house, next, next to us? That is indeed my property, but it has always been vacant. I can open the door for you if you would like to go see it, Miss."</seg>
       </tuv>
     </tu>
     <tu>
@@ -10042,6 +10066,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220331T173420Z" creationid="sitong" creationdate="20220331T173208Z">
         <seg>y"I have already cut all logistical system connecting the farms and the restaurant, and had built a new virtual logistical system. They would be unable to find the restaurant through the space passage for the time being. However, we cannot rule out the possibility of them finding you through other means because we knwo nothing about them."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“机械吗？什么是机械？”麦格一脸疑惑，表现出了一个异界人民该有的认知水准。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T122003Z" creationid="Longbell" creationdate="20220401T122003Z">
+        <seg>"Machery? What machinery?" Mag had a perplexed expression, showing her the level of knowledge that a resident of the alternate world should have.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17482,6 +17514,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>However, her cooking talent was the direct opposite of her magical talent. Her cook talent was extremely bad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不过她是被那台核动力印刷机吸引来的，倒是让他松了口气。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T125223Z" creationid="Longbell" creationdate="20220401T125223Z">
+        <seg>However, Mag was relieved that she wasn't attracted by that nuclear-powered printing machine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26774,6 +26814,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>晞盯着麦格的眼睛看了一会，确认他没有说谎，眉头微皱，只能解释道：“机械就是能帮人们降低工作难度或省力的工具装置，那应该是一个由钢铁构成的大型机械，根据周围的居民反映，昨日有发生地动，你没有感受到吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T123505Z" creationid="Longbell" creationdate="20220401T123505Z">
+        <seg>Xi stared into Mag's eyes for a while, making sure that he wasn't lying. She frowned slightly and explained, "Machinery are devices that can help people lower their jobs' difficulties or make their jobs easier. It should be a huge machinery that is made of steel. According to the feedback of the surrounding residents, an earthquake happened yesterday. Did you feel it?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>晞若有所思，还是仰头把杯里的酒喝了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T111850Z" creationid="Longbell" creationdate="20220401T111850Z">
@@ -27794,6 +27842,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Rodu was not an unfamiliar city in Alex's memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>测谎仪显示他没有说谎，说明他的确对那‘核’动力机械一无所知，一个普通人类是无法骗过测谎仪的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T124513Z" creationid="Longbell" creationdate="20220401T124513Z">
+        <seg>The lie detector showed that he wasn't lying. This meant that he indeed had no idea about that "nuclear"-powered machinery. An ordinary person couldn't fool the lie detector.</seg>
       </tuv>
     </tu>
     <tu>
