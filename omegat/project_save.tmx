@@ -4614,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“嗯，真乖。”麦格笑着摸了摸艾米的脑袋，心里暖暖的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T121145Z" creationid="sitong" creationdate="20220401T121145Z">
+        <seg>"Mm. Good girl." Mag caressed Amy's head with a smile and his heart felt warm and fuzzy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“嗯，睡了一个好觉，做了个好梦，在梦里学的。”麦格点点头。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -4928,8 +4936,8 @@
       <tuv lang="zh-CN">
         <seg>“因为父亲大人每天都那么辛苦，所以我想去买早餐，这样你就不用给我们做早餐了，可以多睡一会。”艾米的小脸上写满了认真。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220401T121008Z" creationid="sitong" creationdate="20220401T121008Z">
-        <seg>"Because Father is working so hard every day so I thought that I should get breakfast and that way you would not have to make breakfast for us and can sleep in a little more," Amy sai dseriously.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T121014Z" creationid="sitong" creationdate="20220401T121008Z">
+        <seg>"Because Father is working so hard every day so I thought that I should get breakfast and that way you would not have to make breakfast for us and can sleep in a little more," Amy said seriously.</seg>
       </tuv>
     </tu>
     <tu>
