@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2442,6 +2442,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Goodbye, Big Sisters. I will miss you guys." Amy stood at the door, and waved goodbye to all of them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“写……我写……”系统在线卑微。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T130300Z" creationid="sitong" creationdate="20220401T130300Z">
+        <seg>"I'll... do it..." the System said in a lowly tone.</seg>
       </tuv>
     </tu>
     <tu>
