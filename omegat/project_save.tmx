@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你要是不写的话，我就不抽了，哼，没意思。”艾米有些傲娇道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T125122Z" creationid="sitong" creationdate="20220401T125122Z">
+        <seg>"If you don't do it, I'm not picking. Hmph. This is so boring," Amy said proudly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你要的酒和菜。”麦格端着托盘出来，放下开好瓶的酒和三道下酒菜，然后侧身退到一旁。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T150653Z" creationid="Longbell" creationdate="20220331T150653Z">
@@ -15042,6 +15050,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Then, you will go get me Josh, and let him explain to me face to face," Andre said coldly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那你只要把每一格都写成全地形车就可以了啊。”艾米认真脸。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T124236Z" creationid="sitong" creationdate="20220401T124236Z">
+        <seg>"In that case, you can make every section a All-terrain vehicle," Amy said seriously.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30122,6 +30138,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>System responded, "F*ck!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>系统：“……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T124240Z" creationid="sitong" creationdate="20220401T124240Z">
+        <seg>System: "..."</seg>
       </tuv>
     </tu>
     <tu>
