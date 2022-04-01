@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8262,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我正准备去铁匠铺看看，今天应该都能拿到了，就怕工匠怠慢了，所以亲自去取。”埃菲说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T112949Z" creationid="sitong" creationdate="20220401T112949Z">
+        <seg>"I am about to go to the blacksmith to  take a look. I should be able to get everything today. I'm just afraid that the worker would be slow so I'll be going over to retrieve it, Eiffie said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我没有兄弟。”麦格看着三分醉意，三分杀气的伊琳娜，连忙澄清道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -15754,6 +15762,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Is there anyone smaller than you?" Aulden glared at Amy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“零件到齐了，埃菲小姐过来和我说一声，我来替你组装调试。”麦格点点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T114731Z" creationid="sitong" creationdate="20220401T114731Z">
+        <seg>"Let me know when all the parts are ready. I'lll try helping you fix them together." Mag nodded.</seg>
       </tuv>
     </tu>
     <tu>
