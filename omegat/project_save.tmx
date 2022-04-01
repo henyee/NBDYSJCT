@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16194,6 +16194,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T150308Z" creationid="Longbell" creationdate="20220331T150308Z">
         <seg>"This processing technology seems to be polished by machinery. Have the ancient continent's manufacturing industry already develop to this extent?" Xi wrote this detail in her Observer's Diary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>「那是一家非常特别的酒馆，那个长相有些猥琐的人类男性，烹饪出了一种名为‘酒鬼花生’的食物，有着令人惊叹的味道！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T092952Z" creationid="Longbell" creationdate="20220401T092952Z">
+        <seg>[This is a very unique tavern. That obscene looking human male made a food called "drunkard peanuts" which has an amazing taste!</seg>
       </tuv>
     </tu>
     <tu>
