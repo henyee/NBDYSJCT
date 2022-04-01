@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22686,6 +22686,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲把艾米送到酒馆门口，刚准备敲门，门就从里边打开了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T105648Z" creationid="sitong" creationdate="20220401T105648Z">
+        <seg>Eiffie sent Amy to the door of the tavern. Just as she was about to knock on the door, it opened from the inside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲拔开酒塞。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T160434Z" creationid="sitong" creationdate="20220325T160434Z">
@@ -29202,6 +29210,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Chapter 2001: I Am Going To Be Killed By Its Cuteness!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千零七十四章 系统在线卑微</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220401T105600Z" creationid="sitong" creationdate="20220401T105600Z">
+        <seg>Chapter 2074: Lowly System</seg>
       </tuv>
     </tu>
     <tu>
