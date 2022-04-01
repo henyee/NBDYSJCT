@@ -2875,3 +2875,4 @@ DVD	DVD
 高等文明	advanced civilization
 蒸馏设备	distillation equipment
 机械	machinery
+糊涂汤	cucumber soup
