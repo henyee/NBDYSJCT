@@ -2874,3 +2874,4 @@ DVD	DVD
 代号：9527	Codename: 9527
 高等文明	advanced civilization
 蒸馏设备	distillation equipment
+机械	machinery
