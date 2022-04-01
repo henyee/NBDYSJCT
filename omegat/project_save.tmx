@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6250,6 +6250,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"The whiskey and Maotai are both made by me with all my heart. How can you say that I'm trying to smoke my way through? Why don't you try it for yourself? If you don't like it, don't drink it," Mag said as he stood his ground.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“威士忌，不错。”晞微微点头，放下酒杯，抬眼看着麦格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T112445Z" creationid="Longbell" creationdate="20220401T112445Z">
+        <seg>"Whiskey. Not bad." Xi nodded slightly. She put her glass and looked up at Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12978,6 +12986,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Excuse me, may I take your order?" Yabemiya came to Canault's table with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“请问，昨日你是否在距离酒馆二十三米的那栋屋子里，启动过什么高等级的机械？”晞开口问道，声音犹如冰冷的电流声。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T121836Z" creationid="Longbell" creationdate="20220401T121748Z">
+        <seg>"May I ask did you activate any advanced machinery in that house 23 meters away from this tavern yesterday?" Xi asked in a voice that was as cold as the sound of a electric current.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35618,6 +35634,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T072541Z" creationid="sitong" creationdate="20220325T072541Z">
         <seg>Mag said with a sigh,"But all the printing factories in Rodu could only print in black and white. If we were to get Annie to draw the same things every day, it would be tiring and a waste of a talent. It would be great if we actually have a printing machine that could print out many colors."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格同样平静的注视着她。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220401T112454Z" creationid="Longbell" creationdate="20220401T112454Z">
+        <seg>Mag was also staring at her calmly.</seg>
       </tuv>
     </tu>
     <tu>
