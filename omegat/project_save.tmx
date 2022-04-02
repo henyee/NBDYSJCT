@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3834,6 +3834,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Mr. Mag, there is a tavern looking for a new owner in front. Let's go over there to check it out. The furnishing and layout fit your requirements perfectly." Fitch, the agent, brought Mag to a nearby shop that was named "Linxe Tavern."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哈迪斯先生，需要请其他人帮忙吗？这些零件都很重……”埃菲的话还没有说完，便看到麦格一手提起了一个密封的铁桶，随手放在了一旁的火灶上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T154244Z" creationid="sitong" creationdate="20220402T154244Z">
+        <seg>"Mr. Hades, do you need to get other people to help? These parts are all very heavy..." Before Eiffie could finish her sentence, she saw mr. hades lift up a sealed metal barrel in one hand and put it on the stove at the side.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23426,6 +23434,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Eiffie sighed. "Sigh, what a pity he came too late."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲和玛拉的眼睛都瞪圆了几分，这个一人多高的铁桶，先前可是由四个大汉合力抬进来的，可麦格竟然一只手就轻松提了起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T154502Z" creationid="sitong" creationdate="20220402T154502Z">
+        <seg>Eiffie and Mala's eyes widened. The metal barrel was taller than a man and it was brought in by four large men together. However, Mag managed to lift it up easily with just one hand.</seg>
       </tuv>
     </tu>
     <tu>
