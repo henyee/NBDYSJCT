@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你是我哥。”系统也是在麦格心里佩服的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T133119Z" creationid="Longbell" creationdate="20220402T133119Z">
+        <seg>"You're my brother." The system also commented with admiration inside Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你有什么计划吗？”伊琳娜收下钱，放在手边，笑容愈发灿烂，看着麦格问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -8442,6 +8450,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I'm a coachman. I've been to many places. Twilight Forest, Wind Forest, Chaos City… I've been to all of them. The only place I haven't been to is Demon Islands. I heard that demons eat humans. Besides, you need to take a ferry there, so I didn't go…" Pasa started chatting with Mag. However, he did not talk about his hard life, but about the things he saw and heard as a coachman roaming around Norland Continent for all these years.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我是你爹，不要搞错辈分。”麦格回道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T133220Z" creationid="Longbell" creationdate="20220402T133220Z">
+        <seg>"I'm your daddy. Don't get the hierarchy wrong." Mag answered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36954,6 +36970,14 @@
       </tuv>
       <tuv lang="en-US" changeid="jeremy" changedate="20220326T125602Z" creationid="jeremy" creationdate="20220326T125602Z">
         <seg>Mag smilingly said, "I will draw the brewery's design and the distillation equipment's blueprints for you. You can get a few blacksmiths to build the spare parts and I will come to assemble them for you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格心里松了口气。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T132952Z" creationid="Longbell" creationdate="20220402T132952Z">
+        <seg>Mag heaved a breath of relief inwardly.</seg>
       </tuv>
     </tu>
     <tu>
