@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23886,6 +23886,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>外来文明的入侵是极其严重的事件，当年克苏鲁等外神和仆从种族降临，几乎给古老者带来灭顶之灾。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T155848Z" creationid="Longbell" creationdate="20220402T155848Z">
+        <seg>The invasion of an alien civilization was an extremely serious matter. The descent of the Cthulhu gods and its servant species had brought a catastrophe that almost annihilated the Elder Things back then.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>外观类似人类女性，身上穿着未知金属制作的战衣。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T095648Z" creationid="Longbell" creationdate="20220401T095648Z">
@@ -37730,6 +37738,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>When Mag and Irina arrived, Noya quickly went up to them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格摇头道：“不，是一个从地底深处挖出来的破旧装备仓，里边有少量的机械和一些零散的书本，其中包括那台印刷机。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T160223Z" creationid="Longbell" creationdate="20220402T160223Z">
+        <seg>Mag shook his head, "No. I got it from an old equipment bay that I dug out deep underground. There was a few machinery and books in it, including that printing machine."</seg>
       </tuv>
     </tu>
     <tu>
