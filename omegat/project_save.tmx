@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7162,6 +7162,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T071638Z" creationid="sitong" creationdate="20220325T071638Z">
         <seg>"I know three won't be enough for you. There are three more in the kitchen." Mag stood up with a smile and headed to the kitchen to take another steamer of soup dumplings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“就算不带走那个女孩，我也要带她的部分头发或者指甲回去，我们需要研究她究竟是什么样的存在。”晞看着他说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T135512Z" creationid="Longbell" creationdate="20220402T135512Z">
+        <seg>"I want to bring some of the girl's hair or nails back even if I can't bring the girl back. We need to study what kind of being she is." Xi said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33758,6 +33766,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>还好麦格已经习惯了她的对话方式。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T134857Z" creationid="Longbell" creationdate="20220402T134857Z">
+        <seg>Fortunately, Mag was already used to the way she talked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>还好麦格留了一手，让系统把那台印刷机转移到了混乱之城。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T130302Z" creationid="Longbell" creationdate="20220401T130302Z">
@@ -37346,6 +37362,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>When Mag and Irina arrived, Noya quickly went up to them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格摇头，表情肃然道：“我不会将她的任何东西交给你们，也希望你们不要试图打她的主意，否则，就算是神，我也杀给你看。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T135915Z" creationid="Longbell" creationdate="20220402T135915Z">
+        <seg>Mag shook his head and solemnly said, "I won't hand any part of her to you and I hope you guys will stop having designs on her. Otherwise, I will kill you even if you are a God."</seg>
       </tuv>
     </tu>
     <tu>
