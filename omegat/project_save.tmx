@@ -2822,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“印刷机已经被我运回混乱之城，其他东西我可以去取给你。”麦格转身上楼，不一会提着一个超大的木箱子下来，直接放在晞的面前。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T161019Z" creationid="Longbell" creationdate="20220402T161019Z">
+        <seg>"I have already shipped the printing machine back to Chaos City. I can give the other items to you." Mag went upstairs and came down a gigantic wooden box. He placed it right in front of Xi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“危！”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220327T125609Z" creationid="Longbell" creationdate="20220327T125609Z">
@@ -3202,6 +3210,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Alright. This is very much like what the hairless powerhouse would do." Connie gave Rex a thumbs-up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“可否让我看看那些东西。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T160239Z" creationid="Longbell" creationdate="20220402T160239Z">
+        <seg>"May I take a look at those things?"</seg>
       </tuv>
     </tu>
     <tu>
