@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5786,6 +5786,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Alright. I will eat it." Mag accepted the salted egg yolk pastry, feeling so touched. Daughters were still the best.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好吧，那我们就晚上再去。”艾米从车上跳下来，摘掉了头盔，顺手盖在了蹲在一旁的丑小鸭头上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T143222Z" creationid="sitong" creationdate="20220402T143222Z">
+        <seg>"Alright. We'll go at night." Amy jumped off the motorcycle, took her helmet up, and cupped it over Ugly Duckling, who was laying at the side.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14394,6 +14402,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"That's true." Mag nodded, but he was still rather satisfied with this outcome. At least the show that they had put on the other night had met his expectations perfectly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这倒是个办法。”麦格点头，这是双人座的摩托，安妮坐上倒是刚好合适，但伸手拔掉了车钥匙，道：“白天路上人多，不适合开出去，等晚上路上没人了，再开出去溜达吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T143149Z" creationid="sitong" creationdate="20220402T143149Z">
+        <seg>"This is a way." Mag nodded. This is a double-seater so it's suitable for Annie. However, he reached over and pulled the key out, saying, "There are many people on the streets in the day. It's not safe for you to drive out. You can go again at night when there aren't anyone in the streets."</seg>
       </tuv>
     </tu>
     <tu>
@@ -32730,6 +32746,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Amy's Life Experience System released the mission reward and a new mission at the same time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米的目光很快盯上了安妮，眼睛一亮道：“那就让安妮姐姐坐我的车吧，这样等我要停车的时候，就可以用她的大长腿把车子稳住了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T141954Z" creationid="sitong" creationdate="20220402T141954Z">
+        <seg>Amy's gaze quickly moved to Annie. Her eyes lit up and said, "In that case, Big Sister Annie can take my ride. That way, when I want to stop, she can use her long leg to stabilize the ride."</seg>
       </tuv>
     </tu>
     <tu>
