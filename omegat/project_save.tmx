@@ -5646,6 +5646,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好……好的。”埃菲连忙点头，顺手奉上已经有些凉了的茶水。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T163239Z" creationid="sitong" creationdate="20220402T163239Z">
+        <seg>"Oh... okay." Eiffie quickly nodded. She handed Mag the tea that had already cooled down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好……好的，您请稍等，我这就去把这店铺的户主找来，今天就能把合同敲定。”费奇尽力克制着自己的表情，忙不迭用袖子擦拭了一个凳子，请麦格坐下，然后便快步出门去了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -13056,8 +13064,8 @@
       <tuv lang="zh-CN">
         <seg>“蒸馏设备已经调试好了，接下来我要教你如何使用这套设备，用来酿造泰坦酒。”麦格脱掉手套，看着端着茶站在一旁的埃菲。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220402T162935Z" creationid="sitong" creationdate="20220402T162935Z">
-        <seg> wa</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T163207Z" creationid="sitong" creationdate="20220402T162935Z">
+        <seg>"The distillation equipment is already set. Next, I will teach you how to use this apparatus to brew Titan Liquor." Mag removed his gloves and looked at Eiffie, who was standing at the side with a cup of tea in her hands.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24406,6 +24414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>好在麦格想起了他的金手指，哪里不会点哪里，很快就让埃菲掌握了使用方法。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T163854Z" creationid="sitong" creationdate="20220402T163854Z">
+        <seg>Thankfully, Mag remembered that he had his golden finger, which he could use to point at the parts where she did not know, and Eiffie could quickly master its usage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>好在麦格眼疾手快的接住，笑着拿手帕帮艾米揩去手上的可乐，道：“这是可乐，也是肥宅快乐水，喝之前不能摇晃，不然可乐就会喷涌出来。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220320T030927Z" creationid="sitong" creationdate="20220320T030927Z">
@@ -27186,6 +27202,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>It was one thing whether it would stay in place, but it would definitely pierce through his eardrum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>教一个从未接触过现代机械的女人，上手一套相对先进的蒸馏设备，是一件不太简单的事情。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T163339Z" creationid="sitong" creationdate="20220402T163339Z">
+        <seg>It was not very easy to teach a woman, who had not tried her hands on modern machinery, how to use a rather advanced distillation equipment.</seg>
       </tuv>
     </tu>
     <tu>
