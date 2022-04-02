@@ -2881,3 +2881,4 @@ DVD	DVD
 入侵者	invaders
 重狙	assault rifle
 外来文明	alien civilization
+地下城	Underground City
