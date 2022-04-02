@@ -3856,8 +3856,8 @@
       <tuv lang="zh-CN">
         <seg>“哈迪斯先生，我……”她抓着麦格的手，脸蛋微红，激动之心溢于言表。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220402T164351Z" creationid="sitong" creationdate="20220402T164351Z">
-        <seg>"Mr. Hades, I..." E</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T164424Z" creationid="sitong" creationdate="20220402T164351Z">
+        <seg>"Mr. Hades, I..." Eiffie grabbed Mag's hands as her face flushed with gratefulness that she could not put into words.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5250,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T113021Z" creationid="sitong" creationdate="20220327T113021Z">
         <seg>"Miss Eiffie, when you brew your wine, is there white smoke and wine fragrance coming out?" Mag asked with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“埃菲小姐，别这样。”麦格收回了自己的小手，向后退了一步，“还有人在，不合适。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T164451Z" creationid="sitong" creationdate="20220402T164451Z">
+        <seg>"Miss Eiffie, don't do this." Mag retracted his hand and took a step back. "There are people around. This is inappropriate."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7990,6 +7998,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我……小姐我先去买菜了。”玛拉转身就走。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T164516Z" creationid="sitong" creationdate="20220402T164516Z">
+        <seg>"I... Young Mistress, I am going to buy some groceries." Mala turned to leave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我……就是随便问问。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -10018,6 +10034,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It's indeed rather special. Let's go marketing together some time." Mag chuckled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是有些晚了呢，我该回去给孩子们做饭了。”麦格抬手看了一眼表，说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T164539Z" creationid="sitong" creationdate="20220402T164539Z">
+        <seg>"It is getting a little late. I should be back to cook for the kids," Mag said as he looked at his watch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23522,6 +23546,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Eiffie wasn't defeated. She flicked her hair to the other side and revealed a charming smile again. With her lips curling up, she said, "I heard that the side dishes that you made are as nice as your liquors."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲也意识到自己好像有些失态了，脸蛋微红道：“实在太谢谢您了，哈迪斯先生，我刚刚太激动了，吓到您了吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T164613Z" creationid="sitong" creationdate="20220402T164613Z">
+        <seg>Eiffie realized that she seemed to have behaved inappropriately. She said with a blush, "I am really gratefu to you, Mr. Hades, I was too agitated just now. I must have scared you."</seg>
       </tuv>
     </tu>
     <tu>
