@@ -17102,6 +17102,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>「我与他进行接触，获得了天空岛下方封印被破坏的重要信息，此事与龙族中的冰霜巨龙族族长‘兰克斯特’有关，需要尽快找到他。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T182706Z" creationid="Longbell" creationdate="20220402T182706Z">
+        <seg>[I have an interaction with him and obtained an important information about the seal that was broken under the Sky Isle. This matter was related to the chief of the Frost Dragons, "Rankster". I need to find him as soon as possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>「暮光森林发现克苏鲁活动的痕迹，吸收亡者怨念，根据溯源追踪的结果判断，非克苏鲁本体所为，为其控制的傀儡。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220330T063954Z" creationid="sitong" creationdate="20220330T063954Z">
@@ -21554,6 +21562,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Lambay Street was indeed very boisterous, but it was also eliminated by Mag because it was too boisterous. In contrast, Romo Street behind Lambay Street was much quieter, and there were more shop choices. Mag was satisfied with it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>关于洛都城内的核动力事件，也有了最新进展，那是一台核动力印刷机引发的，此物为麦格·亚历克斯从一处地窟之中挖掘出来的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T182802Z" creationid="Longbell" creationdate="20220402T182802Z">
+        <seg>There is also a new development on the Rodu's nuclear incident. It was caused by a nuclear-powered printing machine. This item was dug by Mag Alex from an underground cavern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28082,6 +28098,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T090213Z" creationid="Longbell" creationdate="20220402T090213Z">
         <seg>Xi's expression turned solemn when she saw the black heavy sword that suddenly appeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>晞看着面前写到一半的观察者日志，思考了一会，默默删除了最后一句话，才继续写下去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T182541Z" creationid="Longbell" creationdate="20220402T182541Z">
+        <seg>Xi looked at the half-written Observer's Diary, pondered for a moment and deleted the last sentence before continuing.</seg>
       </tuv>
     </tu>
     <tu>
