@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25278,6 +25278,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>就算是缩小版的摩托车，对于艾米来说依旧是非常巨大的存在，这样就不可避免的出现了一些问题。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T134812Z" creationid="sitong" creationdate="20220402T134812Z">
+        <seg>Even the mini motorcycle was very big to Amy and that caused some unavoidable problems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>就这么一颗花生，一口粥，亚伯罕喝了三碗，才意犹未尽的结束了自己的早餐兼午餐。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27938,6 +27946,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>For example, rearing a piglet in preparation for the marinated ham, hatching an egg from a chicken, going to the mountains to pluck fresh tree mushrooms, and going down to the sea to catch fresh prawns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>比如因为腿太短，她没有办法自己踢掉支撑腿。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220402T135422Z" creationid="sitong" creationdate="20220402T135422Z">
+        <seg>For example, because her legs were too short, she was unable to kick the kickstand up. </seg>
       </tuv>
     </tu>
     <tu>
