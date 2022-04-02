@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1610,6 +1610,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"You can see the evil aura too?" Merante looked at Irina in shock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你从何处获得了这台印刷机？是外来文明吗？”晞的神情变得肃然。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T154958Z" creationid="Longbell" creationdate="20220402T154958Z">
+        <seg>"Where did you get this printing machine from? An alien civilization?" Xi's expression turned solemn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17998,6 +18006,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不过在诺兰大陆上发现一台核动力印刷机，在这个蒸汽机才刚刚开始应用的世界，实在有些太过突兀。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T154838Z" creationid="Longbell" creationdate="20220402T154838Z">
+        <seg>However, it was too weird to discover a nuclear-powered printing machine on the Norland Continent, which had only just started to use the steam engine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不过她在做菜上的天赋和魔法天赋成反比，差的一塌糊涂。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -22114,6 +22130,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The slightly crispy skin was wrapped around the pastry, forming layers of crispy texture that crumbled in the mouth as soon as she bit into it. The teeth easily bit open the red bean paste and egg yolk. The exquisite texture and taste made the little one sway left and right. Her two short legs swung gently, and her face had a satisfied expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>古老者的科技水平极高，核动力早已应用到生活中的许多方面，包括交通工具。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T154145Z" creationid="Longbell" creationdate="20220402T154145Z">
+        <seg>The Elder Things' technological advancements were extremely high. Nuclear power was already utilized in many areas of their lives, including transportations.</seg>
       </tuv>
     </tu>
     <tu>
