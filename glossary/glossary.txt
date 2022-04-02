@@ -2878,3 +2878,4 @@ DVD	DVD
 糊涂汤	cucumber soup
 重狙	bullpup assault rifle
 古老者	The Elder Things
+入侵者	invaders
