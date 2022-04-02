@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不，你见过克苏鲁，你已经脏了。”晞微微摇头，目光落到安妮的身上，眉头微蹙：“而她的身上同样有克苏鲁的气息，而且极为浓郁。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T080704Z" creationid="Longbell" creationdate="20220402T080704Z">
+        <seg>"No. You've met Cthulhu. You're already tainted." Xi shook her head slightly. Her gaze landed on Annie and she said with a frown, "She has the presence of Cthulhu on her too, and it's very intense."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“不，去接温妮莎，不必准备华服。”亚伯罕向着门外走去，“这家酒馆的下酒菜，她一定也会喜欢。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -8114,6 +8122,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I'll go take it." Amy ran upstairs, and came down with a picture book in a short while.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我只是一个卖酒的，听不懂你在说什么。”麦格尽量平静的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T080455Z" creationid="Longbell" creationdate="20220402T080455Z">
+        <seg>"I'm just a liquor seller. I don't understand what you are talking about." Mag tried to say as calmly as possible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24368,8 +24384,8 @@
       <tuv lang="zh-CN">
         <seg>安妮就在他身旁，艾米还在楼上，他没有办法退。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220402T080341Z" creationid="Longbell" creationdate="20220402T080341Z">
-        <seg>Annie was right next to him while Amy was upstairs. There was no way that he could retreat </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T080356Z" creationid="Longbell" creationdate="20220402T080341Z">
+        <seg>Annie was right next to him while Amy was upstairs. There was no way that he could retreat. </seg>
       </tuv>
     </tu>
     <tu>
