@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5570,6 +5570,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"She drank a little, and is slightly drunk, so she turned in early tonight," Mag said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“她是一个全新的生命，她与克苏鲁不同，她应该拥有正常生活的权力，像一个女孩一样。”麦格从一旁的柜台上拿起了那本美人鱼画册，直接抛向了晞，“以及拥有一个成为漫画家的梦想，这孩子在这方面有着非凡的天赋。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T143244Z" creationid="Longbell" creationdate="20220402T143244Z">
+        <seg>"She is a whole new lifeform. She's different from Cthulhu. She deserves the right to lead a normal life like any young girl." Mag picked up the Little Mermaid picture book on the counter and tossed it to Xi. "She also deserves to have a dream of becoming a comic artist. This child has an extraordinary talent in this area."</seg>
       </tuv>
     </tu>
     <tu>
@@ -14362,6 +14370,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>What the… Did he steal Boss Mag's spice sauce?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这件事目前只有你和我知道，如果可以的话，希望你能够替我保守这个秘密。”麦格看着晞，诚恳而认真道：“这世上没有无缘无故的恶，我希望她能够成为一个善良而有趣的姑娘。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T150521Z" creationid="Longbell" creationdate="20220402T150521Z">
+        <seg>"Only you and me knew about this matter now. If possible, I hope you can this secret for me." Mag looked at Xi and solemnly and sincerely, "There is no evil with a cause in this world. I hope she can become a kind and interesting young lady."</seg>
       </tuv>
     </tu>
     <tu>
@@ -24062,6 +24078,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>她想到了先前那女孩下楼时怀里抱着的那本画册，封面似乎有着一只兔子和一只乌龟，看起来也颇为可爱。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T144839Z" creationid="Longbell" creationdate="20220402T144839Z">
+        <seg>She recalled the picture book that the girl held when she came downstairs. It seemed to have a rabbit and a tortoise on the cover. It looked rather cute too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>她感受到了前所未有的压力，那是来自另一个女人的气场压制，甚至她的嘴角还挂着一丝微笑。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T074835Z" creationid="Longbell" creationdate="20220328T074835Z">
@@ -27530,6 +27554,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T083438Z" creationid="Longbell" creationdate="20220402T082541Z">
         <seg>Xi aimed her bullpup assault rifle at Mag and coldly said, "I'm Xi, from the Elder Things. I am not a god nor the sealed invaders. I'm an Observer and now, you're under arrest."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>晞接住画册，封面上的美人鱼应该来自兰蒂斯特族，画的非常精致美丽，将那美人鱼少女的俏皮与可爱表现的恰到好处。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T144058Z" creationid="Longbell" creationdate="20220402T144058Z">
+        <seg>Xi caught the picture book. The mermaid on the cover should have come from Lantisde. It was very exquisitely and beautifully drawn. The mermaid maiden's cuteness was perfectly displayed.</seg>
       </tuv>
     </tu>
     <tu>
