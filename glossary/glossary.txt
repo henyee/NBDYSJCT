@@ -2876,4 +2876,4 @@ DVD	DVD
 蒸馏设备	distillation equipment
 机械	machinery
 糊涂汤	cucumber soup
-重狙	bullpup assult rifle
+重狙	bullpup assault rifle
