@@ -2142,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你这一下，就有点皮。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T180209Z" creationid="Longbell" creationdate="20220402T180209Z">
+        <seg>"That's a little naughty of you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你这一声爹叫的，爸爸还是舒服的。”麦格点点头，“爸爸会努力干的。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -9522,6 +9530,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T100053Z" creationid="Longbell" creationdate="20220331T100053Z">
         <seg>Mag smilingly said to the woman, "Since you have already opened the tavern's door, please come in. I have meat and liquor and I wonder what is the story behind you, lovely maiden?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“既然存在高等文明，是不是意味着这个世界真的存在有神？只是藏身于我们未知的地方？所以他们能够通过一些方式与他们的继承者或者族人建立联系。”麦格疑惑道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T181331Z" creationid="Longbell" creationdate="20220402T181331Z">
+        <seg>"Since an advanced civilization existed, does it mean that there are really gods in this world? They are just hiding in places where we can't see them? That means they could communicate with their successors or people through certain means?" Mag mumbled questionably.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35386,6 +35402,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220322T060210Z" creationid="sitong" creationdate="20220322T060210Z">
         <seg>This was the difference between soup dumpling and normal dumplings. This was also the soul of the soup dumpling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这是系统按照麦格的要求准备的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T180244Z" creationid="Longbell" creationdate="20220402T180244Z">
+        <seg>They were prepared by the system as per Mag requested.</seg>
       </tuv>
     </tu>
     <tu>
