@@ -2112,8 +2112,8 @@
       <tuv lang="zh-CN">
         <seg>“你这个人，很不对劲。”晞的目光重新落到了麦格的身上，空着的右手上出现了一杆充满科技感的黑色重狙。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220402T074329Z" creationid="Longbell" creationdate="20220401T210333Z">
-        <seg>"There's something very wrong with you." Xi's gaze landed onto Mag again. A technological-looking black assult rifle appeared in her empty right hand.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T075354Z" creationid="Longbell" creationdate="20220401T210333Z">
+        <seg>"There's something very wrong with you." Xi's gaze landed onto Mag again. A technological-looking black bullpup assult rifle appeared in her empty right hand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27806,6 +27806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>没有支架，就这样被这个身材单薄的女人单手提着。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T075633Z" creationid="Longbell" creationdate="20220402T075633Z">
+        <seg>It didn't have a support and carried by the lean woman single-handedly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>法克部落，中央广场上停放着十数辆装载着各种物质的马车。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -37232,8 +37240,8 @@
       <tuv lang="zh-CN">
         <seg>麦格的眼皮狂跳了几下，那是一把比巴雷特更为夸张地重狙，硬朗的线条，犹如能够吸收光线的幽暗光泽。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220402T075301Z" creationid="Longbell" creationdate="20220402T075301Z">
-        <seg>Mag's eyelids twitched a few time,</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T075600Z" creationid="Longbell" creationdate="20220402T075301Z">
+        <seg>Mag's eyelids twitched a few times. That was a bullpup assult rifle that was even more exaggerated that the Barrett. Its hard lines seemed to be able to absorb the dark glow of the light.</seg>
       </tuv>
     </tu>
     <tu>
