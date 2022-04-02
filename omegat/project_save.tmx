@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30190,6 +30190,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千零七十一章 就算是神，我也杀给你看</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T140753Z" creationid="Longbell" creationdate="20220402T140753Z">
+        <seg>Chapter 2071: I Will Kill You Even If You Are  God</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千零七十五章 看来这系统也有些寒酸啊</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220401T172518Z" creationid="sitong" creationdate="20220401T172451Z">
@@ -31648,8 +31656,8 @@
       <tuv lang="zh-CN">
         <seg>而从她先前的反应来看，古老者对于克苏鲁以及其他被封印的旧日支配者，应该是有着极强的敌意的。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220402T083536Z" creationid="Longbell" creationdate="20220402T083434Z">
-        <seg>Furthemore, judging from her previous reaction, the Elder Things should have an very strong animosity towards Cthulhu and the other sealed Great Old Ones.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T140942Z" creationid="Longbell" creationdate="20220402T083434Z">
+        <seg>Furthemore, judging from her previous reaction, the Elder Things should have a very strong animosity towards Cthulhu and the other sealed Great Old Ones.</seg>
       </tuv>
     </tu>
     <tu>
