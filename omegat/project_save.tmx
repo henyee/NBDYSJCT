@@ -12142,6 +12142,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“目前来看，是存在这种可能。”系统答道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T181352Z" creationid="Longbell" creationdate="20220402T181352Z">
+        <seg>"Looking at it now, there is such a possibilty." The system answered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“直接去和安德烈谈判？”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -17034,6 +17042,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"The Little Mermaid."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>「……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T181357Z" creationid="Longbell" creationdate="20220402T181357Z">
+        <seg>[...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33506,6 +33522,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The peanut was chewed into pieces, and the fragrance woke Bobby up a little. He also became a little more talkative. He pulled Mag's hand, and started to tell him about his love story, no, scratch that, his brotherhood with the senior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>茅台酒极为美味，是地下城难寻的美酒。而且这家酒馆还有一款名为威士忌的酒，有着特别的烟味，习惯之后，同样令人着迷。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T181945Z" creationid="Longbell" creationdate="20220402T181449Z">
+        <seg>The Maotai liquor is very scrumptious. It's an exquisite liquor that can hardly be found in the Underground City. Furthermore, there is also another liquor called whiskey in this tavern. It has a unique smokey taste. After getting used to it, it's equally mesmerizing.</seg>
       </tuv>
     </tu>
     <tu>
