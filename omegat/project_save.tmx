@@ -16910,6 +16910,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一个年幼，但必定有着极高可塑性的存在。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T142012Z" creationid="Longbell" creationdate="20220402T142012Z">
+        <seg>A young, but a very malleable existence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一个幼年丧父，毫无酿酒经验的小姑娘，独自扛起了一家酒馆，而且做得风生水起，听起来是挺励志的。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T110005Z" creationid="sitong" creationdate="20220327T110005Z">
@@ -26386,6 +26394,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T144828Z" creationid="Longbell" creationdate="20220326T144828Z">
         <seg>Perhaps they were both outstanding brewers, or perhaps they both had wisdom and capability that differed from ordinary people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>或许她也有着漫长的生命和强大的身体。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T141856Z" creationid="Longbell" creationdate="20220402T141856Z">
+        <seg>Perhaps, she also had a long life and a powerful body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>或许她有着旧日支配者那样强大的能力。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220402T141834Z" creationid="Longbell" creationdate="20220402T141834Z">
+        <seg>Perhaps she had great power like the Great Old Ones.</seg>
       </tuv>
     </tu>
     <tu>
