@@ -2880,3 +2880,4 @@ DVD	DVD
 古老者	Elder Things
 入侵者	invaders
 重狙	assault rifle
+外来文明	alien civilization
