@@ -2877,5 +2877,5 @@ DVD	DVD
 机械	machinery
 糊涂汤	cucumber soup
 重狙	bullpup assault rifle
-古老者	The Elder Things
+古老者	Elder Things
 入侵者	invaders
