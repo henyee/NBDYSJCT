@@ -8886,6 +8886,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我的一共是52铜币，请找我48铜币。”艾米已经递出了自己的金币。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T093954Z" creationid="Longbell" creationdate="20220403T093954Z">
+        <seg>"Mine's a total of 52 copper coins. Please give me 48 copper coins back." Amy had already given the boss her gold coin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我的茅台酒和你这泰坦酒的酿造工艺有相似之处，所以我能看出你这套装置的问题。当然，你的酿造工艺上也可能有问题，不过我没有看过你酿酒，不好说。”麦格解释道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="jeremy" changedate="20220326T125522Z" creationid="jeremy" creationdate="20220326T125522Z">
@@ -12826,6 +12834,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Forget it. You won't understand even if I tell you. You don't even cook." That young maiden retracted her gaze disdainfully before nobly saying, "He is the idol of us chowhounds. A man who was born to transform the world of chowhounds."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“算算多少钱，我一起结账。”埃菲取出钱袋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T093535Z" creationid="Longbell" creationdate="20220403T093535Z">
+        <seg>"How much are they? I'll pay for them as well." Eiffie took out her money bag.</seg>
       </tuv>
     </tu>
     <tu>
