@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“其实安妮是那日我在封印混乱之城外那个魔鬼的时候，那魔鬼被雷电劈出来的一个纯粹的善良人格，那日我差点迷失在魔鬼的幻境之中，是她指引我方向，救了我一命。”麦格解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094614Z" creationid="sitong" creationdate="20220403T094614Z">
+        <seg>"Actually, Annie is a purely kind personality that the thunderstrike struck out from the Devil that day when I was resealing the Devil outside of Chaos City. I almost fell into the Devil's hallucination that day and she was the one who pointed the way out for me and saved me," Mag explained.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“其实我不认识她，就是中午的时候碰了个面，打了个招呼，她多半是看上我多财多亿，才故意来碰瓷的。”麦格解释道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -3642,6 +3650,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Ha, cutting your losses. You didn't even hesitate." A chuckle rang out in the cave, and a figure in a long silver dress slowly walked in from the entrance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“呵，果然你还是背着我在外面乱搞了吗？”伊琳娜的眉毛一竖，空气似乎都变得寒冷了几分。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094433Z" creationid="sitong" creationdate="20220403T094433Z">
+        <seg>"Heh. So you did play around behind my back?" Irina's eyebrows shot up and the air seemed to have gotten colder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6758,6 +6774,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“安妮就像艾米一样，都是我们的孩子，我不可能让她把她带走。所以我晓之以情，亮之以剑，将安妮留下。”麦格点头，但有点担忧道：“不过我觉得她可能没那么容易就放弃，毕竟从某种角度来说，在他们眼中，安妮也是魔鬼，哪怕是一个善良的魔鬼也不行。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T095030Z" creationid="sitong" creationdate="20220403T095030Z">
+        <seg>"Annie is just like Amy, they are both our children. I would never let her be taken away. Therefore, I used my sword and my reasons to keep Annie with me." Mag nodded. However, he said worriedly, "But I don't think she would give up so easily. After all, from a certain point of view, to them, Annie is also the Devil. They would not let her go even if she is a kind Devil."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“安妮画的可真好，而且速度好快，我才出去两三天，竟然已经画了三本画本了。”伊琳娜翻开着安妮的画本，有些惊讶道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220327T124411Z" creationid="Longbell" creationdate="20220327T123136Z">
@@ -7738,6 +7762,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"When war comes, the enemy will only attack any orc tribe they can attack. They will not distinguish between a pro-war tribe or pro-peace tribe." Connie looked at that orc with a shake of her head, and said, "No matter where we stand, we are firstly all orcs from the same race."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“当时我发现她就像是一个刚刚出生的孩子，单纯而善良，因为担心其他人伤害她，所以带她离开了封印之地，并且在后来决定将她收养。她是一个善良的孩子，你知道的。”麦格表情认真道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094722Z" creationid="sitong" creationdate="20220403T094722Z">
+        <seg>"Back then, I realized she was just like a newborn child. She's very pure and kind. I was afraid that others would harm her so I brought her out of the sealed land and decided to keep her. She is a kind child. You know it," Mag asid sriously.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8762,6 +8794,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Should I cheer happily?" Mag cocked his eyebrow a little, but he was still rather happy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我很欣慰，你把她留下了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094912Z" creationid="sitong" creationdate="20220403T094906Z">
+        <seg>"I'm glad you kept Annie with you."</seg>
       </tuv>
     </tu>
     <tu>
@@ -10458,6 +10498,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Yes. She came to resign, but I didn't accept it. I kept her position, and she can come back whenever she wants to." Miya nodded and patted Yabemiya's head. Smiling, he said, "Don't worry. She's only going out for a break. Someone like her is never going to stay put in one place. She belongs to the world out there."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是的，安妮是个好孩子。”伊琳娜点头，略一思索，道：“所以昨日那个女人找上门来，也发现了安妮？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094800Z" creationid="sitong" creationdate="20220403T094800Z">
+        <seg>"Yes. Annie is a good child." Irina nodded. She thought for a while and said, "So that woman came yesterday and also discovered Annie?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16158,6 +16206,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“那安妮她……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094619Z" creationid="sitong" creationdate="20220403T094619Z">
+        <seg>"In that case Annie is..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“那小鬼，过来给老爷们倒酒。”一个大腹便便的中年官员指着柜台后边坐着的艾米说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -16410,6 +16466,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"How many customers is that?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那是怎样？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094456Z" creationid="sitong" creationdate="20220403T094456Z">
+        <seg>"Then what is it like?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -38942,6 +39006,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格点头：“是的，古老者对于魔鬼的气息似乎有独特的探查方法，她一眼就看出了安妮的不同，并且提出要将安妮带回去研究的要求。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094854Z" creationid="sitong" creationdate="20220403T094854Z">
+        <seg>Mag nodded. "Yes. The Elder Things seemed to have a unique way of seeking out the Devil's aura so she could tell straightaway that Annie was different. She even wanted to bring Annie back for research."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格点开面食大礼包，里边有：灌汤包、刀削面、热干面、红油抄手！</seg>
       </tuv>
       <tuv lang="en-US">
@@ -39819,6 +39891,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag quickly helped her up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格连忙摆手：“不不不，不是这样的！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094449Z" creationid="sitong" creationdate="20220403T094449Z">
+        <seg>Mag quickly waved his hands. "No, no, no, it's not like that!"</seg>
       </tuv>
     </tu>
     <tu>
