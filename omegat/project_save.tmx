@@ -26822,6 +26822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>巨蛇方向一转，紧随着麦格飞去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T134922Z" creationid="Longbell" creationdate="20220403T134922Z">
+        <seg>The giant snake turned and followed Mag closely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>已对其进行标注，将持续追踪观察。】</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T103505Z" creationid="Longbell" creationdate="20220401T103505Z">
@@ -36282,6 +36290,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The system provided this brewery's blueprint. It was built exactly according to a modern brewery's plan. Only its architectural facade used this world's popular style, and looked a little like a European winery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这巨蛇乍一看像是某种魔兽，但它身上的魔气才是让麦格在意的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T135112Z" creationid="Longbell" creationdate="20220403T135112Z">
+        <seg>That giant snake looked some kind of magic beast, but the evil aura on it was what Mag was most concerned about.</seg>
       </tuv>
     </tu>
     <tu>
