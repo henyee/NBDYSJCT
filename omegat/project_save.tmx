@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你护着两个孩子，我先把那家伙从这里带走。”麦格和伊琳娜说了一声，往脸上套了一个面具，闪身出了门。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T125818Z" creationid="Longbell" creationdate="20220403T125818Z">
+        <seg>"You'll protect the two children while I lure this fellow away from here." Mag said to Irina before putting on a mask and darted out of the door.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你撒开。”伊琳娜拿开麦格的手，开始打量着梅兰特。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -10998,6 +11006,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“本系统是辅助小主的，本身不能对任何生物发起攻击。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T125631Z" creationid="Longbell" creationdate="20220403T125631Z">
+        <seg>"This System is to assist little mistress. I can't launch an attack on any creature."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“机械吗？什么是机械？”麦格一脸疑惑，表现出了一个异界人民该有的认知水准。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T122003Z" creationid="Longbell" creationdate="20220401T122003Z">
@@ -16302,10 +16318,26 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“那你可以吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T125604Z" creationid="Longbell" creationdate="20220403T125604Z">
+        <seg>"Then, can you handle it?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“那你尝尝这个。”麦格把刚调好的那份酱汁拿到艾米面前。</seg>
       </tuv>
       <tuv lang="en-US">
         <seg>"Try this, then." Mag placed a plate of sauce in front of Amy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那你就是打不过，笨蛋。”艾米翻了个白眼，不禁有些担心父亲大人和母亲大人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T125726Z" creationid="Longbell" creationdate="20220403T125716Z">
+        <seg>"That means you're not his match, idiot." Amy rolled her eyes. She couldn't help feeling worried about her father and mother.</seg>
       </tuv>
     </tu>
     <tu>
