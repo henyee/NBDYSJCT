@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1546,6 +1546,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Noya put the unconscious Merante on his back as he asked Mag worriedly, "Beside…? Won't we be found out?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“何方妖孽，敢在我洛都城内闹事！”领头的十级骑士手握重剑，看着被冰墙挡住的黑色大蛇厉声喝道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T145215Z" creationid="Longbell" creationdate="20220403T145215Z">
+        <seg>The 10th-tier knight in the lead yelled at the giant black snake that blocked by an ice wall, "What beast are you? How dare you wreck havoc in our Rodu city!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19526,6 +19534,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不过这里距离皇宫非常近，麦格已经感受到几道强者的气息正在向这边靠近。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T141232Z" creationid="Longbell" creationdate="20220403T141232Z">
+        <seg>However, they were very close to the royal palace, so Mag could already sense a few powerhouses' presence approaching them right now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不过进这家酒馆是约瑟夫大人决定的，作为法部的二把手的约瑟夫是临时加入他们这个酒局的，奥尔登自然不好拒绝。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -22562,6 +22578,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The other customers also grumbled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>其余两位魔法师和骑士神情也是格外凝重，这段时间洛都城内聚集了二三十位十级强者，并且被要求随时待命。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T145320Z" creationid="Longbell" creationdate="20220403T145320Z">
+        <seg>The other two magic caster and knight also had a solemn expression. 20 to 30 10th-tier powerhouses had congregated in Rodu recently and they were asked to standby at all times.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35942,6 +35966,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>还没等出城，那条大蛇便已被两位赶到的十级骑士和一位大魔法师拦住。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T141605Z" creationid="Longbell" creationdate="20220403T141605Z">
+        <seg>Before they could get out of the city, that giant snake was intercepted by two 10th-tier knights and one great magic caster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这一击，等于是直接宣告了乔修的社会性死亡。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -39110,6 +39142,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格带着巨蛇摧毁了几个部门的办事处，然后选了一条人少的路线，掉头向着城外的方向而去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T141346Z" creationid="Longbell" creationdate="20220403T141346Z">
+        <seg>Mag led the giant snake around and destroyed the offices of a few ministeries before choosing a lesser crowded route and went towards the exterior of the city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格帮伊琳娜往清汤锅里先丢了一盘各种菌类，这是她最喜欢的吃法。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -40875,6 +40915,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag flipped through the picture albums on the shelves casually as he chitchatted with the boss. He was thinking about the probability of transforming the teaching tutorials into picture albums.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格隐匿了气息，在不远处停下看戏。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T145047Z" creationid="Longbell" creationdate="20220403T145022Z">
+        <seg>Mag concealed his aura and stopped to watch the show close by. </seg>
       </tuv>
     </tu>
     <tu>
