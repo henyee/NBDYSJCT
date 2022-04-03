@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7210,6 +7210,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Miss, why don't we increase our liquor's prices too? Our customers' minimum spending is not even 100 copper coins?" the maid asked perplexedly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“小姐，哈迪斯先生教您酿泰坦酒……那他不是也学会了吗？”正在烧火的玛拉抬头看着埃菲说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T102050Z" creationid="sitong" creationdate="20220403T102050Z">
+        <seg>"Young Mistress, Mr. Hades taught you how to brew</seg>
       </tuv>
     </tu>
     <tu>
@@ -30818,6 +30826,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Compared to the ordinary citizens, it would be easier to create bigger trouble when he targeted the court officials.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>相比于泰坦酒原本复杂的工艺，和不太好控制的蒸馏设备，经过麦格改进的工艺变得简洁了许多，蒸馏设备的使用也是变得轻松简单。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T101949Z" creationid="sitong" creationdate="20220403T101949Z">
+        <seg>Compared to the complex workflow of the original Titan Liquor, and the distillation equipment that was difficult to control, Mag's improved workflow and made things much simpler and the new distillation equipment was also easier to operate.</seg>
       </tuv>
     </tu>
     <tu>
