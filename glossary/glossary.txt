@@ -2883,3 +2883,5 @@ DVD	DVD
 外来文明	alien civilization
 地下城	Underground City
 早餐店	breakfast shop
+飞船	spaceship
+追踪器	tracking device
