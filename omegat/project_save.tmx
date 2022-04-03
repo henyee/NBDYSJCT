@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1214,6 +1214,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“从这方面来说，是这样的。”麦格点头，看了眼楼梯口的方向，两个孩子这会应该还在楼上玩耍。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094314Z" creationid="sitong" creationdate="20220403T094314Z">
+        <seg>"In this sense, it is like that." Mag nodded. He looked towards the staircase. The two children should still be playing upstairs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“从龟甲石的微弱反应来看，方向是没有错的，只是轨迹很混乱，想要找到他不容易。”梅兰特闭着眼睛悠悠道，龟甲石悬浮在他的面前轻轻转动。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -2414,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“关于安妮的来历，抱歉我对你撒了谎。”麦格有些歉然道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094408Z" creationid="sitong" creationdate="20220403T094408Z">
+        <seg>"It's concerning Annie's origin. I'm sorry, I lied to you," Mag said apologetically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“关关关，我关你老母啊！”就在这时，一道骂咧咧的声音从角落里响起，一道肥壮的身影从角落里冲了过来，啪的一下，扬手将一盘吃了一半的凉拌猪耳朵就盖在了奥尔登的脸上。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -3498,6 +3514,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag opened his eyes, and mumbled to himself, "There's indeed a huge difference between passable and perfection. The system is rarely so magnanimous."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“后来呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T085553Z" creationid="sitong" creationdate="20220403T085553Z">
+        <seg>"What happened after that?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,6 +5762,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T143244Z" creationid="Longbell" creationdate="20220402T143244Z">
         <seg>"She is a whole new lifeform. She's different from Cthulhu. She deserves the right to lead a normal life like any young girl." Mag picked up the Little Mermaid picture book on the counter and tossed it to Xi. "She also deserves to have a dream of becoming a comic artist. This child has an extraordinary talent in this area."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“她的目标是魔鬼，我们的目标也是魔鬼，在某种角度上来说，我们可以是朋友。而且她也没有绝对的把握在杀死了我之后，还能安然走出酒馆，所以我们就和谈了，并且建立了联系。”麦格掏出了晞交给他的通讯设备，一台能够进行语音通话的手机。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094157Z" creationid="sitong" creationdate="20220403T094056Z">
+        <seg>"Her goal is the Devil and so is ours. In some way, we are friends. Besides, she was not confident of walking out of the tavern safely after killing me. Therefore, we negotiated and built a connection." Mag pulled out the communication device that Xi passed to him. It was a a phone that could do voice calls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14350,6 +14382,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“还有一件很重要的事情，我觉得有必要告诉你。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094326Z" creationid="sitong" creationdate="20220403T094326Z">
+        <seg>"I have nother important thing I feel I have to tell you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“还有下酒菜吗？”伊琳娜有点意外，不过还是提着酒瓶走到一旁的桌子坐下。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -21018,6 +21058,22 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Irina turned to look at him. She suddenly pinched his face, and a smile blossomed on that exquisite face. "I'm happy."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜抬手布置了一个隔音罩。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094345Z" creationid="sitong" creationdate="20220403T094338Z">
+        <seg>Irina raised her hand and formed a soundproof barrier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜拿着那台通讯机打量了一会，说道：“如果他们的目标也是魔鬼，这对我们来说似乎不算坏事，好过我们无头苍蝇一样找不到乔修和逃离封印的魔鬼的位置。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T094239Z" creationid="sitong" creationdate="20220403T094239Z">
+        <seg>Irina looked at the device and said, "If their goal is the Devil, this does not seem like a bad thing to us. It's better than us being headless flies tryin to find Joey and the escaped Devil."</seg>
       </tuv>
     </tu>
     <tu>
