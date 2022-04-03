@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9826,6 +9826,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T181331Z" creationid="Longbell" creationdate="20220402T181331Z">
         <seg>"Since an advanced civilization existed, does it mean that there are really gods in this world? They are just hiding in places where we can't see them? That means they could communicate with their successors or people through certain means?" Mag mumbled questionably.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“既然这个世界还有更高的上限，那我会变得比现在更强大，不会再让任何人威胁我们。”麦格神情认真的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T100654Z" creationid="sitong" creationdate="20220403T100654Z">
+        <seg>"Since there is an even higher upper limit in this world, I will become stronger than I am now so that no one can threaten us again," Mag said with a serious expression.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24290,6 +24298,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Eiffie murmured, "With such excellent liquor, not to mention Romo Street, Saipan Tavern would even have a place in the entire taverns' world in Rodu."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲在酿酒坊里忙碌着，按照麦格教授的方法，加上自己这些年的钻研，已经迫不及待的开始用新的设备酿造第一炉泰坦酒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T101314Z" creationid="sitong" creationdate="20220403T101314Z">
+        <seg>Eiffie was busying in the brewery, trying to make the first Titan Liquor using the new apparatus based on what Mag had taught her and what she had gained from her years of experience.</seg>
       </tuv>
     </tu>
     <tu>
