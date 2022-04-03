@@ -14982,6 +14982,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是一个危险的世界，但危险中充满了机遇。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T065748Z" creationid="Longbell" creationdate="20220403T065748Z">
+        <seg>"This is a dangerous world, but there are plenty of opportunities amidst the danger."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是一个简易的单向传送阵，可以用来传送一些物品，之后的饭菜我都会通过这个传送阵送到你们这里，避免过多来往引起不必要的关注。”麦格摆弄好那传送阵，笑着解释道。</seg>
       </tuv>
       <tuv lang="en-US">
