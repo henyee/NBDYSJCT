@@ -3718,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“吾乃克苏鲁……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T163322Z" creationid="Longbell" creationdate="20220403T163322Z">
+        <seg>"I am Cthulhu..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“呕~~~”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -18702,6 +18710,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>下一瞬间，麦格出现在它的头顶之上，手握重剑，重重拍下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T163426Z" creationid="Longbell" creationdate="20220403T163426Z">
+        <seg>In the very next instant, Mag appeared above its head with his heavy sword and smacked down hard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>下令攻击兽人族和精灵族那日，他刚好因为身体原因告假在家，所以躲过了这场灾祸。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26166,6 +26182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>它刚开口，麦格已是消失在狮鹫背上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T163350Z" creationid="Longbell" creationdate="20220403T163350Z">
+        <seg>Mag had already disappeared from the griffin's back as soon as it started talking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>它是如此的迷人，如此让人难以抗拒。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T093433Z" creationid="Longbell" creationdate="20220401T093433Z">
@@ -27258,6 +27282,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T134922Z" creationid="Longbell" creationdate="20220403T134922Z">
         <seg>The giant snake turned and followed Mag closely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>巨蛇轰然落地，砸翻了一大片竹子，在地上砸出了一个深坑。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T163520Z" creationid="Longbell" creationdate="20220403T163520Z">
+        <seg>The giant snake crashed to the ground, leveling a big patch of bamboo and making a deep crater on the ground.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35978,6 +36010,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>In the blink of an eye, there were only three or four customers left in the tavern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>轰！！！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T163432Z" creationid="Longbell" creationdate="20220403T163432Z">
+        <seg>Boom!!!</seg>
       </tuv>
     </tu>
     <tu>
