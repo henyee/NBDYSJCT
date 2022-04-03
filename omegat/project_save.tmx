@@ -9470,6 +9470,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“或许有这种可能……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T141113Z" creationid="sitong" creationdate="20220403T141113Z">
+        <seg>"There might be this possibility..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“战争有什么好的，我看那洛斯帝国的国王就是脑子坏了。”那兽人嘟囔了一句，拿起酒杯一饮而尽，闷着不开腔了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -12594,6 +12602,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Is that the wrong spell?! How can you use the Holy Light for treatment?! You should use your healing magic!" Noya exclaimed in shock. He went up immediately, wanting to stop Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“由古老者管控的地下世界似乎秩序井然，而诺兰大陆却任由各种族征战，完全是养蛊模式啊。那各族所谓的神灵又在哪里？天上？还是地下？”麦格继续思考。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T141727Z" creationid="sitong" creationdate="20220403T141727Z">
+        <seg>"The underground world managed by the Elder Things seemed to be very orderly. Meanwhile, in Norland Continent, the various races were allowed to go on war freely. This is some bewitching going on. I that case, where are the so-called gods of the various races? In the sky? Or underground?" Mag continued to ponder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32498,6 +32514,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T113625Z" creationid="sitong" creationdate="20220403T113625Z">
         <seg>The System fell silent for a while and said, "This is a very normal technical difficulty. It happens even in advanced civilizations. As a fake engineer, you should be able to understand this."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>系统沉默良久。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T141105Z" creationid="sitong" creationdate="20220403T141105Z">
+        <seg>The System fell silent for a very long time.</seg>
       </tuv>
     </tu>
     <tu>
