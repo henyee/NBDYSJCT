@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It's a total of 264 copper coins…" Amy was already done with the calculations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“一半？”埃菲瞪眼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T094729Z" creationid="Longbell" creationdate="20220403T094729Z">
+        <seg>"Half?" Eiffie glared.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不少了。”埃菲连忙摇头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T094814Z" creationid="Longbell" creationdate="20220403T094814Z">
+        <seg>"It's not." Eiffie quickly shook her head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“不应该啊，无论从哪个角度看，在这场夺嫡之争，乔修都还有一半的胜率，他又何必在陛下尚未作出选择之前，作出这等蠢事？”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -490,6 +506,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"No, Royal Mother has not been able to eat anything recently, either. I want to bring some back for her as appetizers." Vanessa shook her head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不是，这里有一半是我要吃的呢。”艾米摇摇头说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T094722Z" creationid="Longbell" creationdate="20220403T094722Z">
+        <seg>"No. Half of them are for me." Amy shook her head.</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +706,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"But, since you're so interested in the tavern there, why didn't you sit at their doorstep?" Mag asked curiously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不过，是哈迪斯先生让你出来买早餐的吗？”埃菲看着艾米问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T095538Z" creationid="Longbell" creationdate="20220403T095538Z">
+        <seg>"However, did Mr. Hades let you come here to buy breakfast?" Eiffie asked Amy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4922,6 +4954,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Mm-hmm. Did you put me on the floor to sleep?" Irina turned to look at Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“嗯，有点少是吧。”艾米也是露出了思考之色。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T094758Z" creationid="Longbell" creationdate="20220403T094758Z">
+        <seg>"Yes. It's too little, right?" Amy revealed a thoughful expression.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29686,6 +29726,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>洛都的治安，并没有表面看起来那么好。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T095912Z" creationid="Longbell" creationdate="20220403T095912Z">
+        <seg>Rodu's public safety wasn't as good as it looked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>洛都这座城市，在亚历克斯的记忆中并不是什么陌生的城市。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34366,6 +34414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>虽然这家早餐店距离不远，但让小艾这么小的小姑娘一个人出来买早餐，也实在是太不靠谱了，要是碰到坏人的话，可就糟糕。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T095819Z" creationid="Longbell" creationdate="20220403T095819Z">
+        <seg>Although this breakfast shop was not far, it was still too unsafe to let such small girl like Ay to come out to get breakfast alone. It would be horrible if she met some bad people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>虽然这段时间小家伙一直忙于魔法修炼和餐厅的一些事情，但依旧还是那个心系小伙伴的小可爱啊。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -35634,6 +35690,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The atmosphere in the palace had been rather suppressive recently, and Vanessa was very smart. Therefore, what happened to Josh could not be kept from her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这半袋食物，是她好几天的早餐的量了，小家伙竟然还嫌少。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T095406Z" creationid="Longbell" creationdate="20220403T095406Z">
+        <seg>Half of the bag of food was a few days' worth of breakfast for her and yet the little one still thought they were not enough.</seg>
       </tuv>
     </tu>
     <tu>
