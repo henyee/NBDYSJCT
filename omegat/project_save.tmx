@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5518,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“外面出现了一个强大而可怕的不明生物，请小主务必苟住！”系统连忙答道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T102100Z" creationid="Longbell" creationdate="20220403T102100Z">
+        <seg>"An unknown powerful and terrifying creature has appeared out there. Please remained indoors, little mistress." The system quickly answered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“多好的黄瓜啊，丢了多可惜。”艾米端着盆就走了，一遍嚼着拍好的黄瓜，一边道：“那这些就交给我吧，我会把他们全部吃完的。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -10070,6 +10078,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是不同于诺兰大陆任何有记录的种族的未知生物，实力强大，不是小主目前能够应对的存在。”系统答复道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T125552Z" creationid="Longbell" creationdate="20220403T125552Z">
+        <seg>"It's an unknown creature that is different from any recorded species on the Norland Continent. It's very powerful. It's not a being that little mistress can handle." The system answered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是不是想招个伶俐的服务员啊？”伊琳娜从楼梯上走下来，笑吟吟的说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -10450,6 +10466,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Yes. Boss Mag not only cooks well, he's also excellent at writing cooking tutorials. I even wonder if he has written food reviews before? Did he have another identity?" Garlan concurred.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是坏蛋吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T102113Z" creationid="Longbell" creationdate="20220403T102113Z">
+        <seg>"Is it a bad egg?"</seg>
       </tuv>
     </tu>
     <tu>
