@@ -7216,8 +7216,8 @@
       <tuv lang="zh-CN">
         <seg>“小姐，哈迪斯先生教您酿泰坦酒……那他不是也学会了吗？”正在烧火的玛拉抬头看着埃菲说道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220403T102050Z" creationid="sitong" creationdate="20220403T102050Z">
-        <seg>"Young Mistress, Mr. Hades taught you how to brew</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T102134Z" creationid="sitong" creationdate="20220403T102050Z">
+        <seg>"Young Mistress, Mr. Hades taught you how to brew Titan Liquor... in that case wouldn't he also have learned how to brew it too?" Mala, who was raising the fire asked Eiffie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10074,6 +10074,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Am I right, System?" Amy didn't forget to ask.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是哦，哈迪斯先生聪明又能干，就是快了些。”玛拉点点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T102345Z" creationid="sitong" creationdate="20220403T102345Z">
+        <seg>"That's true. Mr. Hades is smart and capable. It's just a pity he was taken too early." Mal nodded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24650,6 +24658,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T160728Z" creationid="sitong" creationdate="20220325T160728Z">
         <seg>Eiffie took a new glass and poured the wine out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲闻言一愣，旋即笑着道：“哈迪斯先生酿造的茅台酒不比泰坦酒差，以他的才智，要是真的贪图我们的泰坦酒，又何必帮我们设计和建造这个酿酒坊。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T102240Z" creationid="sitong" creationdate="20220403T102053Z">
+        <seg>Eiffie was stunned when she heard that. After that, she said with a smile, "Mr. Hades's maotai isn't any worse than the Titan Liquor. With his intelligence and talents, if he really was after the Titan Liquor, why would he help us with designing and building this brewery?" </seg>
       </tuv>
     </tu>
     <tu>
