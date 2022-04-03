@@ -24334,6 +24334,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>嘶——</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T151103Z" creationid="Longbell" creationdate="20220403T151103Z">
+        <seg>Sss—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>嘶！</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T064532Z" creationid="sitong" creationdate="20220325T064532Z">
@@ -27954,6 +27962,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Have you not heard a thing?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>悬浮在半空之中的巨蛇，足有百米长，它长着三个可怖的脑袋，后背长着一对巨大的蝠翅，简直是丑陋和恐怖的化身。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T151059Z" creationid="Longbell" creationdate="20220403T151059Z">
+        <seg>The giant snake that was hovering in midair was over 100 meters long. It had three scary heads and a pair of giant bat wings behind its back. It was exactly the incarnation of ugliness and scariness.</seg>
       </tuv>
     </tu>
     <tu>
