@@ -21974,6 +21974,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>你听听，这还是人话吗。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T103433Z" creationid="sitong" creationdate="20220403T103433Z">
+        <seg>Just listen to that. Did that even sound like what a human would say?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>你看，洛都人民就是这么实诚。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -37466,6 +37474,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220402T164014Z" creationid="sitong" creationdate="20220402T164014Z">
         <seg>Other than that, Mag even did some improvements to the brewing method for the Titan Liquor based on his experience and taught it to Eiffie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>随着塞班酒馆靠着口碑逐渐积累起了名气，距离1000人气值只差121点。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T103710Z" creationid="sitong" creationdate="20220403T103710Z">
+        <seg>As the Saipan Tavern slowly rose in popularity, it was only left with 121 points to reach the 1000 point popularity goal.</seg>
       </tuv>
     </tu>
     <tu>
