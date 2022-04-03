@@ -2885,3 +2885,4 @@ DVD	DVD
 早餐店	breakfast shop
 飞船	spaceship
 追踪器	tracking device
+奥特曼	Ultraman
