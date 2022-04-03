@@ -13758,6 +13758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“联手拦住它，等待支援！”领头的骑士沉喝一声，一脚踏在地上，身形消失在原地，转眼出现在那巨蛇的上方，手中长剑已然出鞘，挥斩而下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T152412Z" creationid="Longbell" creationdate="20220403T152412Z">
+        <seg>"Let's join forces to stop it and wait for reinforcement!" The leading knight roared. He stomped onto the ground with one leg and disappeared. He reappeared about the snake in an instant and his longsword was already withdrawn. He slashed downwards at it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“肥瘦均匀才是好食……好鸭子，赶紧行动起来，我会在后边盯着你哦。”艾米神情认真，不容拒绝。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -23874,6 +23882,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>All the bosses were also looking at Mag laughingly. Although there was a hint of schadenfreude, they didn't have too much malice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>同时三个蛇头同时张开嘴巴，向着下方吐出了三颗巨大的火球。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T152233Z" creationid="Longbell" creationdate="20220403T152233Z">
+        <seg>At the same time, the three snake heads opened their mouths and spat out three giant fireballs.</seg>
       </tuv>
     </tu>
     <tu>
