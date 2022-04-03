@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4482,6 +4482,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Drunk? She recalled taking a bottle of wine from the wine closet last night. After that, she drank a little alone, and got drunk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“喵~”丑小鸭抬头有点幽怨的叫了一声。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T084130Z" creationid="Longbell" creationdate="20220403T084130Z">
+        <seg>"Meow~" Ugly Duckling looked up and called out aggrievedly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9998,6 +10006,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是啊，小艾怎么一个人出发来买早餐呢？”埃菲笑着摸了一下艾米的头，小家伙长得太可爱了，嘴巴也甜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T093134Z" creationid="Longbell" creationdate="20220403T093134Z">
+        <seg>"Yes. Why is Little Amy out buying breakfast alone?" Eiffie patted Amy's head. This little one looked so cute and she was a sweet talker too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是啊，就这些了。”麦格点头，上前在伊琳娜对面坐下，先给她倒了杯水，然后扯开话题道：“还有件重要的事情要和你说。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T084354Z" creationid="sitong" creationdate="20220403T084354Z">
@@ -11338,6 +11354,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It's alright. Having hot pot will not affect our discussion," Irina said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没关系，它自己可以的。”艾米随手就把丑小鸭给丢了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T084035Z" creationid="Longbell" creationdate="20220403T084035Z">
+        <seg>"It's fine. It can walk by itself." Amy tossed Ugly Duckling aside.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13042,6 +13066,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"The boss is in big trouble now…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“老板，东西给我吧，这是我们家对面新开的塞班酒馆老板的女儿，我帮她提回去，顺便给我用碗盛三碗糊涂汤，一会我让玛拉帮你送回来的。”这时，一道温柔的声音从身后响起。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T084443Z" creationid="Longbell" creationdate="20220403T084443Z">
+        <seg>"Boss, give the things to me. This is the daughter of the boss of the newly opened Saipan Tavern across my place. I'll help her carry them back. Give me three bowls of cucumber soup too. I'll get Mala to send the bowls back to you later." Right then, a gentle voice spoke up behind them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16826,6 +16858,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Erm…" Eiffie looked taken aback..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“额……”老板还是有些犹豫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T084155Z" creationid="Longbell" creationdate="20220403T084155Z">
+        <seg>"Erm..." The boss was still a little hesitant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24734,6 +24774,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>她家大人也真是心大，这么漂亮的小姑娘让她一个人出门，要是被人偷走，非得哭死不可。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T083633Z" creationid="Longbell" creationdate="20220403T083633Z">
+        <seg>The adults in her family were also quite careless. How could they let such a pretty little girl come out by herself? What if she got stolen? They would cry their hearts out then.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>她已经很多年没有吃到这么难吃的东西了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32230,6 +32278,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>老板按照艾米的要求把各种食物装好，却没有盛汤，看着艾米笑眯眯的说道：“小姑娘，汤可带不走哦，而且这些东西太多了，还是让你家大人来拿吧，你还要抱着可爱的小熊呢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T084016Z" creationid="Longbell" creationdate="20220403T084016Z">
+        <seg>The boss packed all the food that Amy requested, but he didn't pack the soup. He smilingly said to Amy, "Little girl, it's not easy to bring the soup away and you have carry a lot of things with you. Get your adults here to bring them away. Besides, you still have to carry your cute little bear."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>老板接过钱，笑着道：“客官瞧您这话说的，刚刚有个小伙子可就套走了两只呢，咱们这鹅可是好鹅。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33458,6 +33514,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Amy and Annie played a lot of games before stopping in front of a snack street. They turned around to ask Mag, "It's so fun here, but I'm a little hungry now, so where do we go for lunch?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米回头，看着埃菲恍然道：“是你啊，漂亮姐姐。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T093002Z" creationid="Longbell" creationdate="20220403T093002Z">
+        <seg>Amy turned back and said with realization when she saw Eiffie, "It's you, pretty big sister."</seg>
       </tuv>
     </tu>
     <tu>
