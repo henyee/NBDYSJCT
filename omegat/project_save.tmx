@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24446,6 +24446,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>地底世界住着的是古老者和旧日支配者的仆从种族，那天上住着的是什么？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T140950Z" creationid="sitong" creationdate="20220403T140950Z">
+        <seg>If the Elder Things and the servant race of the Great Old Ones are in the underground world, what is living in the sky?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>地面突然停止了颤动，在那石柱之上，出现了一张残缺的脸，用奇怪的音调与梅兰特交流了几句，不过很快便消散。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -29094,6 +29102,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>有着高级文明的古老者，不可能把自己放在暗无天日的地下世界受苦受难，说明所谓的地下世界或许和我们思维中的地下世界完全不同。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T140844Z" creationid="sitong" creationdate="20220403T140844Z">
+        <seg>It would be impossible for the Elder Things, which were from an advanced civilization would not put themselves in the dark underground to suffer. This meant that the underground world would probably be completely different from what we thought it to be.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>望天。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -31800,8 +31816,8 @@
       <tuv lang="zh-CN">
         <seg>第二千零七十九章 千层饼的世界</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220403T111654Z" creationid="sitong" creationdate="20220403T111654Z">
-        <seg>Chapter 2079: The World Of The Thousand Layer Cake</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T135223Z" creationid="sitong" creationdate="20220403T111654Z">
+        <seg>Chapter 2079: A Thousand Layer Cake World</seg>
       </tuv>
     </tu>
     <tu>
@@ -32702,6 +32718,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>结束了追踪话题，麦格依旧对地下城念念不忘，思考了一会，突然灵光一闪道：“系统，你说这个世界会不会是立体的，就像是一个千层饼一样？我们觉得自己在第一层，其实我们在第二层，地下还有一层，天上可能还有一层。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T135259Z" creationid="sitong" creationdate="20220403T135212Z">
+        <seg>After the conversation about tracking had ended, Mag was still thinking abou the underground. He thought for a while and said, with a sudden epiphany, "System, do you think it's possible for this world to be 3D, like a thousand layer cake? We think we're actually on the first layer, but we're actually at the second layer. There's a layer underground, and a layer in the sky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>结果……</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33570,6 +33594,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Meanwhile, it was much more complicated to make the salted egg yolk pastry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而诺兰大陆的天空是有上限的，那会不会是上一个世界的底盘？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T140911Z" creationid="sitong" creationdate="20220403T140911Z">
+        <seg>On top of that, there is a upper limit to the sky of the Norland Continent. Would that be the bottom of the world up there?</seg>
       </tuv>
     </tu>
     <tu>
@@ -39394,6 +39426,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Recently, Mag did not have any hobbies other than listening to drunk customers and chatting with them. For example, about Blum, who was killed by him and Irina, or about how the courtiers were feeling recently and what they thought of Josh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格有些兴奋，感觉自己好像即将接触到这个世界的本质，就像当年麦哲伦证明世界是圆的时候一样。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T141056Z" creationid="sitong" creationdate="20220403T141056Z">
+        <seg>Mag was getting a little excited. He felt that he seemed to have touched the essence of this world, just like how Ferdinand Magellan proved that the world was round.</seg>
       </tuv>
     </tu>
     <tu>
