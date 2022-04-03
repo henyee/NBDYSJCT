@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5194,6 +5194,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Hush. I brought you guys goodies." Pasa took out the peanuts and sweets Boss Mag had packed for him, and passed them to his three children.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“嘶~嘶——”巨蛇吐舌，俯身向着麦格冲来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T134250Z" creationid="Longbell" creationdate="20220403T134250Z">
+        <seg>"Sss~sss—" The giant snake hissed and dashed downwards at Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11418,6 +11426,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag looked at the shocked Ugly Duckling, and smilingly lamented, "A hairstyle can indeed change a person's fate."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“果然是冲我来的吗？那我就带你逛逛洛都吧。”麦格嘴角一扬，化作一道残影，向着不远处的各部衙门的方向冲去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T134851Z" creationid="Longbell" creationdate="20220403T134851Z">
+        <seg>"So, you really came for me? Then, I will bring you around Rodu." Mag's lips curled up and he turned into a shadow as he dashed towards the ministeries' offices nearby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38056,8 +38072,8 @@
       <tuv lang="zh-CN">
         <seg>麦格一出门，那三头怪蛇便已将他盯住。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220403T134045Z" creationid="Longbell" creationdate="20220403T134045Z">
-        <seg>That three-headed snake targeted at Mag as soon as he left the tavern.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T134051Z" creationid="Longbell" creationdate="20220403T134045Z">
+        <seg>That three-headed snake targeted Mag as soon as he left the tavern.</seg>
       </tuv>
     </tu>
     <tu>
