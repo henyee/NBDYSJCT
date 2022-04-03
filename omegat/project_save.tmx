@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -594,6 +594,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"No matter who opened this tavern, it is a good thing for Romo Street. There is finally some life here."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不能实时定位的算个屁追踪器。”麦格虽然也有一艘飞行餐厅，可人家那是正经飞船啊，他并不觉得自己能撵的上人家。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T134253Z" creationid="sitong" creationdate="20220403T134253Z">
+        <seg>"What kind of tracking device is this if it can't give a real-time location?" Although Mag also had a flying restaurant, this was a legitimate spaceship and he did not think that he could catch up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2250,6 +2258,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T075354Z" creationid="Longbell" creationdate="20220401T210333Z">
         <seg>"There's something very wrong with you." Xi's gaze landed onto Mag again. A technological-looking black bullpup assult rifle appeared in her empty right hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你这个家伙就是贪便宜买到了二手歪货了！”麦格翻了个白眼，没好气道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T133941Z" creationid="sitong" creationdate="20220403T133941Z">
+        <seg>"You probably bought a fake second-hand good because you wanted to get it cheap!" Mag rolled his eyes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,6 +5394,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"The Holy Light, combined with powerful healing magic. A 10th-tier powerhouse as young as her, I guess it would only be the elven princess," Merante said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“在哪呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T113536Z" creationid="sitong" creationdate="20220403T113528Z">
+        <seg>"Where is it?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -17306,6 +17330,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Embarrassed, Mag sat up and put Ugly Duckling, which was sleeping on his arm, to the side, and said, "Erm. I seem to have overslept a little."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“飞船现在就在洛都城往北一百公里处，高度为10000米！”系统兴奋道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T134140Z" creationid="sitong" creationdate="20220403T134140Z">
+        <seg>"The spaceship is 100km North of Rodu at an altitude of 10,000m," the System said excitedly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32406,6 +32438,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>系统沉默了一会，道：“正常的机械故障，在高等文明也是有可能出现的，作为一个伪机械工程师，你应该可以理解的是吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T113625Z" creationid="sitong" creationdate="20220403T113625Z">
+        <seg>The System fell silent for a while and said, "This is a very normal technical difficulty. It happens even in advanced civilizations. As a fake engineer, you should be able to understand this."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>系统的世界观再次崩溃。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -39342,6 +39382,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格正准备退出，却看到那坐标图闪烁了几下，出现了一个微弱的红点，不过很快消失，但还是留下了一个坐标。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T134055Z" creationid="sitong" creationdate="20220403T134055Z">
+        <seg>Mag was about to exit from the map when the pin started to blink and a faint red dot appeared. however, it vanished very quickly. Even so, a location was left behind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格沉吟良久，道：“纸片人嘛，要尽量满足读者的想象，像不像我，其实没那么重要。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -39682,6 +39730,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag flicked a glance at her and also smilingly said, "Although you are pretty, don't harbor too pretty thoughts."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格看着一片空白的坐标。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T113548Z" creationid="sitong" creationdate="20220403T113548Z">
+        <seg>Mag looked at the empty empty map.</seg>
       </tuv>
     </tu>
     <tu>
