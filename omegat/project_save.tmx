@@ -13102,6 +13102,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“系统，你能不能搞一个地底世界探测器，直接打穿地壳的那种，我现在高度怀疑这些家伙藏在地底之下，可能还在下面建立了一个新的世界。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T111806Z" creationid="sitong" creationdate="20220403T111806Z">
+        <seg>"System, can you get me a underground world detector? The kind that can go right through to the core of the earth. I am highly suspecting that these fellows are hiding underground and might have even built a whole new world down there." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“系统，你说古老者的智者们会不会迷失在三年高考五年模拟的海洋里？”麦格关上门，突然有点心疼那些即将被知识的题海洗礼的智者们。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T180155Z" creationid="Longbell" creationdate="20220402T174404Z">
@@ -38490,6 +38498,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag sat behind the bar counter as he ate his melon seeds, and listened to the two grown men reminisce about their friend while drinking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格坐在狮鹫背上，在心里说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T113122Z" creationid="sitong" creationdate="20220403T113122Z">
+        <seg>Mag, who was sitting on the griffin's back, said to himself.</seg>
       </tuv>
     </tu>
     <tu>
