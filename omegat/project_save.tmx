@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不，那只会被评价为：不务正业，业务能力低下。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T142003Z" creationid="sitong" creationdate="20220403T142003Z">
+        <seg>"No. You would only be labelled as: not atteding to your proper job and being low in efficiency."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“丑小鸭你准备一个鸭留在餐厅吗？”艾米从楼上下来，看着还躺在柜台上睡觉的丑小鸭说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -1546,6 +1554,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It's more than a little. We couldn't wake you up no matter how. I almost wanted to treat you." Irina pursed her lips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“作为一个系统，你也要有点追求啊。一个厨神，干了战神的事，说出去，是不是很拉风啊？”麦格说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T141906Z" creationid="sitong" creationdate="20220403T141906Z">
+        <seg>"As a System, you also need to have some pursuits. As a God of Cookery, isn't it also very impressive if I can do what things of the God of War?" Mag said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7050,6 +7066,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220330T064653Z" creationid="sitong" creationdate="20220330T064653Z">
         <seg>"Host, the System's water temperature monitoring robot at the boundless sea realm crayfish rearing farm and the sunlight monitoring machine at the Twilight Forest soybean farm, as well as the machiens at various rearing farms had disappeared these few days."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“宿主，本系统还是需要提醒一下你，你的任务主线只是成为这个世界的厨神而已……并没有探索世界未解之谜这一项。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220403T141807Z" creationid="sitong" creationdate="20220403T141807Z">
+        <seg>"Host, I have to remind you that your main mission is only to become the God of Cookery of this world... unravelling the mysteries of the world is not one of them."</seg>
       </tuv>
     </tu>
     <tu>
