@@ -4918,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“嗯？”正在楼顶晨练的麦格听到了动静，从阳台上探头向外一看，看到了穿着白色羽绒服的艾米，像个小雪球一般在雪地上蹦跳着离去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T071219Z" creationid="Longbell" creationdate="20220403T071219Z">
+        <seg>"Mmm?" Mag, who was doing his morning exercise on the roof, heard the sounds and looked down. He saw Amy, who was wearing in a white jacket, skip away in the snow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“嗯？”麦格顺手套上面具，向着门口走去，通过门洞看了眼，外边站着一位老人。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33832,8 +33840,8 @@
       <tuv lang="zh-CN">
         <seg>虽然觉得任务过于简单，丝毫没有挑战性，但艾米还是跳下了床，蹑手蹑脚的换好衣服，然后下楼出门。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220403T070724Z" creationid="Longbell" creationdate="20220403T070724Z">
-        <seg>Although she felt that the mission was too simply and unchallenging, Amy still leaped off the bed, put on her clothes </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T071022Z" creationid="Longbell" creationdate="20220403T070724Z">
+        <seg>Although she felt that the mission was too simply and unchallenging, Amy still leaped off the bed, put on her clothes and went out of the house.</seg>
       </tuv>
     </tu>
     <tu>
