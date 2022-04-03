@@ -2887,3 +2887,4 @@ DVD	DVD
 追踪器	tracking device
 奥特曼	Ultraman
 巨蛇	giant snake
+千层饼	thousand layer cake
