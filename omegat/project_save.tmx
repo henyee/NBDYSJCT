@@ -30422,6 +30422,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>烈焰火球从蛇口中吐出，落在那些屋舍中，瞬间轰塌成片的建筑，并且引发了大火。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T140153Z" creationid="Longbell" creationdate="20220403T140153Z">
+        <seg>The snake spit out flaming fireballs and they landed on those buildings, making them explode and crushed instantly and caused a huge fire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>烤串的肉块不小，虽然只有两串，可对于孩子来说还是分量不少，尽管有些意犹未尽，但孩子们的笑容还是挺满足的。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -36002,6 +36010,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The outdoor temperature should be around zero degree celsius right now. The ice on the road hadn't melted yet. In this world where skin-colored tights didn't exist, it was hard really hard on her to dress like this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这会已是深夜，衙门里都没有人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T140251Z" creationid="Longbell" creationdate="20220403T140251Z">
+        <seg>It was already late at night and there was no one in the government buildings.</seg>
       </tuv>
     </tu>
     <tu>
