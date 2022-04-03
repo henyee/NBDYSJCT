@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3074,6 +3074,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Anyway, you've got to bring me along when you go for a fight in the future. Even if I don't fight along with you, I can still watch you by the side," Mag said seriously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“发生什么事情了吗？”艾米一脸疑惑的问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T101818Z" creationid="Longbell" creationdate="20220403T101818Z">
+        <seg>"Did something happen?" Amy asked with a perplexed look.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6850,6 +6858,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T095706Z" creationid="Longbell" creationdate="20220402T095706Z">
         <seg>"Annie, go upstairs first, and don't let Amy come down." Mag turned to instruct Annie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“安妮，带艾米先上楼睡觉，我们有点事情需要出去处理一下。”麦格解下围裙放到一旁，看着安妮说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T100746Z" creationid="Longbell" creationdate="20220403T100746Z">
+        <seg>Mag removed his apron, put it aside and said to Annie, "Annie, bring Amy upstairs to sleep first. We need to go out to settle some matters."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13058,6 +13074,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T180155Z" creationid="Longbell" creationdate="20220402T174404Z">
         <seg>"System, do you think the wise men of the Elder Things will lose themselves in the ocean of the practice exercise books for the college entry exams?" Mag closed the door and suddenly felt a little sorry for those wise men who were about to get "batipsed" by those knowledge and questions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“系统，发生什么了？”艾米在心里问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T101904Z" creationid="Longbell" creationdate="20220403T101904Z">
+        <seg>"System, what happen?" Amy asked inwardly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25566,6 +25590,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>安妮乖巧的点头，什么也没问就牵着艾米的小手上楼去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T101736Z" creationid="Longbell" creationdate="20220403T101736Z">
+        <seg>Annie nodded obediently. She held Amy's hand and brought her upstairs without asking any questions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>安妮乖巧的点头，坐下翻看着画册，然后拿起手边的水彩笔继续画画。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -25698,6 +25730,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Annie nodded with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>安妮摇摇头，但笑着拥抱了一下她，表示自己会保护她的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220403T101845Z" creationid="Longbell" creationdate="20220403T101845Z">
+        <seg>Annie shook her head, but she hugged Amy with a smile, showing that she would protect her.</seg>
       </tuv>
     </tu>
     <tu>
