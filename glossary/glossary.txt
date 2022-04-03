@@ -2882,3 +2882,4 @@ DVD	DVD
 重狙	assault rifle
 外来文明	alien civilization
 地下城	Underground City
+早餐店	breakfast shop
