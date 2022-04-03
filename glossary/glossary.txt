@@ -2886,3 +2886,4 @@ DVD	DVD
 飞船	spaceship
 追踪器	tracking device
 奥特曼	Ultraman
+巨蛇	giant snake
