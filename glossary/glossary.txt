@@ -2888,3 +2888,4 @@ DVD	DVD
 奥特曼	Ultraman
 巨蛇	giant snake
 千层饼	thousand layer cake
+摩托	motorcycle
