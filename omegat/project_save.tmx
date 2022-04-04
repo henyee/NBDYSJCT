@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5790,6 +5790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“外面的世界，究竟是怎样的？”伊琳娜好奇的问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T113819Z" creationid="sitong" creationdate="20220404T113819Z">
+        <seg>"What is the world outside like?" Irina asked curiously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“多好的黄瓜啊，丢了多可惜。”艾米端着盆就走了，一遍嚼着拍好的黄瓜，一边道：“那这些就交给我吧，我会把他们全部吃完的。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -8810,6 +8818,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I also went there by chance last night, and entered the tavern because of the fragrance of the wine. It was indeed a good wine that is hard to come by," Bobby said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我也是这样想的。”麦格欣赏的看着伊琳娜，不愧是他老婆，这都能和他想到一块去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T102419Z" creationid="sitong" creationdate="20220404T102419Z">
+        <seg>"That's what I think too." Mag looked at Irina. She's his wife indeed. They even had the same ideas.</seg>
       </tuv>
     </tu>
     <tu>
