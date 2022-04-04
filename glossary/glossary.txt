@@ -2899,3 +2899,4 @@ DVD	DVD
 男爵	Baron
 美酒协会	Wine and Liquor Association
 弗格斯	Fergus
+品酒师	sommelier
