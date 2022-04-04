@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不，你只是一个诱饵。”系统纠正道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T090238Z" creationid="Longbell" creationdate="20220404T090238Z">
+        <seg>"No, you are just a bait." The system corrected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“不，你见过克苏鲁，你已经脏了。”晞微微摇头，目光落到安妮的身上，眉头微蹙：“而她的身上同样有克苏鲁的气息，而且极为浓郁。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T080704Z" creationid="Longbell" creationdate="20220402T080704Z">
@@ -14074,6 +14082,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Maotai? Whiskey?" Irina looked confused. She had never heard of these two liquors before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“草。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T090547Z" creationid="Longbell" creationdate="20220404T090547Z">
+        <seg>"Grass[1. Grass in Chinese sounds to the Chinese F-word.]."</seg>
       </tuv>
     </tu>
     <tu>
