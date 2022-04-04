@@ -6520,8 +6520,8 @@
       <tuv lang="zh-CN">
         <seg>“好多马车啊。”艾米踮着脚尖瞧着看不到尽头的马车。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220404T154749Z" creationid="sitong" creationdate="20220404T154749Z">
-        <seg>"So many horse-drawn carriages." M</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T154805Z" creationid="sitong" creationdate="20220404T154749Z">
+        <seg>"So many horse-drawn carriages." Amy tiptoed but could not see the end to the countless horse-drawn carriages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11218,6 +11218,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Yes, that's right. I just went to the market and bought some wild boar meat. We can eat grilled meat for lunch today." Mag swung the basket in his hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是的，看来这个品酒大会影响力的确挺大的。”麦格笑着点头，这是好事。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T154830Z" creationid="sitong" creationdate="20220404T154830Z">
+        <seg>Yes. It seems that this liquor tasting event is rather influential." Mag nodded with a smile. This is a good thing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27766,6 +27774,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>就在麦格准备找个人问问评比场地在哪的时候。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T155256Z" creationid="sitong" creationdate="20220404T155256Z">
+        <seg>Mag was about to ask someone where the competition ground was.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>就在麦格想着要不要跟着去看看的时候，艾米拐进了五百米外的一家早餐店。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T071709Z" creationid="Longbell" creationdate="20220403T071709Z">
@@ -37790,6 +37806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这据说是一位男爵的庄园，占地极广，能够进入场地的，除了申请参加品酒大会的酒馆老板们，还有许多有些身份的好酒人士。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T155010Z" creationid="sitong" creationdate="20220404T155010Z">
+        <seg>It was said that the owner of this Manor was a Baron. The area of the Manor was huge and other than the owner of taverns who had registered to compete in the liquor tasting event, there were also other wine-lovers who went.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这时咬开黄瓜，爽脆的口感，还有那清爽丰盈的汁水在口腔中绽放，让酸味和辣味得到了最美妙的中和。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -40010,6 +40034,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T112454Z" creationid="Longbell" creationdate="20220401T112454Z">
         <seg>Mag was also staring at her calmly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格向门口的检票人员出示了埃菲给他的邀请函，顺利进入庄园。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T154911Z" creationid="sitong" creationdate="20220404T154911Z">
+        <seg>Manor took out the invitation Eiffie passed him and showed it to the staff checking at the entrance before going in.</seg>
       </tuv>
     </tu>
     <tu>
