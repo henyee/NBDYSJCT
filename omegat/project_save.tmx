@@ -1520,8 +1520,8 @@
       <tuv lang="zh-CN">
         <seg>“伟大的克苏鲁大人有着无数仆从，我们恐怖猎手一族只是大人麾下的一个下等仆从种族。”大蛇答道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220404T065001Z" creationid="Longbell" creationdate="20220404T065001Z">
-        <seg>"The great Lord Cthulhu has countless servants. We the Horror Hunters are only one of the lord's lowly </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T065047Z" creationid="Longbell" creationdate="20220404T065001Z">
+        <seg>"The great Lord Cthulhu has countless servants. We the Horror Hunters are only one of the lord's lowly servant races." The giant snake answered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5594,6 +5594,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Here." Mag froze for a while. He recalled his arrogance at the door just now, but still handed over the money bag with today's earnings to Irina obediently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“地……地……”大蛇的眼睛突然闪烁起来，竟是从麦格的控制中挣脱出来，竖瞳重新恢复，发出了一声嘶吼，向着麦格扑而来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T070112Z" creationid="Longbell" creationdate="20220404T070112Z">
+        <seg>"Un...Un..." The big snake's eyes suddenly flickered. It actually got out from Mag's control and its vertical pupils regained its conciousness. It let out a hissing roar and pounced onto Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41154,6 +41162,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag jolted first. He thought carefully about whether he said anything about exchanges to other women.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格表情变得有些凝重，沉声道：“那些仆从现在何处？是否还活着？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T065112Z" creationid="Longbell" creationdate="20220404T065112Z">
+        <seg>Mag turned solemn and gravely asked, "Where are those servants now? Are they still alive?"</seg>
       </tuv>
     </tu>
     <tu>
