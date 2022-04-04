@@ -2892,3 +2892,4 @@ DVD	DVD
 五百里	800 km
 三头蛇	three-headed snake
 恐怖猎手	Horror Hunter
+仆从	servant
