@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24790,6 +24790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>品酒大会，顾名思义就是要品酒打分，然后根据评分决出高下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T152558Z" creationid="Longbell" creationdate="20220404T152558Z">
+        <seg>As the name implies, a liquor tasting event was to judge the liquors and then rank them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>品酒，亚伯罕倒是略知一二，没有端起酒杯就一饮而尽，而是先深嗅一口酒香，让那浓浓的酒香在脑海中盘旋，然后再小小的抿一口。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -35226,6 +35234,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>As for the Maotai and whiskey brewery, Mag had intended to hand it over to Hannah after her rum factory successfully started operating, and was in the production phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>至于评分标准，每位评委十分制，根据五位品酒师的主观感受来决定。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T154610Z" creationid="Longbell" creationdate="20220404T154610Z">
+        <seg>As for the judging criteria, every judge had 10 points to give and they were based on the subjective opinions of the five sommelier judges.</seg>
       </tuv>
     </tu>
     <tu>
