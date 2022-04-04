@@ -2890,3 +2890,4 @@ DVD	DVD
 千层饼	thousand layer cake
 摩托	motorcycle
 五百里	800 km
+三头蛇	three-headed snake
