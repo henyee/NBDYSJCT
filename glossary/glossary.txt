@@ -2896,3 +2896,4 @@ DVD	DVD
 仆从种族	servant race
 通讯器	communicator
 地下世界	Underground World
+男爵	Baron
