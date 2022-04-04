@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6152,8 +6152,8 @@
       <tuv lang="zh-CN">
         <seg>“她只是一个没得感情的机器人而已，我把三头蛇交给她，并且承诺以后都会将这些稀奇古怪的地底生物交给她，作为这枚戒指的交换条件。”麦格一脸坦然道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220404T124211Z" creationid="sitong" creationdate="20220404T124211Z">
-        <seg>"She is just an emotionless robot. I handed the three-headed snake to her and promised that I would hand all those strange underground organisms to her in exchange for hte ring," Mag said.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T150705Z" creationid="sitong" creationdate="20220404T124211Z">
+        <seg>"She is just an emotionless robot. I handed the three-headed snake to her and promised that I would hand all those strange underground organisms to her in exchange for the ring," Mag said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8482,6 +8482,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Like what?" Mag dipped his chopsticks in the dipping sauce and tried it. He nodded with satisfaction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“怕了？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T124629Z" creationid="sitong" creationdate="20220404T124629Z">
+        <seg>"Afraid?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13222,6 +13230,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“看来就算是神，也要稍微节制一些啊。”麦格在心里叹了口气，无视了脑海中浮现的蓝色药丸的广告。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T151038Z" creationid="sitong" creationdate="20220404T151038Z">
+        <seg>"It seems like even gods have to practice restrain." Mag sighed to himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“看来我们要去一趟洛都了，我打算把餐厅歇业一个月，带着艾米和安妮前往洛都，寻找乔修的踪迹。”麦格看着伊琳娜说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -15290,6 +15306,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Also, this batch of resources is for the Kila Tribe. Their settlement has been damaged, and requires rebuilding," Connie said as she pointed at two horse-drawn carriages at the side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“还来？！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T124625Z" creationid="sitong" creationdate="20220404T124625Z">
+        <seg>"Again?!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18846,6 +18870,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一月之期已经过了小半，塞班酒馆还是个不知名的小酒馆，这距离他在洛都打出知名度的差距尚远。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T151212Z" creationid="sitong" creationdate="20220404T151212Z">
+        <seg>More than half of a month had passed and Saipan Tavern was still an unknown little tavern. This was still very far from his goal of making a name in Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一本食全食美杂志让他连升两级，获得诸多奖励，让他尝到了甜头。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -21170,6 +21202,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>She wore a burgundy red long dress today. It emphasized her shapely figure perfectly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>今天是品酒大会的正赛日期，作为夺冠热门，麦格当然要到场瞧瞧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T151124Z" creationid="sitong" creationdate="20220404T151124Z">
+        <seg>Today was the liquor tasting event competition day. As a hot favorite for the champion, Mag had to be there to take a look.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33422,6 +33462,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二天一早，麦格精神饱满的起床，不过穿上拖鞋出门的时候，明显感觉脚步有点虚浮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T150753Z" creationid="sitong" creationdate="20220404T150623Z">
+        <seg>The next morning, Mag woke up energetically. However, when he put on his slippers to go out of the room, he could feel that his legs were rather weak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二天早上，麦格被敲门声叫醒。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T181653Z" creationid="Longbell" creationdate="20220326T181653Z">
@@ -39648,8 +39696,8 @@
       <tuv lang="zh-CN">
         <seg>麦格伸手在床头的衣服口袋里摸了个空，才想起来自己已经好久不抽烟了，不禁有点遗憾。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220404T024945Z" creationid="sitong" creationdate="20220404T024945Z">
-        <seg>Mag reached over to the shirt at the bedside table and fumbled around in the pocket in vain. He sudenly recalled that he had not been smoking for a very long time and felt a little pity.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T150659Z" creationid="sitong" creationdate="20220404T024945Z">
+        <seg>Mag reached over to the shirt at the bedside table and fumbled around in the pocket in vain. He sudenly recalled that he had not been smoking for a very long time and could not help but found it a pity.</seg>
       </tuv>
     </tu>
     <tu>
