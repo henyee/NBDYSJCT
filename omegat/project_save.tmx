@@ -40950,6 +40950,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格看着手中的银色戒指，上面刻着一串神秘的符文，触感冰凉，看不出什么蹊跷。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T091538Z" creationid="Longbell" creationdate="20220404T091538Z">
+        <seg>Mag looked at the silver ring in his hand. A line of mysterious runes was engraved on it. It felt cold to the touch. Nothing unusual could be seen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格看着晞。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T132137Z" creationid="Longbell" creationdate="20220402T132137Z">
