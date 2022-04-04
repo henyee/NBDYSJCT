@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16694,6 +16694,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“那女人和那个三头蛇都可能来自地底之下，古老者在那里建立了秩序，限制克苏鲁的仆从来到诺兰大陆。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T024826Z" creationid="sitong" creationdate="20220404T024826Z">
+        <seg>"That woman and three-headed snake might be from the underground. The Elder Things had set up an order there and limited the Cthulhu's servants from coming to Norland Continent."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“那好，我去给你打包一份。”亚伯罕起身走到酒柜前。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32570,6 +32578,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Chapter 2005: My Hubby Is The Best!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千零八十章 我哪里比不上他？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T023836Z" creationid="sitong" creationdate="20220404T023836Z">
+        <seg>Chapter 2080: How Am I Less Than Him?</seg>
       </tuv>
     </tu>
     <tu>
