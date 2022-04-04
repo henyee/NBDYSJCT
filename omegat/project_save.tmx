@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40082,6 +40082,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T145000Z" creationid="sitong" creationdate="20220327T145000Z">
         <seg>Mag was rather innocent. He was only stating facts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格本以为这是一只被克苏鲁控制了的十级魔兽，获得了一部分魔化之后的能力，包括快速自我修复能力。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T055504Z" creationid="Longbell" creationdate="20220404T055504Z">
+        <seg>Mag thought it was a 10th-tier magic beast that was controlled by Cthulhu and had received some power it was devilized, including rapid self-healing power.</seg>
       </tuv>
     </tu>
     <tu>
