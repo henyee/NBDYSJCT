@@ -2814,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“别对我龇牙，不然我把你剩下的脑袋也打爆。”麦格看了一眼它的其他两个脑袋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T055747Z" creationid="Longbell" creationdate="20220404T055747Z">
+        <seg>"Don't hiss at me, otherwise I'll bust the rest of your heads." Mag flicked a glance its other two heads.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“别急啊，哈迪斯先生。”埃菲却是伸手轻轻拉住了他的衣袖。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T125920Z" creationid="sitong" creationdate="20220325T125920Z">
@@ -5306,6 +5314,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T134250Z" creationid="Longbell" creationdate="20220403T134250Z">
         <seg>"Sss~sss—" The giant snake hissed and dashed downwards at Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“嘶——”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T055636Z" creationid="Longbell" creationdate="20220404T055636Z">
+        <seg>"Ssss—"</seg>
       </tuv>
     </tu>
     <tu>
@@ -27326,6 +27342,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>巨蛇发出了一声愤怒的嘶吼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T055649Z" creationid="Longbell" creationdate="20220404T055649Z">
+        <seg>The giant snake let out an furious roar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>巨蛇在百米之外停下，它的身上也带着伤，中间那个蛇头的眼睛还被打爆了一只，但黑色魔气笼罩着眼睛的区域，似乎正在快速修复中。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T163315Z" creationid="Longbell" creationdate="20220403T163315Z">
@@ -31778,6 +31802,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The tavern appeared to have started operating, so he pushed the door open and entered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>看看着被打爆了半个脑袋，依旧重新起飞的巨蛇，他觉得还是有些低估了这条蛇。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T055630Z" creationid="Longbell" creationdate="20220404T055630Z">
+        <seg>Looking at the giant snake which was still flying despite half of its head being busted, Mag felt he had underestimated it.</seg>
       </tuv>
     </tu>
     <tu>
