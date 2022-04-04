@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1866,6 +1866,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T103910Z" creationid="sitong" creationdate="20220327T103825Z">
         <seg>"Go on! Go on!" Eiffie's brows were almost about to stand on their ends.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你刚刚给安妮的那个戒指是什么？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T124044Z" creationid="sitong" creationdate="20220404T124044Z">
+        <seg>"What is that ring you gave Annie just now?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9800,8 +9808,8 @@
       <tuv lang="zh-CN">
         <seg>“或许是无尽的虚空吧，芭芭拉说过，月球之外的世界，是一片茫茫星海。”麦格说道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220404T114405Z" creationid="sitong" creationdate="20220404T114405Z">
-        <seg>"Perhaps it's an endless space. Babla mentioned that the world outside the Moon was a vast sea of stars," Mag said</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T114410Z" creationid="sitong" creationdate="20220404T114405Z">
+        <seg>"Perhaps it's an endless space. Babla mentioned that the world outside the Moon was a vast sea of stars," Mag said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10914,6 +10922,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T100424Z" creationid="Longbell" creationdate="20220402T100424Z">
         <seg>"It was Annie who had saved me at the critical moment. A lightning severed her from Cthulhu. She's the incarnation of kindness. There isn't any hint of evil on her. She was just like a newborn infant. That's why I adopted her and concealed her identity from everyone." Mag said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是我从那个女人那里要来的，能够屏蔽安妮身上的气息，防止那些东西找上她。”麦格解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T124112Z" creationid="sitong" creationdate="20220404T124112Z">
+        <seg>"I got it from that woman. It could block off the aura on Annie so those things would not look for her," Mag explained.</seg>
       </tuv>
     </tu>
     <tu>
