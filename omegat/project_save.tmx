@@ -8126,6 +8126,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“库尔特男爵到！”一声高呼响起。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T130148Z" creationid="Longbell" creationdate="20220404T125459Z">
+        <seg>"Baron Kurt has arrived!" Someone announced.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“应该不会吧。”</seg>
       </tuv>
       <tuv lang="en-US">
