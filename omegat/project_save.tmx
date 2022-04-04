@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“伟大的克苏鲁大人有着无数仆从，我们恐怖猎手一族只是大人麾下的一个下等仆从种族。”大蛇答道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T065001Z" creationid="Longbell" creationdate="20220404T065001Z">
+        <seg>"The great Lord Cthulhu has countless servants. We the Horror Hunters are only one of the lord's lowly </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“传我命令，不用阻止精灵上街游行，我倒要看看，这一次他们做出的选择，是否是正确的。”海伦娜平静的说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -2474,6 +2482,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Mix the red oil first?" Mag was a little surprised at Amy's suggestion but after thinking about it for a while, he nodded and said, "I'll give it a shot."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“克苏鲁有多少仆从？恐怖猎手是你的名号，还是一个种族？”麦格再问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T064908Z" creationid="Longbell" creationdate="20220404T064908Z">
+        <seg>"How many servants does Cthulhu have? Is Horror Hunter your name, or the name of a race?" Mag continued to ask.</seg>
       </tuv>
     </tu>
     <tu>
