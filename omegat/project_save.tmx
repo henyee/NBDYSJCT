@@ -18944,8 +18944,8 @@
       <tuv lang="zh-CN">
         <seg>三十年前第一届品酒大会的金奖酒就是泰坦酒，在当时可是传为佳话的。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220404T100651Z" creationid="Longbell" creationdate="20220404T100651Z">
-        <seg>The gold award's winner of the very first liquor tasting event 30 years ago was Titan Liquor. It was legendary back then.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T100730Z" creationid="Longbell" creationdate="20220404T100651Z">
+        <seg>The gold award's winner of the very first liquor tasting event 30 years ago was Titan Liquor. It became a much-told tale back then.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23990,6 +23990,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>可惜十五年前那位传奇的酿酒师死于一场入室抢劫，只留下了一个未满十五岁的女儿，泰坦酒从此失传。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T100956Z" creationid="Longbell" creationdate="20220404T100956Z">
+        <seg>However, that legendary brewer died in a burglry 15 years ago, leaving behind a daughter who was not even 15 years old. Titan Liquor was lost ever since.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>可意外的是，一觉睡到日上三竿，醒来之后的他却觉得神清气爽，睡了个难得的好觉。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27946,6 +27954,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>That was how he got the throne back then. Therefore, he was giving Josh a chance, and also presenting Sean with a threat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当年的泰坦酒馆，是洛都城内最有名的酒馆之一。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T100813Z" creationid="Longbell" creationdate="20220404T100813Z">
+        <seg>The Titan Tavern back then was one of Rodu's most famous taverns.</seg>
       </tuv>
     </tu>
     <tu>
