@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6514,6 +6514,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Alrighty." Noah, who didn't drink a single sip, carried Merante on his back and left.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好多马车啊。”艾米踮着脚尖瞧着看不到尽头的马车。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T154749Z" creationid="sitong" creationdate="20220404T154749Z">
+        <seg>"So many horse-drawn carriages." M</seg>
       </tuv>
     </tu>
     <tu>
@@ -23854,6 +23862,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>历届品酒大会都是由洛都美酒协会牵头举办的，场地位于洛都城南的一座庄园内，是一位贵族提供的场地。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T154654Z" creationid="sitong" creationdate="20220404T154654Z">
+        <seg>The previous liquor tasting events were organised by the Wine and Liquor Association and it was located in a Manor provided by a noble at the Southern part of Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>原本一脸期待的埃菲看到麦格的表情，心里咯噔一下，凉了半截。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T131302Z" creationid="sitong" creationdate="20220325T131302Z">
@@ -39470,6 +39486,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>马车在庄园外停下，麦格一家下车，便看到了几乎排满庄园外大道的马车。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T154744Z" creationid="sitong" creationdate="20220404T154744Z">
+        <seg>The horse-drawn carriage pulled to a stop at the Manor. Mag and family alighted and saw that the road outside the Manor was almost filled with parked horse-drawn carriages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>马车掉头在塞班酒馆门口停下，亚伯罕从马车上下来，先打量了一下这家看起来颇新的酒馆，目光很快被门口柱子上挂着的那个小铁笼所吸引，里边关着一盅酒，那诱人的酒香正是从那小盅散发出来的。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -41560,8 +41584,8 @@
       <tuv lang="zh-CN">
         <seg>麦格瞄了一眼伊琳娜，见她神态自若，稍稍放松，走到街口拦了一辆马车，直奔品酒大会会场。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220404T152606Z" creationid="sitong" creationdate="20220404T152606Z">
-        <seg>Mag glanced at Irina. When he saw her calm expression, he felt slightly relieved. Mag went to the roadside to hail a horse-drawn carriage and went straight to the liquor tasting.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T152612Z" creationid="sitong" creationdate="20220404T152606Z">
+        <seg>Mag glanced at Irina. When he saw her calm expression, he felt slightly relieved. Mag went to the roadside to hail a horse-drawn carriage and went straight to the liquor tasting event.</seg>
       </tuv>
     </tu>
     <tu>
