@@ -9790,6 +9790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“或许是无尽的虚空吧，芭芭拉说过，月球之外的世界，是一片茫茫星海。”麦格说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T114405Z" creationid="sitong" creationdate="20220404T114405Z">
+        <seg>"Perhaps it's an endless space. Babla mentioned that the world outside the Moon was a vast sea of stars," Mag said</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“或许有这种可能……”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T141113Z" creationid="sitong" creationdate="20220403T141113Z">
@@ -37370,6 +37378,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This was talent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这就是所有智慧生命的本质，对于未知的好奇和向往。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T113846Z" creationid="sitong" creationdate="20220404T113846Z">
+        <seg>This is the essence of all intelligent life. They are curious about the unknown.</seg>
       </tuv>
     </tu>
     <tu>
