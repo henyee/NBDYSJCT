@@ -18872,8 +18872,8 @@
       <tuv lang="zh-CN">
         <seg>一月之期已经过了小半，塞班酒馆还是个不知名的小酒馆，这距离他在洛都打出知名度的差距尚远。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220404T151212Z" creationid="sitong" creationdate="20220404T151212Z">
-        <seg>More than half of a month had passed and Saipan Tavern was still an unknown little tavern. This was still very far from his goal of making a name in Rodu.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T151229Z" creationid="sitong" creationdate="20220404T151212Z">
+        <seg>More than half of a month had passed and Saipan Tavern was still an unknown little tavern. This was still very far from his goal of making a name for himself in Rodu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21974,6 +21974,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜今日无事，所以一家人吃过早餐，便一同出门准备叫一辆马车前往品酒大会。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T152210Z" creationid="sitong" creationdate="20220404T152210Z">
+        <seg>Irina had nothing on today so after having breakfast together as a family, she went out with Mag to hail a horse-drawn carriage to go over ot the liquor tasting event.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜伸手解了绳子，掀开红布，下边还有一个木塞，淡淡的酒香已是徐徐飘来。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24746,6 +24754,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After swallowing the wine, the fragrance lingered, making him want more.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>品酒大会是条捷径，从埃菲这种稀烂的酿酒水平，也能靠着父辈余荫混那么久来看，品酒大会金奖的确是块金字招牌。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220404T151436Z" creationid="sitong" creationdate="20220404T151436Z">
+        <seg>The liquor tasting event was a shortcut. If Eiffie could still smoke her way through for so long with her subpar alcohol standard by relying on her father, it seemed that the liquor tasting event's first prize was indeed a golden signboard.</seg>
       </tuv>
     </tu>
     <tu>
