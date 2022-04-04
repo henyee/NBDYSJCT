@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24790,6 +24790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>听起来似乎不够严谨，但只要五位品酒师足够专业且公正，这其实已经算是相对公正有效的办法。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T160146Z" creationid="Longbell" creationdate="20220404T160146Z">
+        <seg>Although it didn't sound stringent enough, as long as the five sommeliers are professional and just enough, this was already the most just and effective method.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>听起来是一个能够和‘时间停止’一争高下的羞耻技能。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -37930,6 +37938,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This step made the Smashed Cucumber Salad a very difficult dish which required techniques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这届品酒大会有三百多家酒馆参加，因为数量众多，以抽签的方式分为五家一组，以组为单位进行品鉴。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T160333Z" creationid="Longbell" creationdate="20220404T160333Z">
+        <seg>There were over 300 taverns taking part in this liquor tasting event. Due to the huge number, they were split into groups of five taverns by drawing lots and tasting would done in groups of five.</seg>
       </tuv>
     </tu>
     <tu>
