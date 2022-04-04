@@ -2893,3 +2893,4 @@ DVD	DVD
 三头蛇	three-headed snake
 恐怖猎手	Horror Hunter
 仆从	servant
+仆从种族	servant race
