@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“中间那位就是库尔特男爵，他是美酒协会的副会长，也是品酒大会的发起人之一。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T130411Z" creationid="Longbell" creationdate="20220404T130411Z">
+        <seg>"The one in the center is Baron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“中！中！中！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -18614,6 +18622,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一位头发花白，但精神矍铄的老者从大门走了进来，在他身后还跟着几位年纪同样不小的老者。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T130349Z" creationid="Longbell" creationdate="20220404T130349Z">
+        <seg>An energetic eldery man with white hair came in. A few equally eldery men followed after him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一位穿着官袍的男人看着麦格问道：“老板，你挂在门口的是什么酒？”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -22386,6 +22402,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Everyone smiled upon seeing that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人纷纷起身。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T130223Z" creationid="Longbell" creationdate="20220404T130223Z">
+        <seg>Everyone got up.</seg>
       </tuv>
     </tu>
     <tu>
