@@ -2897,3 +2897,5 @@ DVD	DVD
 通讯器	communicator
 地下世界	Underground World
 男爵	Baron
+美酒协会	Wine and Liquor Association
+弗格斯	Fergus
