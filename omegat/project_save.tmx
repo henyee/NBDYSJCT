@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -698,6 +698,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"But Grandpa, we were tracking the evil aura yesterday. Why did we end up getting ambushed by humans? Could those humans have already been in cahoots with the devil?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不过那塞班酒馆又是什么酒馆？好像还没有听说过这家酒馆啊。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T121605Z" creationid="Longbell" creationdate="20220404T121605Z">
+        <seg>"However, what kind of tavern is that Saipan Tavern? I have never heard of this tavern before."</seg>
       </tuv>
     </tu>
     <tu>
@@ -10594,6 +10602,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Yes, we went to have roasted lamb shanks. It was delicious," Irina said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是啊，听起来像个刚开业的酒馆，不然我肯定知道。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T122006Z" creationid="Longbell" creationdate="20220404T122006Z">
+        <seg>"Yes. It sounds like a newly open tavern. Otherwise, I would have known."</seg>
       </tuv>
     </tu>
     <tu>
@@ -36434,6 +36450,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Everyone knew that His Majesty doted a lot on this princess. No matter whom you offended, you should never offend this princess.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>谋生只是一部分，承受着外界期待和父辈的光环，才是她真正的压力所在。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220404T121530Z" creationid="Longbell" creationdate="20220404T101616Z">
+        <seg>Making a living was only a part of it. Her real pressure was withstanding the others' expectations and her father's glory.</seg>
       </tuv>
     </tu>
     <tu>
