@@ -2894,3 +2894,4 @@ DVD	DVD
 恐怖猎手	Horror Hunter
 仆从	servant
 仆从种族	servant race
+通讯器	communicator
