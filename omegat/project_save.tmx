@@ -14782,6 +14782,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“评委们的酒量都相当好，一般情况下是没有问题的，而且就算真的有评委喝醉了，也还有几位预备评委可以上台，以保证品酒大会能够正常进行下去。”埃菲微笑着解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T155804Z" creationid="Longbell" creationdate="20220405T155533Z">
+        <seg>Eiffie smilingly explained, "The judges' alcohol tolerance are quite good, so there's no problem usually. Even if the judges were tipsy, there are a few reserve judges that could go up and take their places, making sure that the liquor tasting event could go on."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“评比现场就在前边的大教堂里，应该快开始了，我带你们过去吧。”埃菲和麦格说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T162933Z" creationid="sitong" creationdate="20220404T162933Z">
@@ -32424,8 +32432,8 @@
       <tuv lang="zh-CN">
         <seg>现在已经是第四十五组了，虽然品酒都是用小杯小口浅尝，不过两百多种不同的酒混合在一起，哪怕每一种酒只喝一小口，也不是一般酒量能够承受的。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220405T155519Z" creationid="Longbell" creationdate="20220405T155519Z">
-        <seg>It was already the 45th group now. Although they sampling the liquors with small glasses and taking small sips, they had already mixed over 200 alcoholic drinks together. Even drinking one small sip per liquor would require them to have a high alcoholic tolerance.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T155551Z" creationid="Longbell" creationdate="20220405T155519Z">
+        <seg>It was already the 45th group now. Although they sampling the liquors with small glasses and taking small sips, they had already mixed over 200 alcoholic drinks together. Even drinking one small sip per liquor would require them to have a high alcohol tolerance.</seg>
       </tuv>
     </tu>
     <tu>
