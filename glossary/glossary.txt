@@ -2905,3 +2905,4 @@ DVD	DVD
 教堂	church
 里斯酒馆	Reese Tavern
 爆炸酒	Explosive Liquor
+银奖	silver award
