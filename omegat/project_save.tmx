@@ -16542,6 +16542,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是里斯酒馆的爆炸酒吧，口感依旧如名字一般炸裂，一入口便给人带来惊喜，令人印象深刻，而且今年的酒味还有了一些改进，入喉之后变得更为柔顺，挺让人惊喜的。”弗格斯放下酒杯，笑着点评道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T133106Z" creationid="Longbell" creationdate="20220405T133106Z">
+        <seg>"This is Reese Tavern's Exploding Liquor. The texture is just as the name described, exploding. It surprises one instantly when it enters the mouth and made a strong impression. Furthermore, there is  some improvement to the taste this year. It became smoother after going down the throat. It's rather surprising." Fergus put his glass and commented with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是饿了？”麦格挑眉，一时间竟是无法判断这是艾米自己的主意，还是系统任务。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T072310Z" creationid="Longbell" creationdate="20220403T072310Z">
@@ -27290,6 +27298,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Annie nodded before pointing to that mixology set, and used hand gestures to signal. "I have seen bartenders on the tablet. They are very suave."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>安妮牵着艾米的小手，悄悄溜出了教堂。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T132257Z" creationid="Longbell" creationdate="20220405T132257Z">
+        <seg>Annie held Amy's hand and quietly snuck out of the church.</seg>
       </tuv>
     </tu>
     <tu>
