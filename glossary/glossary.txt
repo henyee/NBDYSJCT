@@ -2902,3 +2902,5 @@ DVD	DVD
 品酒师	sommelier
 巴拉卡	Baraca
 果酒	ratafia
+教堂	church
+里斯酒馆	Reese Tavern
