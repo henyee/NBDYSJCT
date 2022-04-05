@@ -17872,8 +17872,8 @@
       <tuv lang="zh-CN">
         <seg>“酒味只能算中上，看来这酒在口感上有独到之处。”麦格在心里想着，四十八分的确是个高分，至少从先前的评分来看，这四位评委专业且严格。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220405T153803Z" creationid="Longbell" creationdate="20220405T153803Z">
-        <seg>"The liquor's taste is only above average. Seems like this liquor has something unique in its texture." Mag thought. 48 points was indeed a high score. At least judging from the previous scores, these five judges were professional  and stringent.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T153809Z" creationid="Longbell" creationdate="20220405T153803Z">
+        <seg>"The liquor's taste is only above average. Seems like this liquor has something unique in its texture." Mag thought. 48 points was indeed a high score. At least judging from the previous scores, these five judges were professional and stringent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17946,6 +17946,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"You're up?" The room door was open, and Mag stood at the door, looking at Irina sitting on the floor with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“里斯酒馆的老板很厉害，旗下有多家酒馆，而且每家酒馆都有多款主打酒，据说他招募了许多厉害的酿酒师，一直致力于研发更好的酒。”埃菲介绍到，看着那男人的目光有些钦佩。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T154058Z" creationid="Longbell" creationdate="20220405T154058Z">
+        <seg>"The boss of Reese Tavern is very formidable. He has many taverns and each tavern has many signature drinks. Apparently, he has recruited many formidable brewers and has been trying to come up with even better alcoholic drinks." Eiffie introduced him, looking at the man with an admirable gaze.</seg>
       </tuv>
     </tu>
     <tu>
