@@ -2904,3 +2904,4 @@ DVD	DVD
 果酒	ratafia
 教堂	church
 里斯酒馆	Reese Tavern
+爆炸酒	Explosive Liquor
