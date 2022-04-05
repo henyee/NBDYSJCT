@@ -6534,6 +6534,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好啊好啊。”艾米眼睛一亮，立马点着小脑袋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T132023Z" creationid="Longbell" creationdate="20220405T132023Z">
+        <seg>"Alright, alright." Amy lit up her eyes and immediately nodded her little head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好啊好啊，我们回家自己做绿豆糕。”艾米点着小脑袋，举双手赞同。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -14576,8 +14584,8 @@
       <tuv lang="zh-CN">
         <seg>“要不小艾和小安先去外面玩一会吧，玛拉就在外面，让她带你们去吃好吃的。”埃菲看着艾米微笑着说道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220405T130509Z" creationid="Longbell" creationdate="20220405T130509Z">
-        <seg>"Why don't Ay and </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T130656Z" creationid="Longbell" creationdate="20220405T130509Z">
+        <seg>"Why don't Ay and An go out and play for a while first? Mala is just outside. She can bring you to go eat nice food." Eiffie smilingly said to Amy.</seg>
       </tuv>
     </tu>
     <tu>
