@@ -10950,6 +10950,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是啊，让人没有办法假装不知道的一款酒，和往年相比，的确有不小的进步。”库尔特也是笑着点头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T133303Z" creationid="Longbell" creationdate="20220405T133149Z">
+        <seg>"Yes. It's a liquor that one can't pretend not to know. It had indeed improved greatly compared to last year." Kurt also nodded with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是啊，这些大人们可是踢到铁板上了。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -13706,6 +13714,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220405T121909Z" creationid="Longbell" creationdate="20220405T121909Z">
         <seg>"The 1st group, the first bottle. It's the Karoo Ratafia from the Karoo Tavern. 31 points." The host quickly announced.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“第三十二组，第三瓶酒，来自里斯酒馆的爆炸酒，得分48分！目前的最高分！”主持人的声音都不禁提高了几分！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T133800Z" creationid="Longbell" creationdate="20220405T133800Z">
+        <seg>"The 32nd group, the third bottle. It's the Explosive Liquor from Reese Tavern. 48 points! The highest score now!" The emcee couldn't help raising his voice a litt!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16544,8 +16560,8 @@
       <tuv lang="zh-CN">
         <seg>“这是里斯酒馆的爆炸酒吧，口感依旧如名字一般炸裂，一入口便给人带来惊喜，令人印象深刻，而且今年的酒味还有了一些改进，入喉之后变得更为柔顺，挺让人惊喜的。”弗格斯放下酒杯，笑着点评道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220405T133106Z" creationid="Longbell" creationdate="20220405T133106Z">
-        <seg>"This is Reese Tavern's Exploding Liquor. The texture is just as the name described, exploding. It surprises one instantly when it enters the mouth and made a strong impression. Furthermore, there is  some improvement to the taste this year. It became smoother after going down the throat. It's rather surprising." Fergus put his glass and commented with a smile.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T133201Z" creationid="Longbell" creationdate="20220405T133106Z">
+        <seg>"This is Reese Tavern's Explosive Liquor. The texture is just as the name described, explosive. It surprises one instantly when it enters the mouth and made a strong impression. Furthermore, there is  some improvement to the taste this year. It became smoother after going down the throat. It's rather surprising." Fergus put his glass and commented with a smile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24770,6 +24786,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220405T111918Z" creationid="Longbell" creationdate="20220405T111918Z">
         <seg>All the judges lifted the glasses and sniffed it first. Some of them shook their heads while others nodded, but they all looked very calm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>各位评委纷纷亮分。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220405T133316Z" creationid="Longbell" creationdate="20220405T133316Z">
+        <seg>All the judges showed their score cards.</seg>
       </tuv>
     </tu>
     <tu>
