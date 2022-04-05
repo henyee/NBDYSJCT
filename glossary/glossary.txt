@@ -2901,3 +2901,4 @@ DVD	DVD
 弗格斯	Fergus
 品酒师	sommelier
 巴拉卡	Baraca
+果酒	ratafia
