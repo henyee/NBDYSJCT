@@ -2906,3 +2906,4 @@ DVD	DVD
 里斯酒馆	Reese Tavern
 爆炸酒	Explosive Liquor
 银奖	silver award
+鲍里斯	Boris
