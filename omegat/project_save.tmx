@@ -39390,6 +39390,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这酒绝对是第一次出现在品酒大会上，否则以他们的经验不可能认不出来，只是好奇这酒出自哪家酒馆，又是哪位大师的新作。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T080955Z" creationid="Longbell" creationdate="20220406T080955Z">
+        <seg>This was definitely this liquor's debut on the liquor tasting event. Given their experience, they wouldn't have failed to recognize it otherwise. They were simply curious about the tavern that brewed this and which brewer's masterpiece this was.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这酒馆在他看来有些糟糕，酒的价格卖的不低，但菜品却只有寒酸的两三样，连花生、猪耳朵、猪舌头这样的东西都端上了桌。</seg>
       </tuv>
       <tuv lang="en-US">
