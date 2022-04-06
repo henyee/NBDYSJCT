@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5922,6 +5922,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Gay? That's pure brotherhood… brotherhood, okay?" Bobby tilted his head, and he looked at Irina as he emphasized the important part loudly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“塞班酒馆？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T150403Z" creationid="Longbell" creationdate="20220406T150403Z">
+        <seg>"Saipan Tavern?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16966,6 +16974,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这款获得50分满分评分的酒，来自塞班酒馆的茅台酒！”主持人洪亮的声音传遍了整个教堂。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T150356Z" creationid="Longbell" creationdate="20220406T150356Z">
+        <seg>"This liquor that received the 50 points full marks is Maotai from Saipan Tavern!" The emcee's booming voice reveberated throughout the whole church.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这百分之一百的概率……有抽不中的可能吗？”系统欲哭无泪。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220401T144918Z" creationid="sitong" creationdate="20220401T144918Z">
@@ -27426,6 +27442,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T142158Z" creationid="Longbell" creationdate="20220402T142158Z">
         <seg>If Annie was brought away by the Elder Things, she might turn into a cold machine to complete missions like Xi, or even dissected and studied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果拿着酿酒大师们的王炸，都不能征服异世界的酒鬼们，那也实在太没牌面了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T150239Z" creationid="Longbell" creationdate="20220406T150239Z">
+        <seg>It would be disgraceful f he failed to conquer the drunkards in the alternate world with the brewers' masterpiece.</seg>
       </tuv>
     </tu>
     <tu>
