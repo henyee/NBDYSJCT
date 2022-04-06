@@ -6216,8 +6216,8 @@
       <tuv lang="zh-CN">
         <seg>“夫人好像并没有很高兴的样子。”埃菲看着伊琳娜离开的背影，有点疑惑的说道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220406T143932Z" creationid="Longbell" creationdate="20220406T143932Z">
-        <seg>"Your wife</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T144034Z" creationid="Longbell" creationdate="20220406T143932Z">
+        <seg>Eiffie watched Irina's retreating back and asked with befuddlement, "Your wife doesn't look very happy."</seg>
       </tuv>
     </tu>
     <tu>
@@ -24918,6 +24918,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>可伊琳娜却没有对自己的丈夫给予鼓励和恭贺。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T144744Z" creationid="Longbell" creationdate="20220406T144744Z">
+        <seg>However, Irina didn't encourage or congratulate her husband.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>可前些年和上司常来的那家酒馆已经关门大吉，几家熟悉的餐厅和酒馆也都没了踪影，只留下空荡荡的门市。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -29954,6 +29962,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T144828Z" creationid="Longbell" creationdate="20220326T144828Z">
         <seg>Perhaps they were both outstanding brewers, or perhaps they both had wisdom and capability that differed from ordinary people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>或许她不知道，获得金奖的荣誉对于一家酒馆来说意味着什么，这是多么值得高兴与庆贺的一件事。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T144121Z" creationid="Longbell" creationdate="20220406T144121Z">
+        <seg>Perhaps she didn't know what the honor of the gold award meant to a tavern. What a happy and celebratory event it was.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36186,6 +36202,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Meanwhile, on the other side of the news, it meant that the fight for the throne that had lasted over 10-odd years had finally ended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而这个荣誉对于酿酒师来说，更是一种莫大的认同。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T144143Z" creationid="Longbell" creationdate="20220406T144143Z">
+        <seg>Furthermore, this honor to a brewer was a great recognition.</seg>
       </tuv>
     </tu>
     <tu>
