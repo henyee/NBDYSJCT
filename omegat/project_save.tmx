@@ -5856,8 +5856,8 @@
       <tuv lang="zh-CN">
         <seg>“埃菲小姐，我非常尊重与喜爱马库斯大师，他是一位天才酿酒师，更是一个执著且坚定的酿酒师，哪怕已经过去十五年，他和泰坦酒的传奇依旧铭刻在我们的心中。”库尔特站着看着坐在台下的埃菲，神情有些复杂道：“非常感谢你让我们再次感受到他无与伦比的魅力，但根据品酒大会的规则，孤品藏酒是不能用于参赛的，因为这意味着客人在你的酒馆中无法购买到它。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220406T031201Z" creationid="Longbell" creationdate="20220406T031201Z">
-        <seg>"Miss Eiffie, I respect and like Master Marcus very much. He was a genius brewer and one who was dedicated and persistant. The legend of him and his Titan Liquor is still entrenched in our hearts even after 15 years.." Kurt stood and emotionally said to Eiffie, sitting under the stage, "Thank you very much for letting us feel his unparallel charm again, but according to the liquor tasting event's rules, a liquor that is no longer being brewed cannot take part in the competition because this means that your customers are not able to buy it in your tavern."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T031322Z" creationid="Longbell" creationdate="20220406T031201Z">
+        <seg>"Miss Eiffie, I respect and like Master Marcus very much. He was a genius brewer and one who was dedicated and persistant. The legend of him and his Titan Liquor is still entrenched in our hearts even after 15 years." Kurt stood and emotionally said to Eiffie, sitting under the stage, "Thank you very much for letting us feel his unparallel charm again, but according to the liquor tasting event's rules, a liquor that is no longer being brewed cannot take part in the competition because this means that your customers are not able to buy it in your tavern."</seg>
       </tuv>
     </tu>
     <tu>
@@ -26034,6 +26034,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T101314Z" creationid="sitong" creationdate="20220403T101314Z">
         <seg>Eiffie was busying in the brewery, trying to make the first Titan Liquor using the new apparatus based on what Mag had taught her and what she had gained from her years of experience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲带来的泰坦酒，将本场品酒大会推向了高潮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T031635Z" creationid="Longbell" creationdate="20220406T031635Z">
+        <seg>Eiffie's Titan Liquor brought the liquor tasting event into</seg>
       </tuv>
     </tu>
     <tu>
