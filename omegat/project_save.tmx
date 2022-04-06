@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20366,6 +20366,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不过正如库尔特所言，埃菲拿出的这瓶酒可能是她留下的孤品藏酒，这样的酒用来参加品酒大赛是不符合规矩的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T123013Z" creationid="sitong" creationdate="20220406T123013Z">
+        <seg>However, just as what Kurt had said, this bottle that Eiffie brought out could be the only bottle left that she had been keeping and this was against the rules of the competition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不过没等麦格翻开杂志，旁边已经传来了小姑娘们不太淡定的呼声。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -25942,6 +25950,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>因为品酒大会的目的，是为了给酒客们评比和筛选当下洛都城内可以购买到的各种美酒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T150201Z" creationid="sitong" creationdate="20220406T150201Z">
+        <seg>This was because the goal of the liquor tasting event was to judge and choose the alcohol worth buying in Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>因为她清丽的面庞神情过于冷淡，甚至让人觉得冷漠。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T162832Z" creationid="Longbell" creationdate="20220331T083342Z">
@@ -30634,6 +30650,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>He would even kill a god if they had designs on Amy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>数量充足且可购买是最重要的前提。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T150318Z" creationid="sitong" creationdate="20220406T150318Z">
+        <seg>The important prerequisite for purchasing the alcohol was a sufficient stock supply.</seg>
       </tuv>
     </tu>
     <tu>
