@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28910,6 +28910,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>库尔特和弗格斯给出极高的评价，甚至将这款酒推到了历史级的地位上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T124741Z" creationid="Longbell" creationdate="20220406T124741Z">
+        <seg>Kurt and Fergus both gave it an excellent review. They even pushed this liquor to an epic level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>库尔特打了个哈欠，揉了揉眼睛，侧头和弗格斯小声道：“感觉有些不在状态了，这组测完了，让杰拉上来替我吧。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T050911Z" creationid="Longbell" creationdate="20220406T050501Z">
@@ -28994,6 +29002,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>He opened the door. Indeed, standing outside were Merante and Noya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>弗格斯仰头把酒杯里的酒喝的一滴不剩，咂了咂嘴，有些意犹未尽的放下酒杯，点头接着库尔特的话说道：“酒香大家都闻到了，酒味库尔特也说了，我只能说这是我这辈子喝过的最好的酒之一，并且能够排进前三。我现在非常好奇究竟是在做的哪位酿出了这样的美酒，而且还能保持的如此神秘。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T124704Z" creationid="Longbell" creationdate="20220406T124704Z">
+        <seg>Fergus tilted his head back to finish every single drop in the glass. He smacked his lips and put the glass down, wishing for more. He nodded and continued on after Kurt's review, "I guess everyone has smelled its aroma and Kurt has already desecribed its taste. I can only say that this is one of the best alcoholic drinks I have ever had in my life. It's even one of the top three I ever had. Now, I am very curious who is the brewer here that made this and managed to remain so secretive."</seg>
       </tuv>
     </tu>
     <tu>
