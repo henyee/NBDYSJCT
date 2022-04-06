@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21758,6 +21758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>今日在这里再闻到正宗泰坦酒的酒香，的确让不少老酒客有些唏嘘和怀念。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T122857Z" creationid="sitong" creationdate="20220406T122857Z">
+        <seg>Smelling the authentic fragrance of the Titan Liquor again here today made many old customers of Titan Liquor reminisce its taste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>今日法部的几位大臣决定出来喝酒，听兵部过来交接的人说罗莫街上新开了一家酒馆，里边的酒是难得一见的佳酿，一行人便抱着来瞧瞧的心态到了这里。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -22314,6 +22322,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T175207Z" creationid="Longbell" creationdate="20220326T175207Z">
         <seg>He had seen so many so-called "goddesses". He thought he could already take it easy when it comes to women.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他走的太突然，太匆忙，甚至还来不及选定一位合适的人选，将泰坦酒的酿造技艺传承下来，让这本可以流传千古的美酒成了所有人心中的遗憾。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T115017Z" creationid="sitong" creationdate="20220406T115017Z">
+        <seg>He left too suddenly, too quickly. There wasn't even a suitable person who could inherit the Titan Liquor's brewing techniques and that made this liquor that could have been passed down for generations end up as a regret in everyone's hearts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29046,6 +29062,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>当年洛都城里少有的散装泰坦酒被炒出了天价，但依旧一酒难求。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T121340Z" creationid="sitong" creationdate="20220406T121340Z">
+        <seg>Back then, Titan Liquor was sold in small bottles at a sky high price in Rodu city yet it was still hard to come by.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>当年的泰坦酒馆，是洛都城内最有名的酒馆之一。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T100813Z" creationid="Longbell" creationdate="20220404T100813Z">
@@ -29602,6 +29626,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Miserable backgrounds and the experience of wandering on the streets made these children more timid and self-conscious. They acted tough, and were guarded against the world like a porcupine. They wouldn't show their gentleness and emotions to the world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>惋惜，是许多人对于马库斯大师的标签。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T114030Z" creationid="sitong" creationdate="20220406T114030Z">
+        <seg>Pity, that was what many felt about Master Marcus.</seg>
       </tuv>
     </tu>
     <tu>
