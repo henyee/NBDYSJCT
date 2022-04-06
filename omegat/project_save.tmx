@@ -15744,8 +15744,8 @@
       <tuv lang="zh-CN">
         <seg>“这不是……泰坦酒吗？！来自马库斯的亲酿！”弗格斯也是一脸难以置信的站起身来。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220406T015540Z" creationid="Longbell" creationdate="20220406T015540Z">
-        <seg>"Isn't this...Titan Liquor? </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T015806Z" creationid="Longbell" creationdate="20220406T015540Z">
+        <seg>"Isn't this...Titan Liquor? Marcus' personal brew!" Fergus also stood up with an incredulous expression.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28582,6 +28582,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>库尔特和弗格斯的表现和话语，引起了现场的不小骚动。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T015829Z" creationid="Longbell" creationdate="20220406T015829Z">
+        <seg>Kurt and Fergus's reaction and words caused a small commotion in the crowd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>库尔特给了一个6分，弗格斯给了一个7分，其他三位评委的分数也是在5—7分。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220405T120930Z" creationid="Longbell" creationdate="20220405T120930Z">
@@ -31658,6 +31666,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T143245Z" creationid="sitong" creationdate="20220327T143245Z">
         <seg>Titan Liquor was already the best wine she had brewed but it was worthless in Mag's eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>泰坦酒是三十多年前第一届品酒大会的金奖酒，由酿酒师马库斯创造，凭借着独特的芳香与不可思议的烈性，在洛都的美酒界留下了传奇的身影。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T020008Z" creationid="Longbell" creationdate="20220406T020008Z">
+        <seg>Titan Liquor was the gold award liquor at the very first liquor tasting event 30-odd years ago. It was created by Brewer Marcus. With its unique fragrance and incredible power, it left a legendary shadow in the Rodu's' liquor scene.</seg>
       </tuv>
     </tu>
     <tu>
