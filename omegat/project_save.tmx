@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19358,6 +19358,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一股浓郁的酒香很快涌了出来，并且快速向着四周扩散而去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T070253Z" creationid="Longbell" creationdate="20220406T070253Z">
+        <seg>A rich liquor's aroma quickly surged out and spread everywhere rapidly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一股清新淡雅的酒香随之飘了出来。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T160442Z" creationid="sitong" creationdate="20220325T160442Z">
@@ -28458,6 +28466,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T015101Z" creationid="Longbell" creationdate="20220406T015101Z">
         <seg>The staff member showed the perfect seal on the bottle to the audience before removing the cork in front of everyone and poured it into the glasses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>工作人员研究了一会，撤掉瓶盖上包裹着的红布，然后一把拔开瓶塞。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T065856Z" creationid="Longbell" creationdate="20220406T065856Z">
+        <seg>The staff member fiddled for a while before they removed the red cloth and pulled off the cork.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>工作人员端着一个圆润的酒瓶上台，众人只是瞄了一眼便失去了兴趣，有实力的酒馆基本都被点评过了，爆炸酒算是最强的了，可依旧不敌泰坦酒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T065800Z" creationid="Longbell" creationdate="20220406T065800Z">
+        <seg>The staff member carried a rotund bottle onto the stage. All of them lost their interest after taking a brief look at it. The taverns with good liquor already had all their liquor reviewed. The Explosive Liquor was considered the strongest contestant, but it still wasn't Titan Liquor's match.</seg>
       </tuv>
     </tu>
     <tu>
