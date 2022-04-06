@@ -32616,8 +32616,8 @@
       <tuv lang="zh-CN">
         <seg>现在已经是第四十五组了，虽然品酒都是用小杯小口浅尝，不过两百多种不同的酒混合在一起，哪怕每一种酒只喝一小口，也不是一般酒量能够承受的。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220405T155551Z" creationid="Longbell" creationdate="20220405T155519Z">
-        <seg>It was already the 45th group now. Although they sampling the liquors with small glasses and taking small sips, they had already mixed over 200 alcoholic drinks together. Even drinking one small sip per liquor would require them to have a high alcohol tolerance.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T031315Z" creationid="Longbell" creationdate="20220405T155519Z">
+        <seg>It was already the 45th group now. Although they were sampling the liquors with small glasses and taking small sips, they had already mixed over 200 alcoholic drinks together. Even drinking one small sip per liquor would require them to have a high alcohol tolerance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34018,6 +34018,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220405T133939Z" creationid="Longbell" creationdate="20220405T133939Z">
         <seg>Chapter 2081: Liquor Tasting Event</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千零八十二章 天才酿酒师</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T031221Z" creationid="Longbell" creationdate="20220406T031221Z">
+        <seg>Chapter 2082: Genius Brewer</seg>
       </tuv>
     </tu>
     <tu>
