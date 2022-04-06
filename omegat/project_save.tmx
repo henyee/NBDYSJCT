@@ -25854,6 +25854,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>在场的不是酒馆老板，就是多年的好酒之徒，都是行家。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T081605Z" creationid="Longbell" creationdate="20220406T081605Z">
+        <seg>Those present were either taverns' bosses or veteren liquor lovers. They were all experts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>在场的人眼中亮起了光芒，纷纷点图，起身投入到工作之中。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -39410,6 +39418,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>To him, this tavern was rather bad. The price of the wine was high, but there were only three pathetic types of side dishes. Even things like peanuts, pig's ears, and tongue were served on the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这酒香一出，自然能分辨出好坏。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T083407Z" creationid="Longbell" creationdate="20220406T083407Z">
+        <seg>They could differentiate its quality just by smelling it.</seg>
       </tuv>
     </tu>
     <tu>
