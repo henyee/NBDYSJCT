@@ -2909,3 +2909,4 @@ DVD	DVD
 鲍里斯	Boris
 酒量	alcohol tolerance
 马库斯	Marcus
+杰拉	Gerald
