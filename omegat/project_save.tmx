@@ -13534,6 +13534,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“看来以后泰坦酒馆又是一个好去处了！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T155733Z" creationid="sitong" creationdate="20220406T155733Z">
+        <seg>"It seems Titan Tavern would be a good place to hangout again!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“看来你对这家餐厅挺了解的，经常来吃？希利回头看着卡诺。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -13842,6 +13850,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Hold on." Mag went upstairs, and came down in all black as well. However, he was wearing a loose black robe and a large hat whose shadow could cover his face completely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“窖藏三十年的泰坦酒可以每日供应五十瓶！当年马库斯大师竟然藏了如此多的好酒！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T155602Z" creationid="sitong" creationdate="20220406T155602Z">
+        <seg>"Titan Liquor that had been kept for 30 years and there would be a supply of 50 bottles everyday! Master Marcus actually hid so many good wine back then!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -33290,6 +33306,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Now, this Smashed Cucumber Salad had reached his expectations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>现场安静了一会，然后一片哗然。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220406T155500Z" creationid="sitong" creationdate="20220406T155500Z">
+        <seg>It was silent and all of a sudden, the crowd erupted into a roar.</seg>
       </tuv>
     </tu>
     <tu>
