@@ -2910,3 +2910,4 @@ DVD	DVD
 酒量	alcohol tolerance
 马库斯	Marcus
 杰拉	Gerald
+酒香	liquor's aroma
