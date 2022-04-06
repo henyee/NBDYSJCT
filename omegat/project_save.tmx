@@ -19270,6 +19270,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一瓶酿造于三十年前的酒，跨越了时间长河，再次在品酒大会上绽放夺目的光彩。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T031846Z" creationid="Longbell" creationdate="20220406T031846Z">
+        <seg>A bottle of liquor that was brewed 30 years ago, sparkled brightly at the liquor tasting event again after crossing the long river of time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一百五十铜币两只鹅，他面前还能赚点饲料钱回来，可这一下子又被套走三个，那可就是纯亏的了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26040,8 +26048,8 @@
       <tuv lang="zh-CN">
         <seg>埃菲带来的泰坦酒，将本场品酒大会推向了高潮。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220406T031635Z" creationid="Longbell" creationdate="20220406T031635Z">
-        <seg>Eiffie's Titan Liquor brought the liquor tasting event into</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T031743Z" creationid="Longbell" creationdate="20220406T031635Z">
+        <seg>Eiffie's Titan Liquor sent the liquor tasting event into a climax.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31518,6 +31526,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>没有人觉得剩下的十组酒里还会出现能够与泰坦酒相提并论的美酒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T032435Z" creationid="Longbell" creationdate="20220406T032435Z">
+        <seg>No one believed that there would be liquor that could compare to Titan Liquor in the remaining 10 groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>没有吃晚饭的诺亚肚子一阵乱叫，打开纸袋抓了一把花生丢到嘴里，咔嚓咔嚓嚼着。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32218,6 +32234,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T061030Z" creationid="sitong" creationdate="20220329T061030Z">
         <seg>Failure to trace origin once again. Perhaps it is related to the powers outside of space?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>满分的评分，意味着这场品酒大会的金奖酒已经失去悬念。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220406T031917Z" creationid="Longbell" creationdate="20220406T031917Z">
+        <seg>The perfect score meant that the gold award of this liquor tasting event was already decided.</seg>
       </tuv>
     </tu>
     <tu>
