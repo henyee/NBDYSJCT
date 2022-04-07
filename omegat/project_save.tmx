@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29494,6 +29494,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>弗格斯看着众人，声音洪亮道：“这一届品酒大会给我们带来了极大的惊喜，也带来了极大的挑战，美酒层出不穷，酿酒师们在过去这一年中的努力和突破都令人惊喜，但美酒也让我们的评选变得更加为难与纠结。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T135649Z" creationid="Longbell" creationdate="20220407T135621Z">
+        <seg>Fergus looked at the crowd and said in a booming voice, "This year's liquor tasting event has given us a huge surprise. There are many great liquors this year. The brewers' hardwork and breakthrough in the past year were all beyond our expectations, but the excellent liquor also made our judging jobs much more complicated and harder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>弗格斯重新走上高台，双手虚压示意众人安静。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T134716Z" creationid="Longbell" creationdate="20220407T134716Z">
@@ -32170,6 +32178,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>For example, they could have a bowl of hot noodles with sesame paste or two piping hot soup dumplings if they didn't want to eat rice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>比如窖藏三十年的泰坦酒，与首次亮相便惊艳四方的茅台酒，要从这两者之间选出一款更好的酒作为金奖酒，就像是问我们老婆和老娘哪个重要一样，简直是在为难所有评委。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T140125Z" creationid="Longbell" creationdate="20220407T140125Z">
+        <seg>For example, the Titan Liquor which has aged for 30 years in the cellar, and Maotai which has bowled everyone over on its debut. Asking us to choose which of them to be awarded with the gold award is equivalent of asking us to choose who is more important between our mothers and our wives. It's making things impossible for all the judges."</seg>
       </tuv>
     </tu>
     <tu>
