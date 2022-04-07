@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你好。”麦格含蓄的点点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T112021Z" creationid="Longbell" creationdate="20220407T112021Z">
+        <seg>"Hello." Mag nodded reservedly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你好啊胖爷爷。”艾米乖巧的打招呼道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -8850,6 +8858,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Are you satisfied with your dinner?" Canault asked Seely nervously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“您好，认识一下，我是卡莎酒馆的老板麦德勋。”隔壁的胖子老板满脸堆笑的和麦格说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T110606Z" creationid="Longbell" creationdate="20220407T110333Z">
+        <seg>"Hello. Let's get to know each other. I'm the boss of Casa Tavern, Madison." The fatty boss sitting next to Mag said to him smilingy.</seg>
       </tuv>
     </tu>
     <tu>
