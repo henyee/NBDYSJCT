@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“50分！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T150455Z" creationid="sitong" creationdate="20220407T150455Z">
+        <seg>"50 points!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“一个一个套太慢了。”艾米拿起了三个竹圈，然后天女散花一般丢了出去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -4170,6 +4178,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T152523Z" creationid="sitong" creationdate="20220327T152523Z">
         <seg>"Since we've learnt their dishes and used their dish names, we should put in our heart and soul in the dishes and not ruin their reputation!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“品酒大会好像已经有三年没有出现满分酒了吧？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T150518Z" creationid="sitong" creationdate="20220407T150518Z">
+        <seg>"There probably hasn't been a wine that had received full marks at the liquor tasting event for thee years, right?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9254,6 +9270,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我也是10分！泰坦酒和马库斯值得。”弗格斯拿起了号牌。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T150428Z" creationid="sitong" creationdate="20220407T150428Z">
+        <seg>"10 points from me too! Titan Liquor and Marcus are worth it." Fergus lifted his sign.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我也是听说的，他肯定是带着酒来的，一会酒上了桌，自然就知道了。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T124335Z" creationid="Longbell" creationdate="20220404T124335Z">
@@ -10778,6 +10802,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Breakfast, what should I make?" Amy asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“时隔十六年，泰坦酒要第四度摘得金奖了！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T150546Z" creationid="sitong" creationdate="20220407T150546Z">
+        <seg>"After 16 years, Titan Liquor was about to take down the gold award for the fourth time!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -24286,6 +24318,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>其他三位评委也是拿起了号牌，都给出了10分的满分评分。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T150444Z" creationid="sitong" creationdate="20220407T150444Z">
+        <seg>The other three judges also raised their signs, giving the full marks of 10 points.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>其他三位评委也是给出了10分的最高评分。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T142241Z" creationid="Longbell" creationdate="20220406T142241Z">
@@ -33938,6 +33978,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T054532Z" creationid="Longbell" creationdate="20220407T054532Z">
         <seg>The church quietened down and everyone looked perplexed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>现场顿时一阵骚动。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T150831Z" creationid="sitong" creationdate="20220407T150831Z">
+        <seg>The audience could not stay still.</seg>
       </tuv>
     </tu>
     <tu>
