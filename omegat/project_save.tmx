@@ -8846,6 +8846,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“恭喜。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T142916Z" creationid="Longbell" creationdate="20220407T142916Z">
+        <seg>"Congratulations."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“恭喜宿主创造出第一道无菜谱美食，获得新成就：凭空想象复制者！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24706,6 +24714,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>In the north, in the snow plains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>十名铜奖酒颁布后，本届品酒大会的重头戏也就完美谢幕了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T142844Z" creationid="Longbell" creationdate="20220407T142844Z">
+        <seg>After announcing the 10 bronze awards, the highlight of this year's liquor tasting event had a perfect ending.</seg>
       </tuv>
     </tu>
     <tu>
