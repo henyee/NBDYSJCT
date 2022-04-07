@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20166,6 +20166,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不少人的目光中在鲍里斯和埃菲身上流转，当年马库斯也是两次压着里斯酒馆夺得金奖，被誉为鲍里斯的一生之敌。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T135250Z" creationid="sitong" creationdate="20220407T135250Z">
+        <seg>Many started to look at Boris and Eiffie. Back then, Marcus  also won the gold award twice from Reese Tavern and was known to be Boris's one and only rival. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不少大臣闻言暗自松了一口气。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32314,6 +32322,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T025253Z" creationid="Longbell" creationdate="20220406T025253Z">
         <seg>They didn't expect to be served a glass of Titan Liquor brewed by Marcus again after 15 years.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>没想到时隔多年，马库斯的女儿携着泰坦酒再次来袭，对上的依旧是鲍里斯的爆炸酒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T135637Z" creationid="sitong" creationdate="20220407T135637Z">
+        <seg>No one expected that years later, Marcus's daughter would bring the Titan Liquor over again to compete with Boris's Explosive Liquor.</seg>
       </tuv>
     </tu>
     <tu>
