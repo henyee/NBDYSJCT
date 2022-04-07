@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22390,6 +22390,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>他似乎看到了一位优雅的女神，令人心生爱慕，却又不敢靠近的女神！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T143906Z" creationid="sitong" creationdate="20220407T143906Z">
+        <seg>He seemed to have seen an elegant goddess that one would admire but did not dare to go close to!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>他倒是有些好奇这个女人的酒量如何，就算是高等文明，只要不是机器人，总是有弱点的。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T135259Z" creationid="Longbell" creationdate="20220331T135259Z">
@@ -22586,6 +22594,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T204452Z" creationid="Longbell" creationdate="20220401T204452Z">
         <seg>He wasn't completely confident that he could make her stay, nor was he sure that she wouldn't transmit any information back in real time while they were fighting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他浅饮一口，酒液缓缓滑入口腔，口感干冽，酒味柔和，酒香在口中萦绕，浓郁迷人，优雅而醇和。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T143058Z" creationid="sitong" creationdate="20220407T143058Z">
+        <seg>He took a sip. The wine slid into his mouth. It was gentle and its fragrance filled his mouth. It was rich and enchanging, graceful and mellow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23522,6 +23538,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Everyone smiled upon seeing that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人纷纷期待的看着台上的评委们。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T141227Z" creationid="sitong" creationdate="20220407T141227Z">
+        <seg>Everyone was watching the judges with anticipation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25594,6 +25618,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T151749Z" creationid="sitong" creationdate="20220321T151749Z">
         <seg>There was another round of cheers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>台下很快安静下来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T141212Z" creationid="sitong" creationdate="20220407T141212Z">
+        <seg>The audience fell quiet quickly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29562,6 +29594,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T050911Z" creationid="Longbell" creationdate="20220406T050501Z">
         <seg>Kurt yawned and rubbed his eyes as he turned to whisper to Fergus, "I don't feel very alert. After this round, get Gerald to take over me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>库尔特端起酒杯，先凑近鼻子，用手轻轻扇着杯口，深嗅了一口酒香。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T141259Z" creationid="sitong" creationdate="20220407T141259Z">
+        <seg>Kurt raised his glass and put it near his nose. He used his hand to fan the opening of the glass gently and took a good sniff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41658,6 +41698,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T015403Z" creationid="Longbell" creationdate="20220406T015403Z">
         <seg>The rich liquor's aroma slowly spread out. It was a graceful marriage of the grape fruit's fragrance and aged wood's fragrance. It invigorated the initially dull venue immediately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>馥郁的醇香令人迷醉，葡萄的香味在橡木桶中发酵出了特殊的芳香，她是如此的独特，又如此的优雅，令先前的酒尽皆失色。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T142224Z" creationid="sitong" creationdate="20220407T142224Z">
+        <seg>The rich fragrance was intoxicating. It was a unique fragrance that was created through the fermentation of the grape in a wooden barrel. It was this unique and elegant, making the wines that came before it lose their colors.</seg>
       </tuv>
     </tu>
     <tu>
