@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21366,6 +21366,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>两位三十岁左右的人儿，看起来风华正茂，羡煞台下众人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T141147Z" creationid="Longbell" creationdate="20220407T141147Z">
+        <seg>The two 30-year-olds seemed to be in their prime, making everyone in the audience envy them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>两千铜币一瓶的酒在罗莫街算得上高价昂贵，可要是在城北有名的酒肆、酒馆里，这样的价格并不醒目。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -29546,6 +29554,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T124704Z" creationid="Longbell" creationdate="20220406T124704Z">
         <seg>Fergus tilted his head back to finish every single drop in the glass. He smacked his lips and put the glass down, wishing for more. He nodded and continued on after Kurt's review, "I guess everyone has smelled its aroma and Kurt has already desecribed its taste. I can only say that this is one of the best alcoholic drinks I have ever had in my life. It's even one of the top three I ever had. Now, I am very curious who is the brewer here that made this and managed to remain so secretive."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>弗格斯和库尔特一人拿着一个金色的大酒杯，上面还刻着‘美酒大会金奖’的字样。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T141339Z" creationid="Longbell" creationdate="20220407T141241Z">
+        <seg>Fergus and Kurt each held onto a big golden wine glass, which had the words "The Wine and Liquor Association's Gold Award" engraved on it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42162,6 +42178,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag and Irina split up after entering the mansion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格和埃菲起身，走上了高台。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T141034Z" creationid="Longbell" creationdate="20220407T141034Z">
+        <seg>Mag and Eiffie got up and walked onto the stage.</seg>
       </tuv>
     </tu>
     <tu>
