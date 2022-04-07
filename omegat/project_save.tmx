@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15382,6 +15382,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“谢谢。”埃菲点头，重新入座，等待评委们品酒打分。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T140958Z" creationid="sitong" creationdate="20220407T140958Z">
+        <seg>"Thank you." Eiffie nodded. She sat back down and waited for the judges to give their scores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“谢谢。”埃菲甜甜的说道，双手捧着茶杯，暖着手。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T092142Z" creationid="Longbell" creationdate="20220328T092100Z">
@@ -18718,6 +18726,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“马库斯当年竟然留下了如此多的藏酒吗？”库尔特闻言也是一脸惊讶，不过很快点头道：“如此的话，这瓶酒是可以参加本届品酒大会的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T135915Z" creationid="sitong" creationdate="20220407T135915Z">
+        <seg>"Marcus actually left so many wine behind?" Kurt was shocked to hear that too. However, he quickly nodded and said, "In that case, this wine is eligible to join this year's liquor tasting event."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“骑士交给我，布卢姆交给你，细节处理要到位，我们只有三分钟的时间。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -21458,6 +21474,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The pro-war and pro-peace were quickly engaged in a fervent debate. Some even pulled out their weapons, as though they were going to fight it out if they did not have their way.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>主持人声音洪亮道：“好的，请各位保持安静，接下来各位评委要开始品酒了，让我们期待一下这一瓶窖藏了三十年的泰坦酒，会得到评委们怎样的评价。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T141204Z" creationid="sitong" creationdate="20220407T141204Z">
+        <seg>The emcee said in a loud voice, "Alright, please remain quiet. Right now, the judges would start to taste the wine. Let us look forward to the next bottle, the Titan Liquor that was kept for 30 years. How would the judges judge it?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -41602,6 +41626,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The devil was indeed a terrifying existence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>鲍里斯的表情依旧没有什么变化，向着埃菲微微点头致意，然后便转过身去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220407T135657Z" creationid="sitong" creationdate="20220407T135657Z">
+        <seg>Boris did not have much change in expression. He nodded to Eiffie and turned to leaves.</seg>
       </tuv>
     </tu>
     <tu>
