@@ -8430,6 +8430,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“年轻人，你很有趣，对我胃口。”弗格斯伸手拍了拍麦格的肩膀，“那我就期待一下你明年能够给我们带来怎样的惊喜吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T142339Z" creationid="Longbell" creationdate="20220407T142339Z">
+        <seg>"Young man, you are funny. I like you." Fergus slapped Mag's shoulder. "Then, I shall look forward to the surprise that you will bring to us next year."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“年轻人，这酒是你酿的吗？”库尔特见麦格这般年轻，不禁有些惊讶的问道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T125926Z" creationid="Longbell" creationdate="20220407T060615Z">
@@ -29618,6 +29626,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T124704Z" creationid="Longbell" creationdate="20220406T124704Z">
         <seg>Fergus tilted his head back to finish every single drop in the glass. He smacked his lips and put the glass down, wishing for more. He nodded and continued on after Kurt's review, "I guess everyone has smelled its aroma and Kurt has already desecribed its taste. I can only say that this is one of the best alcoholic drinks I have ever had in my life. It's even one of the top three I ever had. Now, I am very curious who is the brewer here that made this and managed to remain so secretive."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>弗格斯和台下的人们都笑了起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T142226Z" creationid="Longbell" creationdate="20220407T142226Z">
+        <seg>Fergus and the audience laughed.</seg>
       </tuv>
     </tu>
     <tu>
