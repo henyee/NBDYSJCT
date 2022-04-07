@@ -2912,3 +2912,5 @@ DVD	DVD
 杰拉	Gerald
 酒香	liquor's aroma
 粮食酒	grain alcohol
+卡莎酒馆	Casa Tavern
+麦德勋	Madison
