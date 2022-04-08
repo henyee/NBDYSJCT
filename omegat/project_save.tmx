@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你下午去罗莫街一趟，在我空置的房子上留下联系方式，应该很快就会有人来找你了。”麦格笑着说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T062739Z" creationid="Longbell" creationdate="20220408T062739Z">
+        <seg>"Go to Romo Street in the after noon and put up your contact details on my vacant houses. People will be looking for you very soon." Mag said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你不会连亚历克斯都不知道是谁吧？”老板有些鄙夷的看了他一眼，接着道：“当年他和伊琳娜公主这对璧人，在诺兰大陆上闯下赫赫威名，留下了无数佳话和传说，成为了无数作者的重要素材，养活了一大批的作者啊。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -37560,8 +37568,8 @@
       <tuv lang="zh-CN">
         <seg>至于哈迪斯先前所说的那个商业计划，比起现在罗莫街普遍高出数倍的租金，完全是天马行空般的想法。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220408T062629Z" creationid="Longbell" creationdate="20220408T062629Z">
-        <seg>As for the business plan that Mr. Hades mentioned earlier, the rental that was several times higher than the current Romo Street's rental rates, was an absurb idea.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T062646Z" creationid="Longbell" creationdate="20220408T062629Z">
+        <seg>As for the business plan that Mr. Hades mentioned earlier, the rental rate that was several times higher than the current Romo Street's rental rate, was an absurb idea.</seg>
       </tuv>
     </tu>
     <tu>
