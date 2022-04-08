@@ -11758,6 +11758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是的先生，这栋楼是要对外出租，不光是这栋，这条街上还有一百多栋楼都可以对外出租。”费奇脸上露出了职业微笑，点头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T164248Z" creationid="Longbell" creationdate="20220408T163644Z">
+        <seg>Fitch showed a professional smile and nodded. "Yes, Sir. This property is for rent. Apart from this property, we have over 100 properties for rent on this street too."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是的呢。”麦格看着盘子中只有少量增加的水分，同样眼睛一亮。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -39456,8 +39464,8 @@
       <tuv lang="zh-CN">
         <seg>费奇转身，看到两个穿的颇为体面的中年男人站在他们的身后。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220408T163633Z" creationid="Longbell" creationdate="20220408T163633Z">
-        <seg>Fitch turned around and saw two well-dressed middle-aged men behind them.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T163648Z" creationid="Longbell" creationdate="20220408T163633Z">
+        <seg>Fitch turned around and saw two rather well-dressed middle-aged men behind them.</seg>
       </tuv>
     </tu>
     <tu>
