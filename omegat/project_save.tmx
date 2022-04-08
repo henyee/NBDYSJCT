@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36952,8 +36952,8 @@
       <tuv lang="zh-CN">
         <seg>而今天三十三栋楼的成交量，又刷满了他当上主管首月的业绩要求，今晚不知道还能不能和老板女儿共进晚餐，或者再发展点其他的步骤。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220408T063452Z" creationid="Longbell" creationdate="20220408T063452Z">
-        <seg>The sales of 33 properties had completed his first month requirement after he was promoted to supervisor. He wondered if he could have dinner with the boss' daughter tonight and perhaps, go on further with </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T141244Z" creationid="Longbell" creationdate="20220408T063452Z">
+        <seg>The sales of 33 properties had completed his first month requirement after he was promoted to supervisor. He wondered if he could have dinner with the boss' daughter tonight and perhaps, go on further with her.</seg>
       </tuv>
     </tu>
     <tu>
