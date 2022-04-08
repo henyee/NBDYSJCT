@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39278,6 +39278,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>费奇把麦格送出门，安排店里的马车把他送回家。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T143206Z" creationid="Longbell" creationdate="20220408T143206Z">
+        <seg>Fitch sent Mag out and arranged for the shop's horse-drawn carriage to send him home.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>赫克托就是波比的那位前辈，而这位卢西恩大人也和他们一同喝过几次酒，和前辈的关系不错。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -44186,6 +44194,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag flicked a glance at her and also smilingly said, "Although you are pretty, don't harbor too pretty thoughts."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格看得出费奇的想法，但对方态度友好，业务能力也不差，也就值得合作，其他的想法根本没有被他放在心上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T142631Z" creationid="Longbell" creationdate="20220408T142631Z">
+        <seg>Mag could see through Fitch's thinking, but his attitude was good and his abililty was not bad, so he was willing to work with him. He didn't care about his other thoughts.</seg>
       </tuv>
     </tu>
     <tu>
