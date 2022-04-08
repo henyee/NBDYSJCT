@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27982,6 +27982,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>如果不是麦格撕掉了酒窖的封条，并且让她用窖藏的泰坦酒参赛，今日她也无法站上领奖台，捧回这个属于她父亲的奖杯。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T143903Z" creationid="Longbell" creationdate="20220407T143903Z">
+        <seg>If Mag hadn't tore off the seal on the cellars and let her use the Titan Liquor in the cellar to take part in the competition, she wouldn't be standing on the stage today and taking back this trophy that belonged to her father.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>如果不算昨晚在厨神试炼场里成千上万次的操作，这的确是他在现实中做的第一份红油抄手。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -37318,6 +37326,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而麦格自己更全程极为淡定的领回了金奖奖杯，仿佛早有预料一般。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220407T143931Z" creationid="Longbell" creationdate="20220407T143931Z">
+        <seg>Meanwhile, Mag calmly accepted his gold award trophy, as if he had anticipated it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而麦米餐厅的出现，就像一道光出现在卡诺的世界，让他有了留下来的充足理由。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -42242,6 +42258,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag got today's intel from the secret tree hole. He altered it a little and embellished it a little. He then changed his appearance with the face-altering mask, and sold this latest intel to the few information centers in Rodu. At the same time, he gave a free copy to all the storytellers in the teahouses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格他们从教堂里出来，便看到手里拿着一堆好吃的的艾米和安妮坐在教堂前的秋千上，伊琳娜站在不远处，玛拉则在旁边守着两个孩子。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T004725Z" creationid="Longbell" creationdate="20220408T004650Z">
+        <seg>Mag saw Amy, who was holding a ton of goodies, and Annie sitting on the swing in front of the church as soon as soon as he walked out of the church. Irina was standing closeby, while Mala was guarding the children at the side.</seg>
       </tuv>
     </tu>
     <tu>
