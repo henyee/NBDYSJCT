@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4434,6 +4434,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T152448Z" creationid="sitong" creationdate="20220404T152448Z">
         <seg>"Mr. Hades, are you going to the liquor tasting event as a family?" Eiffie greeted with a smile as she walked out from the tavern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哈迪斯先生，你好，可以耽误你一点时间吗？”麦格正准备上马车，却被叫住。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220408T141314Z" creationid="sitong" creationdate="20220408T141314Z">
+        <seg>"Hi, Mr. Hades, can I take some of your time?" Mag was called called back when he was about to board the horse-drawn carriage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43610,6 +43618,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag kept the two water glasses, and was going to go study up on the brewing when the doorbell rang again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格收回脚，转身看着来人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220408T141627Z" creationid="sitong" creationdate="20220408T141627Z">
+        <seg>Mag retracted his leg and turned to look at the person.</seg>
       </tuv>
     </tu>
     <tu>
