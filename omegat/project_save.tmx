@@ -29846,6 +29846,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>年纪轻轻，他就要过上每个月收租收到手软的生活，成为这条街上最靓的包租公。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T143926Z" creationid="Longbell" creationdate="20220408T143926Z">
+        <seg>He was so young and he was going to collect rent until his hands shake and become the most handsome landlord on the street.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>年轻的工作人员在中年工作人员耳边说了几句话，然后看着麦格微笑道：“您请稍等，我去请院长过来，这件事我们坐不了主。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -43000,8 +43008,8 @@
       <tuv lang="zh-CN">
         <seg>麦格坐在马车里，舒服的伸了个懒腰。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220408T143518Z" creationid="Longbell" creationdate="20220408T143518Z">
-        <seg>Mag sat in the horse-drawn carriage and stretched out lazily.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T143548Z" creationid="Longbell" creationdate="20220408T143518Z">
+        <seg>Mag sat in the horse-drawn carriage and stretched out lazily and comfortably.</seg>
       </tuv>
     </tu>
     <tu>
