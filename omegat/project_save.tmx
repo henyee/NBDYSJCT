@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39450,6 +39450,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T143206Z" creationid="Longbell" creationdate="20220408T143206Z">
         <seg>Fitch sent Mag out and arranged for the shop's horse-drawn carriage to send him home.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>费奇转身，看到两个穿的颇为体面的中年男人站在他们的身后。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T163633Z" creationid="Longbell" creationdate="20220408T163633Z">
+        <seg>Fitch turned around and saw two well-dressed middle-aged men behind them.</seg>
       </tuv>
     </tu>
     <tu>
