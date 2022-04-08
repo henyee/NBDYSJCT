@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35570,6 +35570,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220405T133939Z" creationid="Longbell" creationdate="20220405T133939Z">
         <seg>Chapter 2081: Liquor Tasting Event</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千零八十七章 再买小半条街</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220408T131942Z" creationid="sitong" creationdate="20220408T131942Z">
+        <seg>Chapter 2087: Buy Another Half A Street</seg>
       </tuv>
     </tu>
     <tu>
