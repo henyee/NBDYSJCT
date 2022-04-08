@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1090,6 +1090,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Lord Bishop, this is the address of the little girl that you are looking for. This restaurant at the northwestern corner of Aden Square is very popular. You can find it easily." A young missionary looked at the bishop with white hair and white beard, and hesitantly said, "But this little girl's identity is a little special. She is the disciple of the legendary magic casters Krassu and Urien."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“主管，您可真是神仙啊，又一下子卖出去三十三栋楼。”先前进来叫费奇的工作人员一脸敬佩的看着费奇。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T144950Z" creationid="Longbell" creationdate="20220408T144950Z">
+        <seg>"Supervisor, you are so out of this world. You just sold 33 properties in a blink of an eye." The staff member who went to call Fitch in earlier, looked at him with admiration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8546,6 +8554,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It's not good to go undercover every day with children. It's easy to move about with a proper identity. I think it's feasible."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“常规操作。”费奇一脸淡然的把手里的资料放在桌上，“把这些资料整理一下，然后跟我去一趟罗莫街。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T145117Z" creationid="Longbell" creationdate="20220408T145117Z">
+        <seg>"It's just normal operation." Fitch placed the documents onto the table calmly. "Sort out these documents and then follow me to Romo Street."</seg>
       </tuv>
     </tu>
     <tu>
@@ -32306,6 +32322,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T140844Z" creationid="sitong" creationdate="20220403T140844Z">
         <seg>It would be impossible for the Elder Things, which were from an advanced civilization would not put themselves in the dark underground to suffer. This meant that the underground world would probably be completely different from what we thought it to be.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>有钱人的生活，就是这样的枯燥且乏味。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T143943Z" creationid="Longbell" creationdate="20220408T143943Z">
+        <seg>The lifestyle of the rich was just dull and boring.</seg>
       </tuv>
     </tu>
     <tu>
