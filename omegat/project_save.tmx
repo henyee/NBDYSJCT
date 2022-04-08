@@ -7158,6 +7158,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好的，这是份内的事情，等我整理好资料，马上就会带人过去。”费奇微笑着点头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T062952Z" creationid="Longbell" creationdate="20220408T062952Z">
+        <seg>"Alright. That's part of my job. I will bring my people there immedaitely after I settled the documents." Fitch nodded with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好的，那今晚我带您前去拜访。”那年轻教士松了口气，脸上露出了几分轻松的笑容，看了一眼时间，又道：“不如我现在就带您过去吧，刚好可以在麦米餐厅吃晚餐。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -29010,6 +29018,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T100507Z" creationid="Longbell" creationdate="20220404T100507Z">
         <seg>To the older liquor-lovers and tavern operators, the Titan Liquor back then was really impressive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>对于哈迪斯这样爽快的客人，大概是每一个销售最喜欢的了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T063219Z" creationid="Longbell" creationdate="20220408T063219Z">
+        <seg>Perhaps, an easy customer like Hades was every sales person's favorite.</seg>
       </tuv>
     </tu>
     <tu>
