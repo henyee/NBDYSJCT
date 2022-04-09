@@ -38214,6 +38214,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而对于这些老板们的重新装修计划，他更是十分支持。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T141743Z" creationid="Longbell" creationdate="20220409T141743Z">
+        <seg>As for these bosses' plans to refurbish their shops, Mag was very supportive too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而对面的泰坦酒馆，却挂上了暂停营业的公告，宣布正式进入整改阶段。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220331T174323Z" creationid="sitong" creationdate="20220331T174323Z">
@@ -39842,6 +39850,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The neighbors watched Mag and his family go away. Their topic of conversation was still their new neighbor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>街坊嘛，就是得互相照顾。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T141653Z" creationid="Longbell" creationdate="20220409T141653Z">
+        <seg>Neighbors should take care of one another.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43728,8 +43744,8 @@
       <tuv lang="zh-CN">
         <seg>麦格也收到了许多街坊邻居的祝贺，对此他也是友好的表示感谢。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220409T141617Z" creationid="Longbell" creationdate="20220409T141617Z">
-        <seg>Mag had also received many congratulations from their neighbors. He also said thanks to them friendliness.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T141700Z" creationid="Longbell" creationdate="20220409T141617Z">
+        <seg>Mag had also received many congratulations from their neighbors and he also said thanks to them friendliness.</seg>
       </tuv>
     </tu>
     <tu>
