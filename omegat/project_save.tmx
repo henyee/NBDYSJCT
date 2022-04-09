@@ -3776,8 +3776,8 @@
       <tuv lang="zh-CN">
         <seg>“叮！恭喜宿主完成阶段性任务：餐厅人气突破1000！获得奖励：香辣田螺菜谱一份！”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220409T174407Z" creationid="Longbell" creationdate="20220409T174104Z">
-        <seg>"Ding! Congratulations on completing the mission: The tarven's popularity had break through 1000! Reward received: </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T174441Z" creationid="Longbell" creationdate="20220409T174104Z">
+        <seg>"Ding! Congratulations on completing the mission: The tarven's popularity had break through 1000! Reward received: a recipe of the spicy escargot!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -37234,6 +37234,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Please continue to work hard to replicate and create even more scrumptious food!" the system said, and bouquets of flowers even appeared in the test field for the God of Cookery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>系统的声音在麦格脑海中响起。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T174506Z" creationid="Longbell" creationdate="20220409T174506Z">
+        <seg>The system's voice appeared in Mag's mind.</seg>
       </tuv>
     </tu>
     <tu>
