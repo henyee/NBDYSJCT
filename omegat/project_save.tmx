@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8862,6 +8862,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“废话，要是晚了的话，岂不少赚了不少钱！”老板把小二推出酒馆，自己把门上的牌子摘了，还不忘叮嘱道：“今天就去把施工队找来，今天晚上就开工，越早完工越好，多给点钱也行！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T124318Z" creationid="Longbell" creationdate="20220409T124318Z">
+        <seg>"Of course. We will lose money if we are late!" Boss pushed the waiter out of the tavern and removed the sign on the door himself. He didn't forget to remind him, "Go get the construction team here today and we will start the work tonight. The earlier we can finish, the better. It's even fine to pay more!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“开心！！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -16938,6 +16946,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>It's so popular? Is this for real? Mag cocked his eyebrow, and looked at the people crowding at the counter skeptically. The crowd were mainly young ladies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这么突然吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T123346Z" creationid="Longbell" creationdate="20220409T123346Z">
+        <seg>"So rush?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -29818,6 +29834,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The little maid pursed her lips and stole a peek at Eiffie. Shaking her head, she said, "Not exactly. I still prefer to stay with Miss."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>小二有点愣住，刚刚还在为酒馆转不出去头疼的老板，现在竟然拒绝了人家的转让请求，而且还要把店铺重新装修一遍。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T124009Z" creationid="Longbell" creationdate="20220409T124009Z">
+        <seg>The waiter was a little taken aback. The boss who was having a headache over the tavern being unsaleable, had actually rejected the other party's offer and was even prepared to refurbish the tavern again.</seg>
       </tuv>
     </tu>
     <tu>
