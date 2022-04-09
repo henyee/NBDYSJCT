@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20398,6 +20398,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一条商业街就像一个神态系统，要想健康长久，就得具有规划性。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T125818Z" creationid="sitong" creationdate="20220409T125818Z">
+        <seg>A commercial street was like an ecosystem. For it to last long and healthily, there had to be a specific plan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一条街上的两家酒馆，在品酒大会上同时斩获五十分的高分。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T122643Z" creationid="Longbell" creationdate="20220407T122643Z">
@@ -24878,6 +24886,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>作为罗莫街的第一包租公，手握一百多栋楼的他，已经拥有这个权利。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T125751Z" creationid="sitong" creationdate="20220409T125751Z">
+        <seg>As the first landlord of Romo Street, Mag who had a few hundred buildings to hsi name had that power.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>你可是一个酒馆老板啊。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26126,6 +26142,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>只要罗莫街的商业体系能够重建，并且吸引更多有实力、有特色的商家入驻，便能打造出一个全新的商业体系。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T125711Z" creationid="sitong" creationdate="20220409T125711Z">
+        <seg>As long as the commercial system in Romo Street could be rebuilt and attract more capable and unique merchants to stay, a whole new commercial system would be formed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>可一手造就了这场战争和屠杀惨案之后，靠着吸收怨气与精血，他的实力获得暴涨，这可不是什么好事。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26698,6 +26722,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The other officials at the table chimed in. They had not seen such an arrogant person in a really long time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>同质化和低质化会毁掉一个商圈，也注定无法走远。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T130115Z" creationid="sitong" creationdate="20220409T130115Z">
+        <seg>Homogeinity and monopoly would ruin an entire commercial circle. It was not destined to last long.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37798,6 +37830,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而其他商家想要蹭这个人气，便会在罗莫街上开展商业活动，继而带动人气的再次上升。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T124140Z" creationid="sitong" creationdate="20220409T124140Z">
+        <seg>If other merchants wanted to ride thsi wave, they would have to start their commercial activities in Romo Street and that would continue to bring the crowds in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而凉拌猪耳朵这道菜，有了做夫妻肺片的经验后，触类旁通，同样简单快手。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -38098,6 +38138,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T091842Z" creationid="Longbell" creationdate="20220402T091620Z">
         <seg>And this human male did exactly the same when he took out his longsword.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而这个商业体系的构建，将由麦格来把关。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T125724Z" creationid="sitong" creationdate="20220409T125724Z">
+        <seg>This commercial system's structure would be controlled by Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41318,6 +41366,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这是一个互相成就的故事。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T124203Z" creationid="sitong" creationdate="20220409T124203Z">
+        <seg>This was how things would work out for both sides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这是一个力量与技巧完美结合的动作，力道的把握非常关键。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -42810,6 +42866,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220402T164014Z" creationid="sitong" creationdate="20220402T164014Z">
         <seg>Other than that, Mag even did some improvements to the brewing method for the Titan Liquor based on his experience and taught it to Eiffie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>随着人气的增加，罗莫街的商业价值也自然开始回升。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T124108Z" creationid="sitong" creationdate="20220409T124108Z">
+        <seg>With the increased popularity, Romo Street's commercial value would naturally rise.</seg>
       </tuv>
     </tu>
     <tu>
