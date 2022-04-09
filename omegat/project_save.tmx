@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2034,6 +2034,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Are you guys the Holy See's missionaries from the Roth Empire?" The orc sitting next to Canault was also looking at the two of them curiously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你们没有这个业务吗？”麦格打断了他的废话。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T132719Z" creationid="sitong" creationdate="20220409T132719Z">
+        <seg>"You don't provide this service?" Mag interrupted his nonsense.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4634,6 +4642,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Mr. Hades, you really have the outlook. I believe Romo Street will prosper and earn you tons of money under your brilliant operation." Fitch looked at Mag with a glow. He had sold more properties in this half a day than in his entire career. It was a total of 100 properties. Just his commission alone was over 2,000,000 copper coins. He could quit, return home, build a house, and get a wife right now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哈迪斯先生，您的这些商铺恐怕……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T132705Z" creationid="sitong" creationdate="20220409T132705Z">
+        <seg>"Mr. Hades, I'm afraid these shops are..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -9866,6 +9882,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Are we really going to eat this early in the morning?" Irina whispered at Mag's ear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们有租赁中介业务的，如果是哈迪斯先生的话，我还可以给您打了个折，只收5个点的年租金作为中介费用。”费奇点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T132808Z" creationid="sitong" creationdate="20220409T132808Z">
+        <seg>"We do provide renting services. If you wish, I can give you a discount. I will only take the annual rental fees of five location as the agent fees." Fitch nodded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23434,6 +23458,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>He could completely understand the customers' unease when their meals were cut off suddenly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他实在是不忍心看麦格倔强的样子，他甚至可以感受那种无助和悔恨。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T132827Z" creationid="sitong" creationdate="20220409T132827Z">
+        <seg>He really could not bear to watch Mag like that. He could even feel that helplessness and regret.</seg>
       </tuv>
     </tu>
     <tu>
