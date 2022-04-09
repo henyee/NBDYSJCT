@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37182,6 +37182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而且哈迪斯先生买走了最后的三十三栋楼，等于是掌控了罗莫街上的大半优质商铺。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T094831Z" creationid="Longbell" creationdate="20220409T094831Z">
+        <seg>Furthermore, Mr. Hades buying the last 33 buildings was equivalent to controlling over half of the good shopfronts on Romo Street.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而且在她的身上，希利还感受到了一丝熟悉的神力，这是教廷独特的修炼体系说特有的能量。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -40194,6 +40202,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This was not fruit wine. It did not have the refreshing fragrance of the former. However, it did have an even stronger and lingering fragrance. It should've been made from grains. He had tried many grain wines, but none of them had a fragrance this strong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这不是远高于市场价的租金，这是非常合理的租金。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T094615Z" creationid="Longbell" creationdate="20220409T094615Z">
+        <seg>That wasn't a rate that was much higher than the market rate, but a very reasonable rental rate.</seg>
       </tuv>
     </tu>
     <tu>
