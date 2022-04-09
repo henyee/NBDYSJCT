@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13842,6 +13842,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Father, this Smashed Cucumber Salad is really good. The customers would definitely love it," Amy said happily as she placed the basin in her arms down while eating the Smashed Cucumber Salad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“父亲大人，这些邻居好好哦。”艾米面前的桌子上摆满了各种吃食，都是那些前来祝贺的邻居们送的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T162318Z" creationid="Longbell" creationdate="20220409T162318Z">
+        <seg>"Father, these neighbors are so nice." The table in front of Amy was filled with food. They were given by the neighbors who came to congratulate them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29870,6 +29878,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>客人最是喜新厌旧，除了那些以口味作为核心竞争力的老店，人们更喜欢追逐看起来新颖的店铺，哪怕只是店铺装修看起来新颖。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T161551Z" creationid="Longbell" creationdate="20220409T161551Z">
+        <seg>The customers all favored new things. Apart from those old shops whose core competitiveness was their flavor, people liked to go after the new shops, even if those shops only looked new.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>家里还有三个孩子，都是长身体的年纪，靠着他那点工资，本来就只能勉强维持生活的样子。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -37458,6 +37474,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Romo Street was in Rodu's city center. At the end of the street were all the offices of the court's agencies. However, because of this, there weren't many residential areas around, and the shops here were mainly running their businesses with the court officials in mind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>罗莫街失去竞争力的一大原因，也是整条街的商业看起来太陈旧落后了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T161446Z" creationid="Longbell" creationdate="20220409T161446Z">
+        <seg>One big reason that Romo Street lost its competitiveness was because all the shops on the street looked too old.</seg>
       </tuv>
     </tu>
     <tu>
