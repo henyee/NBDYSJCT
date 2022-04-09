@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2630,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你这小脑袋每天就知道睡睡睡，其他什么都不知道。”埃菲没好气的点了一下她的额头，看着酿酒坊，笑着要头道：“我不想要那么多酒馆，我只要父亲和母亲留给我的这家就足够了。而且我喜欢酿酒，也想真正继承父亲的事业，酿出正宗的泰坦酒，这才是能够让我快乐的事情。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T134152Z" creationid="Longbell" creationdate="20220409T134152Z">
+        <seg>"All that little head of yours is sleep, sleep and sleep and nothing else." Eiffie flicked Mala's forehead with exasperation. She looked at the brewery and shook her head with a smile, "I don't need so many taverns. I only want this tavern that Father and Mother left to me. Furthermore, I like to brew liquor. I like to truly inherit Father's career and brew the authentic Titan Liquor. This is what makes me happy."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你这想法……”伊琳娜思索了一会，赞同的点了点头，“妙啊！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -4746,6 +4754,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Oh." The maid didn't suspect anything. She put down a takeaway box in her hands, and took out the hot food within while saying, "Miss, I heard that the tavern opposite us had a roaring business last night. Moreover, the liquor that they sell is extremely expensive. A customer's minimum spending is at least 1000 copper coins."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哦。”玛拉点点头，转身向外走了几步，又是回过头来有些不解的看着埃菲道：“可是小姐，你为什么不答应那位鲍里斯先生的邀请呢？这样你不仅可以拥有很多家酒馆，而且还可以都叫做泰坦酒馆，还不用每天在这里辛苦酿酒，天天都可以睡懒觉了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T132658Z" creationid="Longbell" creationdate="20220409T132658Z">
+        <seg>"Yes." Mala nodded, turned around and walked a few steps away before she turned to ask Eiffie perplexedly, "But Miss, why don't you accept Mr. Boris' offer? Not you will have many taverns, you can also called them "Titan Taverns". You don't even have to work hard and brew liquor here everyday. You can also sleep in everyday."</seg>
       </tuv>
     </tu>
     <tu>
@@ -8298,6 +8314,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The little maid came over to put on the cape for Eiffie and looked at her expectantly, 'Miss, are you successful?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“小姐，现在大家都知道我们拿了金奖呢，还有不少人来祝贺呢。”玛拉兴致冲冲的跑进酿酒坊，看着正在机器前认真操作的埃菲说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T131301Z" creationid="Longbell" creationdate="20220409T131301Z">
+        <seg>"Miss, everyone knew that we got the gold award now. Many people came to congratulate us." Mala dashed into workshop excitedly and said to Eiffie who was operating the machine seriously.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23022,6 +23046,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>人气不足导致装修的动力不足，现在趁着双金奖的热度，也是让各位老板萌生了升级店铺的心思。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T130706Z" creationid="Longbell" creationdate="20220409T124859Z">
+        <seg>The low popularity caused the inertia to refurbish. With the popularity of the twin gold awards, all the bosses had the thought of upgrading their shops.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>人群中，埃菲慢慢向后挪了一点，侧身让自己藏到餐厅老板肥壮的身躯之后，脸蛋微微泛红。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27850,6 +27882,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Eiffie sighed. "Sigh, what a pity he came too late."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲合上机器，看着玛拉道：“没事别到处乱跑，去外边盯着施工队，咱们这次重新装修和扩张一定要做好，以后的泰坦酒馆和以前不一样了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T131811Z" creationid="Longbell" creationdate="20220409T131811Z">
+        <seg>Eiffie closed the machine and said to Mala, "Don't run around if you have nothing to do. Go watch after the construction team. We must make sure the refurbishment and expansion are done properly. The Titan Tavern in future will different from the one in the past."</seg>
       </tuv>
     </tu>
     <tu>
@@ -41034,6 +41074,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>All these years, such things had been happening very often. She knew very well whom her husband had been drinking with, and although she had been nagging about it, she did not really hold it to heart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这些当年因为泰坦酒馆而聚集而来的店铺，的确已经有些过气了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T124837Z" creationid="Longbell" creationdate="20220409T124837Z">
+        <seg>Those shops that had converged because of Titan Tavern back then were indeed a little outdated.</seg>
       </tuv>
     </tu>
     <tu>
