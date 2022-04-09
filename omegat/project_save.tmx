@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1546,6 +1546,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Their chief wants to join the pro-peace group, but there are differences internally."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“他们要是能看得懂的话，早发财了。”麦格笑了笑，胸有成竹道：“不用等明年，明天来问商铺的人就会变多了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T123728Z" creationid="sitong" creationdate="20220409T123728Z">
+        <seg>"If they could understand it, they would have long made it big." Mag smiled and said confidently, "It would not even take a year. Tomorrow there would be mroe people asking about shops here."</seg>
       </tuv>
     </tu>
     <tu>
@@ -9566,6 +9574,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我不是商人，我是一个厨师，只是偶偶会投资一点被严重低估的产业。”麦格一脸坦然道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T123407Z" creationid="sitong" creationdate="20220409T123407Z">
+        <seg>"I am not a businessman. I am a chef. I just invest in some assets that had been heavily underrated." Mag said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我不知道。”麦格也放下了剑，“但我应该知道一些你所不知道的消息。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T132936Z" creationid="Longbell" creationdate="20220402T132936Z">
@@ -14874,6 +14890,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T121457Z" creationid="Longbell" creationdate="20220407T121457Z">
         <seg>"Romo Street..." Madison thought for a while before widening his eyes and flicked a glance at Eiffie. Then, he said to Mag, "Isn't it on the same street as Titan Tavern?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“罗莫街的房价真的会涨？他们都说你亏了。”伊琳娜有点不信道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T123459Z" creationid="sitong" creationdate="20220409T123459Z">
+        <seg>"Will the property prices at Romo Street really go up? They all said that you've made losses," Irina said in disbelief.</seg>
       </tuv>
     </tu>
     <tu>
