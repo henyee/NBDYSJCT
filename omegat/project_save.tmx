@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4506,6 +4506,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Hahaha… so stupid…" Amy and Annie were rolling on the floor, laughing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哈迪斯先生可以考虑一下，如果有想法的话，随时可以来里斯酒馆找我。”鲍里斯往旁边站了一点，看着马车说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T093714Z" creationid="sitong" creationdate="20220409T093714Z">
+        <seg>"Mr. Hades, you can consider it. If you have any ideas, you can always look for me at Reese Tavern." Boris took a step to the side as he said toward the horse-drawn carriage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10782,6 +10790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“抱歉，我对于缔造什么传奇没多大兴趣，如果有的话，那我就是传奇。”麦格微微一笑，跨步登上马车，示意车夫可以开车了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T093617Z" creationid="sitong" creationdate="20220409T093617Z">
+        <seg>"Apologies. I am not interested in becoming a legend of any sort. If any, I am the legend." Mag smiled and boarded the horse-drawn carriage as he told the coachman to set off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“抱歉，这个提议我无法接受，安妮是我的女儿，不是某件需要评估的物品。”麦格摇头，看着晞神情认真道：“或许古老者是更高等级的存在，你们有着强大的实力，但请不要低估一位父亲保护女儿的决心。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T131636Z" creationid="Longbell" creationdate="20220402T131636Z">
@@ -16130,6 +16146,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Too salty!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“过奖了，鲍里斯先生有其他事情吗？如果没有的话，我们就先回家了。”麦格懒得和他站在冷风中商业互吹，老婆孩子都在车上等着呢，回家暖和的坐着不香吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T090531Z" creationid="sitong" creationdate="20220409T090531Z">
+        <seg>"You flatter me. Is anything the matter, Mr Boris? If there's nothing on, we'll be heading home first." Mag could not be bothered to stand in the freezing wind to praise each other. His wife and children were still waiting for him in the carriage. Wouldn't it be better to sit in the comfort of his warm home?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23322,6 +23346,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220326T100137Z" creationid="sitong" creationdate="20220326T100137Z">
         <seg>He took a sip of the wine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他算是看出来了，这位鲍里斯先生是一位优秀的商人，但他并不需要这样一位朋友。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T094708Z" creationid="sitong" creationdate="20220409T094708Z">
+        <seg>He could tell that Mr Boris was a very excellent businessman. However, he did not need such a friend.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42814,6 +42846,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>鲍里斯看着麦格诚恳的说道：“哈迪斯先生是个耿直的人，其实我是想邀请你成为我的合伙人，我在洛都有十家大型酒馆，而麦格先生有着超高的酿酒技艺，如果我们能够合作的话，一定能够缔造一个酒界的传奇。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T092258Z" creationid="sitong" creationdate="20220409T092258Z">
+        <seg>Boris looked at Mag and said sincerely, "Mr. Hades, you're a straightforward person. Actually, I would like to invite you to a partnership with me. I have 1- large-scale taverns in Rodu and you have exceptional brewing technique. If we can work together, we would definitely be the legend in the world of liquor."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格一关上门，就对上了伊琳娜笑吟吟的目光。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -44378,6 +44418,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag was not in a hurry to leave. He looked at Merante and Noya as he said, "This is Rodu. It might be an exaggeration to say that the roads are filled with 10th-tiers, but there are definitely more of them than in the mountains. Be careful in whatever you do. If they set eyes on you, things would be difficult."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格没有答话，让车夫前往罗莫街。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T094534Z" creationid="sitong" creationdate="20220409T094534Z">
+        <seg>Mag did not reply as the coachman drove the carriage towards Romo street.</seg>
       </tuv>
     </tu>
     <tu>
