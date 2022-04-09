@@ -3518,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“参加这个品酒大会，还真是去对了。”麦格满意的点点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T173951Z" creationid="Longbell" creationdate="20220409T173951Z">
+        <seg>"It's indeed right to take part in this liquor tasting event." Mag nodded with satisfaction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“又发生大火，莫非又有人作案？”路易斯站在一处高楼的屋顶，遥望远处的着火屋舍。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -3762,6 +3770,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Ding! Congratulations in completing the dish creation mission! Two side dishes had been released! Please accept them!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“叮！恭喜宿主完成阶段性任务：餐厅人气突破1000！获得奖励：香辣田螺菜谱一份！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T174407Z" creationid="Longbell" creationdate="20220409T174104Z">
+        <seg>"Ding! Congratulations on completing the mission: The tarven's popularity had break through 1000! Reward received: </seg>
       </tuv>
     </tu>
     <tu>
