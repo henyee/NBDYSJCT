@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18314,6 +18314,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Do you think we look like humans?" Merante smiled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那倒是，真是令人敬佩。”手下跟着点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T105858Z" creationid="Longbell" creationdate="20220409T105858Z">
+        <seg>"That's true. It's really admirable." The subordinate nodded too.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39906,6 +39914,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T090131Z" creationid="Longbell" creationdate="20220409T090131Z">
         <seg>Fitch asked the two of them with curiosity, "I'm a little curious. Why are you two gentlemen interested in Romo Street's shops suddenly? After all, as you said, Romo Street doesn't have the human traffic."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>费奇笑着道：“这也没啥好说的，哈迪斯先生这是靠自己的本事赚的钱，要不是他入驻罗莫街，这条街的商业价值已经到底了，他将成为这条街新的缔造者。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T105828Z" creationid="Longbell" creationdate="20220409T105828Z">
+        <seg>Fitch laughingly said, "They have nothing to complain. Mr. Hades did this with his own ability. If he didn't enter Romo Street, the commercial value of this street has already hit rock bottom. He would be the new creator of this street."</seg>
       </tuv>
     </tu>
     <tu>
