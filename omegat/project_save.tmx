@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20880,8 +20880,8 @@
       <tuv lang="zh-CN">
         <seg>不过他表现出了极好的涵养，很快微笑道：“哈迪斯先生是和马库斯大师那样的天才酿酒师，我们的酒自然无法和你比拟。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220408T163120Z" creationid="sitong" creationdate="20220408T163120Z">
-        <seg>However, he brought out his best </seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T084110Z" creationid="sitong" creationdate="20220408T163120Z">
+        <seg>However, he brought out his best upbringing and quickly replied with a smile, "Mr. Hades is a genius brewer jsut like Master Marcus. Our wine would naturally pale in comparison." </seg>
       </tuv>
     </tu>
     <tu>
