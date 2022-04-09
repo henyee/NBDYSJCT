@@ -2913,3 +2913,4 @@ DVD	DVD
 粮食酒	grain alcohol
 卡莎酒馆	Casa Tavern
 麦德勋	Madison
+香辣田螺	spicy escargot
