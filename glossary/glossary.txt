@@ -2774,7 +2774,6 @@ DVD	DVD
 秘制酒鬼花生	secret drunkard peanuts
 埃菲	Eiffie
 酒鬼花生	drunkard peanuts
-罗莫街	Romo street
 塞班酒馆	Saipan Tavern
 凉拌猪舌	pig tongue salad
 波比	Bobby
