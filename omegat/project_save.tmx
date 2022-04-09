@@ -1152,8 +1152,8 @@
       <tuv lang="zh-CN">
         <seg>“主管，是不适合见面的人吗？”那工作人员见费奇脸色不太好，试探着道：“要不我让他走？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220409T131117Z" creationid="sitong" creationdate="20220409T131117Z">
-        <seg>"Sir, is he someone that you should not be meeting?" the staff member saw that Fitch did not have a very good expression on and asked, "Should I get him to leave?"</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131124Z" creationid="sitong" creationdate="20220409T131117Z">
+        <seg>"Sir, is he someone that you should not be meeting?" The staff member saw that Fitch did not have a very good expression on and asked, "Should I get him to leave?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6750,6 +6750,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好……就说我不在。”费奇点点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131137Z" creationid="sitong" creationdate="20220409T131121Z">
+        <seg>"Yes... Just say that I'm not around." Fitch nodded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好。”伊琳娜也拿了一块绿豆酥。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -7154,6 +7162,22 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Alright." The staff members retracted their hands that reached for the ingredients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好的。”工作人员有些摸不着头脑，但还是点了点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131232Z" creationid="sitong" creationdate="20220409T131153Z">
+        <seg>"Alright." The staff member was bewildered but he still nodded.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好的。”工作人员转身向外走去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131147Z" creationid="sitong" creationdate="20220409T131147Z">
+        <seg>"Alright." The staff member turned and walked out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14682,6 +14706,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Wait for me." Louis followed behind quickly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“等等！”费奇叫住了走到办公室门口的工作人员，深吸了一口气，道：“算了，还是我自己去吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131217Z" creationid="sitong" creationdate="20220409T131151Z">
+        <seg>"Hold on!" Fitch called the staff back. he took a deep breath and said, "Forget it. I'll go on my own."</seg>
       </tuv>
     </tu>
     <tu>
@@ -30110,6 +30142,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>就在这个月初，当了三年房产中介的费奇，终于迎来了自己工作上的一个转折点，成为了一名主管。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131332Z" creationid="sitong" creationdate="20220409T131332Z">
+        <seg>In just this month, Fitch, who had been a property agent for three years, finally welcomed the turning point to his job and became a supervisor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>就在这时，一丝丝的酒香从车帘外钻了进来。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -38062,6 +38102,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而成就他的，是在房产界留下了一段传奇的罗莫街一百多栋楼的打包售出，几乎一口气处理了十多家房产中介挂靠的低质资产，成了一段佳话。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131719Z" creationid="sitong" creationdate="20220409T131719Z">
+        <seg>What made him was the legend of the property world, the story of hundreds of buildings on Romo Street, wiping out more than 10 property agents'  low-cost asset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而早已浸透花生的辣味和香料的香味，也是随之绽放。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -40218,6 +40266,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T143206Z" creationid="Longbell" creationdate="20220408T143206Z">
         <seg>Fitch sent Mag out and arranged for the shop's horse-drawn carriage to send him home.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>费奇拿了外套披上，长长呼了口气，这才向外走去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131249Z" creationid="sitong" creationdate="20220409T131249Z">
+        <seg>Fitch took hsi weater and let out a long sigh before going out.</seg>
       </tuv>
     </tu>
     <tu>
