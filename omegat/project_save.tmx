@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“刚刚那个家伙看起来心思深沉，不像好人。”伊琳娜看着麦格说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T100428Z" creationid="sitong" creationdate="20220409T100400Z">
+        <seg>"That fellow seemed to be in deep thoughts just now. He did not seem like a good person," Irina told Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“刚好合适呢。”麦格眼睛一亮，不愧是高级文明的戒指，竟然还能根据佩戴人来适应大小，“那以后安妮就戴着它吧，挺好的。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T143800Z" creationid="sitong" creationdate="20220403T143800Z">
@@ -4930,6 +4938,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Mmm… This beef kebab is so delicious! This is my first time eating beef… so yummy…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“商人逐利，本就没有好坏可言，我也没有和他深交的想法。”麦格笑着道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T102333Z" creationid="sitong" creationdate="20220409T100424Z">
+        <seg>"Businessmen chase profits. There's nothing good or bad about that. I don't have the intention to forge a deep relationship with him," Mag said with a smile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18238,6 +18254,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“那你呢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T104902Z" creationid="sitong" creationdate="20220409T104902Z">
+        <seg>"What about you?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“那你尝尝这个。”麦格把刚调好的那份酱汁拿到艾米面前。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -31146,6 +31170,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>How should he describe this feeling?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>恐怕他先前找埃菲说的也是同样的话，只是不知道埃菲是否答应了他的提议。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T100324Z" creationid="sitong" creationdate="20220409T100324Z">
+        <seg>He probably told Eiffie the same thing. The thing is he did not knwo if Eiffie agreed to his suggestion.</seg>
       </tuv>
     </tu>
     <tu>
