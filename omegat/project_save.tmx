@@ -6254,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“外面都这么说，现在洛都城里都已经传遍了呢，肯定没假的。”小二点头笃定道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T120112Z" creationid="Longbell" creationdate="20220409T120112Z">
+        <seg>"They are talking about this out there. The news has already spread throughout Rodu, so it has to be true." The waiter nodded with conviction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“多好的黄瓜啊，丢了多可惜。”艾米端着盆就走了，一遍嚼着拍好的黄瓜，一边道：“那这些就交给我吧，我会把他们全部吃完的。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -8946,6 +8954,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T143947Z" creationid="Longbell" creationdate="20220326T143947Z">
         <seg>"Of course, I hope you could already fill this cellar with the Titan Liquor that you brewed after the Titan Liquor in this cellar is finished." Mag said to Eiffie, who was a little out of sorts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“当真？！”酒馆老板一惊，看着小二问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T115132Z" creationid="Longbell" creationdate="20220409T115132Z">
+        <seg>The tavern's boss was taken aback and asked the waiter again, "Are you sure?!"</seg>
       </tuv>
     </tu>
     <tu>
