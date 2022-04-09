@@ -1134,10 +1134,26 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“主管，外面有个自称‘哈迪斯’的先生找您。”一位工作人员快步走进办公室，看着正在整理资料的费奇说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131021Z" creationid="sitong" creationdate="20220409T131021Z">
+        <seg>"Sir, a man named Hades is looking for you outside." A staff member entered the office quickly and said as he looked at Fitch, who was organising his files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“主管，您可真是神仙啊，又一下子卖出去三十三栋楼。”先前进来叫费奇的工作人员一脸敬佩的看着费奇。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T144950Z" creationid="Longbell" creationdate="20220408T144950Z">
         <seg>"Supervisor, you are so out of this world. You just sold 33 properties in a blink of an eye." The staff member who went to call Fitch in earlier, looked at him with admiration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“主管，是不适合见面的人吗？”那工作人员见费奇脸色不太好，试探着道：“要不我让他走？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131117Z" creationid="sitong" creationdate="20220409T131117Z">
+        <seg>"Sir, is he someone that you should not be meeting?" the staff member saw that Fitch did not have a very good expression on and asked, "Should I get him to leave?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4674,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Boss Hades did not lie to me indeed! A 70% drunk man can make you cry with his acting!" Pasa opened his eyes to glance at Clara as he exclaimed to himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哈迪斯？”费奇抬起头来，思考了一会，突然眼睛一瞪，露出了几分惊色。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220409T131042Z" creationid="sitong" creationdate="20220409T131038Z">
+        <seg>"Hades?" Fitch looked up. He thought for a while before his eyes widened in shock.</seg>
       </tuv>
     </tu>
     <tu>
