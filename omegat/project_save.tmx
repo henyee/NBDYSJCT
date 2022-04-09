@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1338,6 +1338,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220330T065121Z" creationid="sitong" creationdate="20220330T065121Z">
         <seg>"What kind of powerhouse?" Mag frowned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“什么！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T195756Z" creationid="Longbell" creationdate="20220408T195756Z">
+        <seg>"What!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4850,6 +4858,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Sigh. Life is so unpredictable. I thought we could drink until we were old. I didn't expect him to leave before me just like that…" Bobby sighed deeply.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“唉，还是来晚了啊。”高瘦中年男人拍着大腿一脸遗憾道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T200038Z" creationid="Longbell" creationdate="20220408T200038Z">
+        <seg>The tall and lean middle-aged man slapped his thigh and regretfully said, "Sigh. We are still too late."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11790,6 +11806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是的。”费奇点头，有点不明白这两人为何如此反应。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T195927Z" creationid="Longbell" creationdate="20220408T195927Z">
+        <seg>"Yes." Fitch nodded. He couldn't understand why the two of them had such a reaction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是的。”麦格点头。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T152452Z" creationid="sitong" creationdate="20220404T152452Z">
@@ -13010,6 +13034,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>I didn't expect that we could finish all that food! Seely, who looked at the empty plates in front of him, thought in a shock. He had just been worried that they wouldn't have been able to finish that food, and would have wasted it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没想到竟然还有人比我们来的更早，不应该吃那顿午饭的。”矮胖中年人也是后悔不已。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T084358Z" creationid="Longbell" creationdate="20220409T084358Z">
+        <seg>"I didn't expect that there were people who came earlier than us. We shouldn't have eaten that lunch." That short and fat middle-aged man was also very regretful.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15302,6 +15334,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“被打包买走了吗？全部？！”矮胖中年人瞪眼看着费奇道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T195857Z" creationid="Longbell" creationdate="20220408T195857Z">
+        <seg>The short and fat middle-aged man stared at Fitch and said, "Were they all bought up? All of them?!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“褶子上有黄点的是蟹黄灌汤包，没有黄点的是普通灌汤包，你们试试喜欢吃哪一种。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220324T150945Z" creationid="sitong" creationdate="20220324T150945Z">
@@ -16714,6 +16754,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"In that case, this tavern has quite some backing. Even Lord Abraham is backing them up."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这么说，委托你们出租这一百多栋楼的那位，就是买家吧？不知可否告诉我们他是谁？”高瘦中年人看着费奇问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T084939Z" creationid="Longbell" creationdate="20220409T084939Z">
+        <seg>"In this case, the person who entrusts you to rent out the 100-odd properties is that buyer, right? Can you tell us who he is?" The tall and lean middle-aged man asked Fitch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21698,6 +21746,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Nothing could be expected. After finishing his work at hand, Bobby did not feel like going home. He intended to have a little drink at Romo Street.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>两个中年男人都露出了讶色。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220408T195812Z" creationid="Longbell" creationdate="20220408T195812Z">
+        <seg>The two middle-aged men had shock on their faces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39570,6 +39626,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T153954Z" creationid="Longbell" creationdate="20220408T153954Z">
         <seg>Fitch sighed inwardly. Romo Street was glorious once too. However, he quickly retracted his gaze, pushed the glue bucket into his subordinate's hands and said, "We are paid to do a job. Let's stick all the notices quickly. We need to stick over 100 notices."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>费奇和手下在一旁一脸不明所以，互相对了一下目光，都摇了摇头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T084450Z" creationid="Longbell" creationdate="20220409T084450Z">
+        <seg>Fitch and his subordinate stood at the side with befuddlement. They looked at each other and shook their heads.</seg>
       </tuv>
     </tu>
     <tu>
