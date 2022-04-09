@@ -3478,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“去吧，干活去。”埃菲挥了挥手，把玛拉赶出酿酒坊。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T134257Z" creationid="Longbell" creationdate="20220409T134257Z">
+        <seg>"Go and work now." Eiffie waved her hand and chased Mala out of the brewery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“去最近的标记点看看。”麦格扫了一眼龟甲石，驾着紫纹狮鹫向着斜下方落去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -4754,6 +4762,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Oh." The maid didn't suspect anything. She put down a takeaway box in her hands, and took out the hot food within while saying, "Miss, I heard that the tavern opposite us had a roaring business last night. Moreover, the liquor that they sell is extremely expensive. A customer's minimum spending is at least 1000 copper coins."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哦。”玛拉似懂非懂的点了点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T134230Z" creationid="Longbell" creationdate="20220409T134230Z">
+        <seg>"Oh." Mala nodded as if she understood Eiffie's words.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23106,6 +23122,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T152611Z" creationid="sitong" creationdate="20220327T152611Z">
         <seg>The eggplant with garlic sauce today is not fit for eating. Even the most basic cutting is not done well. The eggplant pieces are in different sizes. Can you cook a dish well with this attitude?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>今天鲍里斯和她交谈的时候，的确给出了一个非常有诚意的价码，里斯酒馆的合伙人，三成的股份，一年躺赚上千万的分红，还能继续全额保留泰坦酒馆的所有权。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220409T134824Z" creationid="Longbell" creationdate="20220409T134824Z">
+        <seg>Boris had indeed given her a very sincere price when he talked to her today. Partner of Reese Tavern with 30% shares. She could earn hundreds of millions of dividend every year while keeping Titan Tavern to herself.</seg>
       </tuv>
     </tu>
     <tu>
