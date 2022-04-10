@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22182,6 +22182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不过麦格他们刚冲到一半，洞穴便开始剧烈晃动，然后坍塌。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T131222Z" creationid="sitong" creationdate="20220410T131222Z">
+        <seg>However, halfway through, the cave started shaking vigorously and the ceiling started collapsing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不过黑袍人身形如鬼魅一般，贴着长剑飘过，除了一角衣角被斩落，竟是没有被伤到分毫。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24498,6 +24506,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T152639Z" creationid="sitong" creationdate="20220321T152639Z">
         <seg>Irina shook her head slightly and said, "I am unable to contact the Queen too. However, this has to do with the fate of the Elves, and the future of our people. The stance of the Queen is not important. What is important is what we truly think."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜手执法师杖断后，圣光在狭窄的通道中如神器，一扫空一片，倒是毫无压力。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T131151Z" creationid="sitong" creationdate="20220410T131151Z">
+        <seg>Irina took care of the back with her magic caster's staff. The Holy Light was just like a magical weapon in the narrow passageway, wiping out everything in the way.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33970,6 +33986,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>With the help of the bed's frame, Merante stood up. He stretched a little, and lifted his shirt up to check his wound. The flesh had grown over the scary-looking wound, leaving only a faint red scar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>梅兰特护着全程抱着佛跳墙不撒手的诺亚跟在麦格身后，处理那些从崖壁中突袭出来的古尸。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T130441Z" creationid="sitong" creationdate="20220410T130407Z">
+        <seg>Merante protected Noya, who was hugging the 'Buddha Jumps Over the Wall' tightly, as they followed behind Mag, handling the ancient corpses who sprung an attack on them from the cliff.</seg>
       </tuv>
     </tu>
     <tu>
