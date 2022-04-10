@@ -2916,3 +2916,4 @@ DVD	DVD
 香辣田螺	spicy escargot
 田螺	escargot
 冰崖	ice cliff
+古尸	ancient corpse
