@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你们先走！”麦格且战且退，同时向着伊琳娜他们叫道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T151251Z" creationid="Longbell" creationdate="20220410T151251Z">
+        <seg>Mag retreated as he battled. At the same time, he shouted at Irina, Merante and Noah, "You guys leave first!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你们好吖。”艾米冲着众人笑眯眯的说道，乖巧又可爱。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32486,6 +32494,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>或者说，这本来就是克苏鲁为他们设下的一个圈套，让他们自己往里跳。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T151938Z" creationid="Longbell" creationdate="20220410T151938Z">
+        <seg>Or perhaps, this had always been a trap that Cthulhu set from them and they jumped into it themselves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>或许因为他们都是优秀的酿酒师，又或者是因为他们都有着异于常人的智慧和能力。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T144828Z" creationid="Longbell" creationdate="20220326T144828Z">
@@ -45706,6 +45722,14 @@
       </tuv>
       <tuv lang="en-US" changeid="jeremy" changedate="20220326T125602Z" creationid="jeremy" creationdate="20220326T125602Z">
         <seg>Mag smilingly said, "I will draw the brewery's design and the distillation equipment's blueprints for you. You can get a few blacksmiths to build the spare parts and I will come to assemble them for you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格心情有些沉重，没有想到只是来查探一个冰窟，竟然就遇上了克苏鲁。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T151340Z" creationid="Longbell" creationdate="20220410T151334Z">
+        <seg>Mag was feeling grave. He didn't expect to meet Cthulhu when checking out an ice cave.</seg>
       </tuv>
     </tu>
     <tu>
