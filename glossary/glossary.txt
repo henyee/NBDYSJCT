@@ -2917,3 +2917,4 @@ DVD	DVD
 田螺	escargot
 冰崖	ice cliff
 古尸	ancient corpse
+尸体	corpse
