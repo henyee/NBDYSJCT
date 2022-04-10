@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19742,6 +19742,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“阿紫，去接他！”伊琳娜举起法师杖，高声吟唱道：“圣光啊，消灭那些邪恶吧！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T152820Z" creationid="Longbell" creationdate="20220410T152820Z">
+        <seg>"Ah Zi, go pick him up!" Irina raised her magic caster's staff and loudly chanted, "Holy Light, eliminate those evils!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“陛下英明！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24058,6 +24066,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Right now, it wanted to drag that legendary father out a hundred times!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他现在远非克苏鲁的对手，就连对上兰克斯特也只是五五开的程度，他现在要考虑的问题是如何脱身离开，避免被克苏鲁控制，变成兰克斯特这样的傀儡。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T152733Z" creationid="Longbell" creationdate="20220410T152733Z">
+        <seg>Mag wasn't Cthulhu's match now and he only had a 50% chance of winning Rankster. The problem that he had to consider was how to escape and prevent being controlled by Cthulhu and becoming a puppet like Rankster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36054,6 +36070,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>璀璨的圣光横扫而出，数十头飞行古尸瞬间化为飞灰，天空为之一清。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T152908Z" creationid="Longbell" creationdate="20220410T152908Z">
+        <seg>Glaring Holy Light shot out and dozens of flying ancient corpses turned to dust. The sky turned clear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>璀璨的圣光落到了梅兰特的身上。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -38098,6 +38122,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T083313Z" creationid="Longbell" creationdate="20220331T083313Z">
         <seg>The body suit showed her figure perfectly but people couldn't have any dirty thoughts about her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>紫纹狮鹫发出了一声长啸，口吐雷球，向着麦格的方向飞掠而去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T152940Z" creationid="Longbell" creationdate="20220410T152940Z">
+        <seg>The purple-striped griffin let out a howl and spat out a lightning ball as it dashed towards Mag.</seg>
       </tuv>
     </tu>
     <tu>
