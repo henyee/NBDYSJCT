@@ -2915,3 +2915,4 @@ DVD	DVD
 麦德勋	Madison
 香辣田螺	spicy escargot
 田螺	escargot
+冰崖	ice cliff
