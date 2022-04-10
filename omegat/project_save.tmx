@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1186,6 +1186,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T155301Z" creationid="Longbell" creationdate="20220408T155301Z">
         <seg>The subordinate couldn't help asking as he worked, "Supervisor, what background that boss comes from? He simply bought up over 100 properties. No matter how cheap they are, he will still need to pay one to two billion copper coins in cash. Is he really that rich?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“乔修恐怕已经和从封印中逃脱的魔鬼汇合了。”伊琳娜蹙眉道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T152437Z" creationid="sitong" creationdate="20220410T152437Z">
+        <seg>"I'm afraid Josh had already met up with the Devil that had escaped from the seal," Irina said with a frown.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18606,6 +18614,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这鬼东西，怎么会那么多！”诺亚看着雪原之上密密麻麻的古尸，声音有些颤抖。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T151612Z" creationid="sitong" creationdate="20220410T151612Z">
+        <seg>"Why are there so many of this stuff!" Noya said with a tremble in his voice as he looked at the plain full of ancient corpses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这，你就有点管的太宽了。”伊琳娜笑了，“而且，遇上他，是我这辈子最大的幸运，至于那个孩子，更是生命之神赐予我们最美好的礼物。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27802,6 +27818,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T142539Z" creationid="sitong" creationdate="20220403T142539Z">
         <seg>Oh, this is a rather inaccurate way of putting it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>哪怕坐在狮鹫背上，依旧一眼望不到头，数量恐怕在十万之上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T152104Z" creationid="sitong" creationdate="20220410T152104Z">
+        <seg>Even though he was sitting on the griffin's back, tens of thousands of kilometers above, he still could not see the end of the mob.</seg>
       </tuv>
     </tu>
     <tu>
