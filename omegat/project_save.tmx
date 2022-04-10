@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“从上面过！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T131226Z" creationid="sitong" creationdate="20220410T131226Z">
+        <seg>"From the top!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“从今天开始，撤去你的所有职务和身份，回到你的城堡，孤独终老吧。”海伦娜冷笑着看着艾略特，“这是看在莎莉的份上，给你的最轻惩罚，你应该庆幸生了个好女儿。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -45906,6 +45914,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag hemmed and hawed for a long time before saying, "It's just a sketch, so it has to satisfy the readers' imagination. It doesn't matter that it doesn't look like me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格沉声喝道，人剑合一，旋转着向上飞去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T134619Z" creationid="sitong" creationdate="20220410T134619Z">
+        <seg>With a shout, Mag and the Tian Du sword merged as one and as they spiralled upwards.</seg>
       </tuv>
     </tu>
     <tu>
