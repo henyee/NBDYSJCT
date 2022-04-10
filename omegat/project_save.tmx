@@ -2070,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你们看下面。”梅兰特走到冰崖边沿，指着下方道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T070929Z" creationid="Longbell" creationdate="20220410T070929Z">
+        <seg>Merante walked to the edge of ice cliff and pointed downwards. "Look down."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你们要不要试试？”卢西恩看着其他几位大臣问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -46258,6 +46266,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag's eyes lit up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格眼睛一亮，没有想到冰下竟然别有洞天。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T070831Z" creationid="Longbell" creationdate="20220410T070831Z">
+        <seg>Mag's eyes lit up. He didn't expect there would be a cave under the ice.</seg>
       </tuv>
     </tu>
     <tu>
