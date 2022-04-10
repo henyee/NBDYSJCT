@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2906,6 +2906,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T153927Z" creationid="sitong" creationdate="20220410T153927Z">
         <seg>"Clear the ancient corpses around first to lighten his load." Irina quickly looked away. She sang a magical chant and used the Holy Light Technique to wipe out some of the ancient corpses that were trying to go close to Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“光之神，请赐予我力量，让我清除这个邪恶的存在，涤荡一切肮脏与罪恶！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T170734Z" creationid="Longbell" creationdate="20220410T170734Z">
+        <seg>"God of Light, please bestow me with the power to eradicate this evil presence and cleanse all dirt and sins!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6294,6 +6302,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“圣光啊，审判这个邪恶！让一切归于平静吧！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T172436Z" creationid="Longbell" creationdate="20220410T172436Z">
+        <seg>"Holy Light, judge this evil! Let everything return to calmness!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“圣光啊，涤荡一切污浊与黑暗吧。”伊琳娜举起法师杖，隐藏道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -6922,6 +6938,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"She drank a little, and is slightly drunk, so she turned in early tonight," Mag said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“她在借用神力。”梅兰特看着伊琳娜，同样有些惊讶。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T165956Z" creationid="Longbell" creationdate="20220410T165956Z">
+        <seg>"She's borrowing the power of god." Merante was also looking at Irina with shock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10102,10 +10126,26 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我们必须马上离开了，等到他真正对我们出手的时候，就无法离开了。”梅兰特用鬼刀斩杀了几个隐身出现在他们身后的古尸，沉声道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T163256Z" creationid="Longbell" creationdate="20220410T163256Z">
+        <seg>Merante used his ghost sabre to slash the ancient corpses that appeared behind them stealthily and said in a low voice, "We have to leave right now. We won't be able to leave if he really starts to attack us."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我们早上不会真的要吃这个吧？”伊琳娜小声在麦格耳边道。</seg>
       </tuv>
       <tuv lang="en-US">
         <seg>"Are we really going to eat this early in the morning?" Irina whispered at Mag's ear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们最好退后一些，趁这个机会绕过飓风。”梅兰特并未表现的太过乐观，而是和紫纹狮鹫说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T173042Z" creationid="Longbell" creationdate="20220410T173042Z">
+        <seg>Merante didn't behave too optimisitc, instead he said to the purple-striped griffin, "We'd better back up a little and take this chance to go through the hurricanes."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11542,6 +11582,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“无论如何，都得带他一起走。”伊琳娜看着那向着麦格蠕动而去的克苏鲁，闭上了眼睛。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T163427Z" creationid="Longbell" creationdate="20220410T163427Z">
+        <seg>"No matter what, we have to bring him along with us." Irina looked at Cthulhu that was wiggling towards Mag and closed her eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“既然他能设局弄我们，我们同样可以设局逼他出来，或者压缩他的生存空间。”麦格看着梅兰特道：“你先修养一段时间，等到伤势好了再继续追查，这几天就先交给我们。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -12754,6 +12802,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It appears that there was a fight between powerhouses. Let's check it out." Douglas appeared beside Louis. He looked out at the fire with a grave expression before he took a step forward, and traveled 100 meters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“有效了！”诺亚惊喜的叫道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T172932Z" creationid="Longbell" creationdate="20220410T172932Z">
+        <seg>"It's working!" Noah exclaimed with joy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14246,6 +14302,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“爷爷，为什么我觉得她好像变得有些不同了？”诺亚有些回过神来，诧异的看着悬浮在半空中的伊琳娜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T165932Z" creationid="Longbell" creationdate="20220410T165932Z">
+        <seg>"Grandpa, why do I feel that she looks a little different?" Noah sort of regained his wits and he stared at Irina, who was hovering in midair, with bewilderment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“爷爷，你不吃点叫化鸡和佛跳墙再干活吗？”诺亚的声音从背后响起。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T062243Z" creationid="Longbell" creationdate="20220410T062243Z">
@@ -15306,6 +15370,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T204137Z" creationid="Longbell" creationdate="20220401T204106Z">
         <seg>Xi placed a gold coin on the table and said to Mag, "Bill, please. I would like to takeaway a helping of drunkard peanuts too."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“绕开它们！”伊琳娜一边给阿紫施加治疗魔法，一边冷静的下令道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T160708Z" creationid="Longbell" creationdate="20220410T153334Z">
+        <seg>Irina applied healing magic onto Ah Zi while coldly instructing, "Avoid them!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20990,6 +21062,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一条浅绿色的光束从天际飞来，落到了她的眉心之上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T165652Z" creationid="Longbell" creationdate="20220410T165652Z">
+        <seg>A faint green beam of light flew over from the horizon and landed on her glabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一条街上的两家酒馆，在品酒大会上同时斩获五十分的高分。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T122643Z" creationid="Longbell" creationdate="20220407T122643Z">
@@ -24470,6 +24550,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜举起了手中的法师杖。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T170746Z" creationid="Longbell" creationdate="20220410T170746Z">
+        <seg>Irina raised her magic caster's staff up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜也不说话，只是微笑着看着他，似乎在等他自己来解决。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T091954Z" creationid="Longbell" creationdate="20220328T091954Z">
@@ -24678,6 +24766,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜将法师杖向着克苏鲁一指，一道巨大的圣光喷涌而出，向着克苏鲁撞去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T172505Z" creationid="Longbell" creationdate="20220410T172505Z">
+        <seg>Irina pointed her magic caster's staff at Cthulhu. A huge beam of Holy Light shot out and rushed  towards Cthulhu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜带着两个孩子去逛街，麦格则借着给她们卖东西吃的档口，去了几个地方。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24822,6 +24918,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜的气势再次提升，浑身被金色的圣光包裹，如神灵一般令人不敢直视。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T172314Z" creationid="Longbell" creationdate="20220410T172314Z">
+        <seg>Irina's aura grew stronger again. Her whole body was engulfed by the Holy Light. She looked just like a god that one could look straight at.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜的目光中有了几分兴趣，她倒想看看这个女人，到底有什么本事和招数想要抢她的男人，就当做是一次历练了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T090311Z" creationid="Longbell" creationdate="20220328T090311Z">
@@ -24870,6 +24974,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜的身体缓缓升起，漂浮在虚空之中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T164415Z" creationid="Longbell" creationdate="20220410T164415Z">
+        <seg>Irina's body slowly rose up and hovered in the air.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜盯着麦格看了一会，点了点头，“挺好的。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24890,6 +25002,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T095629Z" creationid="sitong" creationdate="20220403T095629Z">
         <seg>Irina looked at Mag with gentleness and reached out to grab his hand. "I will stand by you and protect our children together."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜睁开眼睛，气势开始节节攀升。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T165717Z" creationid="Longbell" creationdate="20220410T165717Z">
+        <seg>Irina opened her eyes and her aura grew stronger and stronger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25794,6 +25914,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T150406Z" creationid="Longbell" creationdate="20220410T150406Z">
         <seg>Cthulhu let out a sickening sound before wiggling towards Mag. Ice shattered along his path.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>克苏鲁发出了一声如破碎玻璃摩擦的声音，体外突然涌出无数黑色魔气，倒卷而出，将那包裹着他地圣光尽数熄灭。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T182716Z" creationid="Longbell" creationdate="20220410T182716Z">
+        <seg>Cthulhu made a sound that seemed like shattered glass rubbing against each other. Countless black evil aura gushed out and eliminated all the Holy Light that engulfed him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>克苏鲁庞大的身躯缓缓停下，然后转身对着伊琳娜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T172341Z" creationid="Longbell" creationdate="20220410T172341Z">
+        <seg>Cthulhu's gigantic body slowed down gradually and then turned to face Irina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29686,6 +29822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>她眉心的那点金色红点开始发亮，一颗金色的小树图案出现在红点之中，俨然是生命之树的模样。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T164931Z" creationid="Longbell" creationdate="20220410T164931Z">
+        <seg>The golden-red dot at her glabella began to light up and a golden tiny tree pattern appeared within the the red dot. It looked exactly like the Tree of Life.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>她看了一眼麦格，思考着他是否也在这些男人之列。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T083615Z" creationid="Longbell" creationdate="20220328T083615Z">
@@ -31362,6 +31506,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T140912Z" creationid="Longbell" creationdate="20220410T140912Z">
         <seg>The giant bat wings were thousands of meters high after it lifted them up. The gigantic body still looked immensely huge on this snow plain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>巨大的蝠翼缓缓扇动，将他那庞大的身躯从地面上带离，身体一阵蠕动，从腹部化出一条黑色的触手，向着悬浮在半空中的伊琳娜刺去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T182843Z" creationid="Longbell" creationdate="20220410T182843Z">
+        <seg>The giant bat wings flapped slowly, lifting his huge body off from the ground. His body wiggled and a black tentacle emerged from his abdoment. It stabbed towards Irina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34330,6 +34482,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>According to the system's manual, a System was a supernatural being to the host, and would usually be treated with respect and admiration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>桀桀——</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T173347Z" creationid="Longbell" creationdate="20220410T173347Z">
+        <seg>Tsk tsk—</seg>
       </tuv>
     </tu>
     <tu>
@@ -38310,6 +38470,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>紫纹狮鹫听懂了他的话，骤然向下俯冲，几乎贴着地面找到了一个飓风的空隙穿了过去，向着麦格冲去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T173338Z" creationid="Longbell" creationdate="20220410T173338Z">
+        <seg>The purple-striped griffin seemed to understand his words and it immediately swopped down. It found a gap that was close to ground and it went through it, almost touching the ground. It went straight towards Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>紫纹狮鹫迅速升空，险险避开了半头巨人的石斧，同时吐出一串雷球，将那巨人炸成了满遍地碎骨。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T145658Z" creationid="sitong" creationdate="20220410T145658Z">
@@ -41462,6 +41630,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>诺亚抱着佛跳墙，已经完全处于呆滞状态，成了一条连666都忘了喊的咸鱼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T163346Z" creationid="Longbell" creationdate="20220410T163346Z">
+        <seg>Noah was already completely in a daze with the 'Buddha Jumps Over the Wall' in his arms. He became a completely useless bystander.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>诺亚抱着佛跳墙，当一个全程喊666的废物。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T154407Z" creationid="sitong" creationdate="20220410T154407Z">
@@ -43798,6 +43974,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>那布满鳞片的身体上，存在着点点红光，如一颗颗眼睛般盯着伊琳娜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T172412Z" creationid="Longbell" creationdate="20220410T172412Z">
+        <seg>The body that was covered with scales glittered with red light as though little eyes were staring at Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>那是一个大理石台面的红木柜台，台面光滑如镜，侧面圆润顺滑，看起来古朴低调，却让她露出了疑惑之色。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T150113Z" creationid="Longbell" creationdate="20220331T150113Z">
@@ -44394,6 +44578,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T144315Z" creationid="sitong" creationdate="20220410T144315Z">
         <seg>Ah Zi flew over from afar and spat out a lightning ball, wiping out an entire area of ancient corpses as it flew towards Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>阿紫化作一道紫色雷电，再次从侧面绕行冲向麦格，可依旧被飓风挡住了前路，无法突破。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T160820Z" creationid="Longbell" creationdate="20220410T160710Z">
+        <seg>Ah Zi transformed into a purple lightning and dashed towards Mag again from the side, but it was blocked by the hurricanes and wasn't able to break through.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48087,6 +48279,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>黑沉沉的天空突然被撕开了一条裂缝，一道金光落在了伊琳娜的身上，将她照亮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T171958Z" creationid="Longbell" creationdate="20220410T171958Z">
+        <seg>A crack was torn open in the dark sky. A beam of golden light landed on Irina and lit her up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>黑白相间的毛色，两个浓浓的黑眼圈，除了脑袋小了点，看起来竟是毫无违和感。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -48099,6 +48299,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T153208Z" creationid="Longbell" creationdate="20220410T153208Z">
         <seg>The black hurricanes tore open the tough scales on the purple-striped griffin. Just touching the griffin could tear a big wound on it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑色的魔气与圣光在碰撞中发出了令人牙酸的腐蚀声，克苏鲁的身体被圣光包裹，竟是开始微微发颤。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T172835Z" creationid="Longbell" creationdate="20220410T172835Z">
+        <seg>The black evil aura collided with the Holy Light, making a corroding sound. Cthulhu's body was engulfed by the Holy Light and it actually began to shudder.</seg>
       </tuv>
     </tu>
     <tu>
