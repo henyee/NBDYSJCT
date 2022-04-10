@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3750,6 +3750,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“只要怨气不散，他便能够做到，这才是魔鬼的可怕之处。”梅兰特微微摇头，坦然道：“就算是我们鬼族，也能通过一些方法做到。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T121625Z" creationid="Longbell" creationdate="20220410T121625Z">
+        <seg>"As long as the resentment exists, he is able to do it, but that is exactly the devil's scary part." Merante nodded slightly and honestly said, "Even our Ghost Clan can do it through certain methods."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“只要让它放凉就可以了是吧？”伊琳娜看着麦格问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -3888,8 +3896,8 @@
       <tuv lang="zh-CN">
         <seg>“可他们已经死了无数年，只剩下被冰雪延缓了腐败的尸体，怎么蛊惑？”麦格不解。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220410T080620Z" creationid="Longbell" creationdate="20220410T080620Z">
-        <seg>"But they were already dead for years. Only their bodies that </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T120940Z" creationid="Longbell" creationdate="20220410T080620Z">
+        <seg>"But they were already dead for years. Only their bodies that preserved by the ice and snow. How is he going to enchant them?" Mag didn't understand them.</seg>
       </tuv>
     </tu>
     <tu>
