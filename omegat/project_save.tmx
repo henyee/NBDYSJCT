@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7306,6 +7306,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T155335Z" creationid="sitong" creationdate="20220404T155335Z">
         <seg>"What a coincidence, we've just arrived too," Eiffie said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好强！”诺亚惊道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T143747Z" creationid="sitong" creationdate="20220410T143747Z">
+        <seg>"Powerful!" Noya exclaimed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25678,6 +25686,22 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>兰克斯特也是被一剑劈飞，长枪刺地，后退十数米后停下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T143739Z" creationid="sitong" creationdate="20220410T143739Z">
+        <seg>Rankster was also sent flying with a single blow. The spear was pierced into the ground and he came to a stop after tens of meters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>兰克斯特瞬间来到他的面前，短兵相接。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T143658Z" creationid="sitong" creationdate="20220410T143609Z">
+        <seg>Rankster appeared in front of him immediately and launched his attack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>兰贝街的确很热闹，不过也因为太过热闹而被麦格给排除了，相反这条位于兰贝街背后的罗莫街，要清静许多，而且店铺选择更多，让麦格挺满意。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33830,6 +33854,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>有所防备的麦格这次不再那么狼狈，不过依旧后退了十数米。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T143649Z" creationid="sitong" creationdate="20220410T143649Z">
+        <seg>Mag, who was prepared, did not end up in a sorry state as he was before. however, he still took a few steps back.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>有着高级文明的古老者，不可能把自己放在暗无天日的地下世界受苦受难，说明所谓的地下世界或许和我们思维中的地下世界完全不同。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T140844Z" creationid="sitong" creationdate="20220403T140844Z">
@@ -34074,6 +34106,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Merante sighed, and then slowly got up. In a grave voice, he said, "Their bodies were burned, and their souls were snatched and devoured. Only a bit of residual souls was left. I can't get much information from them. That guy was in black robes, and his power was above the 9th-tier. He might have already reached the 10th-tier."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>梅兰特和伊琳娜的脸上也有惊色。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T143754Z" creationid="sitong" creationdate="20220410T143754Z">
+        <seg>Merante and Irina were also stunned.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35106,6 +35146,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Helena was silent for a long time before she turned around slowly to look at the several elven nobles and domain lords below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>消失的兰克斯特，麦格没想到会在这里遇见他。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T143556Z" creationid="sitong" creationdate="20220410T143556Z">
+        <seg>Mag did not expect to meet Rankster, who had gone missing, here.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38814,6 +38862,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而兰克斯特却能与麦格强行五五开，在交锋之中不落下风，实力之强，可见一斑。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T144133Z" creationid="sitong" creationdate="20220410T144133Z">
+        <seg>However, Rankster was able to fight it out with him without falling short and that showed how strong he was.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而其他商家想要蹭这个人气，便会在罗莫街上开展商业活动，继而带动人气的再次上升。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220409T124140Z" creationid="sitong" creationdate="20220409T124140Z">
@@ -39338,6 +39394,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220401T141438Z" creationid="sitong" creationdate="20220401T141438Z">
         <seg>The corn cake was cut into small pieces. It tasted quite good too. It was probably made by smashing soaked dry corn and adding flour. The texture was very fluffy and the corn was refreshing. It was a rather good cake.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而那道黑影已是再度向他冲来，黑色的长枪泛着幽光，黑色的铠甲簇新，那张刚毅的脸面无表情，目光有些木然，泛着幽幽红光。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T143518Z" creationid="sitong" creationdate="20220410T143518Z">
+        <seg>That black shadow rushed towards him once again. The black spear gleamed. The black armor was completely new. His face was expressionless and his gaze was rather empty, with a hint of redness in his eyes. </seg>
       </tuv>
     </tu>
     <tu>
@@ -44950,6 +45014,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格只觉得自己仿佛被一列疾驰而来的列车撞上，身体竟是不受控制的向后倒飞出去，在半空中扭转，长剑刺入冰中，依旧倒飞了百米才堪堪稳住身形。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T135737Z" creationid="sitong" creationdate="20220410T135737Z">
+        <seg>Mag felt as though he was hit by a sprinting train and he flew back uncontrollably. He turned in midair and stabbed the longsword into the ice to stabilise himself after flying out 100 metres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格可不打算再开一家麦米餐厅，要以酒为主打，让客人们因为酒爱上酒馆，而不是因为下酒菜而着迷。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -45870,6 +45942,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格提着剑站起身来，看着那熟悉的面孔，神情有些复杂。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T143544Z" creationid="sitong" creationdate="20220410T143544Z">
+        <seg>Mag stood up with his sword in his hand, looking at that familiar face with mixed feelings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格提着食盒进门，一边随口道：“对了，今天许愿井要是灵验的话，就让它送我们一台车吧，最好是全地形的那种，这样买菜就方便了。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220401T122339Z" creationid="sitong" creationdate="20220401T122339Z">
@@ -46338,6 +46418,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag's voice was cold, and his heart was cold too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格的实力毋庸置疑，已经超出十级的范畴，虽然还不能称神，但也不是十级能够比拟。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T144111Z" creationid="sitong" creationdate="20220410T144111Z">
+        <seg>There was no doubting Mag's powers. He had already exceeded the limit of the 10th-tier. Although he could not be considered a god, he was still not somewhere a 10th-tier could go close to.</seg>
       </tuv>
     </tu>
     <tu>
