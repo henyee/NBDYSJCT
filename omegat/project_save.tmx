@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12510,6 +12510,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是禁魔阵法，看来为了把我们留下来，他准备了不少。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T115416Z" creationid="sitong" creationdate="20220410T115406Z">
+        <seg>"It's a anti-magic spell formation. It seems like he is well-prepared to keep us here."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是艾米？好久没有见到她了呢。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -16626,6 +16634,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"The closer he is, the better the septaria oracle will be able to detect him. For the next two days, we will be going around the different towns near Rodu to see what we can find," Merante said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“跟我来，先离开这里。”麦格在口袋里按了一下求救键，长剑飞回落到他的手中，当先向着来时的洞穴冲去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T130218Z" creationid="sitong" creationdate="20220410T130218Z">
+        <seg>"Follow me. Let's get out of here first." Mag pressed the SOS button in his pocket and the longsword flew back to his hand, rushing right into the cave.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24682,6 +24698,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T175747Z" creationid="Longbell" creationdate="20220326T175747Z">
         <seg>Irina approached him and stopped about 50cm away from him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜蹙眉，抬手升起一道魔法罩，将那些古尸的攻击挡在魔法罩之外。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T124906Z" creationid="sitong" creationdate="20220410T124906Z">
+        <seg>Irina frowned. She waved her hand and formed a magical shield between them and the attacking ancient corpses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33034,6 +33058,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After the invisible force field disappeared, the guards at the general's mansion realized that there was something amiss at this side of the mansion. They quickly rushed over with buckets of water and their weapons to put out the fire and save the general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>无数古尸从洞穴外涌来，不过在天都剑前都不是一合之敌，强行杀出了一条道来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T130319Z" creationid="sitong" creationdate="20220410T130319Z">
+        <seg>Countless ancient corpses surged out from the cave. However, they were no match for the Tian Du sword as it made a path through the wave of corpses.</seg>
       </tuv>
     </tu>
     <tu>
