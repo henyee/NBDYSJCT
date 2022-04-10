@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14610,6 +14610,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Seems like Amy had a funny dream last night." Mag was still smiling. Although he wasn't as easily amused as Irina, he was still very much entertained by Amy's lame jokes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“看来这是个圈套，他从一开始就知道我们要来。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T130327Z" creationid="Longbell" creationdate="20220410T130327Z">
+        <seg>"Seems like it's a trap. He knew that we're coming right from the start."</seg>
       </tuv>
     </tu>
     <tu>
@@ -38918,6 +38926,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而相同之处，在于他们的眼眶中闪烁着幽幽红光，发狂一般向着麦格他们涌来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T130304Z" creationid="Longbell" creationdate="20220410T130304Z">
+        <seg>The same thing was the red gleam glistening in their eyes as they charged at Mag crazily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而站在乔修那一派的大臣，此时神情都不太好。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -46098,6 +46114,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag's voice was cold, and his heart was cold too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格的手向前一指，天都剑化作一道残影射入幽幽通道之中，将通道中涌来的古尸尽皆斩杀。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T130552Z" creationid="Longbell" creationdate="20220410T130552Z">
+        <seg>Mag pointed skywards and the Tian Du sword shot into the walkway like a shadow. All the ancient corpses in the walkway were slaughtered.</seg>
       </tuv>
     </tu>
     <tu>
