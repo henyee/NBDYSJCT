@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你们随我进来，我一边走，一边和你们说。”梅兰特带着麦格和伊琳娜转身又往洞穴里走。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T062158Z" creationid="Longbell" creationdate="20220410T062158Z">
+        <seg>"Come with me. I'll explain as we walk." Merante brought Mag and Irina into the cave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你们饿了吧，我去给你们做早……午餐。”麦格从床上爬起来。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -12390,6 +12398,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是的，这里什么情况？”梅兰特突然把他叫到这个地方，但看着并不显眼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T062116Z" creationid="Longbell" creationdate="20220410T062116Z">
+        <seg>"Yes. What's the situation here?" Merante suddenly called him here but he couldn't see anything unusual here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是的，那的确是我引起的。”麦格坦诚的点头。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T153442Z" creationid="Longbell" creationdate="20220402T153442Z">
@@ -19986,6 +20002,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Boss Mag has been hustling all his life. He would never be in such leisure. Abraham turned back and picked up a piece of pig's tongue with his chopsticks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“麦老板，你们来了。”梅兰特从洞穴中快步走了出来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T062023Z" creationid="Longbell" creationdate="20220410T062023Z">
+        <seg>"You guys have arrived, Boss Mag." Merante quickly strode out of the cave.</seg>
       </tuv>
     </tu>
     <tu>
