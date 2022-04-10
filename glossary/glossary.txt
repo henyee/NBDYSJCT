@@ -2918,3 +2918,4 @@ DVD	DVD
 冰崖	ice cliff
 古尸	ancient corpse
 尸体	corpse
+人面蛛	giant woods spider
