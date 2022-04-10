@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2192,8 +2192,8 @@
       <tuv lang="zh-CN">
         <seg>“你吃吧，我不饿。”梅兰特随口答道，然后一边和麦格他们说道：“这处冰窟是我们今天早上发现的，龟甲石出现反应，找了半天才发现这个洞穴。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220410T070152Z" creationid="Longbell" creationdate="20220410T070152Z">
-        <seg>"You go ahead. I'm not hungry." Merante casually answered before saying to Mag, "We found this ice cave this morning. The septaria oracle had an reaction and searched for a long time before we found this cave."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T134733Z" creationid="Longbell" creationdate="20220410T070152Z">
+        <seg>"You go ahead. I'm not hungry." Merante casually answered before saying to Mag, "We found this ice cave this morning. The septaria oracle had a reaction and searched for a long time before we found this cave."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7872,8 +7872,8 @@
       <tuv lang="zh-CN">
         <seg>“如果是这样的话，北地雪原之上恐怕还有许多这样的冰窟，在这片雪原之下，埋葬着无数战死的古尸。”梅兰特沉声道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220410T123510Z" creationid="Longbell" creationdate="20220410T123510Z">
-        <seg>"If that's the case, I'm afraid there are many more such ice cavern on the northern snow plain. There are many more ancient corpses that died in the battle were buried underneath it." Merante said gravely.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T134746Z" creationid="Longbell" creationdate="20220410T123510Z">
+        <seg>"If that's the case, I'm afraid there are many more such ice caverns on the northern snow plain. There are many more ancient corpses that died in the battle were buried underneath it." Merante said gravely.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22046,6 +22046,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不过这些古尸仿佛无穷无尽一般，被圣光消灭了一批之后，依旧从地底和墙壁之中不断涌出，几乎爬满了洞窟的墙壁。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T134459Z" creationid="Longbell" creationdate="20220410T134459Z">
+        <seg>However, these ancient corpses seemed to be endless. After the Holy Light destroyed one batch of them, many still crawled out from the ground and the walls, they almost covered all the walls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不过这些坊市之间没有围墙相隔，而且功能划分也没那么合理，除了几个富人和权贵集中的区域，其他各处就显得有些混乱。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24534,6 +24542,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜手中出现了一道传送符，在她指尖点亮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T134537Z" creationid="Longbell" creationdate="20220410T134537Z">
+        <seg>A teleportation talisman appeared in Irina's hands and lit up on her fingertips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜手执法师杖断后，圣光在狭窄的通道中如神器，一扫空一片，倒是毫无压力。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T131151Z" creationid="sitong" creationdate="20220410T131151Z">
@@ -24930,6 +24946,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T130223Z" creationid="Longbell" creationdate="20220404T130223Z">
         <seg>Everyone got up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人脚下金光一闪，却被一道突然出现的黑色魔气湮灭。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T134622Z" creationid="Longbell" creationdate="20220410T134622Z">
+        <seg>A golden light flashed under their feet but a black evil aura suddenly appeared and eliminated it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31030,6 +31054,22 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>巨大的不可名状物从冰面之下缓缓升起，天空变成了墨黑色，无数乌云席卷而来，恐怖的威压散开，就连紫纹狮鹫也在微微颤抖。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T135438Z" creationid="Longbell" creationdate="20220410T135438Z">
+        <seg>An huge indescribable thing rose up from the ice surface gradually and the sky turned dark. Countless dark clouds gathered and the terrible aura was dissipated. Even the purple-striped griffin was shuddering slightly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>巨大的蝠翼抬起之后足有数千米高，庞大的身躯，在这一望无垠的雪原之上依旧显得巨大无比。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T140912Z" creationid="Longbell" creationdate="20220410T140912Z">
+        <seg>The giant bat wings were thousands of meters high after it lifted them up. The gigantic body still looked immensely huge on this snow plain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>巨蛇低头看着地上站着的三人，发出了一声尖利的嘶吼，巨大的尾巴一甩，拍在了挡在他面前的冰墙上。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T151151Z" creationid="Longbell" creationdate="20220403T151151Z">
@@ -37046,6 +37086,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千零九十章 冰窟古尸</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T134710Z" creationid="Longbell" creationdate="20220410T134710Z">
+        <seg>Chapter 2090: The Ice Cave's Ancient Corpses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千零九章 这倒没错，你是真的废</seg>
       </tuv>
       <tuv lang="en-US">
@@ -40690,6 +40738,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>He would not even suspect it if someone told him this was the new dish Boss Mag just launched.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>覆盖着黑色鳞片的胶状身体在不断变换着形状，如巨大的蠕虫在动着，只是看一眼，便让人感受到深深的恐惧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T135651Z" creationid="Longbell" creationdate="20220410T135651Z">
+        <seg>The gel-like body that was covered by black scales kept changing forms like a giant worm. Just taking a look at it was enough to make one feel deep fear.</seg>
       </tuv>
     </tu>
     <tu>
