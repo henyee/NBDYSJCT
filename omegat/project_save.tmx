@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25678,6 +25678,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>克苏鲁发出了一声令人作呕的声音，然后向着麦格的方向蠕动而去，一路之上，冰川碎裂。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T150406Z" creationid="Longbell" creationdate="20220410T150406Z">
+        <seg>Cthulhu let out a sickening sound before wiggling towards Mag. Ice shattered along his path.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>克苏鲁的强大毋庸置疑，在混乱之城外封印中，数十位十级强者联手也几乎奈何不了它。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T143300Z" creationid="Longbell" creationdate="20220410T143300Z">
@@ -25730,6 +25738,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T144338Z" creationid="sitong" creationdate="20220410T144317Z">
         <seg>Rankster fixed his gaze on the purple-striped griffin. He riased the spear in his hand and aimed at Ah Zi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>兰克斯特眼中的挣扎已经消失，取而代之的是一片猩红，而且实力似乎还得到了加强，疯狂的对麦格发起攻击。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T151116Z" creationid="Longbell" creationdate="20220410T151116Z">
+        <seg>The struggle in Rankster's eyes was gone and a patch of red replaced it. Furthermore, his power seemed to be enhanced as he attacked Mag crazily.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38930,6 +38946,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Meanwhile, most of the authors who are handsome like you would get great illustrators to paint their portraits on the books to attract fans who like them besides their talents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而克苏鲁的出现，让古尸陷入了更加疯狂的状态中，数十具能够飞行的古尸腾空而起，组成队形向着伊琳娜他们飞来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T145240Z" creationid="Longbell" creationdate="20220410T145240Z">
+        <seg>Meanwhile, Cthulhu's appearance made the ancient corpses descend into a greater craziness. Dozens of ancient corpse that could fly, took to the air and flew towards Irina in formations.</seg>
       </tuv>
     </tu>
     <tu>
