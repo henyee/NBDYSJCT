@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2890,6 +2890,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Mix the red oil first?" Mag was a little surprised at Amy's suggestion but after thinking about it for a while, he nodded and said, "I'll give it a shot."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“先清除周围的古尸，给他减轻一些压力。”伊琳娜很快收回目光，吟唱着魔法咒语，用圣光术扫荡着那些试图靠近麦格的古尸。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T153927Z" creationid="sitong" creationdate="20220410T153927Z">
+        <seg>"Clear the ancient corpses around first to lighten his load." Irina quickly looked away. She sang a magical chant and used the Holy Light Technique to wipe out some of the ancient corpses that were trying to go close to Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17498,6 +17506,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Can you even call that a mission? With Father's culinary skills, he could achieve that in a few days himself." Amy said perplexedly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这些古尸一旦南下，诺兰大陆将要面临的会是一场可怕的浩劫。”梅兰特的声音也是有些颤抖。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220410T153554Z" creationid="sitong" creationdate="20220410T153554Z">
+        <seg>"The moment these ancient corpses go down south, the Norland Continent might face with a horrifying catastrophe." Merante's voice was also trembling.</seg>
       </tuv>
     </tu>
     <tu>
