@@ -2262,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你先回家吧，我不太放心两个孩子待在家里，我要回一趟混乱之城，亲自去和迈克尔谈谈。”麦格说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T145835Z" creationid="Longbell" creationdate="20220411T145835Z">
+        <seg>"You'll go home first. I don't feel good letting the two children stay at home on their own. I need to make a trip back to Chaos City to talk to Michael." Mag said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你再说！你再说！”埃菲的眉毛已经快要立起来了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T103910Z" creationid="sitong" creationdate="20220327T103825Z">
@@ -14674,6 +14682,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T143751Z" creationid="Longbell" creationdate="20220326T143751Z">
         <seg>"It's no longer sealed, and you now have 300 barrels of 30-year-old Titan Liquor." Mag said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“现在要去哪里？”伊琳娜看着麦格问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T145626Z" creationid="Longbell" creationdate="20220411T145626Z">
+        <seg>"Where are we going now?" Irina asked Mag.</seg>
       </tuv>
     </tu>
     <tu>
