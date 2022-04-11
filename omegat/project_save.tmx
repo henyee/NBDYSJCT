@@ -1910,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“但现在的问题并不在于它在哪里，而是如何才能将它重新封印，以及找到真正控制古尸的‘头脑’。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T141726Z" creationid="Longbell" creationdate="20220411T141726Z">
+        <seg>"But the problem now isn't finding it, but how to reseal it and find the 'head' that is controlling the ancient corpses."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“位置是不错，但格局和面积都不符合我的要求。”麦格面无表情的拒绝。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -48194,6 +48202,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T132137Z" creationid="Longbell" creationdate="20220402T132137Z">
         <seg>Mag looked at Xi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格看着晞的虚拟屏，点点头道：“只要能够确定他的位置，封印阵法能够解决，如何将其重新封印也能想办法。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T141926Z" creationid="Longbell" creationdate="20220411T141926Z">
+        <seg>Mag looked at Xi's virtual screen and nodded. "As long as we can locate him, we can resolve it with the seal spell formation. We can also think of a solution to reseal it.</seg>
       </tuv>
     </tu>
     <tu>
