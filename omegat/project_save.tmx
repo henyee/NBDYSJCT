@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你没事吧？”伊琳娜来到麦格身边，伸手握住他的手，关切的问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T121651Z" creationid="Longbell" creationdate="20220411T121651Z">
+        <seg>Irina approached Mag, grabbed his hand and concernedly asked, "Are you alright?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你父亲不会把整个酒馆下方都掏空了，然后全部装满了酒吧？”麦格侧头看着埃菲问道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T145236Z" creationid="Longbell" creationdate="20220326T145236Z">
@@ -42706,6 +42714,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This impact was equivalent to announcing the end of Josh directly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这一刻他才感受到自己的可笑，数百年来竟然一直试图找到克苏鲁并杀死它，</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T121420Z" creationid="Longbell" creationdate="20220411T121420Z">
+        <seg>Only then did he realize his naviety. He had actually tried to find Cthulhu and kill it for the past hundreds of years.</seg>
       </tuv>
     </tu>
     <tu>
