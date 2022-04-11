@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“也好，路上小心些。”伊琳娜点点头，直接用传送阵返回酒馆。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T145930Z" creationid="Longbell" creationdate="20220411T145930Z">
+        <seg>"Alright. Be careful on the road." Irina nodded and returned to the tavern right away with the teleportation portal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“也是哦……”熙熙若有所思的点点头，把饭盒往地上一放，“那我也去看看，学点厨艺。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -1794,6 +1802,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T121937Z" creationid="sitong" creationdate="20220325T121937Z">
         <seg>"Judging from the popularity of your tavern, I think you would be able to get a full house even if you don't join this liquor tasting event." Eiffie sat opposite to Mag and looked at him with her beautiful eyes. "However, I think you also have the ambition of letting more people know about your wine."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“以洛斯帝国之兵力，与那亡灵军团一战，有几分胜算？”大殿中，安德烈看着多米尼克问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T151055Z" creationid="Longbell" creationdate="20220411T151055Z">
+        <seg>In the great hall, Andre asked Dominic, "With the Roth Empire's military might, what are our chances of defeating that Army of the Dead?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -39186,6 +39202,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T083313Z" creationid="Longbell" creationdate="20220331T083313Z">
         <seg>The body suit showed her figure perfectly but people couldn't have any dirty thoughts about her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>紫纹狮鹫冲天而起，飞向城外，向着南方飞去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T145958Z" creationid="Longbell" creationdate="20220411T145958Z">
+        <seg>The purple-striped griffin took the sky, flew out of the city and towards the south.</seg>
       </tuv>
     </tu>
     <tu>
