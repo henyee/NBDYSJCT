@@ -2920,3 +2920,4 @@ DVD	DVD
 尸体	corpse
 人面蛛	giant woods spider
 飓风	hurricane
+电磁炮	electromagnetic gun
