@@ -2923,3 +2923,4 @@ DVD	DVD
 电磁炮	electromagnetic gun
 战舰	battleship
 紧身衣	body suit
+虚拟屏	virtual screen
