@@ -18190,6 +18190,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是什么东西？”伊琳娜一边给麦格施展治疗术，一边问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T122126Z" creationid="Longbell" creationdate="20220411T122102Z">
+        <seg>"What's this?" Irina asked as she used healing magic on Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是什么宠物，我也想养一个。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -43674,6 +43682,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T075131Z" creationid="Longbell" creationdate="20220328T075131Z">
         <seg>This was a terrifying woman and also one whom she had no power to go against.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这是一个宽阔的空房间，四壁都是钢铁墙壁，只有朝着外界的方向有透光的玻璃。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T122417Z" creationid="Longbell" creationdate="20220411T122105Z">
+        <seg>It was a spacious room with iron walls. Only the out-facing sides were transparent glass.</seg>
       </tuv>
     </tu>
     <tu>
