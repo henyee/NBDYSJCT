@@ -3160,8 +3160,8 @@
       <tuv lang="zh-CN">
         <seg>“兰克斯特果然被魔鬼控制了，而且实力得到了一定的提升，能够与亚历克斯一战而不弱下风。”道格拉斯神情复杂道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220411T153209Z" creationid="Longbell" creationdate="20220411T153209Z">
-        <seg>"Rankster is indeed controlled by the devil and his power is elevated. He is able to fight with Alex head to head." Douglas said with a complex expression.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T153522Z" creationid="Longbell" creationdate="20220411T153209Z">
+        <seg>"Rankster is indeed controlled by the devil and his power is elevated. He is able to fight with Alex head on." Douglas said with a complex expression.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42898,6 +42898,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The more he understood, the more respectful he got. After receiving the masters' experience, Mag immediately realized that the mung bean cake that he thought was perfect was only a substandard product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>路易斯的神情也是十分凝重，沉声道：“一个脱离了封印限制的魔鬼，才是最让人头疼的。而现在它还控制了数量庞大的古尸。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T153845Z" creationid="Longbell" creationdate="20220411T153845Z">
+        <seg>Louis looked equally grim when he gravely said, "A devil that has escaped from the seal is the most problematic, and now, it's even controlling a huge number of ancient corpses."</seg>
       </tuv>
     </tu>
     <tu>
