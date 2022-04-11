@@ -29920,8 +29920,8 @@
       <tuv lang="zh-CN">
         <seg>多米尼克神情认真道：“亡灵与生灵不同，他们没有恐惧，只有被彻底杀死，没有投降和失败的概念。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220411T151705Z" creationid="Longbell" creationdate="20220411T151705Z">
-        <seg>Dominic gravely said, "The dead is different from the living. They have no fear. They have to be completely killed. They have no idea of surrender or failure."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T151720Z" creationid="Longbell" creationdate="20220411T151705Z">
+        <seg>Dominic gravely said, "The dead is different from the living. They have no fear. They have to be completely killed. They have no idea of surrender or failure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35090,6 +35090,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Jessica nodded. "Yes. I haven't seen my buddies for quite some time too."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>极北冰原是古战场，埋葬着无数古尸，如果那魔鬼真的将他们控制，我们恐怕要面对数量恐怖的军团。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T152017Z" creationid="Longbell" creationdate="20220411T152017Z">
+        <seg>The snow plain at the far north was an ancient battlefield. Countless ancient corpses were buried there. If the devil has really controlled them, I'm afraid we will be facing an army made up of a terrifying number."</seg>
       </tuv>
     </tu>
     <tu>
