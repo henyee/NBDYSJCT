@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -130,6 +130,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"One helping of too spicy drunkard peanuts. Fail…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“一会有的是机会发挥。”梅兰特重新拿起旱烟抽着。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T071015Z" creationid="sitong" creationdate="20220411T071015Z">
+        <seg>"You will have the chance to use it." Merante continued smoking.</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"But Grandpa, we were tracking the evil aura yesterday. Why did we end up getting ambushed by humans? Could those humans have already been in cahoots with the devil?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不过爷爷，那我们接下来怎么办？那克苏鲁咱们也打不过啊。”诺亚把碗筷收拾了，问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T071035Z" creationid="sitong" creationdate="20220411T071035Z">
+        <seg>"But Grandpa, what should we do now? We can't defeat that Cthulhu," Noya asked after he kept the cutleries.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20374,6 +20390,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“麦老板去寻求各种族层面的联盟，我们鬼族同样可以尽自己的一份力。”梅兰特放下旱烟，“覆巢之下无完卵，如果克苏鲁控制了诺兰大陆，那便彻底完了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T071223Z" creationid="sitong" creationdate="20220411T071223Z">
+        <seg>"Boss Mag went to seek alliances from the other races. The Ghost Clan can also play our part." Merante placed his cigarette down. "If Cthulhu were to take control of the entire Norland Continent, everything will be gone."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“麦老板可真是难得的好男人，你确定不加把劲把他抓住？”薇薇安站在露娜身旁，看着正在收拾烧烤架的麦格小声道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24554,6 +24578,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Given their identities and status, they naturally had drunk good liquor before, but no taverns had spent so much effort on their liquor bottles before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>以前他还信心十足的想要和爷爷一起找魔鬼，现在算是知道魔鬼的可怕了，已然斗志全无。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T071102Z" creationid="sitong" creationdate="20220411T071102Z">
+        <seg>In the past, he was very confident and wanted to go Devil-hunting with his grandpa. Now, he knew how scary the Devil was and had lost all fighting spirits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36094,6 +36126,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>然后他和伊琳娜直接前往洛都皇宫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T075629Z" creationid="sitong" creationdate="20220411T075629Z">
+        <seg>After that, he went straight to the Rodu palace with Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>然后他就在观众席里按照座位入座了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T163617Z" creationid="sitong" creationdate="20220404T163617Z">
@@ -43606,6 +43646,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这根本不是一个层面上的对手啊，就算那魔鬼呆在那里不还手，他也杀不死它。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T071121Z" creationid="sitong" creationdate="20220411T071121Z">
+        <seg>This was not an opponent of their level. Even if the Devil did not do anything, he could not kill it too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这次丑小鸭仔细观察了一番后，确认没有椅子挡道后，才欢快的扑上前，一爪子按住了那骨碌碌滚动的绿豆，有些得意的叫唤了一声。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -46186,6 +46234,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag was rather familiar with Blum. After all, when Alex was in his prime, Blum was only a lowly soldier in the military.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格将留影石拷贝了十份，直接通过混乱之城的渠道送往各族掌权者手中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T075449Z" creationid="sitong" creationdate="20220411T075449Z">
+        <seg>Mag made 10 copies of the photostone and sent it to the hands of the people in power at the various tribes through Chaos City.</seg>
       </tuv>
     </tu>
     <tu>
