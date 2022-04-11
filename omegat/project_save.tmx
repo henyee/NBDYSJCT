@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34536,8 +34536,8 @@
       <tuv lang="zh-CN">
         <seg>本以为难逃一死的伊琳娜身体外升起了一道光罩，将四溅的绿色液体挡住，依旧有点愣神。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220411T074935Z" creationid="Longbell" creationdate="20220411T074935Z">
-        <seg>Irina, who thought she was going to die for sure</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T095014Z" creationid="Longbell" creationdate="20220411T074935Z">
+        <seg>Irina, who thought she was going to die for sure, had a light shield surrounding her and blocked the splashing green liquid. She was still in a daze.</seg>
       </tuv>
     </tu>
     <tu>
