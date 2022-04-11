@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13950,6 +13950,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“滚开！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T183107Z" creationid="Longbell" creationdate="20220410T183107Z">
+        <seg>"Scram!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“满足了吗？”麦格从厨房里出来，看着正枕着丑小鸭的肚子小憩的艾米，笑着问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26022,6 +26030,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>克苏鲁的速度比他更快，他没有办法在触手刺中伊琳娜前将它斩断。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T072451Z" creationid="Longbell" creationdate="20220411T072451Z">
+        <seg>Cthulhu's speed was faster than his. He had no way to slash that tentacle off before it reached Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>八目相对，气氛有点尴尬。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -28070,6 +28086,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>咻！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T183141Z" creationid="Longbell" creationdate="20220410T183141Z">
+        <seg>Swosh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>咽下之后，唇齿留香，竟是回味无穷。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -29562,6 +29586,22 @@
       </tuv>
       <tuv lang="en-US">
         <seg>There was already no place for Josh to hide in this vast world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>天都剑化作一道流光，飞向那如长枪般刺向伊琳娜的触手。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T072318Z" creationid="Longbell" creationdate="20220411T072318Z">
+        <seg>The Tian Du sword became turned a flash of light and flew towards the tentacle that stabbed at Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>太晚了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T072322Z" creationid="Longbell" creationdate="20220411T072322Z">
+        <seg>It was too late.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47182,6 +47222,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格的心已经降到了冰点。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T072335Z" creationid="Longbell" creationdate="20220411T072335Z">
+        <seg>Mag's heart dropped to the freezing point.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格的心情多少有些复杂，有英雄相惜的感叹，也有对伊丽莎白的惋惜。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T155648Z" creationid="sitong" creationdate="20220410T155648Z">
@@ -47842,6 +47890,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag understood what was going on. This customer was an official from the military, and he had a close senior who was involved in this incident. He was one of the generals whose family was wiped out the night before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格红着眼睛一剑劈飞了兰克斯特，然后用尽全力将天都剑甩了出去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220410T183137Z" creationid="Longbell" creationdate="20220410T183137Z">
+        <seg>Mag sent Rankster flying with one strike before tossing the Tian Du sword out with all his might.</seg>
       </tuv>
     </tu>
     <tu>
