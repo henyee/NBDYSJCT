@@ -3854,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“古老者曾经立下誓言，不能大规模进入诺兰大陆，你们只能靠自己抵御克苏鲁和他所控制的丧尸狂潮。”晞摇头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T140344Z" creationid="Longbell" creationdate="20220411T140344Z">
+        <seg>"The Elder Things had made a promise before. They cannot enter the Norland Continent en masse. You have to depend on yourselves to defend against Cthulhu and the zombie horde that it controls." Xi shook her head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“古老者的强大，也是有限制的吧？否则又怎会任由那些封印数千年日渐老化而坐视不管？”麦格笑着反问道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T140653Z" creationid="Longbell" creationdate="20220402T140653Z">
@@ -27466,6 +27474,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Only a real chowhound would dare to try different food.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>只能将其重新封印的话，并非易事。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T135928Z" creationid="Longbell" creationdate="20220411T135928Z">
+        <seg>It wasn't easy if they could only reseal it.</seg>
       </tuv>
     </tu>
     <tu>
