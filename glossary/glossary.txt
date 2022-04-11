@@ -2925,3 +2925,4 @@ DVD	DVD
 紧身衣	body suit
 虚拟屏	virtual screen
 丧尸	zombie
+亡灵军团	Army of the Dead
