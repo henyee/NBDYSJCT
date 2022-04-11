@@ -2924,3 +2924,4 @@ DVD	DVD
 战舰	battleship
 紧身衣	body suit
 虚拟屏	virtual screen
+丧尸	zombie
