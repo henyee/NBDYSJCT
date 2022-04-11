@@ -2922,3 +2922,4 @@ DVD	DVD
 飓风	hurricane
 电磁炮	electromagnetic gun
 战舰	battleship
+紧身衣	body suit
