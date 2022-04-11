@@ -2921,3 +2921,4 @@ DVD	DVD
 人面蛛	giant woods spider
 飓风	hurricane
 电磁炮	electromagnetic gun
+战舰	battleship
