@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37670,6 +37670,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千零九十四章 造访洛都皇宫</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T055133Z" creationid="sitong" creationdate="20220411T055133Z">
+        <seg>Chapter 2094: Visit Rodu Palace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千零九十章 冰窟古尸</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T134710Z" creationid="Longbell" creationdate="20220410T134710Z">
@@ -41618,6 +41626,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Noya shut up the moment she glanced over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>诺亚很忧伤，他抱着一起穿过冰窟，战过古尸，有着过命交情的佛跳墙，竟然在战斗中牺牲了……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T070203Z" creationid="sitong" creationdate="20220411T070203Z">
+        <seg>Noya was very upset. The 'Buddha Jumps Over the Wall' that had been through the ice cave and braved through the ancient corpses with him. It actually sacrificed itself amidst the battle...</seg>
       </tuv>
     </tu>
     <tu>
