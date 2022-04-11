@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36274,6 +36274,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T095912Z" creationid="Longbell" creationdate="20220403T095912Z">
         <seg>Rodu's public safety wasn't as good as it looked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>洛都皇宫是诺兰大陆上最安全的地方，哪怕亚历克斯的实力再强，也不可能强突皇宫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T162653Z" creationid="sitong" creationdate="20220411T162653Z">
+        <seg>Rodu palace was the safest place in Norland Continent. No matter how strong Alex was, he would never be able to barge into the palace.</seg>
       </tuv>
     </tu>
     <tu>
