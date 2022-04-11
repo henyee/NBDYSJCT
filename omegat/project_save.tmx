@@ -272,8 +272,8 @@
       <tuv lang="zh-CN">
         <seg>“上来，我们杀不死他，先离开这里。”晞冰冷的声音在麦格耳边响起，船舱打开了一条通道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220411T104854Z" creationid="Longbell" creationdate="20220411T104854Z">
-        <seg>"Hop on. We can't kill it. Let's leave here first." Xi's icy cold voice sounded next to Mag's ears and the ship's cabin let out a walkway.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T104915Z" creationid="Longbell" creationdate="20220411T104854Z">
+        <seg>"Hop on. We can't kill it. Let's leave here first." Xi's icy cold voice sounded next to Mag's ears and the ship's cabin let out a passageway.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19978,6 +19978,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"He's dead meat… R.I.P…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“阿紫，从通道进去！”麦格跳上了飞到身旁的紫纹狮鹫，然后靠近伊琳娜一把揽住她的腰，直接一头扎入五星战舰的通道之中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220411T105305Z" creationid="Longbell" creationdate="20220411T104901Z">
+        <seg>"Ah Zi, enter through that passageway!" Mag leaped onto the purple-striped griffin that flew next to him. They then flew close to Irina and Mag grabbed her waist. They darted straight into the star-shaped battleship.</seg>
       </tuv>
     </tu>
     <tu>
