@@ -20238,6 +20238,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“陛下有旨，请亚历克斯和伊琳娜进宫！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T165321Z" creationid="sitong" creationdate="20220411T165321Z">
+        <seg>"His Majesty has ordered to invite Alex and Irina into the palace!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“陛下英明！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -21914,6 +21922,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Shortly after, Mag came out with three side dishes and a bottle of Maotai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不久之后，一道悠长的声音从皇宫内传出。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220411T173248Z" creationid="sitong" creationdate="20220411T173248Z">
+        <seg>Not long later, a voice echoed from within the palace.</seg>
       </tuv>
     </tu>
     <tu>
