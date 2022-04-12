@@ -26582,6 +26582,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>但火炮不一样，麦格对明代的红衣大炮进行了简单的改进，既拥有强大的杀伤力，又不会显得技术过于激进引起古老者的注意。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T111330Z" creationid="Longbell" creationdate="20220412T110955Z">
+        <seg>However, cannons were different. Mag had already modified the cannons from the 16th century. It would have a powerful lethality yet not so advanced that it would attract the Elder Things' attention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>但缸裂了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -38304,8 +38312,8 @@
       <tuv lang="zh-CN">
         <seg>电磁炮太夸张，麦格也没有这个本事造。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220412T110925Z" creationid="Longbell" creationdate="20220412T110925Z">
-        <seg>Electromagnetic guns were too overboard and Mag didn't have the abitlity to make it.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T110931Z" creationid="Longbell" creationdate="20220412T110925Z">
+        <seg>Electromagnetic guns were too overboard and Mag didn't have the abitlity to make them.</seg>
       </tuv>
     </tu>
     <tu>
