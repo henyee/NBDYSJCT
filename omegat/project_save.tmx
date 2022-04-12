@@ -9136,8 +9136,8 @@
       <tuv lang="zh-CN">
         <seg>“小孩子才做选择，我全都要。”弗格斯笑着摇头道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220412T131527Z" creationid="Longbell" creationdate="20220412T131527Z">
-        <seg>"Only children make choices. I am having all all of them." Fergus shook his head with a smile.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T131533Z" creationid="Longbell" creationdate="20220412T131527Z">
+        <seg>"Only children make choices. I am having all of them." Fergus shook his head with a smile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9826,6 +9826,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Of course. Father will go with you. I will take the kitchenware along and barbecue for the children." Mag nodded smilingly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“当然是塞班酒馆，那天就喝了一点点，还没有细细品味，这两天想的心里直痒痒。”弗格斯毫不犹豫的向着塞班酒馆走去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T131802Z" creationid="Longbell" creationdate="20220412T131802Z">
+        <seg>"Saipan Tavern, of course. We only tasted a teeny bit that day and we didn't get to sample it closely. I've been craving it for the past two days." Fergus headed straight for Saipan Tavern without any hesitation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15382,6 +15390,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“的确是这样的。”库尔特也是笑着跟上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T131822Z" creationid="Longbell" creationdate="20220412T131822Z">
+        <seg>"That's indeed the case." Kurt followed after him with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“盛情难却啊。”麦格轻叹了一口气。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -20534,6 +20550,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“那这第一场，从谁家开始？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T131550Z" creationid="Longbell" creationdate="20220412T131550Z">
+        <seg>"Then, where should we start from?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“那这？”麦格看着埃菲手里抱着的酒瓶。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T102952Z" creationid="sitong" creationdate="20220327T102952Z">
@@ -24986,6 +25010,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Today, a few of the courtiers from the Ministry of Law had decided to come out for drinks. They heard from the Ministry of Defense that there was a newly opened tavern on Romo Street, and the wine there was too good to be true. Therefore, they came over to try.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>今日的塞班酒馆，比起往日要更为热闹。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T132052Z" creationid="Longbell" creationdate="20220412T132052Z">
+        <seg>The Saipan Tavern today was much more busier than before.</seg>
       </tuv>
     </tu>
     <tu>
