@@ -23926,6 +23926,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>丧尸军团在心理上毫无弱点可言，在克苏鲁的控制下，能够悍不畏死的一直冲锋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T111436Z" creationid="Longbell" creationdate="20220412T111436Z">
+        <seg>The zombie army had no weakness pyschologically. They would charge forward fearlessly under Cthulhu's control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>个头比有些地方的小馄饨要大些，比有些地方的大馄饨又要小些，能够一口一个的，大小最佳。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26530,6 +26538,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T053918Z" creationid="sitong" creationdate="20220329T053918Z">
         <seg>However, due to the limited amount of soil, there were currently only about 2300 of them who had broken out of the seal. The numbers are increasingly steadily and in three years, all of them would be able to break out of the seal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但在冰层中埋藏了无数岁月，尸骨并没有想象中那么坚硬。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T111528Z" creationid="Longbell" creationdate="20220412T111528Z">
+        <seg>However, after being buried for eons in the ice, their bodies weren't as tough as one imagined.</seg>
       </tuv>
     </tu>
     <tu>
