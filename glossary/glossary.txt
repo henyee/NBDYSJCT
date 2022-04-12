@@ -2932,3 +2932,4 @@ DVD	DVD
 火炮	cannon
 丧尸军团	zombie army
 橡木桶	oak barrel
+抵抗联盟	Resistance Alliance
