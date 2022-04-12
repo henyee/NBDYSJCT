@@ -15944,8 +15944,8 @@
       <tuv lang="zh-CN">
         <seg>“系统，这可是一个有高等文明存在的世界，人家都开星际战舰，玩电磁炮了，我弄个火炮应该不算过分吧？</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220412T105047Z" creationid="Longbell" creationdate="20220412T105047Z">
-        <seg>"System, this is a world where an advanced civilization existed. They are already driving intergalactical battleships and using electromagnetic guns. It isn't too much for me to use cannons, right?"</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T105052Z" creationid="Longbell" creationdate="20220412T105047Z">
+        <seg>"System, this is a world where an advanced civilization existed. They are already driving intergalactical battleships and using electromagnetic guns. It isn't too much for me to use cannons, right?</seg>
       </tuv>
     </tu>
     <tu>
@@ -40962,6 +40962,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T093017Z" creationid="Longbell" creationdate="20220412T093017Z">
         <seg>Furthermore, it wasn't just the taste of chicken. The fragrance of the wine, seafood, and mushrooms and all the different aromas of different meat had merged together and seeped into the chicken. All the ingredients' tastes were integrated with one another, and one could sense different tastes in all the ingredients. The chicken was soft but not mushy when chewed, and there was an endless aftertaste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而且我是为了维护这个世界的稳定才弄出火炮的，说我引发动荡就过分了吧？”麦格撇撇嘴道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T105756Z" creationid="Longbell" creationdate="20220412T105756Z">
+        <seg>Furthermore, I am making cannons to maintain this world's stability. Isn't it too much to say that I trigger upheavals?" Mag said with pursed lips.</seg>
       </tuv>
     </tu>
     <tu>
