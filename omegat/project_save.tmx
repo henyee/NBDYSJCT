@@ -11750,6 +11750,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“抱歉，过程中我好像忘记了解说。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T093051Z" creationid="Longbell" creationdate="20220412T093051Z">
+        <seg>"I'm sorry. I seem to have forgotten to explain the process."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“抱歉，这个提议我无法接受，安妮是我的女儿，不是某件需要评估的物品。”麦格摇头，看着晞神情认真道：“或许古老者是更高等级的存在，你们有着强大的实力，但请不要低估一位父亲保护女儿的决心。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T131636Z" creationid="Longbell" creationdate="20220402T131636Z">
@@ -13378,6 +13386,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T074615Z" creationid="Longbell" creationdate="20220410T074615Z">
         <seg>"There are remnants of the evil aura. It's related the devil." Irina said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“本次记录到此为止，未知食物1号，（未完成）”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T093210Z" creationid="Longbell" creationdate="20220412T093210Z">
+        <seg>"This recording ends here. Unknown food item no.1, (Incomplete)"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19114,6 +19130,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"What the heck is this + thing…" The system felt like crying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这究竟是什么食物呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T093313Z" creationid="Longbell" creationdate="20220412T093313Z">
+        <seg>"What kind of food exactly is this?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -35390,6 +35414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>晞关闭摄像，又是盯着小盅看了好一会。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T093257Z" creationid="Longbell" creationdate="20220412T093257Z">
+        <seg>Xi turned off the camera and stared at the little soup pot for some time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>晞审视着麦格，沉默了一会，道：“你知道我在意的是什么。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T095638Z" creationid="Longbell" creationdate="20220402T095638Z">
@@ -35626,6 +35658,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T182541Z" creationid="Longbell" creationdate="20220402T182541Z">
         <seg>Xi looked at the half-written Observer's Diary, pondered for a moment and deleted the last sentence before continuing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>晞看着面前空荡荡的小盅，沉默了许久。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T093122Z" creationid="Longbell" creationdate="20220412T093122Z">
+        <seg>Xi stared at the empty little soup pot in silence for a long time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35984,8 +36024,8 @@
       <tuv lang="zh-CN">
         <seg>标记：未知食物1号。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220412T075012Z" creationid="Longbell" creationdate="20220412T075012Z">
-        <seg>Mark: Unknown food no.1.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T093216Z" creationid="Longbell" creationdate="20220412T075012Z">
+        <seg>Mark: Unknown food item no.1.</seg>
       </tuv>
     </tu>
     <tu>
