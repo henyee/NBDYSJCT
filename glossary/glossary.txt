@@ -2928,3 +2928,4 @@ DVD	DVD
 亡灵军团	Army of the Dead
 亡灵	dead souls
 星际战舰	starship
+星际战舰	intergalactical battleship
