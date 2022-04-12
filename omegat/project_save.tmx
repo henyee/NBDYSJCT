@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25726,6 +25726,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊丽莎白并未回来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T122419Z" creationid="Longbell" creationdate="20220412T122419Z">
+        <seg>Elizabeth still wasn't back yet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊丽莎白看着麦格，那温暖的笑容让她又忍不住想起了她的父亲，微微点头答应了一声，转身准备离去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -29162,6 +29170,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220405T133316Z" creationid="Longbell" creationdate="20220405T133316Z">
         <seg>All the judges showed their score cards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>各族派出的代表已经出发前往混乱之城，这是可能关乎着诺兰大陆所有种族命运的事件，哪怕是孤立于海岛之上的恶魔族，也不觉得自己能够幸免于难。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T122230Z" creationid="Longbell" creationdate="20220412T122230Z">
+        <seg>All the races' representatives had already set out for Chaos City. This event was one that concerned all  the races' fate on the Norland Continent. Even the demons that were isolated on the islands didn't think they would exclude from that fate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37750,6 +37766,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>混乱之城外尚未突破封印的魔鬼，已经让各族见识到旧日支配者的恐怖。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T113722Z" creationid="Longbell" creationdate="20220412T113722Z">
+        <seg>The devil that didn't break through the seal in Chaos City had already let them witness the horror of the Great Old Ones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>混乱之城的教廷分部其实只有一座小规模的教堂，算上卡诺也只有三位教廷人士，主要负责数量不多的教徒的日常祈祷和系列工作。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -44406,6 +44430,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>趁着夜色，紫纹狮鹫再次升空，向着北方飞去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T122756Z" creationid="Longbell" creationdate="20220412T122756Z">
+        <seg>Taking advantage of the dark night, the purple-striped griffin took to the air again and flew towards the north.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>越是了解，越是敬畏，麦格在获得了大师们的经验之后，立刻发现了他自认为完美的绿豆糕，其实只能算是粗糙的次品。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -44570,6 +44602,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mylo chuckled when he heard that. "Anyway, the truth isn't too far off. If this is the last issue, missing Boss Mag's tutorial of the eggplant with garlic sauce will definitely be my greatest regret."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>返回洛都前，麦格去了一趟员工宿舍。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T122409Z" creationid="Longbell" creationdate="20220412T122409Z">
+        <seg>Before going back to Rodu, Mag made a trip to the employees' dormitory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45578,6 +45618,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T155010Z" creationid="sitong" creationdate="20220404T155010Z">
         <seg>It was said that the owner of this Manor was a Baron. The area of the Manor was huge and other than the owner of taverns who had registered to compete in the liquor tasting event, there were also other wine-lovers who went.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这摆脱了封印，而且集结了数量恐怖的古尸的魔鬼，更是令人胆寒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T113804Z" creationid="Longbell" creationdate="20220412T113804Z">
+        <seg>This devil that had already broken out of the seal and amassed a terrifying number of ancient corpses, made them shudder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48290,6 +48338,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T072541Z" creationid="sitong" creationdate="20220325T072541Z">
         <seg>Mag said with a sigh,"But all the printing factories in Rodu could only print in black and white. If we were to get Annie to draw the same things every day, it would be tiring and a waste of a talent. It would be great if we actually have a printing machine that could print out many colors."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格叹了口气，不知道她如果知晓兰克斯特的现状，该是怎样的感受。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T122458Z" creationid="Longbell" creationdate="20220412T122458Z">
+        <seg>Mag sighed. He didn't know how she would feel if she knew about Rankster's current state.</seg>
       </tuv>
     </tu>
     <tu>
