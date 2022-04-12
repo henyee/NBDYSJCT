@@ -23022,6 +23022,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不过听说茅台酒获得了品酒大会的金奖，看着那个摆在酒柜上金闪闪的奖杯，众人还是有几分与有荣焉的感觉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T134657Z" creationid="Longbell" creationdate="20220412T134657Z">
+        <seg>However, they heard that Maotai had gotten the gold award from the liquor tasting event. Looking at the shiny golden trophy on the bar cabinet, they felt a tinge of pride too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不过味道还挺不错的，火候也恰到好处，只是这鹅肥了点，鹅皮吃起来多少有几分腻，下次换成系统养的鹅试试。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -44922,6 +44930,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This table of people brought the rather desolate tavern a little more life that taverns should have.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这一点对于已经有些习惯在塞班酒馆喝酒的熟客来说，有些不太友好。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T132134Z" creationid="Longbell" creationdate="20220412T132134Z">
+        <seg>This wasn't friendly to those regulars who were already used to drinking in Saipan Tavern.</seg>
       </tuv>
     </tu>
     <tu>
