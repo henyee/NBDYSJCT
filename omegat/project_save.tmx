@@ -7382,6 +7382,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好。”艾许莉郑重点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T104043Z" creationid="Longbell" creationdate="20220412T104043Z">
+        <seg>"Alright." Ashley nodded gravely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好了。”伊琳娜收了法师杖，眼睛一闭，便向后倒去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -17952,8 +17960,8 @@
       <tuv lang="zh-CN">
         <seg>“这东西比较特殊，我暂时不想让其他人掌握，只有暗夜精灵我能信得过。”麦格摇头，神情认真道：“我需要你们用全部生产力里生产火炮，这或许能够在战场上减少我方的大量死伤。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220412T100349Z" creationid="Longbell" creationdate="20220412T100349Z">
-        <seg>"This stuff is more special. I don't want other to handle it at the moment. I only trust the Night Elves." Mag shook his head and solemnly said, "I need you all to put</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T104028Z" creationid="Longbell" creationdate="20220412T100349Z">
+        <seg>"This stuff is more special. I don't want other to handle it at the moment. I only trust the Night Elves." Mag shook his head and solemnly said, "I need you to put all your production force into making the cannons. This might prevent mass casualty in our troops."</seg>
       </tuv>
     </tu>
     <tu>
@@ -47994,6 +48002,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T133239Z" creationid="Longbell" creationdate="20220402T133239Z">
         <seg>Mag had a short and peaceful interaction with Xi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格和艾许莉确定了一些工艺上的问题，并且让她有问题随时找他，这才离开混乱之城。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T104221Z" creationid="Longbell" creationdate="20220412T104221Z">
+        <seg>Mag worked out some problems in the workmanship with Ashley and asked her to look for him whenever she encountered any issues. Then, he left Chaos City.</seg>
       </tuv>
     </tu>
     <tu>
