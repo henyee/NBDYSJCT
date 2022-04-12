@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14838,6 +14838,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“现在只能等亚历克斯和安德烈的谈判结果了，如果他能够说服安德烈加入和平联盟，并且签订和平协议，各族便能通力合作，解决魔鬼和亡灵军团。”路易斯微微点头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T073402Z" creationid="Longbell" creationdate="20220412T073402Z">
+        <seg>"We can only wait for the results of Alex and Andre's neogotiation. If he can get Andre to join the Peace Alliance and sign the peace accord, then all the races can work together and resolve the devil and its Army of the Dead." Louis nodded and said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“现在咱们罗莫街也就泰坦酒馆能看到一些客人了，还是埃菲老板的手段厉害，酒量更厉害，这么多年，就没见过谁能把你喝趴下的。”一旁的面馆老板有些钦佩的看着埃菲。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -18522,6 +18530,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"This is a soul fragment from one of the victims. It is filled with resentment, which will allow us to trace the evil aura back to the origin and lock our search boundaries on the man in black," Merante explained.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这是一场足以席卷诺兰大陆的劫难，我们巨龙族也无法独善其身。”道格拉斯看着画面最终定格的恐怖不可名状物，心情十分沉重。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T072630Z" creationid="Longbell" creationdate="20220412T072630Z">
+        <seg>"This is a catastrope that can sweep through the Norland Continent. We, the giant dragons, have no way to stay out of it." Douglas looked at the image that was paused on that indescribable thing and felt very heavy hearted.</seg>
       </tuv>
     </tu>
     <tu>
