@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不，这里是洛都，得是人类才行。”麦格摇头，并不是每一个精灵都能像他们这样易容的，在洛都城里找员工显然会更容易。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T122255Z" creationid="sitong" creationdate="20220412T122255Z">
+        <seg>"No. This is Rodu. We have to hire humans." Mag shook hsi head. Not every elf could disguise themselves and it would be easier to find staff in Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“不，那只会被评价为：不务正业，业务能力低下。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T142003Z" creationid="sitong" creationdate="20220403T142003Z">
@@ -1610,6 +1618,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>I have to work overtime tonight, thought Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“今晚我要去一趟风之森林，这里就交给你了。”伊琳娜放下碗，优雅的擦拭了一下嘴唇，微笑道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T122322Z" creationid="sitong" creationdate="20220412T122300Z">
+        <seg>"I'll be going to the Wind Forest tonight. I'll leave this place to you." Irina placed her bowl down, wiped her mouth elegantly and smiled.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20910,6 +20926,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“需要我从暗夜精灵里帮你安排几位吗？”伊琳娜问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T122215Z" creationid="sitong" creationdate="20220412T122215Z">
+        <seg>"Do you need me to arrange some manpower from the Night Elves?" Irina asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“露娜老师！”艾米小跑着上前来，仰头看着露娜叫道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -20970,6 +20994,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T122851Z" creationid="sitong" creationdate="20220325T122851Z">
         <seg>"Err..." Mag raised his brow. That escalated quickly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“额……”麦格看着外边密集的客人，已经能够想象到这个鸡飞狗跳的夜晚了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T122345Z" creationid="sitong" creationdate="20220412T122345Z">
+        <seg>"Er..." Mag looked at the crowd outside and could already imagine how chaotic it would be.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50080,8 +50112,8 @@
       <tuv lang="zh-CN">
         <seg>麦格看着外边越来越多的客人，眉头微皱，吐槽道：“看来我们酒馆也该招员工了，不然客人都招待不过来了，以后咱们走了，也得找个人把酒馆经营下去才行。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220412T122019Z" creationid="sitong" creationdate="20220412T122019Z">
-        <seg>Mag</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T122126Z" creationid="sitong" creationdate="20220412T122019Z">
+        <seg>Mag looked at the increasing number of customers outside and said with a frown, "It looks like our tavern should start hiring service staff. Otherwise, we won't be able to cope with the number of customers. In the future, when we leave, we also have to find someone to operate the tavern."</seg>
       </tuv>
     </tu>
     <tu>
