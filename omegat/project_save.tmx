@@ -21960,8 +21960,8 @@
       <tuv lang="zh-CN">
         <seg>一架星际战舰，火力全开，可以轻松清理数万古尸。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220412T110156Z" creationid="Longbell" creationdate="20220412T110156Z">
-        <seg>A </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T110331Z" creationid="Longbell" creationdate="20220412T110156Z">
+        <seg>A intergalactical battleship could clear tens of thousands of ancient corpses easily at full power.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43330,6 +43330,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>If they wanted to promote the Chaos City's system throughout the Norland Continent, and completely resolve the problem of racial war, they would have to change and revolutionize the races that were stuck in their old ways.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>要是把洛斯帝国的骑士派到前线去，那可就是真正的拿命对杀了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T110620Z" creationid="Longbell" creationdate="20220412T110620Z">
+        <seg>If they were to send the Roth Empire's knights to the frontline, they would really be fighting with their lives then.</seg>
       </tuv>
     </tu>
     <tu>
