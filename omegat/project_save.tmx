@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33334,6 +33334,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>当年泰坦酒馆如日中天的时候，他父亲最喜欢做的事情就是买商铺。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T083601Z" creationid="sitong" creationdate="20220412T083601Z">
+        <seg>Back when Titan Tavern was in its hay days, his father's favorite past time was to buy shops.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>当年洛都城里少有的散装泰坦酒被炒出了天价，但依旧一酒难求。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220406T121340Z" creationid="sitong" creationdate="20220406T121340Z">
@@ -42974,6 +42982,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>要不是真的热爱，她只需要每天做着马车去收租也能过得很充实，哪里需要每日泡在酿酒坊里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T083648Z" creationid="sitong" creationdate="20220412T083648Z">
+        <seg>If it was not for her passion, she only had to go around in a horse-drawn carriage to collect rent and would not have to coop herself up in the brewery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>要不是艾米的提醒，他不知道什么时候才能将这道拍黄瓜完善出来。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -46450,6 +46466,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220401T134918Z" creationid="sitong" creationdate="20220401T134918Z">
         <seg>Other than the cucumber soup, Amy also bought other food like the corn cake, boiled egg, rice crust, and more, which took up more than half of the table when laid out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>除了罗莫街，在洛都城各处她还有不少商铺。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T083612Z" creationid="sitong" creationdate="20220412T083612Z">
+        <seg>Other than Romo Street, she had many shops around Rodu.</seg>
       </tuv>
     </tu>
     <tu>
