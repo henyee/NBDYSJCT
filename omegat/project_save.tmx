@@ -18630,6 +18630,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是他们不小心遗留下的食物吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T074811Z" creationid="Longbell" creationdate="20220412T074811Z">
+        <seg>"Did they leave this food behind by accident?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是你父亲留给你的财富，不是让你将他们全部留在酒窖中怀念的，而是应该让他们继续在酒的江湖中叱咤风云，就像当年你父亲做的那样。”麦格扯开门上挂着的老旧锁，轻轻推开了酒窖的大门。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T143904Z" creationid="Longbell" creationdate="20220326T143904Z">
@@ -42530,6 +42538,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Although the extreme cold could break the internal structure of steel and cause the joint area to become brittle, this was already considered an extremely difficult thing for a four-year-old to do.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然汤已经冷了，却依旧散发着让人难以抗拒的味道，比起那日吃过的凉拌猪舌头和凉拌猪耳朵还要诱人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T074733Z" creationid="Longbell" creationdate="20220412T074733Z">
+        <seg>Although the soup was cold, it still gave out an irrrestitable smell, it was even more enticing than the pig tongue salad and pig ears salad that she ate that day.</seg>
       </tuv>
     </tu>
     <tu>
