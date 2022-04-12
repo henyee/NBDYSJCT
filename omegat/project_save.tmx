@@ -11110,6 +11110,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我昨天去了一趟纺织厂，让暗夜精灵帮我造一批武器，艾许莉那边需要你的授权。”麦格给伊琳娜盛粥，一边说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T123112Z" creationid="Longbell" creationdate="20220412T123112Z">
+        <seg>Mag scooped a bowl of porridge for Irina as he told her, "I made a trip to the textile factory yesterday and got the Night Elves to build me a batch of weapons. Ashley might need your authorization."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我昨天看过了，没有。”亚伯罕笑着道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24114,6 +24122,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>A middle-aged man could break down the very next moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>临近天明的时候，麦格才回到了洛都的酒馆，顺便就把早餐给做了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T122827Z" creationid="Longbell" creationdate="20220412T122827Z">
+        <seg>Mag only reached the tavern in Rodu close to dawn, so he decided to make breakfast as well.</seg>
       </tuv>
     </tu>
     <tu>
