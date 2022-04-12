@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="zh-CN">
+        <seg>2000铜币一瓶的价格，属于绝对的良心老板了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T140028Z" creationid="Longbell" creationdate="20220412T140028Z">
+        <seg>The price of 2000 copper coins per bottle was absolutely reasonable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>304不锈钢一体锻造而成的大茶缸，只是被麦格看了一眼，便直接被挤压成了一块薄薄的铁片。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33734,6 +33742,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>库尔特来到吧台前，仰头看着墙上的酒水单。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T135601Z" creationid="Longbell" creationdate="20220412T135601Z">
+        <seg>Kurt came to the bar and looked up at the drink list on the wall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>库尔特站在马路中间，看着左手边的泰坦酒馆和右手边的塞班酒馆，笑着问道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T131439Z" creationid="Longbell" creationdate="20220412T131334Z">
@@ -34666,6 +34682,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T085046Z" creationid="Longbell" creationdate="20220328T085046Z">
         <seg>Come to think of it, there had been many years since a woman like that had appeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>意外的便宜啊！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T135637Z" creationid="Longbell" creationdate="20220412T135637Z">
+        <seg>It was surprisingly cheap!</seg>
       </tuv>
     </tu>
     <tu>
@@ -37730,6 +37754,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Beyond Rodu, a furious voice echoed throughout a dark, spacious cave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>洛都城里不乏价格昂贵的酒，但要论品质，无一能够与茅台酒相提并论的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T135732Z" creationid="Longbell" creationdate="20220412T135732Z">
+        <seg>There were plenty of expensive alcoholic beverages in Rodu, but none could hold a candle to Maotai when it came to quality.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43434,6 +43466,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T174928Z" creationid="sitong" creationdate="20220411T174928Z">
         <seg>Heroes would appreciate each other. As one of the strongest in this world, Dominic had a rather good impression of Rankster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>茅台酒——2000铜币一瓶。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T135626Z" creationid="Longbell" creationdate="20220412T135626Z">
+        <seg>Maotai—2000 copper coins a bottle.</seg>
       </tuv>
     </tu>
     <tu>
