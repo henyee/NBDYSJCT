@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1978,6 +1978,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220411T141726Z" creationid="Longbell" creationdate="20220411T141726Z">
         <seg>"But the problem now isn't finding it, but how to reseal it and find the 'head' that is controlling the ancient corpses."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“但神奇的是，虽然汤色是褐色的，但非常清亮，没有丝毫浑浊和油腻的感觉。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T083420Z" creationid="Longbell" creationdate="20220412T083420Z">
+        <seg>"What is amazing is, although the soup is brown, it's very clear. It doesn't look murky or greasy."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4282,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T145019Z" creationid="Longbell" creationdate="20220326T145019Z">
         <seg>"Can you please bring me to take a look?" Mag's interest was piqued. He was certain that the small cellar next to the brewery wasn't used to store liquor for a long time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“可以看到这盅汤之中有许多食材的存在，肉类、贝类、菌类，还有许多我不认识的食材。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T083248Z" creationid="Longbell" creationdate="20220412T083248Z">
+        <seg>"One can see that there are many ingredients in this soup. Meat, shellfish, mushrooms and many other ingredients that I don't know."</seg>
       </tuv>
     </tu>
     <tu>
