@@ -9710,6 +9710,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“很奇特的是，我在这里面闻到了酒香，他们竟然用酒来烹饪食物。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T082123Z" creationid="Longbell" creationdate="20220412T082123Z">
+        <seg>"The unique thing is, I smelled alcohol's aroma in it. They actually used alochol to cook."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“很好，我喜欢。不过，我们要怎么做？”</seg>
       </tuv>
       <tuv lang="en-US">
