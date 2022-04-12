@@ -2929,3 +2929,4 @@ DVD	DVD
 亡灵	dead souls
 星际战舰	starship
 星际战舰	intergalactical battleship
+火炮	cannon
