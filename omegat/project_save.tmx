@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7874,6 +7874,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Yes, Chief. I will definitely ensure that the resources are sent over safely," that orc said respectfully.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好的！”玛拉干劲十足的小跑着拿起角落的扫帚。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T082844Z" creationid="sitong" creationdate="20220412T082844Z">
+        <seg>"Alright!" Mala ran to a corner to pick up the broom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24574,6 +24582,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>从今天开始，泰坦酒馆才算是真正意义上的回归。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T082905Z" creationid="sitong" creationdate="20220412T082905Z">
+        <seg>From today onwards, Titan Tavern had finally returned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>从他的数据库检索出来的结果显示，这些食物应该都来自于一个名为地球的低阶星球，包括扬州这个地名。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -28414,6 +28430,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>可能很多人都忘了，在罗莫街，除了麦格之外，她的手里也有着小半条街的商铺。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T083202Z" creationid="sitong" creationdate="20220412T083202Z">
+        <seg>Maybe many had forgotten that in Romo Street, other than Mag, Eiffie also owned the shops on almost half of the street.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>可艾米却意犹未尽，端着自己的盘子把一点汤汁舔了，然后看着麦格满是期待的问道：“还有吗？我觉得我还可以再吃三个呢。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T071556Z" creationid="sitong" creationdate="20220325T071556Z">
@@ -30118,6 +30142,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲看着焕然一新的酒馆，脸上同样露出了欣慰笑容。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T082854Z" creationid="sitong" creationdate="20220412T082854Z">
+        <seg>Eiffie looked at the brand new tavern and smiled gladly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲看着脸上洋溢着自信微笑的麦格，表情微凝。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -30914,6 +30946,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T144924Z" creationid="Longbell" creationdate="20220331T144338Z">
         <seg>Her equipment bay had ample food. The ancient continent's food wasn't attractive to her at all. Ordering food was part of learning about the new inhabitants' behavior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她直接打通了隔壁的铺子，把泰坦酒馆的面积扩张了一倍，让原本能够容纳二十来张桌子的中等酒馆，直接变成能够容纳五十桌客人的大酒馆。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T083009Z" creationid="sitong" creationdate="20220412T083009Z">
+        <seg>She had knocked down the wall separating the next shop and expanded Titan Tavern by two times so that the tavern, which could only hold around 20 tables could now fit 50 tables of customers.</seg>
       </tuv>
     </tu>
     <tu>
