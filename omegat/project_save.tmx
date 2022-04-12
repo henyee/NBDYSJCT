@@ -4166,6 +4166,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“叮！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T075618Z" creationid="Longbell" creationdate="20220412T075618Z">
+        <seg>"Ding!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“叮！任务发布：来自女儿的请求：请宿主改进本世界的绿豆酥制作工艺，制作出一道完美的绿豆酥！任务成功奖励：获得初级甜品师头衔！并且获得神秘礼包一份！任务惩罚：生吃绿豆一百斤！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27486,6 +27494,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>加热完成。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T075635Z" creationid="Longbell" creationdate="20220412T075635Z">
+        <seg>The heating up process was completed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>动荡的局势是不利于美食传播的，朝不保夕的时候，还有谁在乎美食，保命才是最重要的事情。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -35238,6 +35254,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>晞将小盅放入加热设备中，然后设定了一个加热时间。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T075613Z" creationid="Longbell" creationdate="20220412T075613Z">
+        <seg>Xi put the little pot into the heating up facilities and then set a heat-up timing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>晞平静的观察着这座酒馆，不久之后，她的目光落到了那柜台上。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T145107Z" creationid="Longbell" creationdate="20220331T145107Z">
@@ -35258,6 +35282,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T073020Z" creationid="Longbell" creationdate="20220404T073020Z">
         <seg>Xi nodded and lightly landed onto the ground. She walked to the horror hunter and placed her right hand on its remaining mutilated head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>晞打开小桌板，将加热完成的小盅取出。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T075710Z" creationid="Longbell" creationdate="20220412T075710Z">
+        <seg>Xi opened up the small dining table and took out the little pot that was heated up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>晞打开摄像装置，对准了小桌板上的小盅和自己，然后伸手揭开了小盅的盖子。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T075757Z" creationid="Longbell" creationdate="20220412T075757Z">
+        <seg>Xi turned on the video device and focused it on the little pot and herself before removing the cover of the little pot.</seg>
       </tuv>
     </tu>
     <tu>
