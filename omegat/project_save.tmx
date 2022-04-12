@@ -11414,6 +11414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我看她这酒馆，不光有茅台酒，还有一种名为‘威士忌’的酒，和茅台酒一样都是2000铜币一瓶，所以我各点了一瓶，等会尝尝味，再点。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T163333Z" creationid="Longbell" creationdate="20220412T162936Z">
+        <seg>"I saw that there is another type of liquor called "whiskey" in this tavern beside Maotai. It's also priced at 2000 copper coins as Maotai, so I ordered a bottle of whiskey and a bottle of Maotai each We can order more later after we taste them."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我看您的酒馆已经步入正轨，当初为了获得第一批客人，我可是花了不少时间和精力呢，您可真是优秀。”埃菲说道。</seg>
       </tuv>
       <tuv lang="en-US">
