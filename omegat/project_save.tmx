@@ -11838,6 +11838,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“接下来我们尝尝这汤之中的食材。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T091653Z" creationid="Longbell" creationdate="20220412T091653Z">
+        <seg>"Now, we will taste the ingredients in this soup."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“提前放入植物油，或许能够减少水分析出，小主或许可以从这方面进行提示！”系统立马就给出了提议。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -35586,6 +35594,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T090213Z" creationid="Longbell" creationdate="20220402T090213Z">
         <seg>Xi's expression turned solemn when she saw the black heavy sword that suddenly appeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>晞看着镜头说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T091639Z" creationid="Longbell" creationdate="20220412T091639Z">
+        <seg>Xi said to the camera.</seg>
       </tuv>
     </tu>
     <tu>
