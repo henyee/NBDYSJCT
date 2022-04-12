@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20794,6 +20794,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"The ingredients are already prepared in advance, but I will need help to distribute the food later," Mag said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“食材的状态恰到好处，如此多不同的食材，却能掌控的如此精确，这个厨师一定有着非常强的控制能力。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220412T084028Z" creationid="Longbell" creationdate="20220412T084028Z">
+        <seg>"The food's condition is perfect. There are so many ingredients and yet they are so precisely controlled. This chef must processed very strong control.</seg>
       </tuv>
     </tu>
     <tu>
