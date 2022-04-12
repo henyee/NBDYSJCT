@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28294,6 +28294,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>发酵之后的葡萄精华在蒸馏中化为蒸汽，顺着长长的导管进入蒸馏设备另一端的储酒器中，化作一滴滴近乎透明的纯净原液。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T114623Z" creationid="sitong" creationdate="20220412T114623Z">
+        <seg>The grape essence evaporated in the distillation equipment after it was fermented. The evaporated essence then flowed through a long tube into a wine storage and condensed into an almost transparent liquid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>口口相传的力度，再加上品酒大会的背书，即便是没有到塞班酒馆亲自品尝过的客人，也成为了塞班酒馆的粉丝。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T173927Z" creationid="Longbell" creationdate="20220409T173927Z">
@@ -29994,6 +30002,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T104040Z" creationid="sitong" creationdate="20220403T104040Z">
         <seg>The space outside the tavern started to become warpped and a huge silhouette appeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在酒馆里转了一圈，埃菲回到了酒馆后边的酿酒坊。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T083719Z" creationid="sitong" creationdate="20220412T083719Z">
+        <seg>After looking around the tavern, Eiffie returned to the brewery behind the tavern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38630,6 +38646,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>相比于以往她酿酒之时，整个酿酒坊云雾缭绕，酒香四溢。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T114658Z" creationid="sitong" creationdate="20220412T114658Z">
+        <seg>In the past when she brewed wine, the entire brewery would be full of steam and the wine fragrance would be wafting everywhere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>相比于品酒，美食才是他真正的专业领域。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -40602,6 +40626,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After this period of understanding and familiarising with the different seasonings, Mag could already guess what kind of seasoning was added into a dish based on his memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>经过麦格改造的蒸馏设备，用经久耐烧的煤炭石作为燃料，而且整个蒸馏过程不需要随时盯着，只要不是查看蒸馏进度即可，可谓是将整个蒸馏过程变得十分简单。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220412T113556Z" creationid="sitong" creationdate="20220412T113556Z">
+        <seg>The distillation equipment after Mag's revamp utilized coal, which could last longer, as fuel. On top of that, Eiffie did not have to keep constant watch on it during the distillation process and just had to check on its progress. That simplified the distillation process significantly.</seg>
       </tuv>
     </tu>
     <tu>
