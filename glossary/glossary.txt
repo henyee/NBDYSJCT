@@ -2935,3 +2935,4 @@ DVD	DVD
 抵抗联盟	Resistance Alliance
 帕萨卡	Pasaca
 萝卜条	preserved radish strip
+乔	Joe
