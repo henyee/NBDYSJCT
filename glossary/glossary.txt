@@ -2933,3 +2933,5 @@ DVD	DVD
 丧尸军团	zombie army
 橡木桶	oak barrel
 抵抗联盟	Resistance Alliance
+帕萨卡	Pasaca
+萝卜条	preserved radish strip
