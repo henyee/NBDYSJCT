@@ -2936,3 +2936,5 @@ DVD	DVD
 帕萨卡	Pasaca
 萝卜条	preserved radish strip
 乔	Joe
+安东	Anton
+乔	Joe
