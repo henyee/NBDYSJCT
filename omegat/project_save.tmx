@@ -12662,6 +12662,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是。”管家微笑着领命而去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T164107Z" creationid="Longbell" creationdate="20220413T164107Z">
+        <seg>"Yes." The butler left with a smile after receiving their order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是。”那位官员答应，转身快步离去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -43842,6 +43850,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T160758Z" creationid="sitong" creationdate="20220325T160758Z">
         <seg>The color was a beautiful gold and the liquid swirled in the glass, sparkling like a gem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾略特打了个哈欠，转身又进了卧室。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T164134Z" creationid="Longbell" creationdate="20220413T164134Z">
+        <seg>Elliot yawned and returned to his bedroom.</seg>
       </tuv>
     </tu>
     <tu>
