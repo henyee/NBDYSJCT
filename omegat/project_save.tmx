@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31414,6 +31414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲突然知道自己要做什么了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T144749Z" creationid="Longbell" creationdate="20220413T144749Z">
+        <seg>Eiffie suddenly knew what she had to do.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲站在门外，手里提着一个小篮子，裹紧了自己的小棉马甲，天气还是那么冷，这个该死的冬天显得格外漫长。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T063225Z" creationid="Longbell" creationdate="20220328T063225Z">
@@ -32706,6 +32714,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T093433Z" creationid="Longbell" creationdate="20220401T093433Z">
         <seg>It is so mesmerizing and irresistable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>安东临死之前喊出的那声口号，壮烈而悲愤。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T155909Z" creationid="Longbell" creationdate="20220413T155909Z">
+        <seg>The slogan that Anton shouted before he died was tragic and indignant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40878,6 +40894,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千零九十九章 哪有什么长情</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T144922Z" creationid="Longbell" creationdate="20220413T144922Z">
+        <seg>Chapter 2099: They Don't Have Any Loyalty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千零九十二章 枪响了！</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220411T074406Z" creationid="Longbell" creationdate="20220411T074406Z">
@@ -44726,6 +44750,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>被禁锢了一百年的精灵奴隶，眼看着乔的尸体在栏杆上挂了数日，积压的愤怒在这一刻终于被彻底激发。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T160701Z" creationid="Longbell" creationdate="20220413T160701Z">
+        <seg>The suppressed anger of the elven slaves that had been locked up for over 100 years, finally erupted  at this moment after seeing Joe's body hang on the fence for days.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>装修当然是丢给系统来搞，但毕竟周围有那么多邻居，还是得找个施工队做做样子。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -44946,6 +44978,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220320T031918Z" creationid="sitong" creationdate="20220320T031918Z">
         <seg>It made Amy make breakfast, helped him in creating his new dish, learn how to cook... it seemed more like a kind of experience System.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>让那些乘兴而来的客人们，尽兴而归。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T144826Z" creationid="Longbell" creationdate="20220413T144826Z">
+        <seg>She should satisfy those customers who came enthusiastically.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46674,6 +46714,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T062139Z" creationid="sitong" creationdate="20220329T062139Z">
         <seg>This could be the sign of the ancient continent moving into the steam engine era. According to usage situation, the steam engine should be able to gain wide usage on Norland Continent and cause societal revolution!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这才是她应该做的事情。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T144852Z" creationid="Longbell" creationdate="20220413T144852Z">
+        <seg>This was what she should do.</seg>
       </tuv>
     </tu>
     <tu>
