@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31494,6 +31494,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>多年来一直掌管着精灵族的粮食供应的布鲁斯特家族，领地距离生命之城颇远，有着数量众多的奴隶和仆从。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220413T134802Z" creationid="sitong" creationdate="20220413T134802Z">
+        <seg>The Brewster Family, had been helming the food supply for the Elves for many years. Their land was far away from the City of Life and they had numerous slaves and servants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>多米尼克在安德烈的左手边坐下。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T173840Z" creationid="sitong" creationdate="20220411T173840Z">
@@ -31874,6 +31882,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220413T104754Z" creationid="sitong" creationdate="20220413T104754Z">
         <seg>"Slave" is a term that was slowly disappearing, at least in the City of Life.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>奴隶解放的声音已经响彻了风之森林，但这座被铁荆棘包围的领地，却依旧保持着沉默，以及用武力压制的绝对服从。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220413T141421Z" creationid="sitong" creationdate="20220413T141421Z">
+        <seg>The voices for slaves to be freed had been ringing throughout the Wind Forest. However, this land that was surrounded by metal thorns remained silent and utilized force and suppression to ensure absolute obedience.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34034,6 +34050,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Hundreds of customers were sitting in the intricately decorated hall. The anticipated boisterousness did not appear. What made Seely even more amazed was that the customers were sitting all together despite their differing races.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>布鲁斯特家族的领地位于风之森林的西南方，随着莎莉成为精灵族的新公主，艾略特的地位水涨船高，布鲁斯特家族的领地也随之翻了一倍不止。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220413T125552Z" creationid="sitong" creationdate="20220413T125552Z">
+        <seg>The Brewster family's land was located at the southwestern side of the Wind Forest. When Sally became the new Elf princess, Elliot's status also rose and the Brewster family's land increased by more than two folds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45962,6 +45986,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>For the past few days, Mamy Restaurant was closed, but the news of its owner teaching more than 10 of its dishes for free had spread all over Chaos City.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这些奴隶从事着最为辛苦的劳作，撑起了整个风之森林的粮食供应，却一直食不果腹，还时常遭受布鲁斯特族人的欺压、打骂。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220413T140336Z" creationid="sitong" creationdate="20220413T140330Z">
+        <seg>These slaves were doing the toughest jobs, supporting the food supply of the entire Wind Forest but did not have enough food for themselves. In addition they would often be oppressed, beaten and scolded by the Brewster Family.</seg>
       </tuv>
     </tu>
     <tu>
