@@ -8486,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“如果这是品酒大会呈上来的酒，你回打几分？”弗格斯看着库尔特问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T102204Z" creationid="Longbell" creationdate="20220413T102204Z">
+        <seg>"If this was presented at the liquor tasting event, how many points will you give it?" Fergus asked Kurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“如果这次还是笑话大王的话，那我就不要了。”艾米嫌弃道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24530,6 +24538,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Main page showed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>久久之后，两人同时放下了手里空掉的酒杯。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T102132Z" creationid="Longbell" creationdate="20220413T102132Z">
+        <seg>After a long time, the two of them put down their empty glasses at the same time.</seg>
       </tuv>
     </tu>
     <tu>
