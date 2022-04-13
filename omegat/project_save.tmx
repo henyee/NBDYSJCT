@@ -28798,6 +28798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>原先价低量大的泰坦酒消失了，连带着一些原本帮其他酿酒坊代销的低价酒也消失了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T125928Z" creationid="Longbell" creationdate="20220413T125928Z">
+        <seg>The cheap and abundant Titan Liquor was removed, along with those cheap liquors that she sold on behalf of the other taverns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>原本一脸期待的埃菲看到麦格的表情，心里咯噔一下，凉了半截。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T131302Z" creationid="sitong" creationdate="20220325T131302Z">
@@ -46994,6 +47002,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After he chugged the second glass down, he felt calmer because he was a little tipsy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这等于是直接舍弃了近些年泰坦酒馆的所有熟客，用让他们消费不起的价格，将他们拒之门外。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T130339Z" creationid="Longbell" creationdate="20220413T130339Z">
+        <seg>This meant giving up all those Titan Tavern's recent regular customers. She was rejecting them by setting a price that they couldn't afford.</seg>
       </tuv>
     </tu>
     <tu>
