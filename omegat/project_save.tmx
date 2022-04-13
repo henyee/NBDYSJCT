@@ -8230,6 +8230,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好酒。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T092037Z" creationid="Longbell" creationdate="20220413T092037Z">
+        <seg>"It's a good liquor."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好酒啊——”梅兰特久久之后才睁开眼睛，发出了一声满足的长叹。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34010,6 +34018,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220407T150403Z" creationid="sitong" creationdate="20220407T150403Z">
         <seg>Kurt picked up the sign in front of hima nd said loudly, "I will give it 10 points! It's a pity I can only give it up to 10 points."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>库尔特放下酒杯，看着弗格斯郑重点头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T092116Z" creationid="Longbell" creationdate="20220413T092116Z">
+        <seg>Kurt put down the glass, nodded and gravely said to Fergus.</seg>
       </tuv>
     </tu>
     <tu>
