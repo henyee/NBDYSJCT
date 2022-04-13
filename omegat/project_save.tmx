@@ -16526,6 +16526,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“老板娘，那你以后就不卖酒给我们喝了吗？3000铜币实在太贵了，我们就算一个月不喝酒也喝不起啊。”一个中年男人苦笑道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T132505Z" creationid="Longbell" creationdate="20220413T132505Z">
+        <seg>"Lady boss, are you not selling drinks to us anymore? 3000 copper coins is really too expensive. We can't afford it even if we don't drink for a month." A middle-aged man said a bitter smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“老板我要来一本食全食美。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33082,6 +33090,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The customers discussed the scene laughingly. This little episode made the wait much more interesting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>客人们纷纷沉默。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T132343Z" creationid="Longbell" creationdate="20220413T132343Z">
+        <seg>The customers all fell silent.</seg>
       </tuv>
     </tu>
     <tu>
