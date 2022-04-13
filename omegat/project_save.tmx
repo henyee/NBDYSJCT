@@ -8534,6 +8534,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“姑娘，别想那么多，客人就是这样来来去去的，哪有什么长情，不过是价格便宜而已。”一位在旁边围观的客人宽慰。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T135049Z" creationid="Longbell" creationdate="20220413T135049Z">
+        <seg>A customer watching at the side, consoled her, "Miss, don't think so much. Customers come and go. They don't have any loyalty. It's all because of the cheap price."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“威士忌——2000铜币一瓶。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -31186,6 +31194,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T110656Z" creationid="sitong" creationdate="20220327T110656Z">
         <seg>Eiffie said resolutely, "Sooner or later, I would make Titan Liquor reappear!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲看着一下子走完的熟客，心里顿时空落落的，有种怅然若失的感觉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T134942Z" creationid="Longbell" creationdate="20220413T134942Z">
+        <seg>Eiffie watched the regular customers go away and felt a sense of loss instantly.</seg>
       </tuv>
     </tu>
     <tu>
