@@ -13230,6 +13230,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是的！你再仔细闻闻，这烟熏味并不令人厌恶，相反，度过初始的不适之后，反而会愈发觉得迷人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T085823Z" creationid="Longbell" creationdate="20220413T085823Z">
+        <seg>"Yes! Sniff it carefully again. This smokey scent isn't repulsive. Instead, after the initial discomfort, you will find it increasingly mesmerizing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是的，不过我不想自己去和那些人谈，所以想找个专业的机构替我去做这个工作。”麦格点头。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220409T132408Z" creationid="sitong" creationdate="20220409T132408Z">
@@ -16690,6 +16698,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Peanut with porridge?" Abraham looked at the wooden box filled with drunkard peanuts. He chuckled and threw a peanut into his mouth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“芳香？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T085509Z" creationid="Longbell" creationdate="20220413T085509Z">
+        <seg>"Fragrance?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -33986,6 +34002,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T135601Z" creationid="Longbell" creationdate="20220412T135601Z">
         <seg>Kurt came to the bar and looked up at the drink list on the wall.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>库尔特眼睛一亮，看着弗格斯有些惊喜的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T085504Z" creationid="Longbell" creationdate="20220413T085504Z">
+        <seg>Kurt lit up his eyes and said to Fergus with surprise.</seg>
       </tuv>
     </tu>
     <tu>
