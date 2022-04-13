@@ -18848,8 +18848,8 @@
       <tuv lang="zh-CN">
         <seg>“这可是刚刚拿了金奖的酒，还是马库斯大师当年亲手酿制，窖藏三十年的泰坦酒。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220413T133438Z" creationid="Longbell" creationdate="20220413T133438Z">
-        <seg>"This is the Titan Liquor that just gotten the gold award and personally brewed Master Marcus back then and aged for 30 years in a cellar.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T134815Z" creationid="Longbell" creationdate="20220413T133438Z">
+        <seg>"This is the Titan Liquor that just has gotten the gold award, personally brewed Master Marcus back then and aged for 30 years in a cellar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27066,6 +27066,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Everyone changed the topic after hearing that. Eiffie had indeed supported Titan Tavern's business all by herself. However, the neighbors couldn't make themselves say that Eiffie was an indecent woman when they knew she wasn't.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人闻言你看我，我看你，顿觉无趣，就地解散。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T134913Z" creationid="Longbell" creationdate="20220413T134913Z">
+        <seg>All of them looked at one another after hearing that. They felt meaningless and dispersed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47442,6 +47450,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T175339Z" creationid="Longbell" creationdate="20220409T175333Z">
         <seg>That liquor lovers who came after hearing the news would most probably weep after seeing this scene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那人说完一番话，便唱着小曲，摇摇晃晃的上了路旁的一架马车，扬长而去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T134741Z" creationid="Longbell" creationdate="20220413T134741Z">
+        <seg>After saying that, the man whistled, stumbled onto a horse-drawn carriage parked at the roadside and left.</seg>
       </tuv>
     </tu>
     <tu>
