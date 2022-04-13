@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不多说，咱们先尝尝。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T091325Z" creationid="Longbell" creationdate="20220413T091325Z">
+        <seg>"Say no more. Let's try it first."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“不太合适是吧……”麦格沉吟，思考了一会，道：“那就做红烧肉吧。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34026,6 +34034,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220407T141259Z" creationid="sitong" creationdate="20220407T141259Z">
         <seg>Kurt raised his glass and put it near his nose. He used his hand to fan the opening of the glass gently and took a good sniff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>库尔特端起酒杯，慢慢啜饮一口，用舌尖将其在嘴里回荡一圈。当威士忌的香味溢满整个口腔时，细细在不同部位体会不同香气，然后将其咽下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T091630Z" creationid="Longbell" creationdate="20220413T091630Z">
+        <seg>Kurt picked up the glass and slowly took a sip. He swirled it in his mouth with his tongue. When the whiskey's fragrance filled his oral cavity, he savored the different fragrances at different parts carefully before swallowing.</seg>
       </tuv>
     </tu>
     <tu>
