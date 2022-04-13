@@ -19166,6 +19166,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是失败品？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T084240Z" creationid="Longbell" creationdate="20220413T084240Z">
+        <seg>"Is this a failure?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是屋主要求的价格，我们也无权更改。”费奇苦笑，这高于市场价一倍的租金，先前他就和麦格提过了，但他坚持这个价格。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T193110Z" creationid="Longbell" creationdate="20220408T193110Z">
@@ -34098,6 +34106,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T141339Z" creationid="Longbell" creationdate="20220407T141241Z">
         <seg>Fergus and Kurt each held onto a big golden wine glass, which had the words "The Wine and Liquor Association's Gold Award" engraved on it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>弗格斯打量着酒杯中的棕黄中带红的酒液。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T084249Z" creationid="Longbell" creationdate="20220413T084249Z">
+        <seg>Fergus sized =</seg>
       </tuv>
     </tu>
     <tu>
