@@ -10558,6 +10558,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我之前听闻品酒大会只设一个金奖。”麦格微微点头，然后转身向着厨房走去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T082610Z" creationid="Longbell" creationdate="20220413T082610Z">
+        <seg>"I heard that the liquor tasting event only has one gold award." Mag nodded slightly before walking to the kitchen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我之前得到了一个面具，带上之后可以模仿任何人的样子。”麦格解释道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33842,6 +33850,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T132755Z" creationid="Longbell" creationdate="20220404T132755Z">
         <seg>Kurt, as the sponsor of the venue, gave a short speech on this year's event on behalf of the association. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>库尔特和弗格斯微微一愣，等到麦格转身了才回过神来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T082950Z" creationid="Longbell" creationdate="20220413T082950Z">
+        <seg>Kurt and Fergus were slightly taken aback. They only regained their wits after Mag turned around.</seg>
       </tuv>
     </tu>
     <tu>
