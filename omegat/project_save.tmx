@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10528,8 +10528,8 @@
       <tuv lang="zh-CN">
         <seg>“我……我们……要不要……再来两瓶？”库尔特一手撑着桌子，眯着眼睛看着对面问道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220413T103055Z" creationid="Longbell" creationdate="20220413T103055Z">
-        <seg>"Sh</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T123113Z" creationid="Longbell" creationdate="20220413T103055Z">
+        <seg>Kurt pressed one hand against the table and said with narrowed eyes, "Sh-shall we or-order another two bottles?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -13810,6 +13810,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Kill them? Ha…" Josh laughed hopelessly. "They want to lure me out and kill me. How am I going to kill them? Even you were resealed by Alex too!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“来……干杯……”弗格斯在桌底下含糊的答应道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T123151Z" creationid="Longbell" creationdate="20220413T123151Z">
+        <seg>"Come...cheers..." Fergus mumbled his reply under the table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48994,6 +49002,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag prepared to leave a set of keys to Babla and Yabemiya each. First, it was to allow the Moon Nation's people to come and go; second, it was to allow them to enter Mamy Restaurant if they encountered an unexpected situation. Mamy Restaurant had a 9th-tier defensive ability now. Usual attacks couldn't threaten the people in the restaurant at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格出门把两位的车夫和仆人叫进来，直接抬走不送。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T123225Z" creationid="Longbell" creationdate="20220413T123225Z">
+        <seg>Mag went out to get their coachmen and servants and just carried them away.</seg>
       </tuv>
     </tu>
     <tu>
