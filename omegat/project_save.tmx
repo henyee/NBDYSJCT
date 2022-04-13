@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10794,6 +10794,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220413T102405Z" creationid="Longbell" creationdate="20220413T102405Z">
         <seg>"We should be be glad that Mr. Hades brought Maotai, otherwise it won't look when we contradict ourselves on stage." Fergus chuckled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们应该把乔的尸体收回来，他是那样善良。当年要不是为了救战友，他的腿也不会断，更不应该在这里采一百年的花露，最后还被自己的族人吊死在栏杆上。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220413T152756Z" creationid="sitong" creationdate="20220413T152756Z">
+        <seg>"We should take Joe's body back. He was so kind. If not to save his comrade back then, he would not have broken his leg and would not have been picking dew here for a century and end up being hung dead on the pole by his own people."</seg>
       </tuv>
     </tu>
     <tu>
@@ -22502,6 +22510,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一旦有奴隶违反，他们将遭受非人的虐待，甚至可能因此丢掉性命。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220413T145547Z" creationid="sitong" creationdate="20220413T145547Z">
+        <seg>If a slave breaks the rules, they would be tortured inhumanely and might even lose their lives because of that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一旦那些被封印的魔鬼被放出来，诺兰大陆将会迎来末日。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -30682,6 +30698,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T182955Z" creationid="Longbell" creationdate="20220410T182955Z">
         <seg>Rankster was holding him back. He couldn't help Irina block that attack at that moment at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在农场高高的栏杆上，这会还挂着一具被秃鹫啄食过的尸体。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220413T145629Z" creationid="sitong" creationdate="20220413T145629Z">
+        <seg>There was still a corpse half-eaten by a vulture hanging high on a pole in the farm.</seg>
       </tuv>
     </tu>
     <tu>
