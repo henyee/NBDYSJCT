@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9862,6 +9862,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“当年您几乎每天都来酒馆喝酒，而且一直坐在靠门口的那个位置，除了喝酒，最喜欢的下酒菜是我母亲做的萝卜条。”埃菲笑着点头，“那时候您时常让我帮您加萝卜条，还会给我一些小费，所以我记得您。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T143028Z" creationid="Longbell" creationdate="20220413T143028Z">
+        <seg>"You came to drink at the tavern almost every day back then and you always took the seat near the door. Besides drinking, your favorite side dish was the preserved radish strips my mother made." Eiffie nodded with a smile. "You used to let me top up preserved radish strips back then and you would tip me, so I remember you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“当年的泰坦酒，可是洛都城里最好的酒，那滋味，十多年过去了，都忘不了，没想到今天在这里还能闻到它的香味。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T021451Z" creationid="Longbell" creationdate="20220406T021451Z">
@@ -12750,6 +12758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是啊，你母亲做的萝卜条，和你父亲酿的酒，都是我最难忘怀的记忆。”帕萨卡有些感慨的点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T143144Z" creationid="Longbell" creationdate="20220413T143144Z">
+        <seg>Pasaca nodded and lamented, "Yes, the preserved radish strips your mother made and the liquor your father brewed are my most treasured memories."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是啊，全家最丑的是孩子他爹。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -14578,6 +14594,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220413T082348Z" creationid="Longbell" creationdate="20220413T082348Z">
         <seg>Mag put the things down and smilingly said, "I didn't expect the two of you to come too."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没想到你还认得我。”中年那人也有些诧异。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T142028Z" creationid="Longbell" creationdate="20220413T142028Z">
+        <seg>"I don't expect you to remember me." That middle-aged man was quite taken aback too.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30954,6 +30978,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Eiffie murmured, "With such excellent liquor, not to mention Romo Street, Saipan Tavern would even have a place in the entire taverns' world in Rodu."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲回过神来，转身看着说话那人，只觉得面前的中年男人有些眼熟，愣了一会，突然眼睛一亮道：“您是帕萨卡先生。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T142001Z" creationid="Longbell" creationdate="20220413T142001Z">
+        <seg>Eiffie regained her wits and turned to look at the person who spoke up. She felt the middle-aged man in front of her looked a little familar and then she lit up her eyes suddenly, "You are Mr. Pasaca."</seg>
       </tuv>
     </tu>
     <tu>
