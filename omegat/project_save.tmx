@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“什么情况？！”艾略特穿着睡衣出门来，皱眉道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T163658Z" creationid="Longbell" creationdate="20220413T163658Z">
+        <seg>"What's happening?!" Elliot came out in his pyjamas and said with a frown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“什么样的强者？”麦格皱眉。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220330T065121Z" creationid="sitong" creationdate="20220330T065121Z">
@@ -12398,6 +12406,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“族长，是农场奴隶圈那边出了点问题，已经派族里的卫队过去了，翻不出什么大浪来。”一位管家模样的中年精灵上前来恭敬说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T163835Z" creationid="Longbell" creationdate="20220413T163835Z">
+        <seg>A middle-aged elf that looked like a butler approached and respectfully said, "Chief, there are some issues with the slaves at the farm. We have already sent the garrison over. There won't be any big trouble."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“无妨，客人满意便好。”麦格回应道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -12690,6 +12706,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T143326Z" creationid="sitong" creationdate="20220403T143326Z">
         <seg>"What is this?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是伊琳娜公主！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T163549Z" creationid="Longbell" creationdate="20220413T163549Z">
+        <seg>"It's Princess Irina!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -26334,6 +26358,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>以及坐在巨兽身上的那个散发着金色光芒的美丽精灵。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T163543Z" creationid="Longbell" creationdate="20220413T163529Z">
+        <seg>And the beautiful elf with a golden glow sitting on that giant beast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>以大主教的身份地位，不应该出现在混乱之城，而且还特意排队来麦米餐厅吃饭。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32766,6 +32798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>守卫们的眼中第一次露出了慌乱之色。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T163627Z" creationid="Longbell" creationdate="20220413T163627Z">
+        <seg>Panic appeared in the guards' eyes for the very first time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>安东临死之前喊出的那声口号，壮烈而悲愤。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220413T155909Z" creationid="Longbell" creationdate="20220413T155909Z">
@@ -35870,6 +35910,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>所有人抬头，看到了那在月色下闪耀着紫色光芒的巨兽。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T163534Z" creationid="Longbell" creationdate="20220413T163501Z">
+        <seg>Everyone looked up and saw the giant beast that glowed with purple light under the moonlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>所有人都一脸震惊的看着脸上挂满红油和猪耳朵，一脸懵逼的奥尔登。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -37314,6 +37362,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The experience and information related to the drunkard peanuts and pig ears salad came surging in immediately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>有奴隶精灵高呼！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T163604Z" creationid="Longbell" creationdate="20220413T163604Z">
+        <seg>Some elven slaves shouted!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49050,6 +49106,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T154816Z" creationid="Longbell" creationdate="20220403T154816Z">
         <seg>The magic caster slapped a few protective talisments on himself. As he retreated rapidly, he raised his magic wand and chanted magic spells.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>魔法师手里的魔法棒也化为了灰烬。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220413T163422Z" creationid="Longbell" creationdate="20220413T163422Z">
+        <seg>The magic caster's wands turned into dust too.</seg>
       </tuv>
     </tu>
     <tu>
