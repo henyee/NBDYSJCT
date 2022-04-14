@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1770,6 +1770,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Eiffie stretched out, displaying her curves under her loose cotton clothes as she lazily said, "Did they finally decide to have an opening promotion?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“他们想在栏杆上挂上更多的尸体，让我们知道反抗的下场，这是我中午听到的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T080727Z" creationid="sitong" creationdate="20220414T080727Z">
+        <seg>"They want to hang more bodies on the pole to let us know what is would happen if we fight back. This is what I heard in the afternoon."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4554,6 +4562,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"But, Chief…" That orc tired to reason with Auster, only to be abruptly cut off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“可是门从外面锁上了，而且，肯定有人在看守乔的尸体。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T080643Z" creationid="sitong" creationdate="20220414T080643Z">
+        <seg>"But the door is locked from outside. Besides, there would definitely be someone keeping watch on Joe's body."</seg>
       </tuv>
     </tu>
     <tu>
@@ -19326,6 +19342,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是个陷阱。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T080731Z" creationid="sitong" creationdate="20220414T080731Z">
+        <seg>"This is a trap."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是什么东西？”伊琳娜一边给麦格施展治疗术，一边问道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220411T122126Z" creationid="Longbell" creationdate="20220411T122102Z">
@@ -20458,6 +20482,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220402T164827Z" creationid="sitong" creationdate="20220402T164827Z">
         <seg>"In that case, goodbye." Mag made his leave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那又怎么样呢，我只是想让我的老朋友能够体面的回到大地母亲的怀抱，而不是让那些厌人的怪鸟啄食侮辱。”先前说话的老人从床上坐起身来，眼睛在黑暗中似乎也闪耀着光芒：“当年他英勇的扑向那些入侵风之森林的恶魔的时候，可从未想过自己是否能够活着回来。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T081043Z" creationid="sitong" creationdate="20220414T081043Z">
+        <seg>"So what? I just want my old friend to return to the arms of Mother Earth in a dignified way instead of letting those disgusting strange birds feed on him in humiliation." The old man who spoke first sat up on his bed. There seemed to be a glimmer in his eyes in the dark as he said, "Back then when he threw himself bravely at those demons that invaded the Wind Forest, he did not expect himself to come back alive."</seg>
       </tuv>
     </tu>
     <tu>
@@ -23330,6 +23362,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>For some reason, the memories of the past started flashing past his mind. Two middle-aged men walking down the streets, two middle-aged men supporting each other after getting tipsy as they vomited while walking, and two middle-aged men sleeping on the streets after getting totally wasted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不知谁叹了口气。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T080741Z" creationid="sitong" creationdate="20220414T080741Z">
+        <seg>Someone sighed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33566,6 +33606,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>宿舍里住着数十位精灵奴隶，但所有人都沉默着。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T080611Z" creationid="sitong" creationdate="20220414T080611Z">
+        <seg>There were tens of elf slaves in the dormitory but everyone was silent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>寂静的山岭，只剩下他们爷孙俩，诺亚有点丧的问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -38210,6 +38258,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220412T115124Z" creationid="sitong" creationdate="20220412T115124Z">
         <seg>The pressure indicated on the pressure valve decreased and when the pressure was completely balanced, Eiffie brought a cup over to the tap at the wine storage and turned the tap on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>气氛变得有些悲伤和绝望。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T080802Z" creationid="sitong" creationdate="20220414T080802Z">
+        <seg>The air was filled with desolation and despair.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52731,6 +52787,22 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Golden Dragon Island.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑暗中，有人说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T080738Z" creationid="sitong" creationdate="20220414T080738Z">
+        <seg>Someone said in the dark.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑暗潮湿的奴隶宿舍里，一个年迈的精灵翻了个身，脚上的镣铐在木板上发出了声音，透过稀疏的木板缝隙，看着夜色下，挂在栏杆上寂寥的尸体，声音低沉道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T080546Z" creationid="sitong" creationdate="20220414T080546Z">
+        <seg>In the dark and damp slave dormitory, an old elf turned over. The chain on his feet that was cuffed to a wooden pole clanked. He looked at the lonely body hanging on the pole under the moonlight through the small gap between wooden planks.</seg>
       </tuv>
     </tu>
     <tu>
