@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18624,8 +18624,8 @@
       <tuv lang="zh-CN">
         <seg>“这一刀是替乔给的，当然还不够，你捅了他十二刀，我会双倍还给你，再加上安东的二十四刀。而且，在我捅完之前，你不会死，我可以保证。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220414T085254Z" creationid="Longbell" creationdate="20220414T085254Z">
-        <seg>"This is for Joe. Of course, this isn't enough. You stabbed him 12 times and I'll repay you double. In addition to Anton's 24 stabs, I promise that I'll make sure you won't die before I finished the stabbing."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T085341Z" creationid="Longbell" creationdate="20220414T085254Z">
+        <seg>"This is for Joe. Of course, this isn't enough. You stabbed him 12 times and I'll repay you double of that. In addition to Anton's 24 stabs, I'll make sure you won't die before I finished the stabbing. I promise."</seg>
       </tuv>
     </tu>
     <tu>
@@ -41406,6 +41406,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千一百零一章 顺便杀一些不配被称为精灵的家伙</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T090016Z" creationid="Longbell" creationdate="20220414T090016Z">
+        <seg>Chapter 2101: Kill Those Who Are Not Fit To Be Called Elves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千一百零五章 这里不是还有一个工具人吗？</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T085434Z" creationid="sitong" creationdate="20220414T085434Z">
@@ -49338,6 +49346,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T083507Z" creationid="sitong" creationdate="20220414T083507Z">
         <seg>Albin looked at this familiar farm. There was no warmth at all. It was just like a carnivorous monster and there was only endless fear of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>阿尔宾看着那守卫首领冷漠的说道，抬手又是在他的左腿上划拉了一刀，抽出了一条腿筋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T085843Z" creationid="Longbell" creationdate="20220414T085843Z">
+        <seg>Albin said to that guard's leader coldly before dragging the dagger down on his left thigh and pulling a leg's tendon out.</seg>
       </tuv>
     </tu>
     <tu>
