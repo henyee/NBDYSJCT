@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27310,6 +27310,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜挥手斩断了所有人的镣铐，然后看着下方三千多名精灵奴隶说道：“有仇报仇，有怨报怨，今日我希望你们能够不带仇恨的离开这里，然后开启新的生活。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T100346Z" creationid="Longbell" creationdate="20220414T100346Z">
+        <seg>Irina removed all their shackles with a wave of her hand and then said to the 3000-odd elves below, "Take your revenge. I hope you won't leave here with hatred. Then, start a new life."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜放下密信，摇了摇头道：“龙族与和平联盟各族的联合声明这会应该已经送到洛都，我认为安德烈不会冒着被各族群起攻之的风险继续挑起战争，这对于洛斯帝国来说是无法承受的。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27874,6 +27882,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>All the courtiers bowed, and said, "Your Majesty is wise."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众奴隶精灵沉默了一会。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T100403Z" creationid="Longbell" creationdate="20220414T100403Z">
+        <seg>All the elven slaves were quiet for a moment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38310,6 +38326,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>有人拿起了刀，走向了那些守卫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T100426Z" creationid="Longbell" creationdate="20220414T100426Z">
+        <seg>Some of them picked up the swords and walked towards those guards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>有人认出了埃菲，小声议论着，语气都有些惋惜。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T100348Z" creationid="Longbell" creationdate="20220404T100348Z">
@@ -42630,6 +42654,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第四十八刀，阿尔宾将刀刺入那守卫的心脏，然后松开了手，向后退了几步，噗通一下跪在了一旁安东面目全非的尸体旁痛哭了起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T100150Z" creationid="Longbell" creationdate="20220414T100150Z">
+        <seg>The 48th stab. Albin stabbed the dagger into that guard's heart before letting go and taking a few steps back. He knelt down next to Anton's body with a plop and cried his heart out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>等了一个上午，就是为了等到他的茅台登场。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T052408Z" creationid="Longbell" creationdate="20220406T052408Z">
@@ -44288,8 +44320,8 @@
       <tuv lang="zh-CN">
         <seg>而德克和手下的众精灵兵士，此刻也是面露惊色，进退两难。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220414T091616Z" creationid="Longbell" creationdate="20220414T091616Z">
-        <seg>Dirk and the elven soldiers were terrified and caught in the </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T095520Z" creationid="Longbell" creationdate="20220414T091616Z">
+        <seg>Dirk and the elven soldiers were terrified and caught in between.</seg>
       </tuv>
     </tu>
     <tu>
