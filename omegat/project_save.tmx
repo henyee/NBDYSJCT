@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不！”德克转身，想要逃跑。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T102429Z" creationid="Longbell" creationdate="20220414T102429Z">
+        <seg>"No!" Dirk turned around, attempting to flee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“不，他只是知道我们一定会去找他，这就够了。”梅兰特摇头，笑了笑道：“否则昨晚我们就死了。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -23066,6 +23074,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>An issue of the Perfect Food had already let him jump two levels up and receive many awards. He came to know the benefits of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一束光点燃了他的身体，然后转眼间化为了灰烬。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T102450Z" creationid="Longbell" creationdate="20220414T102450Z">
+        <seg>A beam of light lit up his body and he turned into dust instantly.</seg>
       </tuv>
     </tu>
     <tu>
