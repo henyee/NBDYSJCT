@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29166,6 +29166,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>刚刚捧回品酒大会金奖的泰坦酒馆老板埃菲小姐，在营业结束后，遭遇暴徒入室抢劫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T102920Z" creationid="sitong" creationdate="20220414T102920Z">
+        <seg>Miss Eiffie, the owner of Titan Tavern, that just brought the gold award home from the liquor tasting event, met with an assailant that robbed her after she closed her shop for the day.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>刚刚麦格收到了梅兰特的信，他们在北边发现了一处异常的地点，让他前去查看。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T180549Z" creationid="Longbell" creationdate="20220409T180549Z">
@@ -35934,6 +35942,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>当日营业额全部被抢走，老板娘埃菲和她的侍女玛拉消失。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T102949Z" creationid="sitong" creationdate="20220414T102949Z">
+        <seg>The revenue of that day was robbed and Eiffie, and her servant, Mala, disappeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>当晚麦格直接入住被系统全新装修过的酒馆。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -37258,6 +37274,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T153635Z" creationid="sitong" creationdate="20220321T153635Z">
         <seg>According to what he understood, the current most advanced printing factory in Norland Continent used block printing technique and that was why all picture books were mainly in black and white.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>据说现场还被纵火，好在新时代好邻居哈迪斯先生及时发现，将火焰扑灭，挽救了一些损失。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T103047Z" creationid="sitong" creationdate="20220414T103047Z">
+        <seg>It was said that the place was even set on fire but the kind new neighbor, Mr. Hades, found out in time and put the fire, therefore reducing the amount of losses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40774,6 +40798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>现场只留下了一滩血迹和一片狼藉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T103001Z" creationid="sitong" creationdate="20220414T103001Z">
+        <seg>What was left was a pool of blood and a heap of mess.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>现场安静了一会，很快便一阵哗然。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T140534Z" creationid="Longbell" creationdate="20220407T140534Z">
@@ -41946,6 +41978,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T100533Z" creationid="sitong" creationdate="20220414T085434Z">
         <seg>Chapter 2105: Don't We Have Someone Here?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百零六章 您夫人不在家吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T102144Z" creationid="sitong" creationdate="20220414T102144Z">
+        <seg>Chapter 2016: Is Your Wife Not At Home?</seg>
       </tuv>
     </tu>
     <tu>
@@ -47346,6 +47386,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>That night, a terrifying battle shock wave broke out in the Starry Cave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这一夜，罗莫街发生了一件大事。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T102155Z" creationid="sitong" creationdate="20220414T102155Z">
+        <seg>A major incident happened at Romo Street that night.</seg>
       </tuv>
     </tu>
     <tu>
