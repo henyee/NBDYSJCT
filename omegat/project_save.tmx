@@ -13214,6 +13214,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是啊，埃菲小姐多好的人，怎么就偏偏摊上这种事情呢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T111948Z" creationid="sitong" creationdate="20220414T111948Z">
+        <seg>"Yeah, Miss Eiffie is such a great person. How could this happen to her?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是啊，她有着一双令所有漫画家羡慕的手。”麦格深以为然点头，或许这就是点了触手怪天赋的漫画家吧。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220327T124644Z" creationid="Longbell" creationdate="20220327T124515Z">
@@ -15066,6 +15074,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>I didn't expect to really meet a fool! Fitch was ecstatic. As an agent trainee who had been practicing for two and half years, he still hadn't gotten the grasp of the golden lying skills in the agents' world. His deals were all closed based on luck.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没想到这种事情竟然又发生在埃菲老板的身上，真是命运不公啊。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T111935Z" creationid="sitong" creationdate="20220414T111935Z">
+        <seg>"I can't believe something like this actually happened on Boss Eiffie. Life is really unfair."</seg>
       </tuv>
     </tu>
     <tu>
@@ -27698,6 +27714,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220412T121717Z" creationid="sitong" creationdate="20220412T121711Z">
         <seg>While everyone was curious about the maotai, they also secretly reminded themselves to be careful at Saipan Tavern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人对此唏嘘不已。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T111918Z" creationid="sitong" creationdate="20220414T111918Z">
+        <seg>Everyone could not help but discuss it.</seg>
       </tuv>
     </tu>
     <tu>
