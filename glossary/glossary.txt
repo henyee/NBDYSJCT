@@ -2940,3 +2940,4 @@ DVD	DVD
 乔	Joe
 领地	fiefdom
 奴隶圈	slaves' circle
+德克	Dirk
