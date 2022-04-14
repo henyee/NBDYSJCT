@@ -2939,3 +2939,4 @@ DVD	DVD
 安东	Anton
 乔	Joe
 领地	fiefdom
+奴隶圈	slaves' circle
