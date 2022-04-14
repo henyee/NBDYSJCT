@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11214,6 +11214,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我们自由了！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T133150Z" creationid="Longbell" creationdate="20220414T133150Z">
+        <seg>"We're free!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我们要从这里离开，地势不利于我们。”伊琳娜扬起法师杖，声光照耀，扑到面前的古尸顿时灰飞烟灭。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T130722Z" creationid="Longbell" creationdate="20220410T130722Z">
@@ -16038,6 +16046,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“现在，我带你们离开这里，开始新的生活。”伊琳娜看着下方那些精灵们，大声道：“你们自由了！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T132828Z" creationid="Longbell" creationdate="20220414T132828Z">
+        <seg>"Now, I'll bring you away from here and start your life anew." Irina loudly said to the elves below, "You're free now!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“现在，我要来看看我的零食大礼包了。”艾米看着脑海中那个金闪闪的大礼包，满是期待的点开。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -17362,6 +17378,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Solve it yourself." Mag took out a money bag, and pushed towards Hannah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“自由了！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T133248Z" creationid="Longbell" creationdate="20220414T133248Z">
+        <seg>Free!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -33298,6 +33322,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T083633Z" creationid="Longbell" creationdate="20220403T083633Z">
         <seg>The adults in her family were also quite careless. How could they let such a pretty little girl come out by herself? What if she got stolen? They would cry their hearts out then.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她就是这无尽暗夜之中的一束光，给他们带来了希望。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T132503Z" creationid="Longbell" creationdate="20220414T132503Z">
+        <seg>She was the light in this endless dark night, bringing them hope.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50258,6 +50290,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The steel kitchen counter was chopped into two pieces and fell apart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>铁荆棘墙应声倒下，在火焰中化为灰烬。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T133144Z" creationid="Longbell" creationdate="20220414T133144Z">
+        <seg>The iron fence fell after she said that and burned to ashes in the flames.</seg>
       </tuv>
     </tu>
     <tu>
