@@ -13894,6 +13894,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是的，早上熬了点粥，然后做了几笼灌汤包。”麦格点头，关掉了一旁蒸笼的火，道：“埃菲小姐要是饿了的话，先喝点粥吧，我去叫孩子们起床。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T112822Z" creationid="sitong" creationdate="20220414T112643Z">
+        <seg>f"Yes. I made some porridge in the morning and also a few soup dumplings." Miss nodded. He turned off the stove for the bamboo steamer and said, "If you're hungry, you can have some porridge. I'll wake the children up."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是的，没错，我刚刚去菜市场逛了一圈，买了些野猪肉，今天中午我们可以吃烤肉。”麦格晃了晃手里的菜篮子。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -15002,6 +15010,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T084035Z" creationid="Longbell" creationdate="20220403T084035Z">
         <seg>"It's fine. It can walk by itself." Amy tossed Ugly Duckling aside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没关系，我不……咕噜噜”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T112832Z" creationid="sitong" creationdate="20220414T112832Z">
+        <seg>"It's alright. I'm not... grumble."</seg>
       </tuv>
     </tu>
     <tu>
@@ -32494,6 +32510,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲还是败给了自己的肚子，接过了麦格递来的粥。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T122730Z" creationid="sitong" creationdate="20220414T122730Z">
+        <seg>Eiffie still lost to her stomach and received the bowl of porridge Mag passed to her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲这话让众人都惊了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T122121Z" creationid="Longbell" creationdate="20220407T122121Z">
@@ -46706,6 +46730,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After saying that, Lucien took a sip of the whiskey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>说着，她的肚子还有些不争气的咕噜噜响了起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T112646Z" creationid="sitong" creationdate="20220414T112638Z">
+        <seg>At the same time, her stomach grumbled.</seg>
       </tuv>
     </tu>
     <tu>
