@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4798,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“吃吧，管够。”麦格笑着给她再夹了一只包子，小姑娘还挺实诚的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133615Z" creationid="sitong" creationdate="20220414T133615Z">
+        <seg>"Have some more. There's enough." Mag put another dumpling in Mala's bowl. This young maiden is rather honest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“吃啊，别客气，锅里还有呢。”艾米满是期待的看着三人说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -5570,6 +5578,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Oh…" Irina thought for a while, and asked, "Then can you become me?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哦……这令人惊叹的味道！简直无法形容这种感觉！”埃菲秀气的眉梢微微挑起，比起美味的粥，这肉汤更有侵略性，让人难以抗拒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133227Z" creationid="sitong" creationdate="20220414T133227Z">
+        <seg>"Oh... this is a remarkable taste! It's an indescribable feeling!" Eiffie raised her beautiful brow. Compared to the porridge, this soup was intrusive and irresistable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7862,6 +7878,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好吃……太好吃了……我要哭辽……”玛拉捧着碗，把碗底的汤汁都舔了，眼里泪光闪烁。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133538Z" creationid="sitong" creationdate="20220414T133538Z">
+        <seg>"So good... Too good... I'm going to cry..." Mala held her bowl in both hands. She had already licked the soup cleanly and her eyes were glimmering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好吃。”伊琳娜看着麦格点头道，目光里都泛着几颗小星星，太可了，第一次就能做的这么好吃，不愧是我的男人！</seg>
       </tuv>
       <tuv lang="en-US">
@@ -9058,6 +9082,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T084719Z" creationid="sitong" creationdate="20220403T084719Z">
         <seg>"She's not weaker than me." Mag nodded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“实在是太美味了！”埃菲放下筷子，看着麦格一脸赞叹道：“您的厨艺令人惊叹。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133415Z" creationid="sitong" creationdate="20220414T133415Z">
+        <seg>"This is delicious!" Eiffie put her chopsticks down and looked at Mag as she exclaimed, "Your culinary skills are amazing."</seg>
       </tuv>
     </tu>
     <tu>
@@ -24806,6 +24838,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不过鲜美的汤汁涌进嘴里，立刻让她的注意力集中到了汤汁上，鲜美的令人迷醉，完全压制住了那点烫嘴的感觉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133150Z" creationid="sitong" creationdate="20220414T133150Z">
+        <seg>However, when the soup gushed into her mouth, her attention was all on the soup itself. It was intoxicatingly fresh and that totally dispelled the stinging pain from its heat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不过麦格一进大殿，便已经被数道强者锁定了气机。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T173815Z" creationid="sitong" creationdate="20220411T173815Z">
@@ -29342,6 +29382,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>刚出炉不久的灌汤包，里边的汤汁还有些发烫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133106Z" creationid="sitong" creationdate="20220414T133106Z">
+        <seg>The soup in the dumpling, which was just taken off the stove, was still piping hot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>刚出炉的灌汤包，里边的汤汁还是滚烫的。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T064901Z" creationid="sitong" creationdate="20220325T064901Z">
@@ -29634,6 +29682,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>A tumultuous situation was unfavorable to spreading good food. Who would care about good food when they could die at any time. The most important thing was to stay alive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>劲道的面皮，包裹着浸满汁水的肉团，不肥不腻，入口爽滑，按又是另一种美妙的体验。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133348Z" creationid="sitong" creationdate="20220414T133348Z">
+        <seg>The dumpling skin was chewy and the meat filling, which was sumberged in soup, was fatty but not greasy. The texture was smooth and it was another remarkable experience.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38286,6 +38342,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>是的，她开始有点嫉妒伊琳娜了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133428Z" creationid="sitong" creationdate="20220414T133424Z">
+        <seg>Yes. She was starting to get jealous of Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>是的，看到安妮画出来的成品之后，他已经决定要在这部美人鱼中插播一条广告了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -39566,10 +39630,26 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>汤喝的差不多了，埃菲抬起头，有些意犹未尽的舔了舔嘴唇，然用筷子夹起已经变得干瘪的包子，咬了一口。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133306Z" creationid="sitong" creationdate="20220414T133306Z">
+        <seg>When she was almost done with the soup, Eiffie lifted her head up and licked her lips, wanting more. After that, she picked up the deflated dumpling with her chopsticks and took a bite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>汤汁微微发麻、发辣，但骨香浓郁，这是熬了一宿的老骨汤，与芝麻红油最完美的结合。</seg>
       </tuv>
       <tuv lang="en-US">
         <seg>The soup was slightly hot and numbing, but it had a rich bone broth's taste . This was a bone broth that had been simmered overnight. It was a perfection union with the red sesame oil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>汤汁立马从洞里涌了出来，她连忙用嘴巴堵住天窗，然后小口嘬饮着。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133038Z" creationid="sitong" creationdate="20220414T133038Z">
+        <seg>The soup gushed out immediately and she quickly put her mouth over the hole and took a sip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40665,6 +40745,14 @@
         <seg>烫嘴！</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T064534Z" creationid="sitong" creationdate="20220325T064534Z">
+        <seg>Hot!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>烫！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133041Z" creationid="sitong" creationdate="20220414T133041Z">
         <seg>Hot!</seg>
       </tuv>
     </tu>
@@ -45338,6 +45426,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T142225Z" creationid="sitong" creationdate="20220321T142225Z">
         <seg>Sean was in his to-kill list and Mag did not care if Andre had anyone to succeed him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>能够嫁给这样一位温柔体贴，还会做如此美味的食物的男人，实在太让人羡慕了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133457Z" creationid="sitong" creationdate="20220414T133457Z">
+        <seg>She could amrry such a gentle and meticulous man who was so good at cooking. How envious.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51626,6 +51722,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220401T141533Z" creationid="sitong" creationdate="20220401T141533Z">
         <seg>Mag ate a boiled egg. As the rice crust was too hard, it was not suitable for old people. Therefore, he did not try it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格吃过早餐，埃菲和玛拉主动承包了洗碗刷锅的任务，他就直接出门去了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T133637Z" creationid="sitong" creationdate="20220414T133637Z">
+        <seg>After breakfast, Eiffie and Mala volunteered to do the dishes so mag went straight out.</seg>
       </tuv>
     </tu>
     <tu>
