@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你，带上五百人，往西边去追击！”艾略特指着先前那个精灵说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T144116Z" creationid="Longbell" creationdate="20220414T144116Z">
+        <seg>Elliot pointed to that elf earlier and said, "You, bring 500 men and pursue them westward!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“俗话说，酒香不怕巷子深，作为一家酒馆，想要生意好，酒好不好是关键。”麦格说道。</seg>
       </tuv>
       <tuv lang="en-US">
