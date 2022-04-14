@@ -12862,6 +12862,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“族长，他们已经走了，往南去了。”外面有人答应道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T140827Z" creationid="Longbell" creationdate="20220414T140827Z">
+        <seg>"Chief, they're already gone. They have gone southwards." Someone outside answered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“族长，是农场奴隶圈那边出了点问题，已经派族里的卫队过去了，翻不出什么大浪来。”一位管家模样的中年精灵上前来恭敬说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220413T163835Z" creationid="Longbell" creationdate="20220413T163835Z">
@@ -16610,6 +16618,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220320T025842Z" creationid="sitong" creationdate="20220320T025842Z">
         <seg>"It really is a huge snack hamper!" Amy exclaimed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“真的走了？”艾略特有点不太相信。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T141556Z" creationid="Longbell" creationdate="20220414T141556Z">
+        <seg>"Is she really gone?" Elliot couldn't quite believe it.</seg>
       </tuv>
     </tu>
     <tu>
