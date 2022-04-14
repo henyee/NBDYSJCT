@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2042,6 +2042,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Elizabeth? Did you leave something behind in the restaurant?" Mag looked at her with surprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“伊琳娜公主！我想大祭司应该不希望看到这样的事情，希望您能够三思，莎莉公主再过几日便会回来了。”德克有些紧张的上前。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T101902Z" creationid="Longbell" creationdate="20220414T101902Z">
+        <seg>"Princess Irina! I think the High Priestess wouldn't want to see this. I hope you can reconsider it. Princess Sally will return in a few more days." Dirk stepped forward nervously.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11578,6 +11586,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>That orc tried to reason with Auster, only to be abruptly cut off as Auster waved his hand, and said, "I have already made up my mind. The Aug Tribe will never rise up again if we don't get rid of Connie."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我所做的所有事情，都是海伦娜不希望看到的，包括我的存在。”伊琳娜看着德克，突然咧嘴一笑：“那你觉得我应该怎么做？让我彻底消失吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T102040Z" creationid="Longbell" creationdate="20220414T102040Z">
+        <seg>"The things that I did were all what Helena didn't want to see, including my existence." Irina looked at Dirk and suddenly laughed. "Then, what do you think I should do? Should I disappear completely?"</seg>
       </tuv>
     </tu>
     <tu>
