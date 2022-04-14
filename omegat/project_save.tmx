@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18526,6 +18526,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“走吧，我将指引你们的道路。”伊琳娜说道，一束光落到了他们的前方，一条光道通向远方。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T135408Z" creationid="Longbell" creationdate="20220414T135408Z">
+        <seg>"Let's go. Let me show you the way." Irina said. A beam of light shone in front of them and a path of light led afar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“走吧，我已经预定了位置。”亚伯罕当先向着牛肉馆走去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -28274,6 +28282,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T125959Z" creationid="Longbell" creationdate="20220414T125959Z">
         <seg>All the elven soldiers immediately broke down psychologically and dispersed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众精灵的眼中亮起了光芒，看着开阔的四野，没有铁荆棘围拢的天空，似乎一切都变得不同了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T135028Z" creationid="Longbell" creationdate="20220414T135028Z">
+        <seg>A light glowed in the eyes of the elves. They looked at their vast surroundings. Everything seemed to look different without the iron fence.</seg>
       </tuv>
     </tu>
     <tu>
