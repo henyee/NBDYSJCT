@@ -32174,6 +32174,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>奴隶不过是一些生命漫长的两脚家畜，但凡是有些姿色，或者拥有魔法天赋的，都不会被留在这里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T073359Z" creationid="Longbell" creationdate="20220414T073359Z">
+        <seg>The slaves were just two-legged cattle with longer lifespan. Those who looked good, or possessed magical talents wouldn't have been kept here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>奴隶成了一个渐渐消失的词，至少在生命之城中是这样的。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220413T104754Z" creationid="sitong" creationdate="20220413T104754Z">
