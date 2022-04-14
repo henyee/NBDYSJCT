@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“他们是被迫成为守卫的，他们的心灵是善良的，还曾经为我们提供过帮助。”一位年迈的精灵大声说道，说服了同伴们放过那几位守卫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T131303Z" creationid="Longbell" creationdate="20220414T131303Z">
+        <seg>"They were forced to become guards. They are kind and even provided help to us before." An elderly elf said loudly, convincing his companions to let those few guards go.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“他们的酋长想要加入我们和平派，但是部落内部出现了分歧。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -2058,6 +2066,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Elizabeth? Did you leave something behind in the restaurant?" Mag looked at her with surprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“伊琳娜公主！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T131317Z" creationid="Longbell" creationdate="20220414T131317Z">
+        <seg>"Princess Irina!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -28134,6 +28150,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>众精灵兵士的心灵防线瞬间崩溃，顿时化作鸟兽散去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T125959Z" creationid="Longbell" creationdate="20220414T125959Z">
+        <seg>All the elven soldiers immediately broke down psychologically and dispersed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>众精灵纷纷避开目光，低下了头。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -44970,6 +44994,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T124758Z" creationid="Longbell" creationdate="20220409T124758Z">
         <seg>Meanwhile, those dirty and rundown shops began to start cleaning up, or close down to refurbish or upgrade right away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而那些精灵守卫，也几乎被奴隶精灵全部杀死，只剩下五位，被几位努力精灵护住。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T131129Z" creationid="Longbell" creationdate="20220414T131129Z">
+        <seg>And those elven guards were almost all killed by the slaves. Only five of them were left and they were protected by a few elven slaves.</seg>
       </tuv>
     </tu>
     <tu>
