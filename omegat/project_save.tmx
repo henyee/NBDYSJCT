@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9824,8 +9824,8 @@
       <tuv lang="zh-CN">
         <seg>“带一些精灵离开，顺便杀一些不配被称为精灵的家伙。”伊琳娜声音冰冷的说道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220414T083450Z" creationid="Longbell" creationdate="20220414T083450Z">
-        <seg>"Bring some of them away and kill those who are not fit to be called elves." Irina said coldly.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T083557Z" creationid="Longbell" creationdate="20220414T083450Z">
+        <seg>"To bring some elves away and kill those who are not fit to be called elves." Irina said coldly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21450,6 +21450,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"He's dead meat… R.I.P…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“阿尔宾是吧，找到杀死了安东和乔的凶手，为他们报仇吧。”伊琳娜的目光看向了下方的一个瘦小的精灵。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T083733Z" creationid="Longbell" creationdate="20220414T083733Z">
+        <seg>"Albin, right? Find Anton and Joe's murderer and avenge them." Irina looked at a thin and small elf below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35942,6 +35950,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>德克面色一僵，他很清楚在伊琳娜的眼中，他或许就属于不配被称为精灵的那些家伙之一。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T083636Z" creationid="Longbell" creationdate="20220414T083540Z">
+        <seg>Dirk went white. He knew very well that he was perhaps one of those fellows who were not fit be called elves in Irina's eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>怎么会有这样不解风情的男人。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -49202,6 +49218,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T072741Z" creationid="Longbell" creationdate="20220414T072741Z">
         <seg>The squad answered and a water magic caster stepped forward and began to chant the spells.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>阿尔宾点了点头，从地上捡起了一把染血的匕首，向着那些被捆绑着的守卫走去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T083813Z" creationid="Longbell" creationdate="20220414T083813Z">
+        <seg>Albin nodded and picked up a blood-stained dagger on the ground before walking towards those tied-up guards.</seg>
       </tuv>
     </tu>
     <tu>
