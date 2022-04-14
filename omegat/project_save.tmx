@@ -27944,8 +27944,8 @@
       <tuv lang="zh-CN">
         <seg>低矮的平房之外，却有着数米高的铁荆棘围栏，上面布满尖利而且剧毒的铁刺。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220414T071924Z" creationid="Longbell" creationdate="20220414T071924Z">
-        <seg>There were iron fences that were dozen of meters tall surrounding the short houses. They were also covered by sharp and poisonous iron spikes.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T090041Z" creationid="Longbell" creationdate="20220414T071924Z">
+        <seg>There were iron fences that were dozens of meters tall surrounding the short houses. They were also covered by sharp and poisonous iron spikes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33290,6 +33290,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T082938Z" creationid="sitong" creationdate="20220414T082938Z">
         <seg>The guard held his leg as he fell to the ground, shouting at the other guards that came over, "Beat him to death! I want him dead!!!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>守卫首领的惨叫，伴着那一声声利刃划破肉体的声音，刺破了黑夜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T090853Z" creationid="Longbell" creationdate="20220414T090853Z">
+        <seg>The guard's leader's shriek, together with the sound of dagger cutting through flesh, resounded in the dark night.</seg>
       </tuv>
     </tu>
     <tu>
