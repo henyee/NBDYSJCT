@@ -24926,6 +24926,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>也有全副武装的近战精灵打开了三个方向的大门，蜂拥而入。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T073126Z" creationid="Longbell" creationdate="20220414T073126Z">
+        <seg>There were also melee elves in full battle gear that opened the doors in three directions and charged in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>也正是因为泰坦酒馆失去马库斯，沦为普通酒馆，罗莫街开始走下坡路，最终变成现在这般模样。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T092415Z" creationid="Longbell" creationdate="20220409T092415Z">
