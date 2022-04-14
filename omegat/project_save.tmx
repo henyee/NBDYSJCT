@@ -14958,6 +14958,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“灭火！然后把那些胆敢造反的卑劣家伙全部抓起来！”管家冷声下令。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T072606Z" creationid="Longbell" creationdate="20220414T072606Z">
+        <seg>"Extinguish the fire! Catch all those despicable fellows who dare to revolt!" The butler coldly ordered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“灰神殿消息，洛都几位兵部大臣的家遭到了屠杀，满门屠尽，然后一把大火全烧了。”麦格将手中的信递向伊琳娜。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -39144,8 +39152,8 @@
       <tuv lang="zh-CN">
         <seg>火焰点燃了奴隶圈，嘈杂的声音从里边传来，那是战斗与欢呼声。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220414T071956Z" creationid="Longbell" creationdate="20220414T071956Z">
-        <seg>Fire lit up the slaves' area and the </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T072137Z" creationid="Longbell" creationdate="20220414T071956Z">
+        <seg>Fire lit up the slaves' circle and noises could be heard from within. It was battle cries and cheers.</seg>
       </tuv>
     </tu>
     <tu>
