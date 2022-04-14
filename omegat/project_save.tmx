@@ -11686,6 +11686,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我要去把他的尸体收回来，或者让我和他一起挂在那里，那样我至少会舒服一些。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T081109Z" creationid="sitong" creationdate="20220414T081109Z">
+        <seg>"I want to take his body back. I might be hanging up there with him. At least I would feel a bit better."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我要尝尝这个凉拌猪耳朵。”艾米夹起了一片猪耳朵。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -42490,6 +42498,14 @@
       </tuv>
       <tuv lang="en-US" changeid="jeremy" changedate="20220326T125541Z" creationid="jeremy" creationdate="20220326T125541Z">
         <seg>Flipping open the little booklet, Mag soon found the records of the Titan Liquor's brewing method.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>老人起床站到了狭窄的走道上，看着被黑暗笼罩的族人们，似乎在等待什么。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T081201Z" creationid="sitong" creationdate="20220414T081201Z">
+        <seg>The old man got out of bed and stood at the narrow walkway. He looked at his fellowmen enveloped in darkness, as though he was waiting for something.</seg>
       </tuv>
     </tu>
     <tu>
