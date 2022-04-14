@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“为了……自由……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083023Z" creationid="sitong" creationdate="20220414T083023Z">
+        <seg>"For... freedom..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“为了不引起对方的注意，本系统已经切断了所有检测装置，但可以确定的是，对方依旧是碳基生物，不是机器人。”系统很快回复。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T123605Z" creationid="Longbell" creationdate="20220331T123605Z">
@@ -8734,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“安东！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083050Z" creationid="sitong" creationdate="20220414T083050Z">
+        <seg>"Anton!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“安妮你想学调酒吗？”麦格笑着问道，这套酒具完全是摆设，他卖的是成品酒，不卖现场调制酒，也不会给客人表演什么调酒。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -13754,6 +13770,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>A rotund boss stood in front of the restaurant's door with his back leaning against the door's pillar, yawning, and said, "The lords didn't come and eat recently. Our business is bad."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“有人偷尸体！抓住他！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083329Z" creationid="sitong" creationdate="20220414T083329Z">
+        <seg>"Someone stole the corpse! Catch him!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -21366,6 +21390,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“闭嘴！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083232Z" creationid="sitong" creationdate="20220414T083232Z">
+        <seg>"Shut up!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“闭嘴！”奥斯特冷冷扫了他一眼。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -25566,6 +25598,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>亲眼目睹了这一切的数十个奴隶宿舍，终于开始骚动起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083212Z" creationid="sitong" creationdate="20220414T083212Z">
+        <seg>The slaves in the other dormitories who witnessed this started to rebel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>人人都敢说自己会拍黄瓜，可却不是谁拍的黄瓜都能称得上美味。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -25914,6 +25954,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T055443Z" creationid="Longbell" creationdate="20220407T055443Z">
         <seg>They recalled that this man was mistaken to be the Lord Baron earlier because he was surrounded by beautiful ladies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他们拍打着栏杆和木板，发出了愤怒而绝望的叫吼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083228Z" creationid="sitong" creationdate="20220414T083228Z">
+        <seg>They started hitting the fence and wood as they let out desperate and furious howls.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33078,6 +33126,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>守卫们用铁棒砸那些试图将手伸出宿舍的精灵，试图控制秩序。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083315Z" creationid="sitong" creationdate="20220414T083315Z">
+        <seg>The guards used their metal poles to whack those elves who attempted to stick their arms out of the dormitories to ensure order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>守卫们的眼中第一次露出了慌乱之色。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220413T163627Z" creationid="Longbell" creationdate="20220413T163627Z">
@@ -33130,6 +33186,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T082012Z" creationid="sitong" creationdate="20220414T081841Z">
         <seg>Anton retracted his hand, took three deep breaths, and dashed forward first, using his side to ram into the wooden door.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>安东的声音渐渐消失，直到只剩下兵刃砸在肉体上的沉闷声音。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083048Z" creationid="sitong" creationdate="20220414T083048Z">
+        <seg>Anton's voice trailed off, leaving only the sound of weapons hitting on meat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49034,6 +49098,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T072741Z" creationid="Longbell" creationdate="20220414T072741Z">
         <seg>The squad answered and a water magic caster stepped forward and began to chant the spells.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>阿尔宾爬到了最高的栏杆上，睚眦目裂的看着这一幕，扯断了挂着乔尸体的麻绳。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083141Z" creationid="sitong" creationdate="20220414T083141Z">
+        <seg>Albin climbed up to the highest pole and witnessed the scene. He pulled the rope hanging Joe's body to the pole.</seg>
       </tuv>
     </tu>
     <tu>
