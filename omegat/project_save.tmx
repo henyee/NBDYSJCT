@@ -35846,6 +35846,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>战斗已经结束。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T075249Z" creationid="Longbell" creationdate="20220414T075249Z">
+        <seg>The battle was already over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>房子外观麦格没有做改变，不过把原本的招牌和一些花里胡哨的装饰给拆了，换上了新招牌：塞班酒馆！</seg>
       </tuv>
       <tuv lang="en-US">
@@ -36050,6 +36058,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220413T142314Z" creationid="sitong" creationdate="20220413T142314Z">
         <seg>All slaves were cuffed up in heavy metal chains but their work was not did not get lesser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>所有的守卫都被抓了起来，全部被捆绑在中央的空地上，脸上除了伤痕，还有无尽的恐惧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T075636Z" creationid="Longbell" creationdate="20220414T075636Z">
+        <seg>All the guards were rounded up and tied up in the empty field in the middle. Apart from injuries, there were also endless fear.</seg>
       </tuv>
     </tu>
     <tu>
