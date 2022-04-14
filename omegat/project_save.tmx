@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8530,6 +8530,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T100317Z" creationid="Longbell" creationdate="20220409T100317Z">
         <seg>"I will think it's perhaps luck if only Titan Tavern got the gold award," Fitch waved the proposal in his hands and bitterly said, "but even Saipan Tavern got the gold award. Furthermore, Mr. Hades even gave me such a detailed proposal. It already explains everything."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“如果哈迪斯先生一家因为我而出事的话，我的灵魂永远都不会得到原谅的。”埃菲看着玛拉的眼睛说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T092226Z" creationid="sitong" creationdate="20220414T092226Z">
+        <seg>"If something happens to Mr. Hades's family because of me, my soul would never be forgiven," Eiffie told Mala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20978,6 +20986,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Then, I will keep the ice cream shop open. The children like it, and the ladies who are not busy can help out at the shop," Yabemiya said with a smile before looking at Jane. "Jane, come and help me at the ice cream shop."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那我陪你一起出去。”玛拉松开了手，同样目光坚定的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T092600Z" creationid="sitong" creationdate="20220414T092600Z">
+        <seg>"Let me go with you then," Mala said with resolution as she let Eiffie go.</seg>
       </tuv>
     </tu>
     <tu>
