@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5190,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“哇哦，今天早上可以吃到灌汤包吗？我的最爱！”艾米看着高高的蒸笼，眼睛一亮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T132558Z" creationid="sitong" creationdate="20220414T132558Z">
+        <seg>"Wow, are we having soup dumpling for breakfast today? My favorite!" Amy's eyes lit up when she saw the bamboo steamer stacked up high.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“哇哦，套鹅真好玩，还有钱赚，有大肥鹅吃。”艾米清点着收到的钱，小脸上满是开心的笑容。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -6410,6 +6418,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Amy nodded, and seriously said, "Yes. You have 30 big, fat geese here, so I want to have 30 rings."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“嗯，哈迪斯先生煮的粥是我喝过最美味的粥。”埃菲点头，这话完全发自内心。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T130920Z" creationid="sitong" creationdate="20220414T130920Z">
+        <seg>"Mm. Your porridge is the best I've ever tasted." Eiffie nodded. These were her heartfelt words.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9362,6 +9378,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T144830Z" creationid="Longbell" creationdate="20220406T144830Z">
         <seg>"It's just a small thing, so she usually wouldn't care." Mag smilingly replied. In fact, he also wasn't very excited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“小姐。”玛拉揉着还有些惺忪的眼睛在埃菲身边坐下，不过很快又起身冲着麦格打了个招呼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T132622Z" creationid="sitong" creationdate="20220414T132622Z">
+        <seg>"Young Mistress." Mala sat beside Eiffie as she rubbed her sleepy eyes. However,she quickly got up again and greeted Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32086,6 +32110,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲和玛拉一脸惊讶的看着艾米的一顿操作，闻着空气中飘荡的肉香，看着小家伙嘬饮着肉汤，两人都忍不住咽了咽口水。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T132736Z" creationid="sitong" creationdate="20220414T132736Z">
+        <seg>Eiffie and Mala looked at Amy in shock. The meaty fragrance of the dumpling wafted in the air. When they watched the little one drink teh soup, they could not help but swallow their salivas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲和玛拉的眼睛都瞪圆了几分，这个一人多高的铁桶，先前可是由四个大汉合力抬进来的，可麦格竟然一只手就轻松提了起来。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220402T154502Z" creationid="sitong" creationdate="20220402T154502Z">
@@ -33218,6 +33250,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T065315Z" creationid="Longbell" creationdate="20220328T065315Z">
         <seg>She took out a small mirror from her little bag to make sure that her makeup was still maintained in the tip top form and her face still had a perfect smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她从未喝过如此美味的粥，那半透明Q弹的神秘食材，还有滑嫩的瘦肉，口感是如此的顺滑，一口下去，简直连灵魂都得到了抚慰。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T132526Z" creationid="sitong" creationdate="20220414T132526Z">
+        <seg>She had yet to taste such delicious porridge before. The mysterious translucent and chewy ingredient, as well as the tender lean meat, and the smooth texture completely soothed her soul.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36634,6 +36674,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Very quickly, an elf entered the cave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>很快艾米、安妮和玛拉也都下楼来了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T132533Z" creationid="sitong" creationdate="20220414T132533Z">
+        <seg>Very quickly, Amy and Annie came downstairs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41226,6 +41274,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"???" Life Experience System.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>用不着他多言，艾米已经开始给埃菲和玛拉示范如何从蒸笼中取出一只灌汤包，以及如何正确的将它食用。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T132702Z" creationid="sitong" creationdate="20220414T132702Z">
+        <seg>He did not have to say anything and Amy was already teaching Eiffie and Mala how to pick the soup dumpling up and how to eat it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52322,6 +52378,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag placed the tray on the little stool. On the tray was a plate of drunkard peanuts and slightly less than half a bottle of Maotai left behind by the group just now. Because there were too many of them, Mag didn't know whom to pass it to, so he decided to settle it this way.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格把灌汤包拿了过来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T132628Z" creationid="sitong" creationdate="20220414T132628Z">
+        <seg>Mag brought the soup dumplings over.</seg>
       </tuv>
     </tu>
     <tu>
