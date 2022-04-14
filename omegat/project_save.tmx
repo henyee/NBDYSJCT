@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2034,6 +2034,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Princess Irina?" Noya was so shocked that he raised his voice. After that, he said in bewilderment, "But she's not an elf. She's a human."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“伊琳娜殿下，我是布鲁斯特家族的德克，您深夜降临，有何贵干。”管家硬着头皮上前，看着伊琳娜恭敬道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T081607Z" creationid="Longbell" creationdate="20220414T081607Z">
+        <seg>The butler forced himself to go forward and respectfully asked Irina, "Princess Irina, I am Dirk from the Brewster Family. May I know what is your purpose in coming here so late in the night?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9810,6 +9818,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I hope that the little one could have a clear understanding of her cooking talent now. Please don't get up to torture the kitchen and our stomachs every morning." Mag shrugged with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“带一些精灵离开，顺便杀一些不配被称为精灵的家伙。”伊琳娜声音冰冷的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T083450Z" creationid="Longbell" creationdate="20220414T083450Z">
+        <seg>"Bring some of them away and kill those who are not fit to be called elves." Irina said coldly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25918,6 +25934,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>他们似乎明白了一直安分的奴隶，今晚为何突然变得亢奋且激进。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T080455Z" creationid="Longbell" creationdate="20220414T080455Z">
+        <seg>They seemed to understand why the usually docile slaves suddenly became agitated and radical tonight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>他们在小吃街吃了一转，但小家伙没有吃饱，所以又在别人的推荐下来了这家新开不久的牛肉馆子再吃一顿。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26170,6 +26194,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T142252Z" creationid="sitong" creationdate="20220321T142252Z">
         <seg>He threw a block of wood towards the mansion and turned to leave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他很慌。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T083317Z" creationid="Longbell" creationdate="20220414T083317Z">
+        <seg>He was in a panic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33894,6 +33926,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>对于伊琳娜的强大，现在风之森林中但凡有点脑子的都很清楚。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T082651Z" creationid="Longbell" creationdate="20220414T082651Z">
+        <seg>As for Irina's strength, everyone with a brain in the Wind Forest knew about it clearly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>对于哈迪斯这样爽快的客人，大概是每一个销售最喜欢的了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T063219Z" creationid="Longbell" creationdate="20220408T063219Z">
@@ -34706,6 +34746,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220413T125552Z" creationid="sitong" creationdate="20220413T125552Z">
         <seg>The Brewster family's land was located at the southwestern side of the Wind Forest. When Sally became the new Elf princess, Elliot's status also rose and the Brewster family's land increased by more than two folds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>布鲁斯特家族算不上实力强劲的大族，族长艾略特也只是一位九级的魔法师，连一位十级强者坐镇都没有。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T082526Z" creationid="Longbell" creationdate="20220414T082512Z">
+        <seg>The Brewster Family wasn't a powerful family, even the chief, Elliot, was just a 9th-tier magic caster. They didn't even have a10th-tier powerhouse present.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38362,6 +38410,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>What kind of proper person would read "The Plum in the Golden Vase"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>此刻她出现在这里，站在了反抗的奴隶的这一边。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T082715Z" creationid="Longbell" creationdate="20220414T082715Z">
+        <seg>Now, she was here, on the side of the rebelling slaves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43730,6 +43786,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Meanwhile, this matter also caused huge repercussions within the Roth Empire. Mutinies broke out in many military camps after the news of Blum being murdered and him shouting out Josh's name before he died spread in the military, which was forced to shoulder the blame initially. A few Roth Empire's generals, with Marshal Dominic in the lead, requested Andre to investigate this matter thoroughly and give all the courtiers in the Ministry of Defense and Blum an explanation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而此地远离生命之城，哪怕现在求援，海伦娜大祭司也不一定能够及时赶到。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T082616Z" creationid="Longbell" creationdate="20220414T082616Z">
+        <seg>Moreover, this place was located far from the City of Life. Even if they asked for help now, High Priestess Helena might not be able to get here in time.</seg>
       </tuv>
     </tu>
     <tu>
