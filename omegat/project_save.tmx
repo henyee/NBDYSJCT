@@ -22968,8 +22968,8 @@
       <tuv lang="zh-CN">
         <seg>上千名布鲁斯特家族蓄养的兵士，在管家的带领下，全副武装的向着奴隶区围拢而去。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220414T071022Z" creationid="Longbell" creationdate="20220413T182251Z">
-        <seg>Thousands of Brewster Family's soldiers in battle gear converged towards the slave's area under the butler's lead.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T072023Z" creationid="Longbell" creationdate="20220413T182251Z">
+        <seg>Thousands of Brewster Family's soldiers in battle gear converged towards the slaves' circle under the butler's lead.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32168,8 +32168,8 @@
       <tuv lang="zh-CN">
         <seg>奴隶是没有资格住在城堡里的，他们像牛羊一样被圈养在城堡外的一处低矮平房中，所以也被成为奴隶圈。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220414T071518Z" creationid="Longbell" creationdate="20220414T071518Z">
-        <seg>The slaves didn't have right to live in the castle. They were kept in the short houses beyond the castle like cattles, so it was being called the slaves' area.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T072047Z" creationid="Longbell" creationdate="20220414T071518Z">
+        <seg>The slaves didn't have right to live in the castle. They were kept in the short houses beyond the castle like cattles, so it was called the slaves' circle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39138,6 +39138,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>A flame appeared in Amy's palm, and it traveled along the crack. The two sides of the thick steel started to change in color and melt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>火焰点燃了奴隶圈，嘈杂的声音从里边传来，那是战斗与欢呼声。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T071956Z" creationid="Longbell" creationdate="20220414T071956Z">
+        <seg>Fire lit up the slaves' area and the </seg>
       </tuv>
     </tu>
     <tu>
