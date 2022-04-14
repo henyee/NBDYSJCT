@@ -29894,6 +29894,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>半个小时后，城堡收到了来自生命之城的回复信。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T153133Z" creationid="Longbell" creationdate="20220414T153133Z">
+        <seg>Half an hour later, the castle received the response letter from the City of Life.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>半个小时后，麦格出门把卢西恩的车夫和护卫叫进来，把喝得酩酊大醉的两位大人抬走。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -51106,6 +51114,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The boss of the darts stall was trembling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>飞鹰从城堡中飞出，向着生命之城的方向飞去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220414T153052Z" creationid="Longbell" creationdate="20220414T153052Z">
+        <seg>The eagle took off from the castle and flew towards the City of Life.</seg>
       </tuv>
     </tu>
     <tu>
