@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21454,6 +21454,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“阿尔宾，快走！”老精灵将乔的尸体背负在背上，仰头冲着阿尔宾叫道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083423Z" creationid="sitong" creationdate="20220414T083423Z">
+        <seg>"Albin, leave!" The old elf carried Joe's body on his back as he shouted at Albin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“阿紫，从通道进去！”麦格跳上了飞到身旁的紫纹狮鹫，然后靠近伊琳娜一把揽住她的腰，直接一头扎入五星战舰的通道之中。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220411T105305Z" creationid="Longbell" creationdate="20220411T104901Z">
@@ -24870,6 +24878,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>两只飞行坐骑已经升空，向着阿尔宾的方向飞来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083403Z" creationid="sitong" creationdate="20220414T083403Z">
+        <seg>Two flying steeds rose to the sky towards Albin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>两道下酒菜太少？</seg>
       </tuv>
       <tuv lang="en-US">
@@ -26554,6 +26570,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>He followed after Seely. Even though he was just an intermediate magic caster, he could clearly sense Seely's rage and the unstable magical elements around him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他转头看着栏杆之外的世界，苍茫的天空，无尽的绿野，还有……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083602Z" creationid="sitong" creationdate="20220414T083602Z">
+        <seg>Albin turned to look at the world outside of the fence, the boundless sky and endless vegetation, as well as...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30270,6 +30294,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>同时有守卫发现了站栏杆上的阿尔宾，怒喝道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083347Z" creationid="sitong" creationdate="20220414T083347Z">
+        <seg>At the same time, a guard discovered Albin who was standing on the pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>同时，他还委婉的指出了一些安妮这本漫画上的一些分镜问题。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32250,6 +32282,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>There was already no place for Josh to hide in this vast world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>天空中那只俯冲而来的紫纹狮鹫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083630Z" creationid="sitong" creationdate="20220414T083630Z">
+        <seg>A purple-striped griffin in the sky, diving down.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49170,6 +49210,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T083141Z" creationid="sitong" creationdate="20220414T083141Z">
         <seg>Albin climbed up to the highest pole and witnessed the scene. He pulled the rope hanging Joe's body to the pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>阿尔宾看着这个熟悉的农场，没有半点的温情，就像是一个吃人的怪兽，只有无限的恐惧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T083507Z" creationid="sitong" creationdate="20220414T083507Z">
+        <seg>Albin looked at this familiar farm. There was no warmth at all. It was just like a carnivorous monster and there was only endless fear of it.</seg>
       </tuv>
     </tu>
     <tu>
