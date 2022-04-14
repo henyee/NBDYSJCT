@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -226,6 +226,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It must be a very special kind of providence." Mag nodded with a smile. He flicked a glance at her slightly quivering calves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“一百万铜币呢，好多小钱钱。”艾米又在一旁坐下了，掰着手指盘算着。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T100329Z" creationid="sitong" creationdate="20220414T100329Z">
+        <seg>"It's 1 million copper coins, that's a lot of money." Amy sat at the side again as she counted her fingers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4638,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“可是我们要怎么办呢？”埃菲皱眉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T100448Z" creationid="sitong" creationdate="20220414T100448Z">
+        <seg>"But what should we do then?" Eiffie furrowed her brows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“可是我想学呢。”艾米伸手抓住了麦格的两根手指，轻轻晃着，央求道：“我也想学一个简单的菜呢，这样下次就可以做给大家吃了。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -5322,6 +5338,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Good morning, Mr. Hades."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哈迪斯先生的意思是……烧掉酒窖和酒馆，然后把我交给那个幕后凶手吗？”埃菲看着麦格，脸色微变。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T100308Z" creationid="sitong" creationdate="20220414T100308Z">
+        <seg>"Mr. Hades, what you mean is... burn the cellar and tavern, and then hand me over to the mastermind?" Eiffie looked at Mag as her expression changed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20418,6 +20442,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"This wine is not bad. It aids sleep," Irina mumbled to herself as she opened the door to go downstairs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这里不是还有一个工具人吗？”麦格笑着在那巨汉身边蹲下，笑着拍了拍肩膀道：“是吧？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T100519Z" creationid="sitong" creationdate="20220414T100519Z">
+        <seg>"Don't we have someone here?" Mag smiled and squatted beside the man. He patted the man's shoulder and said, "Am I right?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -53034,6 +53066,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T095441Z" creationid="Longbell" creationdate="20220404T090925Z">
         <seg>Mag said to Xi, "You can keep the aura on me, but the premise is you have to help conceal the aura on Annie. Otherwise, I can't promise you can still keep its soul after you arrive next there."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格看着有些紧张的埃菲和玛拉，连忙笑着摇头道：“不要误会，我是说，我们可以导演一场戏，亲自去会会那个幕后黑手。当然，酒馆是不能烧的，酒窖也不能毁掉。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220414T100431Z" creationid="sitong" creationdate="20220414T100330Z">
+        <seg>Mag looked at the nervous Eiffie and Mala and quickly shook his head. He said with a smile, "Don;t misunderstand me. What I'm saying is we can put up a show to meet that mastermind. Of course, we can't burn the tavern or the cellar."</seg>
       </tuv>
     </tu>
     <tu>
