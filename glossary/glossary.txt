@@ -2942,3 +2942,4 @@ DVD	DVD
 奴隶圈	slaves' circle
 德克	Dirk
 暴徒	assailant
+卡巴斯	Kabas
