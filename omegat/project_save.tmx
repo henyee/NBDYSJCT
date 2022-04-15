@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33970,6 +33970,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T071919Z" creationid="Longbell" creationdate="20220404T071919Z">
         <seg>Three minutes later, the empty space vibrate and a five-pointed-star-shaped spaceship appeared and hovered above the bamboo forest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>大约十五分钟后，里面再次响起了那沙哑的声音，“久等了，经过我们的核实，泰坦酒馆的老板的确被人抓走了，看来她在你手里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T162835Z" creationid="sitong" creationdate="20220415T162835Z">
+        <seg>About 15 minutes later, the hoarse voice sounded again. "Apologies for the wait. After checking, we've ascertained that the owner of Titan Tavern was indeed captured. It seemed like she's in your hands.</seg>
       </tuv>
     </tu>
     <tu>
