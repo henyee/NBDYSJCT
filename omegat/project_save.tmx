@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8614,6 +8614,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好的，请稍等，我们需要核实一下。”沙哑的声音响起，然后便彻底没了声音。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T162452Z" creationid="sitong" creationdate="20220415T162452Z">
+        <seg>"Alright. Please hold on. We have to check." The hoarse voice sounded before silence fell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好的，谢谢。”麦格点点头，然后就直接走了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220415T141831Z" creationid="sitong" creationdate="20220415T141831Z">
@@ -11450,6 +11458,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"We need to go to the Hulk Tribe now," Rex told Connie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们的勇敢的佣兵，完成了什么任务呢？”一道沙哑的声音从空洞后方传来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T161537Z" creationid="sitong" creationdate="20220415T161537Z">
+        <seg>"Brave mercenary. What mission have you completed?" came a hoarse voice from behind the wall.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17354,6 +17370,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"System, in that case, have I completed my mission?" Amy asked inside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“绑了一个女人。”麦格在那条木凳上坐下，将那块令牌随手丢进了那个黑色的孔洞，神情漫不经心，目光却是在细细打量着那幽黑的孔洞。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T162230Z" creationid="sitong" creationdate="20220415T162230Z">
+        <seg>"Kidnapped a woman." Mag took a seat on the wooden stool and threw that tablet into that black hole. He looked as if he did not care but was actually carefully observing the hole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30266,6 +30290,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T054445Z" creationid="sitong" creationdate="20220329T054445Z">
         <seg>Remaining spiritual activity fluctuations had been removed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>办事处自然不可能一片漆黑，那不过是一个高级的障眼法。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T162314Z" creationid="sitong" creationdate="20220415T162314Z">
+        <seg>A working place could not be in complete darkness, of course. That was just a very high-level illusion.</seg>
       </tuv>
     </tu>
     <tu>
