@@ -32504,8 +32504,8 @@
       <tuv lang="zh-CN">
         <seg>在任务单旁有一块木牌，拿了木牌等于是接下了任务，一个联络点只有一个任务名额。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220415T155253Z" creationid="sitong" creationdate="20220415T155253Z">
-        <seg>There was a wooden plaque beside each mission. Taking the wooden plaque would mean that you've accepted the mission. There was </seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T155340Z" creationid="sitong" creationdate="20220415T155253Z">
+        <seg>There was a wooden plaque beside each mission. Taking the wooden plaque would mean that you've accepted the mission. There was only one mission slot in each contact point.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38242,6 +38242,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Hence, when the Holy See sent the archbishop, and said they wanted to look for Little Boss, Canault had been a little worried.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>所以有些高佣金任务出现的时候，为了争抢任务大打出手的事情并不少见。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T155413Z" creationid="sitong" creationdate="20220415T155413Z">
+        <seg>Therefore, when a high-reward mission, a fight breaking out for the mission would be quite common.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52730,6 +52738,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag had no idea how the shop owner managed to make the mung beans in the mung bean pancake so hard. It was indeed the worst experience to bite into a hard mung bean in a soft pastry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格也凑上前扫了几眼，任务千奇百怪，杀人的能占到三分之一，还有求购各种魔兽幼崽、精灵女仆、魅魔小姐、哥布林萝莉……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T155610Z" creationid="sitong" creationdate="20220415T155610Z">
+        <seg>Mag went over to glance at the missions. There were many strange missions. Killing someone took up around a-third of the list and there were other like requests to buy the pups of magic beasts, elf maids, succubus ladies, goblin lolitas...</seg>
       </tuv>
     </tu>
     <tu>
