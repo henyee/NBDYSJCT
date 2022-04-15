@@ -2943,3 +2943,5 @@ DVD	DVD
 德克	Dirk
 暴徒	assailant
 卡巴斯	Kabas
+凶手	perpetrator
+衙门	court
