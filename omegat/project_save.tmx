@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39582,6 +39582,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>最后，他还是托词要去衙门录口供，才得以从热情的吃瓜群众中抽身离开。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T141332Z" creationid="sitong" creationdate="20220415T141332Z">
+        <seg>In the end, he was only able to escape from the passionate nosy parkers by saying that he had to go to the court to give his statement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>最终诺亚选了一栋位于角落里的黑色二层小楼，一楼原本是一家小茶馆，二楼封闭性较好，老旧的家具一应俱全，而且原主人还留了两床破棉被在这里。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -43290,6 +43298,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T090016Z" creationid="Longbell" creationdate="20220414T090016Z">
         <seg>Chapter 2101: Kill Those Who Are Not Fit To Be Called Elves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百零七章 黑市是真的黑</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T101842Z" creationid="sitong" creationdate="20220415T101842Z">
+        <seg>Chapter 2107: The Black Market Is Really Black</seg>
       </tuv>
     </tu>
     <tu>
@@ -53170,6 +53186,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag was rather familiar with Blum. After all, when Alex was in his prime, Blum was only a lowly soldier in the military.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格将昨晚发生的事情，添油加醋的说了一番，激烈程度，不亚于常威打来福。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T141119Z" creationid="sitong" creationdate="20220415T141119Z">
+        <seg>Mag repeated what happened, adding a little salt and pepper to hype it up.</seg>
       </tuv>
     </tu>
     <tu>
