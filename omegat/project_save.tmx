@@ -5606,6 +5606,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“哈迪斯老板，这今天如果有关于这个案子的任何消息，请及时和我们联系。”工作人员把麦格送到门口，叮嘱道：“还有，你也要注意安全。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T141821Z" creationid="sitong" creationdate="20220415T141821Z">
+        <seg>"Boss Hades, if you have any news of this case today, please contact us immediately." The staff member reminded Mag after walking him to the door, saying, "Also, do be careful."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“哈迪斯？”费奇抬起头来，思考了一会，突然眼睛一瞪，露出了几分惊色。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220409T131042Z" creationid="sitong" creationdate="20220409T131038Z">
@@ -8586,6 +8594,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Alright, please give me a minute." Mag nodded and went into the kitchen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好的，谢谢。”麦格点点头，然后就直接走了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T141831Z" creationid="sitong" creationdate="20220415T141831Z">
+        <seg>"I will. Thank you." Mag nodded and left.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39562,6 +39578,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T161312Z" creationid="sitong" creationdate="20220410T161312Z">
         <seg>Before Xi even arrived, Noya, who was on the griffin's back, called out as he pointed towards the north.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>暴徒现在还被关在他家楼顶呢，昨晚他从他口中获得了一些关于黑市的信息。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T141945Z" creationid="sitong" creationdate="20220415T141945Z">
+        <seg>The assailant was still locked up in his attic. Mag had gotten some news about the black market from the assailant last night.</seg>
       </tuv>
     </tu>
     <tu>
