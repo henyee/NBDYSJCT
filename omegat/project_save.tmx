@@ -12342,6 +12342,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我要杀了你们！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T145002Z" creationid="Longbell" creationdate="20220415T145002Z">
+        <seg>"I'm going to kill you guys!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我要这个玉米做成的大饼，三个！然后要这个看起来不错的汤，三碗！还有这个蛋，要……四个，还有这个，这个，这个……”艾米已经迫不及待的开始点餐，看起来有好多想吃的东西呢。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T083309Z" creationid="Longbell" creationdate="20220403T083309Z">
@@ -36386,6 +36394,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T133630Z" creationid="Longbell" creationdate="20220415T133630Z">
         <seg>The strapping guy lifted the huge axe again and panted hard. He should be able to resolve this horrible cellar's door after this strike of the axe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>巨汉心中虽然震惊不已，但也暴怒无双，双手握着大板斧，再次迈着大步向着艾米冲来，板斧之上，黑光闪耀，不再留手。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T145738Z" creationid="Longbell" creationdate="20220415T145738Z">
+        <seg>Although the big guy was shocked, he was also furious. He dashed towards Amy, grabbing the axe with both hands. Black glow glistened on the axe and he wasn't holding back anymore.</seg>
       </tuv>
     </tu>
     <tu>
