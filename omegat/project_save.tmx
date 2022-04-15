@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不……不用了。”麦格眉梢微挑，这黑市……还真他娘的会做生意啊？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T163101Z" creationid="sitong" creationdate="20220415T163101Z">
+        <seg>"It's... it's okay." Mag raised hsi brow. This black market... is really good at making business?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“不了，茅台已经是最好的了。”麦格摇摇头。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T141818Z" creationid="Longbell" creationdate="20220407T141806Z">
@@ -5714,6 +5722,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Oh, no, these are all cucumbers that I did not smash well. I can't use it to make Smashed Cucumber Salad," Mag said with a shake of his head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哦，你是有放了火，不过被住在她对面的那家酒馆的老板灭了，如果有需要的话，你可以在这里发布一个报复的任务。”里边传来了稍显轻快的声音。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T163040Z" creationid="sitong" creationdate="20220415T163040Z">
+        <seg>"Oh, you did set it on fire but it was put out by the owner fo the tavern in front. If there is a need, you can always launch a revenge mission," the voice said in a rather light-hearted way.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11162,6 +11178,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T110353Z" creationid="sitong" creationdate="20220327T110353Z">
         <seg>"I... I'm still learning," Eiffie emphasised.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我……明明……明明放了火的。”麦格啐了一口唾沫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T162943Z" creationid="sitong" creationdate="20220415T162943Z">
+        <seg>"I... did... did light them on fire." Mag spat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25198,6 +25222,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不过这个任务之一，是烧掉酒窖和酒馆，很可惜你没有完成，按照规矩，你只能拿到一半的佣金。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T162921Z" creationid="sitong" creationdate="20220415T162921Z">
+        <seg>But this is just one of the mission. A pity you did not complete the mission of burning the cellar and tavern down. According to the rules, you could only get half the reward."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不过这也给麦格提了个醒。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -33976,8 +34008,8 @@
       <tuv lang="zh-CN">
         <seg>大约十五分钟后，里面再次响起了那沙哑的声音，“久等了，经过我们的核实，泰坦酒馆的老板的确被人抓走了，看来她在你手里。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220415T162835Z" creationid="sitong" creationdate="20220415T162835Z">
-        <seg>About 15 minutes later, the hoarse voice sounded again. "Apologies for the wait. After checking, we've ascertained that the owner of Titan Tavern was indeed captured. It seemed like she's in your hands.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T162849Z" creationid="sitong" creationdate="20220415T162835Z">
+        <seg>About 15 minutes later, the hoarse voice sounded again. "Apologies for the wait. After checking, we've ascertained that the owner of Titan Tavern was indeed captured. It seems she's in your hands.</seg>
       </tuv>
     </tu>
     <tu>
