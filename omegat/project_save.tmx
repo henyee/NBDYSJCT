@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26726,6 +26726,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>人们在这里进行不可见光的交易，奴隶、性命、精灵……只要你有钱，黑市能够满足你的一切需求。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T150844Z" creationid="sitong" creationdate="20220415T150844Z">
+        <seg>People would do secret transactions here, of slaves, lives, elves... as long as you have the money, the black market can satisfy all your needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>人们很快在酒柜后的显眼处看到了两款酒的标价和几样配菜的标价。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -30730,6 +30738,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The God of Cookery was after 100% of perfection. Even the slightest mistake couldn't be tolerated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>去黑市前，麦格又找了两家情报所，花钱买了些关于黑市的资料。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T150544Z" creationid="sitong" creationdate="20220415T150544Z">
+        <seg>Before going to the black market, Mag found another two Information Centers to buy some information about the black market.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48782,6 +48798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>过了五条街，拐进一条巷子，等从另一个口子出来的时候，麦格已经换了个装，成了一个满脸络腮胡的肥圆大汉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T142055Z" creationid="sitong" creationdate="20220415T142055Z">
+        <seg>After walking past five streets and turning into an alley, Mag had already changed into a large burly man with a moustache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>过了好一会，她才将绘本放下，起身从架子上取了一个酒杯，给自己倒了一杯酒，从盒子里抓了一把酒鬼花生，坐在窗边，独自饮酒。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T095245Z" creationid="Longbell" creationdate="20220404T095245Z">
@@ -50338,6 +50362,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T071121Z" creationid="sitong" creationdate="20220411T071121Z">
         <seg>This was not an opponent of their level. Even if the Devil did not do anything, he could not kill it too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这模样打扮也是有些讲究的，诨号卡巴斯，是黑市道上的一个狠角色，可惜是个结巴，人狠话不多。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T150443Z" creationid="sitong" creationdate="20220415T150443Z">
+        <seg>This was a makeup that he put thought into, code named Kabas. Kabas is a ruthless character in the black market but a pity he stuttered so he was not a man of much words.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55843,6 +55875,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Golden Dragon Island.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑市，是洛都城地下世界的一个秘密组织。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T150605Z" creationid="sitong" creationdate="20220415T150605Z">
+        <seg>The black market was a secret organization in the underground world of Rodu.</seg>
       </tuv>
     </tu>
     <tu>
