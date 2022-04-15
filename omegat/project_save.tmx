@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -44870,6 +44870,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>经过一条长长的通道，一个颇为宽敞的大厅出现。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T152608Z" creationid="sitong" creationdate="20220415T152608Z">
+        <seg>After walking through the long tunnel, a spacious hall appeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>经过几天的疗养，梅兰特的伤势已经恢复的差不多。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -49814,6 +49822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这对于麦格来说无疑是一个好消息。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T152112Z" creationid="sitong" creationdate="20220415T152112Z">
+        <seg>This was no doubt good news to Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这导致洛斯帝国西北联军入侵的时候，兽人族没有足够的强者与对方强者进行对线，甚至无人组织，各大小部落各自为战，从而被一一击破。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -51122,6 +51138,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T150113Z" creationid="Longbell" creationdate="20220331T150113Z">
         <seg>It was a red wood counter with a marble countertop. The surface was as smooth as mirror and its sides were also round and smooth. It made her reveal a perplexed look.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那是一个颇为破落的平房，亮了狗牌进入之后，领了个破面具戴头上，跟着一个浑身被黑袍笼罩的小个子进了地下通道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T152512Z" creationid="sitong" creationdate="20220415T152512Z">
+        <seg>It was a rather run-down house. After showing his tablet and entering, mag colelcted a broken mask and wore it. After that, he followed a chap clad in a black robe and entered a underground tunnel. </seg>
       </tuv>
     </tu>
     <tu>
@@ -52962,6 +52986,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag chopped off a wing, and put it in Ugly Duckling's bowl. The little fellow had been salivating.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格去了最近的一个黑市联络点。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T152206Z" creationid="sitong" creationdate="20220415T152206Z">
+        <seg>Mag went to the closest black market contact point.</seg>
       </tuv>
     </tu>
     <tu>
