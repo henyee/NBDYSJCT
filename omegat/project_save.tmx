@@ -38656,8 +38656,8 @@
       <tuv lang="zh-CN">
         <seg>掀开黑色的帘子，一条通道出现，通道前站着两黑袍人，伸手拦住了麦格。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220415T155859Z" creationid="sitong" creationdate="20220415T155859Z">
-        <seg>he raised the black curtain and a tunnel appeared. There were two men in</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T155925Z" creationid="sitong" creationdate="20220415T155859Z">
+        <seg>he raised the black curtain and a tunnel appeared. There were two men in black robe standing in front of the tunnel. The reached out to stop Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52818,6 +52818,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Only after Mag took out all sorts of ingredients from the fridge did he see the slash on the cutting table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格从怀中掏出了一块黑色的令牌，直接丢了过去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T161206Z" creationid="sitong" creationdate="20220415T161206Z">
+        <seg>Mag pulled out a black tablet from his pocket and threw it over.</seg>
       </tuv>
     </tu>
     <tu>
