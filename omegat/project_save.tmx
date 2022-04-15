@@ -28702,6 +28702,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伴着一声脆响，一道道裂纹出现在那魔法屏障之上，迅速蔓延而去，然后彻底崩碎。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T102558Z" creationid="Longbell" creationdate="20220415T102558Z">
+        <seg>With a crisp sound, cracks began to appear on the magical screen and spread out rapidly before finally crumbling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伴着一声闷响，那条腿便被砸的直接弯折。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T082752Z" creationid="sitong" creationdate="20220414T082752Z">
@@ -31642,6 +31650,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T160738Z" creationid="Longbell" creationdate="20220331T160738Z">
         <seg>Crunch~</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>咔嚓……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T102420Z" creationid="Longbell" creationdate="20220415T102420Z">
+        <seg>Crunch...</seg>
       </tuv>
     </tu>
     <tu>
