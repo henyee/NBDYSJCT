@@ -23574,6 +23574,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一声闷响。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T143737Z" creationid="Longbell" creationdate="20220415T143737Z">
+        <seg>A dull thud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一声闷响在地窖中回荡，埃菲的手被震的发麻，连忙松开握着把手的手。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T201457Z" creationid="Longbell" creationdate="20220414T201409Z">
@@ -26058,6 +26066,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Main page showed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>举着斧头的巨汉瞬间倒飞出去，然后被嵌在了墙上，瞪大的眼睛，满是难以置信。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T143936Z" creationid="Longbell" creationdate="20220415T143936Z">
+        <seg>The big guy with the axe flew backwards and then got stuck to the wall. He widened his eyes with disbelief.</seg>
       </tuv>
     </tu>
     <tu>
