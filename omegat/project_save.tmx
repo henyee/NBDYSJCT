@@ -32502,6 +32502,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>在任务单旁有一块木牌，拿了木牌等于是接下了任务，一个联络点只有一个任务名额。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T155253Z" creationid="sitong" creationdate="20220415T155253Z">
+        <seg>There was a wooden plaque beside each mission. Taking the wooden plaque would mean that you've accepted the mission. There was </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>在做饭的过程中，她更是几次三番吧差点将厨房给炸了，过程之惊悚，结果之平淡……</seg>
       </tuv>
       <tuv lang="en-US">
