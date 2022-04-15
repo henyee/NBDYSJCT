@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23710,6 +23710,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一旁的墙上挂满了手写的任务单，大厅里的人大都挤在那任务栏前看着，考虑领取什么任务。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T154916Z" creationid="sitong" creationdate="20220415T154916Z">
+        <seg>On the wall at the side, was a list of missions written by hand. The people in the hall were all looking at the missions, considering which one they should take up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一旁的小丫鬟也是有些气鼓鼓的看着麦格，怎么可以这样贬低自家小姐辛辛苦苦酿的酒。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T135417Z" creationid="sitong" creationdate="20220325T135417Z">
@@ -33790,6 +33798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>大厅里有不少人，看模样都颇为彪悍，特征明显，脸上的面具也就是个摆设。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T152718Z" creationid="sitong" creationdate="20220415T152718Z">
+        <seg>There were quite a lot of people in the hall who appeared rather ferocious. They had obvious physical characteristics so the masks on their faces were just for show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>大多数人都不看好艾米，毕竟小家伙拿着竹圈看着都觉得费劲，更别说丢出去套中鹅了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -40526,6 +40542,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>比如麦格就被前边那个肩上扛着巨大的向日葵花的姑娘吸引了目光，心想那瓜子剥下来，仁可不比核桃仁都大颗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T154406Z" creationid="sitong" creationdate="20220415T154406Z">
+        <seg>For example, Mag's attention was immediatley drawn to the lady in front with a large sunflower on her shoulder. Mag was thinking if the sunflower seeds would be bigger than a walnut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>比如：‘但凡多次两颗花生米，也不至于醉成这样。’</seg>
       </tuv>
       <tuv lang="en-US">
@@ -41522,6 +41546,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Chaos City, the Buffett Manor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>混迹江湖嘛，多少都想闯荡出点名头来，所以一般都会把自己打扮的特别一些，最好是一出场就能被扔出来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220415T152814Z" creationid="sitong" creationdate="20220415T152814Z">
+        <seg>Thos who roamed the world would more or less wish they could gain some fame so they would always dress up in a peculiar way so that they could be recognized the moment they appear.</seg>
       </tuv>
     </tu>
     <tu>
