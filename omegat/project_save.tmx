@@ -40046,6 +40046,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>每一斧头砍下，地窖盖上的光罩就会一阵晃动，光芒减弱几分，摇摇欲坠。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T101053Z" creationid="Longbell" creationdate="20220415T101053Z">
+        <seg>The light shield on the cellar's cover would vibrate every time the axe struck. It would get dimmer and more fragile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>每个人都会收藏一堆健身、烹饪、旅行的教程放在收藏夹里，却永远不会打开第二次。</seg>
       </tuv>
       <tuv lang="en-US">
