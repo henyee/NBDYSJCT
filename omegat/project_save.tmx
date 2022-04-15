@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1610,6 +1610,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The boss looked at Irina, and enviously said, "Your wife is much more beautiful than his eight wives combined."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“人找到了吗？”伊琳娜看着麦格问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T163835Z" creationid="Longbell" creationdate="20220415T163835Z">
+        <seg>"Did you find the person?" Irina asked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5800,8 +5808,8 @@
       <tuv lang="zh-CN">
         <seg>“哦，是邻居啊。”巨汉把手里的斧头慢慢放下，狰狞的脸上露出了几分憨厚的笑容，打量了一眼麦格，确定他只是一个弱鸡的普通男人，提着斧头慢慢向他走去。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220415T140838Z" creationid="Longbell" creationdate="20220415T140838Z">
-        <seg>"Oh. You're neighbors." The bulky guy put down the axe slowly. A silly smile appeared on his ferocious face. He sized up Mag, making sure that he was just a weak and ordinary man before he walked slowly towards Mag with the axe.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162737Z" creationid="Longbell" creationdate="20220415T140838Z">
+        <seg>"Oh. You're the neighbors." The bulky guy put down the axe slowly. A silly smile appeared on his ferocious face. He sized up Mag, making sure that he was just a weak and ordinary man before he walked slowly towards Mag with the axe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6042,6 +6050,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Ah… you're too much. You went to eat roasted lamb shanks without us. I'm going to cry…" Amy pouted, and tears started welling up in her eyes immediately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“啊……你回来了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T163715Z" creationid="Longbell" creationdate="20220415T163715Z">
+        <seg>"Ah...You're back."</seg>
       </tuv>
     </tu>
     <tu>
@@ -12272,8 +12288,8 @@
       <tuv lang="zh-CN">
         <seg>“我知道你缺钱，但你缺的不是地上的这些钱。”麦格绕到了另一边，然后一脚踩住了他的另一只手，慢慢增加力道，继续微笑着问道：“所以，是谁答应给你一笔更多的钱，让你对付埃菲老板娘的？”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162209Z" creationid="Longbell" creationdate="20220415T162209Z">
-        <seg>"I knew you need money, but you don't need those money on the floor." Mag went to the other side and then stepped onto his other hand. He gradually stepped harder as he smilingly asked, "So, who promised to give you more money to deal with Lady Boss Eiffie?"</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162751Z" creationid="Longbell" creationdate="20220415T162209Z">
+        <seg>"I knew you need money, but you don't need the money on the floor." Mag went to the other side and then stepped onto his other hand. He gradually stepped harder as he smilingly asked, "So, who promised to give you more money to deal with Lady Boss Eiffie?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15610,6 +15626,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T162017Z" creationid="Longbell" creationdate="20220415T153826Z">
         <seg>"No one sent me. I came myself! I knew they earned a lot of money today. I need money." The big guy roared lowly as he stared at Mag with bloodshot eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没有，对方比较狡猾，我拿到了地点，但那里没有人，应该是有人盯梢，得看到埃菲小姐的确出现在那里，才会有人出来接头。”麦格摇头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T164049Z" creationid="Longbell" creationdate="20220415T164049Z">
+        <seg>"No. The other party is very cunning. I got the location but there was no one there. There should be someone keeping watch. They would only appear when Miss Eiffie shows up." Mag shook his head and said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43166,6 +43190,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>看来埃菲已经把昨晚发生的事情和伊琳娜说了一遍。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T163853Z" creationid="Longbell" creationdate="20220415T163853Z">
+        <seg>It seemed like Eiffie had already explained last night's incident to Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>看样子酒馆已经开始营业，所以他伸手推开门走了进去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -43786,6 +43818,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T102144Z" creationid="sitong" creationdate="20220414T102144Z">
         <seg>Chapter 2016: Is Your Wife Not At Home?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百零四章 给小爷爬！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162706Z" creationid="Longbell" creationdate="20220415T162706Z">
+        <seg>Chapter 2104: Crawl For Me!</seg>
       </tuv>
     </tu>
     <tu>
@@ -53614,6 +53654,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格回到酒馆的时候，伊琳娜和埃菲正在喝茶。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T163705Z" creationid="Longbell" creationdate="20220415T163705Z">
+        <seg>Irina and Eiffie were drinking tea when Mag returned to the tavern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格回到酒馆，先拿了一瓶茅台送到埃菲那里。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T133140Z" creationid="Longbell" creationdate="20220326T133140Z">
@@ -54602,6 +54650,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag was slightly disappointed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格有点心虚，不过看着相对而坐的两人，气氛好像比他预想中的更和谐一点。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T163819Z" creationid="Longbell" creationdate="20220415T163819Z">
+        <seg>Mag felt a little guilty, but the ambiance between the two people sitting across from each other seemed better than he had anticipated.</seg>
       </tuv>
     </tu>
     <tu>
