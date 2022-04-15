@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12806,6 +12806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“抱歉哦，我你以为你会更硬一点的。”麦格有点歉然的看着惨叫的巨汉，收回脚的同时，在他的身上擦了擦鞋底。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162617Z" creationid="Longbell" creationdate="20220415T162617Z">
+        <seg>"Oops, sorry. I thought you would be tougher." Mag looked at the screaming big guy apologetically. Mag wiped the bottom of his sole on him when he retracted his foot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“抱歉，我为自己先前鲁莽的话语道歉。”麦格歉然道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T105146Z" creationid="sitong" creationdate="20220327T105146Z">
@@ -23134,6 +23142,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“黑市！是黑市任务！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162418Z" creationid="Longbell" creationdate="20220415T162418Z">
+        <seg>"Black market! It's a black market assignment!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“龙族，兰克斯特，我会找到他。”晞微微点头，这是她从麦格这里获得的唯一有价值的消息。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T134544Z" creationid="Longbell" creationdate="20220402T134544Z">
@@ -27582,6 +27598,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>他的左手也被踩爆了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162453Z" creationid="Longbell" creationdate="20220415T162453Z">
+        <seg>His left hand was crushed too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>他的目光重新落到了伊琳娜的身上，神色已经恢复了从容，作为一个男人，家庭地位是要靠自己争取的，岂能这样被动挨打，失了男人本色。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T141501Z" creationid="Longbell" creationdate="20220326T141501Z">
@@ -27658,6 +27682,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T140708Z" creationid="Longbell" creationdate="20220326T140708Z">
         <seg>He looked at Amy who was holding onto her diary at the side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他知道麦格不是在吓唬他，他是真的会踩爆他的手指的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162357Z" creationid="Longbell" creationdate="20220415T162357Z">
+        <seg>He knew Mag wasn't scaring him. He would really crush his fingers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36554,6 +36586,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T101752Z" creationid="Longbell" creationdate="20220415T101752Z">
         <seg>The strapping guy was laughing. This meant that the barrier could hold for long. He would be able to smash open the cellar's door soon and then catch the two beauties inside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>巨汉惊恐的叫出声来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162438Z" creationid="Longbell" creationdate="20220415T162438Z">
+        <seg>The big guy shouted out in fright.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>巨汉惊恐的看着自己的左手手指在麦格的脚下开始变形，关节发出了咯吱的声响，钻心的疼痛感再次来袭。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T162335Z" creationid="Longbell" creationdate="20220415T162335Z">
+        <seg>The big guy watch his left fingers slowly distort under Mag's foot with horror. His joints began to make cracking sounds and the heartwrenching pains came again.</seg>
       </tuv>
     </tu>
     <tu>
