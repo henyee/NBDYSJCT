@@ -2941,3 +2941,4 @@ DVD	DVD
 领地	fiefdom
 奴隶圈	slaves' circle
 德克	Dirk
+暴徒	assailant
