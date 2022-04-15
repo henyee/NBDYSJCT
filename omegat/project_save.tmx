@@ -17366,6 +17366,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“给小爷爬！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T143949Z" creationid="Longbell" creationdate="20220415T143949Z">
+        <seg>"Crawl for me!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“给我找到他，但关于这件事的任何消息，我都不想在其他地方听到。”安德烈冷声道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -46842,6 +46850,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T095751Z" creationid="sitong" creationdate="20220414T095751Z">
         <seg>Amy said as she lifted a chair in one hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米单手领着小折叠椅，看着那巨汉奶声奶气的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T144737Z" creationid="Longbell" creationdate="20220415T144737Z">
+        <seg>Amy held onto that little folding chair and said to that big guy childishly.</seg>
       </tuv>
     </tu>
     <tu>
