@@ -52022,6 +52022,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>魔法屏障已经被砍破，埃菲清楚那个可怕的暴徒马上就能进来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T131236Z" creationid="Longbell" creationdate="20220415T131236Z">
+        <seg>The magical screen was already broken. Eiffie knew very well that scary assailant could enter very soon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>魔法师往身上拍了数张防护符，身形向后暴退的同时，高举手中的魔法棒，吟唱着魔法咒语。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T154816Z" creationid="Longbell" creationdate="20220403T154816Z">
