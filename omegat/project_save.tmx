@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39302,6 +39302,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>是的，他被一个看起来只有四岁的小奶娃拍飞了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T152026Z" creationid="Longbell" creationdate="20220415T152026Z">
+        <seg>Yes, he was sent flying by a little girl who seemed to be only four years old.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>是的，她开始有点嫉妒伊琳娜了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T133428Z" creationid="sitong" creationdate="20220414T133424Z">
@@ -45434,6 +45442,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T105756Z" creationid="Longbell" creationdate="20220412T105756Z">
         <seg>Furthermore, I am making cannons to maintain this world's stability. Isn't it too much to say that I trigger upheavals?" Mag said with pursed lips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而且是用折叠椅，一连两次被拍飞。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T152058Z" creationid="Longbell" creationdate="20220415T152058Z">
+        <seg>Furthermore, it was done by a folding chair twice.</seg>
       </tuv>
     </tu>
     <tu>
