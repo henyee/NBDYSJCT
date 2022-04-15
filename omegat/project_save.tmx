@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9566,6 +9566,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“小姐你听！是哈迪斯先生的声音！”玛拉突然指着上方惊喜的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T141909Z" creationid="Longbell" creationdate="20220415T141909Z">
+        <seg>"Listen, Miss! it's Mr. Hades' voice!" Mala suddenly pointed upwards and exclaimed happily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“小姐是不想这世上再也没有泰坦酒，你知道这些年她有多努力吗？在老爷和夫人去世前，她可是从来没有酿过酒的。”小丫鬟憋红了脸说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T105549Z" creationid="sitong" creationdate="20220327T105549Z">
@@ -13656,8 +13664,8 @@
       <tuv lang="zh-CN">
         <seg>“是啊，我们都准备睡觉觉了呢，被你吵醒了。”艾米嘟着小嘴看着那大汉，“你真是一个糟糕的大家伙。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220415T141131Z" creationid="Longbell" creationdate="20220415T141131Z">
-        <seg>"Yes. We're already prepared to go to bed when you woke us up." </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T141816Z" creationid="Longbell" creationdate="20220415T141131Z">
+        <seg>"Yes. We're already prepared to go to bed when you woke us up." Amy looked at that big guy with a pout. "You're really a terrible big fellow."</seg>
       </tuv>
     </tu>
     <tu>
@@ -24714,6 +24722,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>However, her cooking talent was the direct opposite of her magical talent. Her cook talent was extremely bad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不过她很快听到了艾米的声音，脸上又是露出了慌乱之色，抬着头，用自己最大的声音叫道：“快跑！哈迪斯先生！他是一个暴徒！！！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T142203Z" creationid="Longbell" creationdate="20220415T142203Z">
+        <seg>However, she soon heard Amy's voice and panic appeared on her face again. She looked up and called out with her loudest voice, "Run! Mr. Hades! He's a thug!!!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -39802,6 +39818,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The boss, who was about to pack up and return home, heard that, and his eyes lit up. He went forward, and smilingly said, "Why don't you sell them to me? It will save you the time and effort."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>本来已经等待着那暴徒砍下最后一斧的埃菲，也是猛然抬起头来，心中一下子升起了希望。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220415T142001Z" creationid="Longbell" creationdate="20220415T142001Z">
+        <seg>Eiffie, who was already waiting for the assailant to strike the last time, looked up suddenly too. Her heart was filled with hope.</seg>
       </tuv>
     </tu>
     <tu>
