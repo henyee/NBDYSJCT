@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15170,6 +15170,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Negative emotions from Mag +1 +1."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“来见个朋友。”麦格笑着跳下马车，看着快速驶离的马车，不紧不慢的向着三条街外的土楼巷走去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220416T093009Z" creationid="sitong" creationdate="20220416T093009Z">
+        <seg>"Here to meet a friend." Mag jumped down the horse-drawn carriage with a smile and watched it drive off. After that, he walked leisurely towards Tulou alley that was three streets down.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34074,6 +34082,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The west city books square was, in fact, just a square that was formed by many bookshops. Almost half of the bookshops in Rodu were situated here, and almost all the magazine press set up their headquarters here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>城西是洛都城的贫民窟，土楼巷这一片更是偏僻，破落的街道两侧全是断壁残垣，路上都长满了野草，人迹罕至。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220416T095937Z" creationid="sitong" creationdate="20220416T095937Z">
+        <seg>The western side of Rodu was slums and the side of the Tulou alley was even more desserted. The sides of the streets were run-down, filled with houses falling apart. Weeds were growing by the side of the road and it was almost impossible to see a human.</seg>
       </tuv>
     </tu>
     <tu>
