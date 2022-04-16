@@ -39198,6 +39198,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>据相关人士介绍，涉案金额高达数亿。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220416T131016Z" creationid="sitong" creationdate="20220416T131016Z">
+        <seg>According to insider's information, the amount at stake was a few hundred million.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>据说现场还被纵火，好在新时代好邻居哈迪斯先生及时发现，将火焰扑灭，挽救了一些损失。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T103047Z" creationid="sitong" creationdate="20220414T103047Z">
@@ -41890,6 +41898,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Beyond Rodu, a furious voice echoed throughout a dark, spacious cave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>洛都城最有钱的酒馆老板数十年积蓄，被一扫而空。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220416T130927Z" creationid="sitong" creationdate="20220416T130927Z">
+        <seg>The savings of Rodu's wealthiest tavern owner was wiped clean.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46120,8 +46136,8 @@
       <tuv lang="zh-CN">
         <seg>而且就在衙门的人查封鲍里斯宅院之前，鲍里斯的金库被洗劫一空。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220416T130905Z" creationid="sitong" creationdate="20220416T130905Z">
-        <seg>On top of that, just before the people from court sealed Boris's mansion, his treasury was robbed clean.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220416T130929Z" creationid="sitong" creationdate="20220416T130905Z">
+        <seg>On top of that, just before the people from court sealed Boris's mansion, his treasury was robbed.</seg>
       </tuv>
     </tu>
     <tu>
