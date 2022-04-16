@@ -4878,6 +4878,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“可能要等一会，不过埃菲小姐放心，我会保护你的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T065720Z" creationid="Longbell" creationdate="20220416T065720Z">
+        <seg>"We may have to wait for a while, but don't worry, Miss Eiffie. I'll protect you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“可这些酒窖都贴着封条。”埃菲皱眉道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T143710Z" creationid="Longbell" creationdate="20220326T143710Z">
