@@ -4230,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“去吧。”那人吩咐道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T072355Z" creationid="Longbell" creationdate="20220416T072355Z">
+        <seg>"Go." That man instructed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“去吧，干活去。”埃菲挥了挥手，把玛拉赶出酿酒坊。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T134257Z" creationid="Longbell" creationdate="20220409T134257Z">
@@ -43782,6 +43790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>站在窗前的人缓缓转过身，赫然是那里斯酒馆的老板鲍里斯。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T072508Z" creationid="Longbell" creationdate="20220416T072508Z">
+        <seg>The person in front of the window turned around slowly and it was the boss of Reese Tavern, Boris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>站在餐厅门口沉默良久之后，歌洛璃娅又在餐厅外的长椅上坐了许久。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -56691,6 +56707,22 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The man in black robe turned his head in the direction of the mansion, and quickly became a cloud of black fog and disappeared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑袍人快步下楼离去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T072407Z" creationid="Longbell" creationdate="20220416T072407Z">
+        <seg>The man in black robe went downstairs and left.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑袍人脸上露出了一丝纠结，不过还是从怀中掏出了一颗药丸含在嘴里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T072322Z" creationid="Longbell" creationdate="20220416T072322Z">
+        <seg>A conflicted expression appeared on the man's face, but he still took out a pill and put it into his mouth.</seg>
       </tuv>
     </tu>
     <tu>
