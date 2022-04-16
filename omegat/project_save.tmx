@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1842,6 +1842,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Judging from the weak reaction on the septaria oracle, there isn't a mistake in the direction. It's just that the trails are a bit messy, so it won't be easy finding him," Merante said calmly with his eyes closed. The septaria oracle that was suspended before him spun gently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“他……他们……”埃菲被烟雾弹呛到，红着眼睛看着进门来的麦格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T174927Z" creationid="Longbell" creationdate="20220416T174927Z">
+        <seg>"Th-they..." Eiffie was choked by the smoke bomb and she looked at Mag with reddened eyes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24294,6 +24302,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一斧两断，这么残忍的画面，连麦格自己都不敢回头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T083755Z" creationid="Longbell" creationdate="20220416T083755Z">
+        <seg>He was cut into two by the ax. It was so cruel that Mag didn't even dare to turn and look.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一旁抱着鲜榨果汁吸着的艾米眼睛一亮，笑眯眯的看着诺亚道：“真的吗？那以后我可以叫你诺亚小弟弟吗？”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -24736,8 +24752,8 @@
       <tuv lang="zh-CN">
         <seg>三枚雷球在地上爆开，升起了几团烟雾。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220416T082751Z" creationid="Longbell" creationdate="20220416T082751Z">
-        <seg>Three thunder balls exploded on the floor and a few puff of smoke rose up.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T083856Z" creationid="Longbell" creationdate="20220416T082751Z">
+        <seg>Three thunder balls exploded on the floor and a few puffs of smoke rose up.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39790,6 +39806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>擦去斧头上留下的指纹，把斧头丢在那巨汉的身旁，麦格重新回到屋子里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T173540Z" creationid="Longbell" creationdate="20220416T173540Z">
+        <seg>After wiping away the fingerprints on the ax and tossing it next to the big guy, Mag returned to the house.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>放的住放不住另说，耳膜穿孔应该是没问题的。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -44698,6 +44722,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T100533Z" creationid="sitong" creationdate="20220414T085434Z">
         <seg>Chapter 2105: Don't We Have Someone Here?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百零八章 是不是体验到了战斗的快感？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T083842Z" creationid="Longbell" creationdate="20220416T083842Z">
+        <seg>Chapter 2108: Did You Get The Thrill Of Combat?</seg>
       </tuv>
     </tu>
     <tu>
@@ -57555,6 +57587,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The man in black remained silent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑袍人刚要点头，脸色剧变，一回头，便看到了一把迎面砍来的巨斧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T083711Z" creationid="Longbell" creationdate="20220416T083711Z">
+        <seg>The man in black robe was about to nod when he went white. He saw the giant ax that came right into his face as soon as he turned around.</seg>
       </tuv>
     </tu>
     <tu>
