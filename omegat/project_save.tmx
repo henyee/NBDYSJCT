@@ -19576,8 +19576,8 @@
       <tuv lang="zh-CN">
         <seg>“这……”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220327T145843Z" creationid="sitong" creationdate="20220327T145843Z">
-        <seg>"Er..."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T081933Z" creationid="sitong" creationdate="20220327T145843Z">
+        <seg>"This..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -38622,6 +38622,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>所以他提着斧头，如砍小鸡仔一般将这群三四级的骑士送走了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T081921Z" creationid="Longbell" creationdate="20220416T081921Z">
+        <seg>So, he used the ax and dispatched this group of 3rd-tier and 4th-tier knights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>所以他要让古老者从一开始就断了这种念头，至少在他还活着的时候不行。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T142507Z" creationid="Longbell" creationdate="20220402T142507Z">
@@ -52782,6 +52790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>领头的黑袍人看着这一幕，眼睛一下子瞪圆，怀中摸出三颗淡黄色圆球往地上一抛，转身便往外跑。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T082432Z" creationid="Longbell" creationdate="20220416T082432Z">
+        <seg>The leading man in black robe widened his eyes when he saw that. He took out three light yellow balls and threw them on the ground before running out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>额……</seg>
       </tuv>
       <tuv lang="en-US">
@@ -54738,6 +54754,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag took the specially made liquor holder out with a small iron cage. He placed the little liquor holder into the cage, and put on a small lock before hanging it on the pillar in front of the door.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格挑眉，这场面，就像是一群黄铜无畏的冲向王者，令人肃然起敬。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220416T081832Z" creationid="Longbell" creationdate="20220416T081832Z">
+        <seg>Mag raised his eyebrows. This scene was equivalent to a bunch of noobs rushing towards a king. It was admirable.</seg>
       </tuv>
     </tu>
     <tu>
