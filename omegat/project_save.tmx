@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28206,6 +28206,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>今日奥斯特召集他们来此，也是和此事有关。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T134612Z" creationid="Longbell" creationdate="20220417T134612Z">
+        <seg>Auster gathered them for a discussion today was most likely related to it as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>今日法部的几位大臣决定出来喝酒，听兵部过来交接的人说罗莫街上新开了一家酒馆，里边的酒是难得一见的佳酿，一行人便抱着来瞧瞧的心态到了这里。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -42446,6 +42454,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>此消彼长之下，战争联盟现在只剩下四五十个部落，实力大不如前。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T140623Z" creationid="Longbell" creationdate="20220417T140623Z">
+        <seg>Under such circumstances, there were only 40-50 tribes left in the pro-war alliance and their power was far inferior than it was before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>此番事情闹得整个诺兰大陆震动，连陛下都迫不得已的表态，他们自然不敢在这种时候触霉头，甚至更多的是在思考如何将与乔修的关系撇干净，现在这种时候，与魔鬼沾染上任何关系，都是一般人承受不起的。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -42838,6 +42854,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>法克部落趁机游说各部落，成功分化了一批部落收入麾下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T140511Z" creationid="Longbell" creationdate="20220417T140511Z">
+        <seg>The Falk Tribe took the chance to convince the other tribes and had successfully converted some of them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>法克部落，中央广场上停放着十数辆装载着各种物质的马车。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -43210,6 +43234,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T140245Z" creationid="sitong" creationdate="20220417T140245Z">
         <seg>The Roth Empire had lowered their stance, the Demons had given in, the Orcs were no longer haughty, and the Trolls that could not decide had all made their stand to join the Peace Alliance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>洛斯帝国入侵事件之后，以奥格部落为首的战争部落联盟实力大损。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T140422Z" creationid="Longbell" creationdate="20220417T140422Z">
+        <seg>After the Roth Empire's invasion, the power of the pro-war faction with the Aug Tribe in the lead was greatly diminished.</seg>
       </tuv>
     </tu>
     <tu>
