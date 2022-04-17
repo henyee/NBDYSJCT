@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11890,6 +11890,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The middle-aged staff member brought a few female staff members over, and said to Mag, "Let us help too. Feel free to tell us what you need."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们似乎做了一件足以记入史册的事情。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T140522Z" creationid="sitong" creationdate="20220417T140522Z">
+        <seg>"We seemed to have done something enough to be put in the books of history."</seg>
       </tuv>
     </tu>
     <tu>
@@ -29774,6 +29782,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜看着信，脸上也是露出了笑容，看着麦格道：“如果诺兰大陆能够撑过这一次劫难，或许会变得不同。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T140558Z" creationid="sitong" creationdate="20220417T140558Z">
+        <seg>Irina read the letter and smiled. She looked at Mag and said, "If the Norland Continent could pull through this ordeal, things might be different."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜看着麦格，目光温柔，伸手握住了他的手，“我会和你站在一起，护着我们的孩子。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T095629Z" creationid="sitong" creationdate="20220403T095629Z">
@@ -31258,6 +31274,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220329T054139Z" creationid="sitong" creationdate="20220329T054139Z">
         <seg>This race had guarded the entrance of the ancient city R'lyeh for 5230 years, exceeding the promised period by 230 years. The sea is currently in good condition and the risk of it being damaged is rather low.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>具体事项，将在现场进行商讨，其中包括派出联军北上，阻击亡灵军团南下，以及消灭旧日支配者克苏鲁。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T140507Z" creationid="sitong" creationdate="20220417T140507Z">
+        <seg>The specific details would be discussed on site, including the troops to be sent to the north to prevent the Army of the Dead from advancing south, as well as to destry the Great Old Ones, Cthulhu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48758,6 +48782,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>联盟一旦成立，为了这场战争，各族不可避免的需要进行更加深入的合作。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T140657Z" creationid="sitong" creationdate="20220417T140657Z">
+        <seg>Once the alliance is formed, the various races would have to have an in-depth cooperation with each other for this battle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>联系起前两日几位兵部大员被灭门的惨案，一时间朝廷大臣人人自危，普通人也是颇为惶恐。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -56150,6 +56182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格将信递给伊琳娜，笑着说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T140534Z" creationid="sitong" creationdate="20220417T140534Z">
+        <seg>Mag smiled as he passed the letter to Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格将昨晚发生的事情，添油加醋的说了一番，激烈程度，不亚于常威打来福。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220415T141119Z" creationid="sitong" creationdate="20220415T141119Z">
@@ -58114,6 +58154,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T100125Z" creationid="Longbell" creationdate="20220412T100125Z">
         <seg>Mag nodded with a smile, "Her order should reach by tomorrow."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格笑着点点头，他很难不赞同伊琳娜的这个说法。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T140610Z" creationid="sitong" creationdate="20220417T140610Z">
+        <seg>Mag nodded with a smile. It was difficult to disagree with Irina.</seg>
       </tuv>
     </tu>
     <tu>
