@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -426,6 +426,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Incredible. A tiny little peanut could be done so beautifully. Besides, it goes really well with the wine. The numbing spiciness attacked his lips, and just as Abraham was exclaiming at the wonderful taste of this drunkard peanuts, he unknowingly opened up the wine beside him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不同意！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T142716Z" creationid="Longbell" creationdate="20220417T142716Z">
+        <seg>"We won't agree to it!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,6 +4346,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"The God of Cookery's faith value is based on the other party being inspired to learn to cook by you and act upon that thought." The system's explanation rang in Mag's head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“去他娘的和平条约！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T141212Z" creationid="Longbell" creationdate="20220417T141212Z">
+        <seg>"Fu*k that peace treaty!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12042,6 +12058,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T130722Z" creationid="Longbell" creationdate="20220410T130722Z">
         <seg>"We need to leave here. The terrain is disadvantageous to us." Irina raised her magic caster's staff and the Holy Light burst out. The ancient corpses that rushed towards them were decimated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我们要复仇！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T141221Z" creationid="Longbell" creationdate="20220417T141221Z">
+        <seg>"We want revenge!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -33230,6 +33254,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>各部落酋长胸中的愤懑被点燃，跟着怒骂道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T142521Z" creationid="Longbell" creationdate="20220417T142521Z">
+        <seg>The anger in the tribal leaders was lit up and they also joined in the scolding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>同时三个蛇头同时张开嘴巴，向着下方吐出了三颗巨大的火球。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T152233Z" creationid="Longbell" creationdate="20220403T152233Z">
@@ -35870,10 +35902,26 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>奥斯特嘴角上扬，接着道：“我们兽人族绝不低头，可现在法克部落那个小娘们，却想带领那些软脚虾投降答应那些屈辱的条约，你们同意吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T142705Z" creationid="Longbell" creationdate="20220417T142705Z">
+        <seg>Auster's lips curled up and he continued on, "We orcs will never submit to others, but that little girl in the Falk Tribe wants to lead those weaklings and sign those demeaning terms. Will you agree to it?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>奥斯特害怕亚历克斯，所以去参加和平大会的时候带走了所有十级强者，甚至还有一部分九级强者作为护卫。</seg>
       </tuv>
       <tuv lang="en-US">
         <seg>Auster was afraid of Alex. That was why he'd brought all the 10th-tier powerhouses and even some of the 9th-tier powerhouses with him to the peace meeting as his guards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>奥斯特站起身来，看着殿中的各酋长道：“最近的事情，你们应该也听说了，魔鬼和亡灵军团现在就在洛斯帝国的北边，如果南下的话，洛斯帝国必然遭受攻击，这可是我们复仇的好机会！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T140832Z" creationid="Longbell" creationdate="20220417T140832Z">
+        <seg>Auster stood up and said to all the tribal leaders in the hall, "You all should have heard about the recent incident. The devil and the Army of the Dead have appeared at the north of the Roth Empire. The Roth Empire is definitely going to be attacked if they move southwards. This is a great opportunity for us to seek revenge!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -43306,6 +43354,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T140245Z" creationid="sitong" creationdate="20220417T140245Z">
         <seg>The Roth Empire had lowered their stance, the Demons had given in, the Orcs were no longer haughty, and the Trolls that could not decide had all made their stand to join the Peace Alliance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>洛斯帝国偷袭我们的部落，杀死我们的族人和兄弟，仇恨不共戴天。而混乱之城却假意惺惺的让我们签订和平条约，而且还要派兵帮助混乱之城抵御魔鬼，凭什么啊？！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T141148Z" creationid="Longbell" creationdate="20220417T141148Z">
+        <seg>"The Roth Empire launched a secret attack on us and killed our people and brothers. We can never forgive and forget about that. Chaos City tries to make us sign the peace treaty and even wants us to send troops to help defend it against the devil. Why should we?!"</seg>
       </tuv>
     </tu>
     <tu>
