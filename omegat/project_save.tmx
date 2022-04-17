@@ -18214,6 +18214,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“老大！隔壁街的楼突然塌了，好像还埋了个人！”一个衙役快步跑进院子。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T091854Z" creationid="Longbell" creationdate="20220417T091726Z">
+        <seg>"Chief! A building in the next block suddenly collapse and someone seems to be buried underneath it." A constable jogged into the yard quickly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“老婆，你听我狡辩……”麦格心态有点崩，连忙把埃菲扶正，正色道：“埃菲小姐，请你放尊重一点。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -49514,6 +49522,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T151344Z" creationid="Longbell" creationdate="20220408T151344Z">
         <seg>The street was still cold and destitude as before. There weren't many pedestrains on the street now, and some shops were on the verge of closing while many had for rent notices stuck on them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>衙门的人甚至都不忍让她看到外面的惨像，将她带出这个院子后，进行了一番简短的询问后，就把她直接送回了家。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T091724Z" creationid="Longbell" creationdate="20220417T091724Z">
+        <seg>The people from the court couldn't even bear to let her see the tragic scene out there. After asking her some questions briefly after bringing her out of the yard, they sent her home right away.</seg>
       </tuv>
     </tu>
     <tu>
