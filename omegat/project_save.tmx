@@ -3798,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“兽人永不为低头！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T142728Z" creationid="Longbell" creationdate="20220417T142728Z">
+        <seg>The orcs will never submit!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“再多找几家印刷厂，让他们全力印制，但一定要保证质量。”加兰表情认真的说道：“经销商那边也和他们打好招呼，绝对不能出现加价售卖的情况，一旦出现，将会被收回经销权，并且被十全十美列入黑名单。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T064042Z" creationid="sitong" creationdate="20220321T064042Z">
@@ -9194,6 +9202,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It's good. Fragrant and crunchy. Delicious." Amy popped another peanut into her mouth happily, and even reminded Annie to try it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好！”奥斯特满意的看着众人，点点头道：“我就知道你们都是有血有肉的真汉子！我今日让你们来这里，不是商量如何倒向洛斯帝国的，而是商议共同起兵，围攻法克部落，绞杀杀父逆女康妮的！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T143739Z" creationid="Longbell" creationdate="20220417T143739Z">
+        <seg>"Good!" Auster looked at all of them with satisfaction and nodded. "I knew you all are real men with guts! I didn't ask you all to come here today to submit to the Roth Empire. Instead, I want to discuss how are we going to send our troops to attack the Falk Tribe and kill Connie, the evil girl who killed her father!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -33258,6 +33274,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220417T142521Z" creationid="Longbell" creationdate="20220417T142521Z">
         <seg>The anger in the tribal leaders was lit up and they also joined in the scolding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>各酋长纷纷起身，跟着怒吼道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T142745Z" creationid="Longbell" creationdate="20220417T142745Z">
+        <seg>All the tribal leaders got up and roared.</seg>
       </tuv>
     </tu>
     <tu>
