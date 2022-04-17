@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6826,6 +6826,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Amy nodded, and seriously said, "Yes. You have 30 big, fat geese here, so I want to have 30 rings."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“嗯，各项手续都非常顺利，因为凶手已经当场伏诛，而且据说幕后黑手就在隔一条街外服毒自杀了。”埃菲点点头，有些心有余悸道：“是里斯酒馆的老板鲍里斯，没想到竟然是他。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T131853Z" creationid="sitong" creationdate="20220417T131853Z">
+        <seg>"Mm. The procedures all went on very smoothly. Because the culprit had been executed while it was said tha the mastermind committed suicide a road away." Eiffie nodded. She said with some residual fear, "It's Boss Boris from Reese Tavern. I didn't expect it to be him."</seg>
       </tuv>
     </tu>
     <tu>
@@ -18958,6 +18966,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“衙门那边应该没有为难你吧？”麦格放下碗，问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T131631Z" creationid="sitong" creationdate="20220417T131631Z">
+        <seg>"The court did not make things difficult for you, right?" Mag asked as he put his bowl down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“衙门那边我已经通知了，他们应该很快就会赶到，把暴徒抓了，这件事也就算了结了。”麦格在车外答应道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T171555Z" creationid="Longbell" creationdate="20220415T171555Z">
@@ -22670,6 +22686,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“那实在是太可惜了。”埃菲也是叹了口气，为其他人无法品尝到麦格的厨艺而感到可惜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T131609Z" creationid="sitong" creationdate="20220417T131609Z">
+        <seg>"That is really a pity." Eiffie sighed as well. She found it a pity that others would not be able to try Mag's culinary skills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“那小鬼，过来给老爷们倒酒。”一个大腹便便的中年官员指着柜台后边坐着的艾米说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -25842,6 +25866,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>As a very talented candidate for the God of Cookery, Mag succeeded eventually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不过关于他服毒自杀这件事，以及后来传来鲍里斯家宅被窃事件，都让她忍不住想到哈迪斯先生一家。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T132613Z" creationid="sitong" creationdate="20220417T132613Z">
+        <seg>However, about him taking in poison to commit suicide, and the incident of Boris's house being robbed, all reminded her of Mr. Hades's family.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30294,6 +30326,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>但她没有证据。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T132621Z" creationid="sitong" creationdate="20220417T132621Z">
+        <seg>But she had no evidence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>但如果将精神控制加入其中，便让飞剑有了更多的可能，也让他的战斗方式有了更多的可能。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32350,6 +32390,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>只能一段时间开酒馆，一段时间开餐馆这个样子了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T131538Z" creationid="sitong" creationdate="20220417T131538Z">
+        <seg>He could only open the tavern for a while then open the restaurant for a while.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>只能将其重新封印的话，并非易事。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220411T135928Z" creationid="Longbell" creationdate="20220411T135928Z">
@@ -33346,6 +33394,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Abraham knew a thing or two about wine tasting. He did not chug the glass of wine down straight away. Instead, he took a deep whiff of the fragrance, and allowed it to swirl around in his head. After that, he took a small sip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>哈迪斯先生一家冒着巨大的危险，救了她和玛拉，她只要记住这些就足够了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T132713Z" creationid="sitong" creationdate="20220417T132713Z">
+        <seg>Mr. Hades and his family had took great risks to save her and Mala. She only had to remember that.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39114,6 +39170,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Of course, the little billionaire would never need to worry about money for the rest of her life.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，她也绝对不会对任何人说半个和这有关的字。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T132658Z" creationid="sitong" creationdate="20220417T132658Z">
+        <seg>Of course, she would never tell anyone else about that.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53214,6 +53278,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>那可是洛都城酒馆界的真正大佬，有着举足轻重地位的存在，没想到竟然会对她下手。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T131938Z" creationid="sitong" creationdate="20220417T131938Z">
+        <seg>He was the real big boss of Rodu's taverns, an important figure here, so she did not expect him to do anything to her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>那大蛇立马就把牙齿收了起来，但四只眼睛依旧凝视着麦格，红色的竖瞳竟是开始缓慢旋转起来。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T055858Z" creationid="Longbell" creationdate="20220404T055815Z">
@@ -55378,6 +55450,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>As for the so-called pontiff, Mag didn't believe that Andre would let a half-elf become the pope, and make generations of royals kneel under her feet when they ascended the throne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格叹了口气。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T131519Z" creationid="sitong" creationdate="20220417T131519Z">
+        <seg>Mag sighed.</seg>
       </tuv>
     </tu>
     <tu>
