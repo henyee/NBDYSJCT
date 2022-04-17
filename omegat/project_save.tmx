@@ -5758,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“哈？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T074933Z" creationid="Longbell" creationdate="20220417T074933Z">
+        <seg>"What?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“哈？”费奇瞪眼。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -48450,6 +48458,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T090833Z" creationid="Longbell" creationdate="20220415T090833Z">
         <seg>Amy held onto the folding chair and jumped down from the second floor too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米握着小折叠椅，一本正经的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T074928Z" creationid="Longbell" creationdate="20220417T074928Z">
+        <seg>Amy held onto a little folding chair and said  prim and properly.</seg>
       </tuv>
     </tu>
     <tu>
