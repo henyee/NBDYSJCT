@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3808,8 +3808,8 @@
       <tuv lang="zh-CN">
         <seg>“兽人永不为低头！”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220417T142728Z" creationid="Longbell" creationdate="20220417T142728Z">
-        <seg>The orcs will never submit!"</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T152815Z" creationid="Longbell" creationdate="20220417T142728Z">
+        <seg>"The orcs will never submit!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -45614,6 +45614,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>突然，屋顶之上一道娇小的身影悄无声息的落了下来，一道寒芒刺破了黑暗。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T152754Z" creationid="Longbell" creationdate="20220417T152754Z">
+        <seg>Suddenly, a dainty figure jumped down silently from the roof and a silver beam pierced through the darkness.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>窖藏数十年满满一酒窖的美酒，这还要什么自行车！</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T145402Z" creationid="Longbell" creationdate="20220326T145402Z">
@@ -45858,6 +45866,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T133530Z" creationid="sitong" creationdate="20220416T151511Z">
         <seg>Chapter 2112: You Still Don't Understand Women</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百一十二章 兽人永不为低头！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T152839Z" creationid="Longbell" creationdate="20220417T152807Z">
+        <seg>Chapter 2112: The Orcs Will Never Submit!</seg>
       </tuv>
     </tu>
     <tu>
