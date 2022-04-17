@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35694,6 +35694,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>奥格部落，黑色的城堡之中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T132956Z" creationid="Longbell" creationdate="20220417T132956Z">
+        <seg>The Aug Tribe. Within the black castle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>女人只是冷漠的注视着他，那张精致的脸犹如万年不化的冰块，就连目光也冷漠的可怕，仿佛没有感情一般。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T122404Z" creationid="Longbell" creationdate="20220331T100129Z">
@@ -41586,6 +41594,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T161312Z" creationid="sitong" creationdate="20220410T161312Z">
         <seg>Before Xi even arrived, Noya, who was on the griffin's back, called out as he pointed towards the north.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>暮光森林。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T132534Z" creationid="Longbell" creationdate="20220417T132534Z">
+        <seg>The Twilight Forest.</seg>
       </tuv>
     </tu>
     <tu>
