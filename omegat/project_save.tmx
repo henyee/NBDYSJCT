@@ -5758,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“哈麻皮？”艾米看着躺在地上的鲍里斯，摇摇头，“父亲大人说，要文明。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T075354Z" creationid="Longbell" creationdate="20220417T075354Z">
+        <seg>"What's happening?" Amy looked at Boris on the ground and shook her head. "Father said we have to be civilized."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“哈？”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220417T074933Z" creationid="Longbell" creationdate="20220417T074933Z">
@@ -39590,6 +39598,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>折叠椅上脸，暴击*10000.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T075236Z" creationid="Longbell" creationdate="20220417T075236Z">
+        <seg>The folding chair hit his face. Violent strike*10,000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>护卫之中有水系魔法师，尚未蔓延开来的火势倒也很快便被控制住。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -54002,6 +54018,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220409T092258Z" creationid="sitong" creationdate="20220409T092258Z">
         <seg>Boris looked at Mag and said sincerely, "Mr. Hades, you're a straightforward person. Actually, I would like to invite you to a partnership with me. I have 1- large-scale taverns in Rodu and you have exceptional brewing technique. If we can work together, we would definitely be the legend in the world of liquor."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>鲍里斯瞪眼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T074938Z" creationid="Longbell" creationdate="20220417T074938Z">
+        <seg>Boris glared.</seg>
       </tuv>
     </tu>
     <tu>
