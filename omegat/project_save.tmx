@@ -13870,6 +13870,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是你！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T081309Z" creationid="Longbell" creationdate="20220417T081309Z">
+        <seg>"It's you!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是克苏鲁！”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T141023Z" creationid="Longbell" creationdate="20220410T141023Z">
@@ -14762,6 +14770,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T112822Z" creationid="sitong" creationdate="20220414T112643Z">
         <seg>f"Yes. I made some porridge in the morning and also a few soup dumplings." Miss nodded. He turned off the stove for the bamboo steamer and said, "If you're hungry, you can have some porridge. I'll wake the children up."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是的，有被惊讶到吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T081404Z" creationid="Longbell" creationdate="20220417T081404Z">
+        <seg>"Yes. Are you shocked?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -54118,6 +54134,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>鲍里斯看着出现在楼梯口的麦格，眼睛一下子瞪大，眼中带着几分难以置信。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T081350Z" creationid="Longbell" creationdate="20220417T081350Z">
+        <seg>Boris saw Mag appear at the staircase and his eyes flicked open with disbelief.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>鲍里斯看着麦格诚恳的说道：“哈迪斯先生是个耿直的人，其实我是想邀请你成为我的合伙人，我在洛都有十家大型酒馆，而麦格先生有着超高的酿酒技艺，如果我们能够合作的话，一定能够缔造一个酒界的传奇。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220409T092258Z" creationid="sitong" creationdate="20220409T092258Z">
@@ -56914,6 +56938,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T142930Z" creationid="Longbell" creationdate="20220415T142930Z">
         <seg>Mag looked at that big guy and smilingly asked, "Is it so?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格看着鲍里斯脸上的九宫格血痕，笑着摸了摸艾米的脑袋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T081518Z" creationid="Longbell" creationdate="20220417T081518Z">
+        <seg>Mag saw the grid bloody scratches on Boris's face and patted Amy's head with a smile.</seg>
       </tuv>
     </tu>
     <tu>
