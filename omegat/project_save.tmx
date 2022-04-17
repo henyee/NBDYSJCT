@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31654,6 +31654,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>包括后来的鲍里斯府邸被窃事件，她可是知道的，这个案件中只有一个暴徒，另外一个是哈迪斯先生扮演的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T131319Z" creationid="Longbell" creationdate="20220417T131319Z">
+        <seg>Including the incident of Boris's residence being burglared. She knew very well that there was only one assailant. The other one was played by Mr. Hades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>化妆易容过后的麦格钻进车厢，提着被捆绑好的埃菲走了出来，然后一脚踹开那破木门走了进去。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220416T065558Z" creationid="Longbell" creationdate="20220416T065558Z">
@@ -35718,6 +35726,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>她会假装什么都不知道，只需要记得哈迪斯先生他们一家，救了她和玛拉就足够了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T131828Z" creationid="Longbell" creationdate="20220417T131828Z">
+        <seg>She would feign ignorance. She only had to remember that it was Mr. Hades and his family who saved her and Mala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>她低头扒拉了一口米饭，嚼着香甜的米饭，又夹了一块茄子喂到嘴里。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220416T152100Z" creationid="sitong" creationdate="20220416T152100Z">
@@ -39210,6 +39226,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220322T055709Z" creationid="sitong" creationdate="20220322T054324Z">
         <seg>Of course, there was another reason. He intended to cook up something a little different for Amy's breakfast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>当然，这一切并不重要。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T131607Z" creationid="Longbell" creationdate="20220417T131607Z">
+        <seg>Of course, all this wasn't important.</seg>
       </tuv>
     </tu>
     <tu>
