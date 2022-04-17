@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25366,6 +25366,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>上辈子是因为有钱。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T133728Z" creationid="sitong" creationdate="20220417T133728Z">
+        <seg>In his previous life, it was because he was rich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>下一瞬间，麦格出现在它的头顶之上，手握重剑，重重拍下。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T163426Z" creationid="Longbell" creationdate="20220403T163426Z">
@@ -27662,6 +27670,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>事情解决，钱也到手了，麦格关上店门，上楼睡了个午觉，然后去取了埋在街尾槐树下的竹筒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T135409Z" creationid="sitong" creationdate="20220417T135409Z">
+        <seg>The matter had been resolved and they had also gotten their money. Mag closed the door of the shop and went upstairs for an afternoon nap. After that, he went to retrieve the bamboo container buried under the Acacia tree at the end of the street. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>二子夺嫡的局面是他弄出来的，登上王座的路向来充满荆棘和鲜血，这能够很好的提升一个人的谋略和胆识，从而培养出一位冷血强大的君王。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -28898,6 +28914,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T151212Z" creationid="sitong" creationdate="20220321T151212Z">
         <seg>There was a glow in their eyes. It was the longing for freedom!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他的确不太懂女人，只是一直长在了女人的喜好圈里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T133711Z" creationid="sitong" creationdate="20220417T133711Z">
+        <seg>It was true that he did not really understand women. He was merely women's cup of tea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42798,6 +42822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>没钱，才华又不够，才要懂女人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T133802Z" creationid="sitong" creationdate="20220417T133802Z">
+        <seg>If you had no money and not enough talent, you have to understand women.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>法克部落，中央广场上停放着十数辆装载着各种物质的马车。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -47486,6 +47518,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而且再懂女人，也可能只是一个备胎。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T133821Z" creationid="sitong" creationdate="20220417T133821Z">
+        <seg>And no matter how well you understand women, you might still only be a spare tyre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而且包子的状态极佳，在蒸制的过程中没有漏汁，也没有变形塌架。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220324T185726Z" creationid="sitong" creationdate="20220324T185726Z">
@@ -51126,6 +51166,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>迈克尔传来了一个好消息，在旧日支配者的压力下，以及麦格的一番威胁，无尽海域上的恶魔们终于达成了一致，决定加入和平联盟，并且同意签订新的和平条约。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T140141Z" creationid="sitong" creationdate="20220417T140141Z">
+        <seg>Michael sent good news over. The demons at the boundless sea realm had finally reached a consensus under the pressure of the Great Old Ones and with Mag's help. They had decided to join the Peace Alliance and had agreed to sign the new peace treaty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>迈克尔放下手中密信，看着迪克斯道：“准备一下，我要给法克部落写一封信，目前休战期各方必须冷静处理事情，一旦情况失控，诺兰大陆极有可能被拖入新的一轮种族战争，那个时候，谁也无力回天了。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -53066,6 +53114,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag did not doubt her words at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这辈子是有钱又有才华，而且还贼他妈强大。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T133742Z" creationid="sitong" creationdate="20220417T133742Z">
+        <seg>In this life, he was rich, talented, and very powerful.</seg>
       </tuv>
     </tu>
     <tu>
