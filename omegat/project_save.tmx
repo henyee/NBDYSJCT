@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36214,6 +36214,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>如果说她之前对于麦格是对酿酒水平的崇拜，对他救命之恩的感激，那现在却因为两顿饭，升起了一些不一样的感觉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T130803Z" creationid="sitong" creationdate="20220417T130803Z">
+        <seg>If before she admired Mag for his wine-brewing skills, and was grateful to him for saving her life, now, she felt a different emotion rising because of these two meals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>如果说泰坦酒的酒香是一个优雅的贵妇人，那这酒香更像是一阵令人难以抗拒的飓风。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T074034Z" creationid="Longbell" creationdate="20220406T074034Z">
@@ -37778,6 +37786,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220402T134812Z" creationid="sitong" creationdate="20220402T134812Z">
         <seg>Even the mini motorcycle was very big to Amy and that caused some unavoidable problems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>就说这两顿饭吧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T130820Z" creationid="sitong" creationdate="20220417T130820Z">
+        <seg>Just these two meals alone was enough to make her want to marry him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39450,6 +39466,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T102146Z" creationid="Longbell" creationdate="20220415T102146Z">
         <seg>He felt even more energetic when he thought how that beautiful lady boss with her exquisite body and seductive looks would belong to him tonight and his to ravish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>想嫁是真的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T130821Z" creationid="sitong" creationdate="20220417T130821Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -50354,6 +50378,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Noah looked at Merante's ripped clothes, and then bit into the other salted egg yolk pastry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>谁不想每天早上醒来能够吃到美味的灌汤包和皮蛋瘦肉粥啊，谁不想每天吃鱼香茄子啊，谁不想每天晚上搂着那美好的肉体睡觉……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T130907Z" creationid="sitong" creationdate="20220417T130907Z">
+        <seg>Who would not wish to wake up every morning to delicious soup dumpling and congee with pork and century egg? Who would not want to enjoy eggplant with garlic sauce every day? Who would not want to hug that beautiful body to sleep every night...</seg>
       </tuv>
     </tu>
     <tu>
