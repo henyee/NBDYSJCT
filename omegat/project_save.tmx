@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28154,6 +28154,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Abraham chose a seat in the corner which faced a wall. He sat alone, and was not worried about being recognized or disturbed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>亚北米娅、芭芭拉、瑞娜、姬娜、雪莉尔、安娜等留守儿童，围坐在餐桌前，热闹的吃着火锅，一旁的烤架上还摆满了烤肉串儿。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T154450Z" creationid="sitong" creationdate="20220417T154450Z">
+        <seg>Yabemiya, Babla, Rena, Gina, Shirley, Anna, and the other kids who stayed, sat around the table, enjoying the hot pot. There was a grill at the side filled with kebabs.</seg>
       </tuv>
     </tu>
     <tu>
