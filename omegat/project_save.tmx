@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -44006,6 +44006,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>灯光从落地窗里照亮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T152701Z" creationid="sitong" creationdate="20220417T152701Z">
+        <seg>The light shone brightly behind the floor-to-ceiling window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>灰神殿在洛都有办事处，作为一个获得了极高权限的内部人员，麦格到混乱之城的第一天便已经和该办事处对接上，每天都能收到最新情报。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -45850,6 +45858,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T133530Z" creationid="sitong" creationdate="20220416T151511Z">
         <seg>Chapter 2112: You Still Don't Understand Women</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百一十四章 求知的蜗牛！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T152606Z" creationid="sitong" creationdate="20220417T152606Z">
+        <seg>Chapter 1114: Snail That Is Hungry For Knowledge!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58939,6 +58955,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T091848Z" creationid="Longbell" creationdate="20220328T091848Z">
         <seg>"..." Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦米餐厅。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T152608Z" creationid="sitong" creationdate="20220417T152608Z">
+        <seg>Mamy Restaurant.</seg>
       </tuv>
     </tu>
     <tu>
