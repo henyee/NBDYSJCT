@@ -2734,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你在教我做事？”艾米歪头看着他。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T080817Z" creationid="Longbell" creationdate="20220417T080817Z">
+        <seg>"Are you teaching me how to do things?" Amy tilted her head and asked him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你好。”麦格含蓄的点点头。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T112021Z" creationid="Longbell" creationdate="20220407T112021Z">
@@ -5790,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“哈？”鲍里斯瞪眼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T080704Z" creationid="Longbell" creationdate="20220417T080704Z">
+        <seg>"Huh?" Boris glared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“哎呦，哈迪斯先生怎么这么见外呢，我这不是应邀来和你切磋切磋吗……”埃菲目光迷离，扭着腰肢又要向着麦格扑来。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -8738,6 +8754,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T183134Z" creationid="Longbell" creationdate="20220326T183134Z">
         <seg>"Alright!" Amy nodded and followed Mag downstairs obediently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好的，一会我们自己会去取的。”伊琳娜平静的点点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T080656Z" creationid="Longbell" creationdate="20220417T080656Z">
+        <seg>"Alright. We'll go get it for ourselves later." Irina nodded calmly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12506,6 +12530,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T084808Z" creationid="Longbell" creationdate="20220404T084808Z">
         <seg>"I don't have the permission to answer those questions." Xi coldly replied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我没有骂人……”鲍里斯又气又委屈。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T080745Z" creationid="Longbell" creationdate="20220417T080745Z">
+        <seg>"I'm not scolding you..." Boris was furious and aggrieved.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28074,6 +28106,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T085625Z" creationid="Longbell" creationdate="20220415T085625Z">
         <seg>He had just soaped himself when he noticed the noises from across.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他又被砸翻在地。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T080714Z" creationid="Longbell" creationdate="20220417T080714Z">
+        <seg>He was slammed to the floor again.</seg>
       </tuv>
     </tu>
     <tu>
