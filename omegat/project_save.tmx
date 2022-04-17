@@ -9958,6 +9958,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“对了，汉娜你的酿酒工厂现在怎么样了？”米娅问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T155431Z" creationid="sitong" creationdate="20220417T155431Z">
+        <seg>"Right, Hannah, how's your wine-brewing factory going?" Miya asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“对了，现在街坊邻居们都在你家酒馆门口为你祈福，今天你和玛拉就待在酒馆二楼不要出门和露头。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T130658Z" creationid="sitong" creationdate="20220414T130653Z">
@@ -13634,6 +13642,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T124330Z" creationid="Longbell" creationdate="20220412T124330Z">
         <seg>"That's good. We will settle the problems once and for all." Irina nodded slightly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“挺好的，现在已经开始正常生产了，下个月就可以出厂第一批酒了。”汉娜点点头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220417T160751Z" creationid="sitong" creationdate="20220417T160751Z">
+        <seg>"It's alright. We've started normal production and we should be able to produce our first batch of wine next month," Hannah said with a nod.</seg>
       </tuv>
     </tu>
     <tu>
