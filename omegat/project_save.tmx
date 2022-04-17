@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6146,6 +6146,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Hmph." Irina clenched her fists. She felt that her standing in this family was challenged. However, her stomach was rumbling, so she could only force herself out from the warm sheets, change into a beautiful dress, and go downstairs for the scrumptious breakfast prepared for her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哼！一群软骨头！”奥斯特愤然拍桌。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T134145Z" creationid="Longbell" creationdate="20220417T134145Z">
+        <seg>"Hmph! A bunch of softies!" Auster banged on the table angrily.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13714,6 +13722,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T140827Z" creationid="Longbell" creationdate="20220414T140827Z">
         <seg>"Chief, they're already gone. They have gone southwards." Someone outside answered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“族长，山猫和土狗部落，前两日已经加入和平联盟，今日都没有派人来参加会议。”一旁的属下凑上前，在他耳边小声道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T133902Z" creationid="Longbell" creationdate="20220417T133902Z">
+        <seg>A subordinate standing the side went up to Auster and whispered in his ear, "Chief, the Lynx Tribe and the Mutt Tribe have already joined the Peace Alliance two days ago. They're not sending anyone to our meeting today."</seg>
       </tuv>
     </tu>
     <tu>
@@ -32946,6 +32962,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T141735Z" creationid="Longbell" creationdate="20220407T141735Z">
         <seg>Laughter broke out in the crowd instantly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>右臂装上了一截黑色铁钩的奥斯特坐在主位上，看着殿中的数十位兽人部落首领，脸色有些不悦道：“山猫部落的人呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T133320Z" creationid="Longbell" creationdate="20220417T133320Z">
+        <seg>Auster, who had a black hook attached to his right arm, sat on the throne and looked at the dozens of orc tribal leaders in the hall. With an unhappy expression, he asked, "Where are the people from the Lynx Tribe?"</seg>
       </tuv>
     </tu>
     <tu>
