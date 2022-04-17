@@ -3046,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你看，你一个愿望都不能满足我，这不是扯淡吗。”麦格撇撇嘴，顺手给了他一个大嘴巴子。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T083225Z" creationid="Longbell" creationdate="20220417T083159Z">
+        <seg>"See, you can't even satisfy any one of my wishes. Aren't you sprouting nonsense?" Mag pursed his lips and gave Boris a slap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你看，卖萌也还是可以维持生活的样子。”艾米晃着手里的钱袋，微笑着说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -5818,6 +5826,22 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220417T080704Z" creationid="Longbell" creationdate="20220417T080704Z">
         <seg>"Huh?" Boris glared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哈？？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T083059Z" creationid="Longbell" creationdate="20220417T083059Z">
+        <seg>"Huh??"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哈？？？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T083121Z" creationid="Longbell" creationdate="20220417T083121Z">
+        <seg>"Huh???"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11718,6 +11742,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我他妈……”鲍里斯当场就哭了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T083300Z" creationid="Longbell" creationdate="20220417T083300Z">
+        <seg>"Damned..." Boris broke out into tears right on the spot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我们一直在追踪黑魔气，一路跟到了大皇子府邸，结果我们才刚刚翻墙进去，还没来得及查探，就被埋伏了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -12338,6 +12370,30 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T174741Z" creationid="sitong" creationdate="20220411T174741Z">
         <seg>"I think it did not revive these dead souls to throw them a party on the icy plains," Mag said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我想干掉安德烈·爱德华父子三人。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T083118Z" creationid="Longbell" creationdate="20220417T083118Z">
+        <seg>"I want to get rid of Andre Edward and his two sons."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我想干掉旧日支配者克苏鲁。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T083026Z" creationid="Longbell" creationdate="20220417T083026Z">
+        <seg>"I want to get rid of the Great Old One, Cthulhu."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我想无伤消灭亡灵军团。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T083055Z" creationid="Longbell" creationdate="20220417T083055Z">
+        <seg>"I want to destroy the Army of the Dead without any casualty."</seg>
       </tuv>
     </tu>
     <tu>
