@@ -2945,3 +2945,5 @@ DVD	DVD
 卡巴斯	Kabas
 凶手	perpetrator
 衙门	court
+山猫	lynx
+土狗	Mutt
