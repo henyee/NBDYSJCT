@@ -3008,8 +3008,8 @@
       <tuv lang="zh-CN">
         <seg>“你没救了。”埃菲翻了个白眼，转身进了酒馆，心里却也忍不住在想，要是哈迪斯先生想拐她，她是应该接受呢，还是先假装矜持一下？</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220417T093649Z" creationid="Longbell" creationdate="20220417T093649Z">
-        <seg>"You're hopeless." Eiffie rolled her eyes and went into the tavern. However, she couldn't help thinking if Mr. Hades wanted to kidnap her, should she accept or pretend to decline first?</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T093728Z" creationid="Longbell" creationdate="20220417T093649Z">
+        <seg>"You're hopeless." Eiffie rolled her eyes and went into the tavern. However, she couldn't help thinking if Mr. Hades wanted to kidnap her, should she accept it readily or pretend to decline first?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31094,6 +31094,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>几张桌椅替换之后，再把被斧头砸碎的地面修补一下，酒馆外面也就差不多完工了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T123430Z" creationid="Longbell" creationdate="20220417T123430Z">
+        <seg>After replacing a couple of tables and chairs and repairing the floor that was crushed by the ax, the tavern's external work was almost done.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>几番推辞，工作人员们还是接受了麦格的好意。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34122,6 +34130,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T182859Z" creationid="Longbell" creationdate="20220414T182859Z">
         <seg>Eiffie took out a dragon coin and blew at it gently. She put it next to her ear to listen to the pleasing sound of money before smilingly said, "From now on, we will be earning this much every day. Our good days are coming."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲从铁匠那里定制了一扇铁质的大门，同时加固了门框，安装了滑轮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T093813Z" creationid="Longbell" creationdate="20220417T093813Z">
+        <seg>Eiffie custom-made a iron door from the blacksmith. At the same time, she reinforced the doorframe and installed rollers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49398,6 +49414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>虽然开关门会费劲一些，但想要从外面撞开也就没那么容易。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T093856Z" creationid="Longbell" creationdate="20220417T093856Z">
+        <seg>Even though it would take more effort to open and close the door, it wouldn't be so easy to bust in from the outside again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>虽然是邻居，不过麦格还是第一次进泰坦酒馆。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T115929Z" creationid="sitong" creationdate="20220325T115929Z">
@@ -53234,6 +53258,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T140726Z" creationid="Longbell" creationdate="20220407T140726Z">
         <seg>The taverns' owners looked at Mag and Eiffie enviously. This was equivalent of taking down a guarantee for the impending year's sales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>酒馆被破坏的不算严重，被撞碎的大门已经被拉走。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T093722Z" creationid="Longbell" creationdate="20220417T093722Z">
+        <seg>The tavern wasn't seriously damaged. The shattered door was already removed.</seg>
       </tuv>
     </tu>
     <tu>
