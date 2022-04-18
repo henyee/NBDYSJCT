@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220330T064446Z" creationid="sitong" creationdate="20220330T064446Z">
         <seg>- Observer: Codename: 9527</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“101，不能再多了。”麦格果断道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T123134Z" creationid="Longbell" creationdate="20220418T123134Z">
+        <seg>"101. That's all." Mag said decisively.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2942,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你就说卖不卖吧，小爷今天有的是钱，只要是能够食用的蜗牛，100铜币一只，我也毫不含糊的给你买了。”麦格阔气的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T122922Z" creationid="Longbell" creationdate="20220418T122907Z">
+        <seg>"Just tell me if you're selling it or not. I have a lot of money now. As long as it's an edible snail, I'll pay you 100 copper coins for every single one of them." Mag said generously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你已经失去这个资格。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -4698,6 +4714,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T121625Z" creationid="Longbell" creationdate="20220410T121625Z">
         <seg>"As long as the resentment exists, he is able to do it, but that is exactly the devil's scary part." Merante nodded slightly and honestly said, "Even our Ghost Clan can do it through certain methods."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“只要是能够食用的，一只101铜币是吧？”系统确认道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T123553Z" creationid="Longbell" creationdate="20220418T123553Z">
+        <seg>"As long as it's edible, 101 copper coins for every single one of them?" The system confirmed again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9882,6 +9906,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T100321Z" creationid="Longbell" creationdate="20220403T094704Z">
         <seg>"Did you have visitors? Why did you buy so much food?" Eiffie looked at the giant paper that Amy could barely hold on to. The breakfast was for, at least, six people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“宿主尚未获得该食材开放权限，请继续努力！或者再加点！”系统严肃道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T123120Z" creationid="Longbell" creationdate="20220418T123120Z">
+        <seg>"Host, you haven't received the permission of that ingredient yet. Please work harder! Or, pay more!" The system gravely said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16474,6 +16506,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It's not my fault that there's too much liquid? I didn't do anything to it." Mag shrugged innocently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“求你当个人吧……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T121535Z" creationid="Longbell" creationdate="20220418T121535Z">
+        <seg>"Please be merciful..."</seg>
       </tuv>
     </tu>
     <tu>
