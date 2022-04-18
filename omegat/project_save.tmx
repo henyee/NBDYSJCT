@@ -19878,6 +19878,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“请宿主不要试图干涉其他系统发布的任务，这不利于系统对宿主的调教。”系统警告道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T120444Z" creationid="Longbell" creationdate="20220418T120444Z">
+        <seg>"Can the Host please not interfere in the missions issued by the other systems? This is not good for the system's education intended for the host." The system warned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“请宿主再接再厉，复制和创造出更多美味的食物！”</seg>
       </tuv>
       <tuv lang="en-US">
