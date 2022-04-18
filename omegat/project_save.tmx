@@ -8166,6 +8166,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“奇怪的知识又增加了。”麦格稍微吸收了一下，然后开始转述给艾米。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T100056Z" creationid="Longbell" creationdate="20220418T100056Z">
+        <seg>"I gained more weird knowledge now." Mag absorbed them briefly before imparting them to Amy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“套圈可是要钱钱的哦，你大人呢？如果想玩的话，是五个铜币一个圈圈。”老板笑眯眯的说道，这可是送上门的小肥羊。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -48018,6 +48026,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After a few days of recuperation, Merante had almost recovered from his injuries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>经过系统的一番灌输。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T100006Z" creationid="Longbell" creationdate="20220418T100006Z">
+        <seg>The system fed him a ton of knowledge.</seg>
       </tuv>
     </tu>
     <tu>
