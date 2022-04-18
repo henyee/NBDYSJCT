@@ -35766,6 +35766,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>城墙之上的奥格部落兵士，几乎没来得及抵抗便被缴了械，整个部落很快便被占领。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T075502Z" creationid="Longbell" creationdate="20220418T075502Z">
+        <seg>The Aug Tribe's soldiers on the city walls surrendered before they could even defend themselves. The entire tribe was soon conquered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>城西书坊是好书之人的天堂，大大小小的书坊，只要你足够用心，总能寻到你想要的书。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -59531,6 +59539,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220415T150605Z" creationid="sitong" creationdate="20220415T150605Z">
         <seg>The black market was a secret organization in the underground world of Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑暗中突然冒出了无数火把，吊桥被砍断，城门被打开，无数兽人战士涌入奥格部落。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T075326Z" creationid="Longbell" creationdate="20220418T075326Z">
+        <seg>Countless fire torches suddenly appeared in the dark. The drawbridge was cut, the gates were opened and countless orc warriors dashed into the Aug Tribe.</seg>
       </tuv>
     </tu>
     <tu>
