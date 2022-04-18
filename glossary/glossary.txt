@@ -2948,3 +2948,4 @@ DVD	DVD
 山猫	lynx
 土狗	Mutt
 蜗牛	snail
+玛瑙蜗牛	Achatinella
