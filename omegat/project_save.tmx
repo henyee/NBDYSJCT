@@ -19320,8 +19320,8 @@
       <tuv lang="zh-CN">
         <seg>“蜗牛品类繁多，其中大多数具有毒性不可食用，而在地球上能够食用的蜗牛品种，例如法国蜗牛、庭园蜗牛和玛瑙蜗牛等，在诺兰大陆上暂时不知是否存在。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220418T095455Z" creationid="Longbell" creationdate="20220418T094813Z">
-        <seg>"There are many variety of snails, most of them are poisonous and inedible. Meanwhile, we're not sure if the edible species of snails on Earth, such as the French's escargots, the garden snails and achatinella are available on the Norland Continent.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T095526Z" creationid="Longbell" creationdate="20220418T094813Z">
+        <seg>"There are many variety of snails, most of them are poisonous and inedible. Meanwhile, we're not sure if the edible species of snails on Earth, such as the French escargots, the garden snails and achatinella are available on the Norland Continent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43738,6 +43738,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>In the Falk Tribe, there were tens of horse-drawn carriages carrying different things parked at the central square.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>法国蜗牛贝壳呈圆球形，外壳厚实，表面呈黄褐色，有光泽，并有多条黑褐色带……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T095950Z" creationid="Longbell" creationdate="20220418T095523Z">
+        <seg>The French escargots have a thick and round shell. Its shell is brownish and shiny, with many black and brown stripes..."</seg>
       </tuv>
     </tu>
     <tu>
