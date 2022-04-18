@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23910,6 +23910,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“那里！”艾米也注意到那三只蜗牛，快步上前蹲下观察了一会，回头看着麦格，“父亲大人，他们看起来好像都可以吃哦。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T134356Z" creationid="Longbell" creationdate="20220418T134356Z">
+        <seg>"There they are!" Amy noticed those three snails too. She quickly went over, crouched down and observed them for a while before she turned around to look at Mag. "Father, they look like they're edible."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“那黑白相间圆滚滚的又是什么宠物？看起来好萌啊！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -25530,6 +25538,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T112730Z" creationid="Longbell" creationdate="20220412T112730Z">
         <seg>In an ice cavern, Josh sat on an ice throne and smilingly said to Rankster at the bottom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一开门，花香飘来，倒是让人心旷神怡。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T132933Z" creationid="Longbell" creationdate="20220418T132933Z">
+        <seg>Flora fragrance greeted them as soon as they opened the door. It made them feel refreshed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50262,6 +50278,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>舒适的温度，又有花草，各种小虫小兽自然不会少。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T134048Z" creationid="Longbell" creationdate="20220418T134038Z">
+        <seg>A comfortable temperature coupled with flowers and plants, naturally there would be plenty of insects and little animals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>舔狗系统：对嘛，姿势要到位，要求全满足，舔到最后应有尽有！</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T073341Z" creationid="sitong" creationdate="20220325T073341Z">
@@ -56538,6 +56562,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The moment Mag closed the door, he met with Irina's smiling gaze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格一出门，便看到了墙角潮湿处有三只小蜗牛挂着了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T134132Z" creationid="Longbell" creationdate="20220418T134132Z">
+        <seg>Mag saw the three little snails hanging in a damp corner of the wall as soon as he walked out of the door.</seg>
       </tuv>
     </tu>
     <tu>
