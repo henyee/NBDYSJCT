@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“三剑啊。”康妮随口答道，又补充了一句：“我看他废话太多，所以又给他补了一剑。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T090724Z" creationid="Longbell" creationdate="20220418T090724Z">
+        <seg>"Three strikes." Connie answered casually before adding on, "I thought he talked too much, so I gave him one more strike."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“三十个圈子，给你放这了，慢慢套，别着急。”老板笑眯眯的把三十个竹圈放在艾米脚边。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -3066,6 +3074,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T140937Z" creationid="sitong" creationdate="20220417T140937Z">
         <seg>"You killed him?" Mag asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你杀奥斯特用了几剑？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T090024Z" creationid="Longbell" creationdate="20220418T090024Z">
+        <seg>"How many strikes did you use to Auster?"</seg>
       </tuv>
     </tu>
     <tu>
