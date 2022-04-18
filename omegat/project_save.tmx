@@ -2838,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你埋伏了一整天，杀一个残废，还用了三剑，我对你有些失望。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T090902Z" creationid="Longbell" creationdate="20220418T090902Z">
+        <seg>"You ambushed him for the whole day and yet you need to use three strikes to kill a maimed person. I'm a little disappointed in you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你好。”麦格含蓄的点点头。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T112021Z" creationid="Longbell" creationdate="20220407T112021Z">
