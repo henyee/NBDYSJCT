@@ -4782,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“叮！101铜币扣除成功！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T123627Z" creationid="Longbell" creationdate="20220418T123627Z">
+        <seg>"Ding! 101 copper coins is successfully deducted!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“叮！”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T075618Z" creationid="Longbell" creationdate="20220412T075618Z">
@@ -9978,6 +9986,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T141807Z" creationid="sitong" creationdate="20220403T141807Z">
         <seg>"Host, I have to remind you that your main mission is only to become the God of Cookery of this world... unravelling the mysteries of the world is not one of them."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“对。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T123604Z" creationid="Longbell" creationdate="20220418T123604Z">
+        <seg>"Yes."</seg>
       </tuv>
     </tu>
     <tu>
@@ -19938,6 +19954,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Please continue to work hard to replicate and create even more scrumptious food!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“请宿主现在立刻前往后院，第三棵桂花树根部有一只黄褐色蜗牛，无毒可食用。”系统欢快的声音响起。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T124042Z" creationid="Longbell" creationdate="20220418T124042Z">
+        <seg>"Could the Host please proceed to the backyard now. There is a brown snal at the roots of the three osmanthus tree. It's not poisonous and is edible." The system's happy voice sounded.</seg>
       </tuv>
     </tu>
     <tu>
