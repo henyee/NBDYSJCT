@@ -14142,6 +14142,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“新的支线任务发布：求知的蜗牛！请小主找到可以食用的蜗牛，并且将它烹饪成食物！”系统的声音在艾米的脑海中响起。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T142452Z" creationid="sitong" creationdate="20220418T142422Z">
+        <seg>"New quest: Inquisitive Snail! Please find edible snails and cook it!" the System's voice rang in Amy's head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“新的甜点？”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -15666,6 +15674,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T161831Z" creationid="sitong" creationdate="20220417T161831Z">
         <seg>"Recently, there have been people coming to the ice cream shop to ask when Boss is coming back and when the restaurant would resume operations. Say, is there a way we can contact Boss?" Yabemiya changed the topic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“有些蜗牛是可以食用的，但我们家后院的那些蜗牛是不能食用的。”麦格微笑着说道：“如果那个许愿井骗你说那些蜗牛可以食用的话，我们就把井给填了吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T142229Z" creationid="sitong" creationdate="20220418T142229Z">
+        <seg>"Some snails can be eaten but those at our backyard can't." Mag said with a smile, "If that wishing well lied to you saying that those snails can be eaten, let's cover that well up."</seg>
       </tuv>
     </tu>
     <tu>
@@ -22506,6 +22522,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T070003Z" creationid="Longbell" creationdate="20220328T070003Z">
         <seg>"I see..." Eiffie had an awkward expression and she was feeling a little self-reproachful. She didn't expect Mr. Hades to suffer at home because of her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这样啊……”艾米点点头，又是好奇的问道：“那什么蜗牛是可以吃的呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T142403Z" creationid="sitong" creationdate="20220418T142403Z">
+        <seg>"I see..." Amy nodded. She asked again cusiously, "In that case, which snails can be eaten?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -29718,6 +29742,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>他比较担心明天早上醒来，桌上摆着一大锅蜗牛汤。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T142258Z" creationid="sitong" creationdate="20220418T142258Z">
+        <seg>He was worried to see a table with a large pot of snail soup when he wakes up next morning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>他没有十成的把握把她留下，更没有把握在战斗的过程中她不会将信息实时传回去。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T204452Z" creationid="Longbell" creationdate="20220401T204452Z">
@@ -33410,6 +33442,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T141005Z" creationid="Longbell" creationdate="20220410T141005Z">
         <seg>However, it didn't seem to have a head. It only had a gigantic body, which made it look even weirder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>只是想想就觉得恐怖。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T142311Z" creationid="sitong" creationdate="20220418T142311Z">
+        <seg>It was scary just thinking about it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41302,6 +41342,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>所以他直接堵死了艾米那没名堂的系统的嘴巴，防止它发布奇怪的任务。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T142341Z" creationid="sitong" creationdate="20220418T142341Z">
+        <seg>Therefore, he made sure that Amy's system did not have the chance to give out strange missions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>所以他要让古老者从一开始就断了这种念头，至少在他还活着的时候不行。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T142507Z" creationid="Longbell" creationdate="20220402T142507Z">
@@ -46992,8 +47040,8 @@
       <tuv lang="zh-CN">
         <seg>第二千一百一十四章 求知的蜗牛！</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220417T152606Z" creationid="sitong" creationdate="20220417T152606Z">
-        <seg>Chapter 1114: Snail That Is Hungry For Knowledge!</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T142430Z" creationid="sitong" creationdate="20220417T152606Z">
+        <seg>Chapter 1114: Inquisitive Snail!</seg>
       </tuv>
     </tu>
     <tu>
@@ -55066,6 +55114,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T131938Z" creationid="sitong" creationdate="20220417T131938Z">
         <seg>He was the real big boss of Rodu's taverns, an important figure here, so she did not expect him to do anything to her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那场面……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T142301Z" creationid="sitong" creationdate="20220418T142301Z">
+        <seg>That scene...</seg>
       </tuv>
     </tu>
     <tu>
