@@ -2947,3 +2947,4 @@ DVD	DVD
 衙门	court
 山猫	lynx
 土狗	Mutt
+蜗牛	snail
