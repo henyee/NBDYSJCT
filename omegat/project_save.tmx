@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10182,6 +10182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“对哦，昂他们有孩子，这会应该在哄孩子睡觉吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T124753Z" creationid="sitong" creationdate="20220418T124753Z">
+        <seg>"Right, they have kids. They must be putting their children to sleep now."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“对方的首要目标是你，如果不来的话，没必要费那么大的周章。”麦格微笑着摇摇头，又是看着埃菲认真的叮嘱道：“不过一会衙门的人来的话，埃菲小姐一定要按照我之前教你的话来应对。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220416T070903Z" creationid="Longbell" creationdate="20220416T070903Z">
@@ -19106,6 +19114,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Another supervisor in charge of typesetting said, "Besides, we have to do a lot of work if we add it at the last minute. It'll be very difficult to get the sample issue out by today."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“而且今天出门一趟，做了那么多事情，晚上还要开门营业招待客人，一定是又累又困，洗个澡躺床上什么都不想动，立刻就睡着了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T125003Z" creationid="sitong" creationdate="20220418T125003Z">
+        <seg>"Besides, they went out today and did so many things. Then they had to serve their customers at night. They must be very tired. They would probably lie in bed and fall asleep immediately after showering."</seg>
       </tuv>
     </tu>
     <tu>
@@ -34742,6 +34758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>回头看了一眼小床上已经沉沉睡着的玛拉，这才伸手把那本《金瓶梅》拿了出来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T130245Z" creationid="sitong" creationdate="20220418T130245Z">
+        <seg>She turned to glance at Mala, who had fallen sound asleep on the little bed, before reaching over to take The Plum in the Golden Vase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>回家便睡了一个难得的好觉，今早起来神清气爽，要不是布卢姆被杀的消息传来，他会觉得这是一个非常不错的一天。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -35546,6 +35570,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T084534Z" creationid="Longbell" creationdate="20220415T084534Z">
         <seg>Eiffie thought of Mr. Hades who lives across. However, she gave up on that thought after thinking about it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲想着想着，目光落到了从被子下露出了一角的那本书上，目光一定。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T130217Z" creationid="sitong" creationdate="20220418T130151Z">
+        <seg>As she thought, Eiffie's gaze landed on the book under the corner of her blanket.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38674,6 +38706,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T124009Z" creationid="Longbell" creationdate="20220409T124009Z">
         <seg>The waiter was a little taken aback. The boss who was having a headache over the tavern being unsaleable, had actually rejected the other party's offer and was even prepared to refurbish the tavern again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>小声翻阅着那些精美的画卷，埃菲脸蛋微红，脑子里却不由的想着哈迪斯先生。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T133828Z" creationid="sitong" creationdate="20220418T133828Z">
+        <seg>Eiffie flipped through the exquisitely drawn book softly and blushed. She could not help but think of Mr. Hades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45338,6 +45378,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T182525Z" creationid="Longbell" creationdate="20220414T155833Z">
         <seg>Mala put the last copper coin into the money box and said to Eiffie ecstatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>玛拉昨天被吓到了，所以她让她今天睡在她房间里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T133400Z" creationid="sitong" creationdate="20220418T133400Z">
+        <seg>Mala got a fright yesterday. Therefore, she was sleeping in Eiffie's room tonight.</seg>
       </tuv>
     </tu>
     <tu>
