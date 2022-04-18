@@ -5264,8 +5264,8 @@
       <tuv lang="zh-CN">
         <seg>“听起来是又那么点道理，但其实不是这样的。”麦格笑着摇摇头，“吃了不会死，和能够用来烹饪成为一道美味的食物，这两者之间是有很大区别的。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220418T113653Z" creationid="Longbell" creationdate="20220418T113653Z">
-        <seg>"It sounded reasonable but it actually isn't so." Mag shook his head with a smile. "Being edible and able to be made into a delicious dish is two very different things.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T113816Z" creationid="Longbell" creationdate="20220418T113653Z">
+        <seg>"It sounded reasonable but it actually isn't so." Mag shook his head with a smile. "Being edible and being able to be made into a delicious dish is two very different things.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19330,6 +19330,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220406T155746Z" creationid="sitong" creationdate="20220406T155746Z">
         <seg>"Although Master Marcus is gone, his legacy is just about to begin!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“蜗牛也是这样的，可能它没有毒性，但它的口感很糟糕，或者本身带着难以入口的味道，这样的蜗牛也不能被称为可以食用的蜗牛。”麦格接着说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T114801Z" creationid="Longbell" creationdate="20220418T113810Z">
+        <seg>Mag continued on, "It's the same with the snails. Perhaps it's not poisonous, but its texture can be very bad or it can have a horrible taste. Such snails are not edible snails either."</seg>
       </tuv>
     </tu>
     <tu>
@@ -43422,6 +43430,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>比如我们吃门口那颗大树的树叶不会死，但那树叶并不能用来当做食材做成美味的食物。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T113746Z" creationid="Longbell" creationdate="20220418T113746Z">
+        <seg>For example, we won't die if we eat the leaves on the tree at the front door, but the leaves cannot be used to make into a delicious dish."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>比如窖藏三十年的泰坦酒，与首次亮相便惊艳四方的茅台酒，要从这两者之间选出一款更好的酒作为金奖酒，就像是问我们老婆和老娘哪个重要一样，简直是在为难所有评委。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T140125Z" creationid="Longbell" creationdate="20220407T140125Z">
@@ -50650,6 +50666,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Amy listened very seriously. After a while, she said, "So? What do I have to do?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米认真的听着。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T113755Z" creationid="Longbell" creationdate="20220418T113755Z">
+        <seg>Amy listened seriously.</seg>
       </tuv>
     </tu>
     <tu>
