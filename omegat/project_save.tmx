@@ -13822,6 +13822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“敌袭！！！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T074303Z" creationid="Longbell" creationdate="20220418T074303Z">
+        <seg>"Enemy attack!!!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“救命啊！爷爷，有鬼啊！”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T123627Z" creationid="Longbell" creationdate="20220410T123627Z">
@@ -25082,6 +25090,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T142729Z" creationid="Longbell" creationdate="20220406T142729Z">
         <seg>Two 50 points perfect score liquor actually appeared in one liquor tasting event.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一声尖锐的兽角声从围墙的方向响起，不过很快戛然而止。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T075210Z" creationid="Longbell" creationdate="20220418T075210Z">
+        <seg>A shrill alarm of the beast horn sounded at the fences but it was quelled very suddenly.</seg>
       </tuv>
     </tu>
     <tu>
