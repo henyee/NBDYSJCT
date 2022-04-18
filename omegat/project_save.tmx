@@ -7278,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“嗯，这应该是可以吃的蜗牛了。”麦格点点头，这蜗牛无论是个头还是外表，看起来都和法国蜗牛比较相似，肯定是系统说的那只蜗牛了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T135516Z" creationid="Longbell" creationdate="20220418T135516Z">
+        <seg>"Yes. This should be an edible snail." Mag nodded. Be it the size or the appearance, this snail looked like the French escargots. It must be the snail that the system said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“嗯，这是我给父亲大人你们做的彩虹炒饭，你们太辛苦了，所以我想给你们做一份早餐呢。”艾米点着脑袋，看了一眼锅里的炒饭，又是有点不好意思道：“但……现在好像变成了黑土炒饭。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -22290,6 +22298,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"This is a panda. It is not a magic beast. It is an animal that sustains a living through acting cute." Amy shook her head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这是牛蜗，肉质酸腐，而且有毒，不能吃。”伊琳娜不知何时出现在门口，有些慵懒的倚着门框，看着艾米手里的蜗牛说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T135758Z" creationid="Longbell" creationdate="20220418T135758Z">
+        <seg>Irina suddenly appeared at the door. Leaning against the door frame, she looked at the snail in Amy's hand and lazily said, "This is the cow snail. Its meat is acidic and corrosive, and it's poisonous. It's not edible."</seg>
       </tuv>
     </tu>
     <tu>
