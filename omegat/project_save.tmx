@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34808,8 +34808,8 @@
       <tuv lang="zh-CN">
         <seg>埃菲从铁匠那里定制了一扇铁质的大门，同时加固了门框，安装了滑轮。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220417T093813Z" creationid="Longbell" creationdate="20220417T093813Z">
-        <seg>Eiffie custom-made a iron door from the blacksmith. At the same time, she reinforced the doorframe and installed rollers.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220417T152854Z" creationid="Longbell" creationdate="20220417T093813Z">
+        <seg>Eiffie custom-made an iron door from the blacksmith. At the same time, she reinforced the doorframe and installed rollers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36986,6 +36986,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The whiskey and Maotai were both strong alcohol, especially so for these men who had only been drinking low-alcohol-content fruit wines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>娇小的身影，如鬼魅般从天而降，手中利刃泛着寒芒，目标明确的指向躺在床上的奥斯特。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T064153Z" creationid="Longbell" creationdate="20220418T064153Z">
+        <seg>The petite figure descended from the sky like a ghost with a cold gleaming dagger in her hand. She pointed it at Auster in the bed with a clear intention.</seg>
       </tuv>
     </tu>
     <tu>
