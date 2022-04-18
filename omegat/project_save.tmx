@@ -13390,6 +13390,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我这是在帮艾米调教她的系统，被系统调教什么的，不存在的。”麦格悠悠道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T121512Z" creationid="Longbell" creationdate="20220418T120517Z">
+        <seg>"I'm helping Amy educating her system. There's no such thing such as the system educating the host." Mag said calmly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我这是怎么了！埃菲，你不是这样的女人！”埃菲看着麦格离开酒馆，跺了跺脚，脸蛋羞红。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220402T164910Z" creationid="sitong" creationdate="20220402T164910Z">
@@ -19880,8 +19888,8 @@
       <tuv lang="zh-CN">
         <seg>“请宿主不要试图干涉其他系统发布的任务，这不利于系统对宿主的调教。”系统警告道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220418T120444Z" creationid="Longbell" creationdate="20220418T120444Z">
-        <seg>"Can the Host please not interfere in the missions issued by the other systems? This is not good for the system's education intended for the host." The system warned.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T120557Z" creationid="Longbell" creationdate="20220418T120444Z">
+        <seg>"Can the Host please not interfere in the missions issued by the other systems? This is not good for the system who is educating its host." The system warned.</seg>
       </tuv>
     </tu>
     <tu>
