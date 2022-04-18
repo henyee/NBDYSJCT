@@ -36318,6 +36318,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>奥斯特暴戾无度，贪生怕死，我秉承神的旨意，把他祭天了！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T081020Z" creationid="Longbell" creationdate="20220418T081020Z">
+        <seg>Auster is violent tyrant who is a coward. I have followed the gods' orders and sacrificed him to them!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>奥斯特瞪眼，眼看着那把匕首贯穿了他的眉心，然后仰头向后倒去。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T072734Z" creationid="Longbell" creationdate="20220418T072734Z">
@@ -39440,8 +39448,8 @@
       <tuv lang="zh-CN">
         <seg>康妮骑着一头白色的独角兽上前几步，清了清嗓子道：“里面的人听着，我是法克部落酋长康妮！</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220418T080601Z" creationid="Longbell" creationdate="20220418T080601Z">
-        <seg>Connie rode up on a white unicorn. Clearing her throat, she said, "Those inside listen up. I'm Chief Connie of the Falk Tribe!"</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220418T080920Z" creationid="Longbell" creationdate="20220418T080601Z">
+        <seg>Connie rode up on a white unicorn. Clearing her throat, she said, "Those inside listen up. I'm Chief Connie of the Falk Tribe!</seg>
       </tuv>
     </tu>
     <tu>
