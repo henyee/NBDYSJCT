@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7770,6 +7770,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Take a seat. I'll boil some water for you to wash your feet," Clara said as he put Pasa on the bed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“埃菲啊……你真是一个糟糕的女人……”许久之后，埃菲把画册重新塞回被子下，目光有些迷离的拉上窗帘。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T140127Z" creationid="sitong" creationdate="20220418T140127Z">
+        <seg>"Eiffie... you're a terrible woman..." After a long time, Eiffie stuffed the book back under her blanket and looked dreamily toward the drawn curtains.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17430,6 +17438,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“父亲大人，这是什么啊？”艾米第一个下楼来，看着正在给田螺去尾的麦格好奇的问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T141008Z" creationid="sitong" creationdate="20220418T141008Z">
+        <seg>Amy was the first to come downstairs. "Father, what is this?" she asked curiously as she watched Mag. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“父亲大人，这黄瓜就是蘸着吃吗？”艾米问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -22306,6 +22322,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T135758Z" creationid="Longbell" creationdate="20220418T135758Z">
         <seg>Irina suddenly appeared at the door. Leaning against the door frame, she looked at the snail in Amy's hand and lazily said, "This is the cow snail. Its meat is acidic and corrosive, and it's poisonous. It's not edible."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这是田螺，一种食材。”麦格笑着介绍到，顺手拿起一个递给艾米。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T141109Z" creationid="sitong" creationdate="20220418T141109Z">
+        <seg>"This is escargot. It's an ingredient," Mag introduced with a smile and passed one to Amy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47774,6 +47798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二天一早，麦格做了早餐，顺便从冰箱里拿出了一箩筐田螺开始处理起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T140930Z" creationid="sitong" creationdate="20220418T140930Z">
+        <seg>The next morning, Mag made breakfast. After that, he took a basket of escargot out from the fridge and started cleaning them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二天一早，麦格比平时早起了小半个小时。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220322T053537Z" creationid="sitong" creationdate="20220322T053537Z">
@@ -50754,6 +50786,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220320T031041Z" creationid="sitong" creationdate="20220320T031041Z">
         <seg>Amy placed the bottle down and burped loudly. After that, she smiled radiantly at Mag and said, "I really became happier."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米放到嘴里咬了一口，眉头一皱，重新打量着手里多了两个牙印的田螺，摇摇头道：“不好吃。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T141340Z" creationid="sitong" creationdate="20220418T141340Z">
+        <seg>Amy put it to her mouth and bit on it. She frowned and looked at the escargot with two teethprints as she shook her head and said, "This is not nice."</seg>
       </tuv>
     </tu>
     <tu>
