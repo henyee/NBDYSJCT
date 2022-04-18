@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22474,6 +22474,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T132815Z" creationid="sitong" creationdate="20220414T132815Z">
         <seg>"Did you make this exquisite dumpling too, Mr. Hades?" Eiffie looked at Mag, who was sitting opposite her, in disbelief.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这缠绵的月夜，哈迪斯先生他们现在会在做什么呢？”埃菲坐在窗边，拉开一角窗帘，看着斜对面拉着窗帘，还有微微灯光映照出来的房间，托着下巴愣愣出神。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220418T122635Z" creationid="sitong" creationdate="20220418T122635Z">
+        <seg>"What is Mr. Hades doing on such a lovely night?" Eiffie sat by the window with a corner of her curtain lifted. She looked at the closed curtain diagonally across the street as she propped her chin on her hand. Faint light was shining out from the window.</seg>
       </tuv>
     </tu>
     <tu>
