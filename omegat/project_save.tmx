@@ -24670,6 +24670,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“额……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T073832Z" creationid="Longbell" creationdate="20220419T073832Z">
+        <seg>"Erm..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“额……”埃菲表情一滞。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -57002,6 +57010,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T182919Z" creationid="Longbell" creationdate="20220410T182919Z">
         <seg>Mag parried Rankster away. He paled as he watched that tentacle stabbed towards Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格一时间竟是找不到拒绝的理由。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T074150Z" creationid="Longbell" creationdate="20220419T074150Z">
+        <seg>Mag actually couldn't find a reason to reject her at that moment.</seg>
       </tuv>
     </tu>
     <tu>
