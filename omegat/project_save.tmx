@@ -200,8 +200,8 @@
       <tuv lang="zh-CN">
         <seg>“一只怎么够吃，下次回森林的时候，我再带你去抓吧，吃个够。”伊琳娜笑着默默艾米的脑袋说道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220419T074446Z" creationid="Longbell" creationdate="20220419T074446Z">
-        <seg>"One isn't enough. I'll bring you to catch more when we return to the W</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T074704Z" creationid="Longbell" creationdate="20220419T074446Z">
+        <seg>Irina patted Amy's head and said, "One isn't enough. I'll bring you to catch more when we return to the Wind Forest again and we can eat to our hearts' content."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6638,6 +6638,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“啊这……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T074732Z" creationid="Longbell" creationdate="20220419T074732Z">
+        <seg>"Huh..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“啊这？”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T134749Z" creationid="Longbell" creationdate="20220418T134749Z">
@@ -8850,6 +8858,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220405T132023Z" creationid="Longbell" creationdate="20220405T132023Z">
         <seg>"Alright, alright." Amy lit up her eyes and immediately nodded her little head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好啊好啊！”艾米立马开心的点着脑袋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T074721Z" creationid="Longbell" creationdate="20220419T074721Z">
+        <seg>"Fantastic!" Amy immediately nodded her head happily.</seg>
       </tuv>
     </tu>
     <tu>
