@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“但这的确不是蜗牛，田螺和辣椒爆炒，味道会非常赞。”麦格把最后一把田螺削好，然后用清水仔细清洗了数遍，确保所有的脏东西都已经被洗掉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T082928Z" creationid="Longbell" creationdate="20220419T082928Z">
+        <seg>"But these are really not snails. Escargots taste fantastic when they are stir-fryed with chili." Mag cut the last escargot before washing them with clean water for a few times, making sure that all the dirty stuff were cleaned out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“位置是不错，但格局和面积都不符合我的要求。”麦格面无表情的拒绝。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -13360,8 +13368,8 @@
       <tuv lang="zh-CN">
         <seg>“我看都差不多，都是一个壳，还有一圈一圈的螺纹。”伊琳娜不以为然。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220419T081903Z" creationid="Longbell" creationdate="20220419T081903Z">
-        <seg>"They looked to the same to me. They all have a shell and rings of swirls." Irina didn't disagree nor agree with M</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T081913Z" creationid="Longbell" creationdate="20220419T081903Z">
+        <seg>"They looked to the same to me. They all have a shell and rings of swirls." Irina didn't disagree nor agree with Mag.</seg>
       </tuv>
     </tu>
     <tu>
