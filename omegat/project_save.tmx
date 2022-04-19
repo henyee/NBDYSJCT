@@ -18992,8 +18992,8 @@
       <tuv lang="zh-CN">
         <seg>“等一下，小艾不是喜欢吃甜品吗，昨天有个朋友送了些糕点，我给你拿一些。”埃菲叫住艾米，转身进去，很快提了一个小竹篮出来，里边装满了各种吃的。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220419T140136Z" creationid="Longbell" creationdate="20220419T140136Z">
-        <seg>"Wait a sec. Ay loves to eat desserts, right? A friend gave me some cakes yesterday. Let me give you some." Eiffie stopped Amy and went back to to get a little basket filled with all kinds of food.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T140207Z" creationid="Longbell" creationdate="20220419T140136Z">
+        <seg>"Wait a sec. Ay loves to eat desserts, right? A friend gave me some pastries yesterday. Let me give you some." Eiffie stopped Amy and went back to to get a little basket filled with all kinds of goodies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20854,6 +20854,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“谢谢埃菲姐姐。”艾米嘴里叼了个饼干，提着篮子，开心的走了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T140354Z" creationid="Longbell" creationdate="20220419T140154Z">
+        <seg>"Thank you, Big Sister Eiffie." Amy held a biscuit in her mouth and went off happily with the basket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“谢谢库尔特大人对于家父的肯定，也感谢大家依旧记得我的父亲。”埃菲先向着库尔特微微鞠躬感谢，然后站直了身体，声音嘹亮的说道：“这不是孤品藏酒，是家父三十年前封存的窖藏酒，窖藏三十年方可开启。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220406T153813Z" creationid="sitong" creationdate="20220406T152950Z">
@@ -21402,6 +21410,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Eiffie? Nickname?" Irina was already holding a stool in her hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“还睡个屁，赶紧换衣服化妆去。”埃菲笑着拍了一下玛拉的脑袋，转身进门。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T140546Z" creationid="Longbell" creationdate="20220419T140546Z">
+        <seg>"What for? Let's go change and make up." Eiffie slapped Mala's head with a smile and went into the house.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46474,6 +46490,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220418T133400Z" creationid="sitong" creationdate="20220418T133400Z">
         <seg>Mala got a fright yesterday. Therefore, she was sleeping in Eiffie's room tonight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>玛拉看着埃菲说道：“小姐，你还要睡回笼觉吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T140416Z" creationid="Longbell" creationdate="20220419T140416Z">
+        <seg>Mala asked Eiffie, "Miss, do you want to go back to sleep?"</seg>
       </tuv>
     </tu>
     <tu>
