@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16930,6 +16930,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220402T164638Z" creationid="sitong" creationdate="20220402T164638Z">
         <seg>"It's alright. I admire your thirst for knowledge. If you have any questions, feel free to look for me," Mag said with a nod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“没关系，我正准备出门，有事吗？”麦格微微点头，看着费奇说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T092242Z" creationid="Longbell" creationdate="20220419T092242Z">
+        <seg>"It's fine. I'm about to go out. What's the matter?" Mag nodded slightly and said to Fitch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39822,6 +39830,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>就连老板都邀请他去家里做客，不过被他以工作太忙为由婉拒了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T084718Z" creationid="Longbell" creationdate="20220419T084718Z">
+        <seg>Even his boss invited him to his house, but he had to reject him because he was too busy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>屏障一消除，淡淡的酒香味便从下方传来。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T145158Z" creationid="Longbell" creationdate="20220326T145158Z">
@@ -41362,6 +41378,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Very soon, the griffin landed at ruins 160 km away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>很显然，在泰坦酒馆和塞班酒馆双子星的影响力下，一个高级别的全新商圈，正在酝酿之中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T092038Z" creationid="Longbell" creationdate="20220419T092038Z">
+        <seg>Obviously, under the influence of the twin stars Titan Tavern and Saipan Tavern, a new sophiscated commercial circle was in midst of brewing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44302,6 +44326,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>每天带客人看商铺几乎都到夜里，手里收到的意向书已经不下一百份，其中不乏洛都城里有名的商铺。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T091329Z" creationid="Longbell" creationdate="20220419T091329Z">
+        <seg>He had to bring people to look at the shops until midnight. He had already received more than 100  proposals and many of them were famous shops in Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>比如养一头小猪为腌制火腿做准备，孵化一颗鸡蛋用于生鸡蛋，进山采摘最新鲜的树菇，下海捕捞最肥美的大虾。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -47126,6 +47158,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>真的太忙了……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T084726Z" creationid="Longbell" creationdate="20220419T084726Z">
+        <seg>He was indeed too busy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>真的好气哦！</seg>
       </tuv>
       <tuv lang="en-US">
@@ -47610,6 +47650,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220419T072405Z" creationid="sitong" creationdate="20220419T072405Z">
         <seg>Chapter 2118: Rather Soulless</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百一十六章 一只怎么够吃</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T092703Z" creationid="Longbell" creationdate="20220419T092703Z">
+        <seg>Chapter 2116: One Isn't Enough</seg>
       </tuv>
     </tu>
     <tu>
@@ -49986,6 +50034,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T155239Z" creationid="sitong" creationdate="20220410T155239Z">
         <seg>Around them, all seemed calm. However, there were actually countless spatial cracks slit by the sword and spear. Some of the ancient corpses that barged in were cut into minced meat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而他，将成为历史的参与者，这让他感到兴奋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T092119Z" creationid="Longbell" creationdate="20220419T092119Z">
+        <seg>And he was going to be a part of history, which made him excited.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53186,6 +53242,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T163648Z" creationid="Longbell" creationdate="20220408T163633Z">
         <seg>Fitch turned around and saw two rather well-dressed middle-aged men behind them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>费奇连忙说道：“是这样的，您之前让我审核那些想要租店铺的商家的资历，我现在已经收到了一百零八份意向书，其中不乏实力商家，而且也给出了不错的租金方案，所以我想来找您谈谈，看看能否确定下来一部分商家。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T092531Z" creationid="Longbell" creationdate="20220419T092531Z">
+        <seg>Fitch quickly said, "Oh, it's like this. You asked me to audit the background of those business that wanted to rent the shops. I have already received 108 proposals and many of them are good business. They have also given very good rental suggestions, so I want to discuss with you to see if we can settle on some of them."</seg>
       </tuv>
     </tu>
     <tu>
