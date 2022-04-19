@@ -21254,6 +21254,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这不能吃吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T065439Z" creationid="Longbell" creationdate="20220419T065439Z">
+        <seg>"This can't be eaten?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这不重要好吗！”麦格叹了口气。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T131928Z" creationid="Longbell" creationdate="20220326T131928Z">
@@ -60130,6 +60138,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T065112Z" creationid="Longbell" creationdate="20220404T065112Z">
         <seg>Mag turned solemn and gravely asked, "Where are those servants now? Are they still alive?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格表情有点僵，毕竟他刚刚才信誓旦旦的说这是可以食用的蜗牛，现在却惨遭伊琳娜否定。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T065604Z" creationid="Longbell" creationdate="20220419T065604Z">
+        <seg>Mag had an awkward expression. He had just said that this was an edible snail and now he was proven wrong by Irina.</seg>
       </tuv>
     </tu>
     <tu>
