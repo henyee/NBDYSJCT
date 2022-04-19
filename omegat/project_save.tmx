@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -858,6 +858,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"No matter who opened this tavern, it is a good thing for Romo Street. There is finally some life here."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不能吃吗？这么大的蜗牛，一定很多肉肉。”艾米看着手里的大蜗牛，一脸惋惜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T065430Z" creationid="Longbell" creationdate="20220419T065430Z">
+        <seg>"It can't be eaten? There must be a lot of meat in such a big snail." Amy said regrettably, looking at the big snail in her hands.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6578,6 +6586,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Huh?" Amy opened her mouth slightly with the cleaver in her hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“啊哈？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T064931Z" creationid="Longbell" creationdate="20220419T064931Z">
+        <seg>"Huh?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -57610,6 +57626,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T133239Z" creationid="Longbell" creationdate="20220402T133239Z">
         <seg>Mag had a short and peaceful interaction with Xi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格和艾米同时回头，有些惊讶的看向伊琳娜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T064958Z" creationid="Longbell" creationdate="20220419T064958Z">
+        <seg>Mag and Amy turned their heads around at the same time and looked at Irina with shock.</seg>
       </tuv>
     </tu>
     <tu>
