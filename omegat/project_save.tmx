@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“人家还没有开始做饭呢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T141106Z" creationid="Longbell" creationdate="20220419T141106Z">
+        <seg>"He hasn't start cooking yet."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“人找到了吗？”伊琳娜看着麦格问道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T163835Z" creationid="Longbell" creationdate="20220415T163835Z">
@@ -5298,6 +5306,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"It might be the neighbor. Let me take a look." Mag did not know who was at the door, but he did not feel any murderous intent or a powerful aura. That person was just an ordinary human being.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“可能是饭做太多了吃不完吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T140943Z" creationid="Longbell" creationdate="20220419T140943Z">
+        <seg>"Perhaps, he cooks too much food and they can't finish it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -17986,6 +18002,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T113152Z" creationid="sitong" creationdate="20220327T113152Z">
         <seg>"Mala." Eiffie glared at her. She then turned to nod at Mag. "Titan Liquor's brewing is like that."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“玛拉，你说哈迪斯先生为什么要邀请我们去吃饭呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T140924Z" creationid="Longbell" creationdate="20220419T140924Z">
+        <seg>"Mala, why do you think Mr. Hades is inviting us over for lunch?"</seg>
       </tuv>
     </tu>
     <tu>
