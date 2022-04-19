@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T141152Z" creationid="Longbell" creationdate="20220419T141152Z">
+        <seg>"..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“一个一个套太慢了。”艾米拿起了三个竹圈，然后天女散花一般丢了出去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -9130,6 +9138,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T154805Z" creationid="sitong" creationdate="20220404T154749Z">
         <seg>"So many horse-drawn carriages." Amy tiptoed but could not see the end to the countless horse-drawn carriages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好大的鱼。”玛拉一进门，便看到了烤盘上的大烤鱼，咽了咽口水。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T141349Z" creationid="Longbell" creationdate="20220419T141349Z">
+        <seg>"What a big fish." Mala saw the huge grilled fish on the grilling plate and gulped as soon as she entered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24026,6 +24042,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T131609Z" creationid="sitong" creationdate="20220417T131609Z">
         <seg>"That is really a pity." Eiffie sighed as well. She found it a pity that others would not be able to try Mag's culinary skills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那小姐是觉得我们吃饭的样子比较下饭吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T141149Z" creationid="Longbell" creationdate="20220419T141149Z">
+        <seg>"Then, do you think the way we eat is appetising, Miss?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -58394,6 +58418,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T183555Z" creationid="Longbell" creationdate="20220326T183555Z">
         <seg>Mag made a table full of scrumptious breakfast. He specially scooped a big bowl of soybean milk for himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格做了条烤鱼，然后炒了几个菜，最后再上了两盘爆炒螺丝，一桌菜便有了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T141303Z" creationid="Longbell" creationdate="20220419T141303Z">
+        <seg>Mag made a grilled fish and stir-fried a few dishes. Lastly, he served two plates of stir-fried escargots and all the dishes were ready.</seg>
       </tuv>
     </tu>
     <tu>
