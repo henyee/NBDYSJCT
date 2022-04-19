@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5386,6 +5386,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"After absorbing all the resentment and blood essence, his power is above the 9th-tier, but he hasn't reached the 10th-tier yet. It's impossible for him to kill Andre and Sean, and suppress all to become the king of the Roth Empire." Mag shook his head. "Even I will have a hard time killing Andre when he is in the Rodu palace."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“吸田螺是有技巧的，初级选手最好是直接上手，像我这样拿起一只田螺，然后把螺口的位置对着嘴巴，然后凑上前，用力吸一下田螺口，里面的螺肉自然就会出来了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T092911Z" creationid="sitong" creationdate="20220419T092911Z">
+        <seg>"There is a technique for sucking escargot. For beginners, it's easier to use your hands. Pick up an escargot like me, and put its opening to your mouth. After that, suck hard and the meat would come out naturally."</seg>
       </tuv>
     </tu>
     <tu>
@@ -22626,6 +22634,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220418T141109Z" creationid="sitong" creationdate="20220418T141109Z">
         <seg>"This is escargot. It's an ingredient," Mag introduced with a smile and passed one to Amy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这是田螺，不是蜗牛。”麦格纠正道，见众人都望着自己，想到他们都是第一次吃这道菜，又介绍道：“田螺吃的是螺肉，而螺肉藏在这坚硬的外壳之中，我们要把它吸出来才行。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T092808Z" creationid="sitong" creationdate="20220419T092808Z">
+        <seg>"This is an escargot, not a snail," Mag corrected. When he saw that everyone was looking at him, he recalled that this was their first time trying this dish so he introduced, "When you eat an escargot, what you're eating is its meat. The meat of the escargot is hidden within it's hard shell. We have to suck it out."</seg>
       </tuv>
     </tu>
     <tu>
@@ -51390,6 +51406,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>艾米学着麦格的样子夹了一颗田螺放到嘴里，向糖一样含了一会，差不多没味了才吐出来，一脸疑惑的看着麦格：“父亲大人，吃这个蜗牛就是舔一舔吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T092700Z" creationid="sitong" creationdate="20220419T092700Z">
+        <seg>Amy copied Mag and put a escargot in her mouth. She sucke don it for a while like a sweet and almost spat it out. She looked at Mag with bewilderment and asked, "Father, do you just lick this snail?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>艾米就蹲在一旁观察了好一会，然后若有所思的点了点头：“没毒。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -60002,6 +60026,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T125214Z" creationid="Longbell" creationdate="20220418T125214Z">
         <seg>Mag's expression froze on his face. He'd just said that the snails in the back yard were absolutuely inedible earlier and now he had to bring Amy to go look for edible snails in the back yard?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格的这番操作，把桌上众人有些看呆了去，甚至都忘了动筷。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T092612Z" creationid="sitong" creationdate="20220419T092612Z">
+        <seg>Everyone was so stunned watching Mag eat that they forgotto eat.</seg>
       </tuv>
     </tu>
     <tu>
