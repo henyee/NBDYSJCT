@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -906,6 +906,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T151711Z" creationid="sitong" creationdate="20220327T151711Z">
         <seg>"No! How can we waste the budget away?" Garlan shook his head seriously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不行，再有半个月我们就该回去了，麦米餐厅才是大本营。”麦格摇摇头，暂时是会舒服，但半个月后又麻烦了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T105807Z" creationid="Longbell" creationdate="20220419T105807Z">
+        <seg>"No. We would be returning in two weeks' time. Mamy Restaurant is our base." Mag shook his head. It would be easy for the moment, but it would be troublesome again two weeks later.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7982,6 +7990,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“埃菲姐姐那里就有很多小姐姐呀，为什么不找她介绍呢？”在一旁的玩耍的艾米突然说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T110805Z" creationid="Longbell" creationdate="20220419T110805Z">
+        <seg>Amy, who was playing at the side, suddenly said, "Big Sister Eiffie has a lot of big sisters with her. Why don't we ask her to recommend us a few of them?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“埃菲姐姐，你今天好漂亮。”艾米看着穿着一身红色长裙的埃菲，眼睛亮晶晶的说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T155507Z" creationid="sitong" creationdate="20220404T155432Z">
@@ -10458,6 +10474,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I indeed know the enemy pretty well." Mag laughed self-deprecatingly. It was he who chose not to kill Josh, because he thought he knew Josh well. That was what caused the massacres today.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“对哦！”麦格眼睛一亮，他倒是忘了埃菲这个经营多年的老板娘了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T110945Z" creationid="Longbell" creationdate="20220419T110945Z">
+        <seg>"Oh yes!" Mag lit up his eyes. He had forgotten about Eiffie, the lady boss who had operated her business for years.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36962,6 +36986,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Saipan—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>塞班酒馆和之前的龙虾馆不同，麦格买了半条街，是想让它能够一直经营下去，持续获得收益的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T105933Z" creationid="Longbell" creationdate="20220419T105933Z">
+        <seg>Saipan Tavern was different from the crayfish restaurant previously. Mag had bought up half of the street and he wanted it to continue operating, so he could gain interest from it.</seg>
       </tuv>
     </tu>
     <tu>
