@@ -2950,3 +2950,4 @@ DVD	DVD
 蜗牛	snail
 玛瑙蜗牛	Achatinella
 法国蜗牛	French escargots
+灰岩蜗牛	Grey Rock Snail
