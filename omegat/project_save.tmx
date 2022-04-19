@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14018,6 +14018,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"So?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“才108家吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T100906Z" creationid="Longbell" creationdate="20220419T100906Z">
+        <seg>"Only 108 of them?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -43942,6 +43950,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>果然商人都有着非常敏锐的嗅觉，能够第一时间嗅到商机。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T101223Z" creationid="Longbell" creationdate="20220419T101223Z">
+        <seg>Indeed, businessmen had a very keen sense of smell. They could smell the opportunity to make money in the very first moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>果然她之前的猜测没错，这个家伙并不是只冲着钱来的。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T094553Z" creationid="sitong" creationdate="20220414T094553Z">
@@ -61066,6 +61082,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220419T065604Z" creationid="Longbell" creationdate="20220419T065604Z">
         <seg>Mag had an awkward expression. He had just said that this was an edible snail and now he was proven wrong by Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格表情淡然，心里却是有些惊讶，没想到才两三天的时间，竟然已经有那么多商家找上门来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T101008Z" creationid="Longbell" creationdate="20220419T101008Z">
+        <seg>Mag might look calm but he was rather shocked inwardly. He didn't expect so many businesses to come looking for rental in just two to three days.</seg>
       </tuv>
     </tu>
     <tu>
