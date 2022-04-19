@@ -22494,6 +22494,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是水蜗牛吗？”伊琳娜端着水杯站在一旁，看着麦格面前盆里的田螺，也是好奇的问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T080846Z" creationid="Longbell" creationdate="20220419T080846Z">
+        <seg>"Are these the water snails?" Irina stood at the side with a glass of water as she looked at the escargots in the</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是熊猫，不是魔兽，只是一种靠卖萌为生的动物。”艾米摇摇头。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34314,6 +34322,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After breakfast, Mag sent breakfast to Merante and Noya before they went out to play.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>吃过早餐，麦格继续处理田螺。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T081101Z" creationid="Longbell" creationdate="20220419T080700Z">
+        <seg>After breakfast, Mag continued to process the escargots.</seg>
       </tuv>
     </tu>
     <tu>
