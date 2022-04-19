@@ -4462,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“原来是藏在下面。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T072654Z" creationid="Longbell" creationdate="20220419T072654Z">
+        <seg>"So, it's hidden down there."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“原来是那位老板的女儿，好嘞，有埃菲老板娘带着，那就没问题了。”老板恍然，立马麻利的盛了三碗汤，用食盒小心装着递给玛拉。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T093505Z" creationid="Longbell" creationdate="20220403T093505Z">
@@ -5754,6 +5762,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220401T172740Z" creationid="sitong" creationdate="20220401T172740Z">
         <seg>"Wow, it looks very cool." Amy had already changed into her little armor excitedly and even put on her helmet. She sat on the motorcycle and transformed into a little knight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“哇哦，能吃的蜗牛！找到了诶！”艾米开心的从伊琳娜手机里接过那只蜗牛。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T072645Z" creationid="Longbell" creationdate="20220419T072645Z">
+        <seg>"Wow, an edible snail! We found it!" Amy received that snail from Irina happily.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46574,6 +46590,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>看着艾米手里那只硬币大小的蜗牛，这和田螺相比也大不了多少。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T072859Z" creationid="Longbell" creationdate="20220419T072859Z">
+        <seg>Looking at that snail that was about the size of a coin, it was no bigger than a river snail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>看着那三个圆滚滚的茅台酒瓶，和那用细长水晶瓶盛装的威士忌，众人眼睛纷纷一亮。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -58266,6 +58290,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag felt a warm feeling in his heart instantly. This was trust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格恍然，不是系统骗他，而是他先入为主的认为先前那只牛蜗就是目标。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T072740Z" creationid="Longbell" creationdate="20220419T072740Z">
+        <seg>Mag finally realized that. The system didn't lie to him. It was him who thought that earlier snail was the target.</seg>
       </tuv>
     </tu>
     <tu>
