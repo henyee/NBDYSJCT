@@ -6710,6 +6710,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“喏，这是一只灰岩蜗牛，虽然看起来普普通通，但其实它富有丰富的营养，我们只要敲掉它的外壳，咬掉它的脑袋，就可以直接食用了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220419T072615Z" creationid="Longbell" creationdate="20220419T072615Z">
+        <seg>"There you are. This is a Grey Rock Snail. Although it looks ordinary, it's actually full of nutrients. We simple need to knock off its shell, bite off its head and it can be eaten right away."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“喔噢！这个哪吒看起来和我好像，我也有风火轮欸！”</seg>
       </tuv>
       <tuv lang="en-US">
