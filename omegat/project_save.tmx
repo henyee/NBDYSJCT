@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1410,6 +1410,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Why is there kitchenware from so many technological worlds? And… electricity?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“为什么我的嘴巴会漏气呢？”玛拉看着手里被吸干了汤汁，但螺肉纹丝不动的田螺一脸泄气。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T093532Z" creationid="sitong" creationdate="20220419T093532Z">
+        <seg>"Why can't I suck it out?" Mala looked at the escargot in her hand, that had no more sauce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15938,6 +15946,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T161831Z" creationid="sitong" creationdate="20220417T161831Z">
         <seg>"Recently, there have been people coming to the ice cream shop to ask when Boss is coming back and when the restaurant would resume operations. Say, is there a way we can contact Boss?" Yabemiya changed the topic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“有些人就是这样的，不必强求，其实用牙签把螺肉跳出来也是可以的。”麦格从一旁拿了一盒牙签，放到了玛拉的面前。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T093558Z" creationid="sitong" creationdate="20220419T093558Z">
+        <seg>"Some people are just like that. It's alright. You can also pick the meat out with a toothpick." Mala placed a box of toothpick in front of Mala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41294,6 +41310,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>当然，用牙签吃田螺，是相当没得灵魂了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T093616Z" creationid="sitong" creationdate="20220419T093616Z">
+        <seg>Of course, eating escargot with toothpick was rather soulless.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>当然，要是他知道教廷的大主教这会正到处找她回去当圣女的话，一定会跪的更快一些。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -46326,6 +46350,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>玛拉拿着田螺，几经尝试，最终还是以失败告终。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T093459Z" creationid="sitong" creationdate="20220419T093459Z">
+        <seg>Mala took the escargot and after a few tries, she still ended in failure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>玛拉昨天被吓到了，所以她让她今天睡在她房间里。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220418T133400Z" creationid="sitong" creationdate="20220418T133400Z">
@@ -47818,6 +47850,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T092507Z" creationid="Longbell" creationdate="20220418T092507Z">
         <seg>Chapter 2113: The Assassin Who Has No Sense Of Directions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百一十九章 您看……我还有机会吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T093834Z" creationid="sitong" creationdate="20220419T093834Z">
+        <seg>Chapter 2119: Do You Think... I Still Have The Chance?</seg>
       </tuv>
     </tu>
     <tu>
