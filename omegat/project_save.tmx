@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27030,6 +27030,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>不过哈迪斯先生似乎不吃这一套，而且毕竟人家夫人还在对面坐着，自己也不好发挥啊。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T085712Z" creationid="sitong" creationdate="20220419T085712Z">
+        <seg>However, Mr. Hades did not seem to buy that. Besides, his wife was sitting right in front of her. She could not really bring out her fullest potential.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>不过喝酒这件事，也不是人人都计较酒好不好的，不少人讲究的就是一个氛围，以及和谁喝。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -42246,6 +42254,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>撒娇女人最好命，这个道理埃菲还是懂的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T085626Z" creationid="sitong" creationdate="20220419T085626Z">
+        <seg>Women who acted coquettishly could lead the best life. This was something Eiffie knew.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>撕拉！</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T143715Z" creationid="Longbell" creationdate="20220326T143715Z">
@@ -45862,6 +45878,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>玛拉夹起碗里的鱼肉，仿佛稍稍一用力就会断开，但却凝而不散，弹性十足，红色的酱汁将鱼肉完美包裹，香辣的味道扑面而来，还没有放到嘴里，口水就已经忍不住在分泌，迟疑了一下，慢慢喂到了嘴里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T085849Z" creationid="sitong" creationdate="20220419T085849Z">
+        <seg>Mala picked up the fish meat in her bowl. It was as if the meat would fall apart if she used just a little more force, but it did not. It was very chewy and the red sauce covered every inch of the fish. The fragrant and spicy smell wafted over. Before she even put it into her mouth, she was already salivating. She hesitated for a while before putting the fish into her mouth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>玛拉心疼的看着自家小姐，看着麦格的目光也是带了几分气愤。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T110900Z" creationid="sitong" creationdate="20220327T110900Z">
@@ -47354,6 +47378,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T135922Z" creationid="Longbell" creationdate="20220418T135837Z">
         <seg>Chapter 2115: "Please Be Merciful...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百一十八章 相当没得灵魂</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220419T072405Z" creationid="sitong" creationdate="20220419T072405Z">
+        <seg>Chapter 2118: Rather Soulless</seg>
       </tuv>
     </tu>
     <tu>
