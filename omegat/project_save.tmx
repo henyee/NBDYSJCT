@@ -18798,6 +18798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“真的吗？师父，这把刀……就送给我了？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T081120Z" creationid="Longbell" creationdate="20220420T081120Z">
+        <seg>"Really? Master, this cleaver...is mine?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“真的吗？！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -46658,6 +46666,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T110900Z" creationid="sitong" creationdate="20220327T110900Z">
         <seg>Mala's heart went out to her Young Mistress and she glared at Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>玛拉惊喜的看着麦格，这把菜刀虽然方方正正的，但是比她自己家里那把菜刀好用多了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T083141Z" creationid="Longbell" creationdate="20220420T083141Z">
+        <seg>Mala looked at Mag with surprise. Although this cleaver was rectangular, it was easier to use than the chef's knife she had back home.</seg>
       </tuv>
     </tu>
     <tu>
