@@ -10942,6 +10942,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“小姐，那几位服务员，您不是自己约的吗？”出了塞班酒馆，玛拉有些疑惑的看着埃菲问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T102026Z" creationid="Longbell" creationdate="20220420T102026Z">
+        <seg>After coming out from Saipan Tavern, Mala asked Eiffie with wonder, "Miss, didn't you ask to meet those service staff for yourself?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“小姐，那是……”小丫鬟看着埃菲手里的酒，有些紧张的说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T160406Z" creationid="sitong" creationdate="20220325T160406Z">
@@ -35114,6 +35122,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220419T081101Z" creationid="Longbell" creationdate="20220419T080700Z">
         <seg>After breakfast, Mag continued to process the escargots.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>吃过晚餐，埃菲和玛拉便告辞，泰坦酒馆也该准备营业了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T101810Z" creationid="Longbell" creationdate="20220420T101810Z">
+        <seg>After dinner, Eiffie and Mala said their goodbyes. Titan Tavern was about to start its operation.</seg>
       </tuv>
     </tu>
     <tu>
