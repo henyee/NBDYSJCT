@@ -8094,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“埃菲小姐吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T084814Z" creationid="Longbell" creationdate="20220420T084814Z">
+        <seg>"Miss Eiffie?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“埃菲小姐太客气了，一点小事而已，你也帮忙报名了。”麦格硬着头皮站起来，看着埃菲客套道：“坐一会吧，这么冷，喝杯热茶。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T091424Z" creationid="Longbell" creationdate="20220328T091424Z">
@@ -8602,6 +8610,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T140525Z" creationid="Longbell" creationdate="20220414T140525Z">
         <seg>"I-is she gone?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“她不会做饭。”玛拉点点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T084830Z" creationid="Longbell" creationdate="20220420T084830Z">
+        <seg>"She doesn't know how to cook." Mala nodded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23898,6 +23914,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T145834Z" creationid="sitong" creationdate="20220327T145823Z">
         <seg>"So explain it."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那你去叫她也一起过来吃饭吧。”麦格微笑道，他也想起来自己中午忙着教玛拉做菜，忘了让埃菲推荐服务员的事情了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T085003Z" creationid="Longbell" creationdate="20220420T085003Z">
+        <seg>"Go and get her over for dinner then." Mag answered smilingly. He suddenly remembered that he forgot to ask Eiffie to recommend service staff after he got caught up in teaching Mala how to cook.</seg>
       </tuv>
     </tu>
     <tu>
