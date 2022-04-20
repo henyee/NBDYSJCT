@@ -8182,6 +8182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“埃菲小姐，我们初来乍到，想招募几位服务员，但一直没有找到合适的人选，不知你是否有认识的人选。”吃饭的时候，麦格看着埃菲问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T095613Z" creationid="Longbell" creationdate="20220420T095613Z">
+        <seg>During dinner, Mag asked Eiffie, "Miss Eiffie, we would like to employ a few more service staff, but we couldn't find any suitable candidates. I wonder do you know anybody who is suitable?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“埃菲小姐，我非常尊重与喜爱马库斯大师，他是一位天才酿酒师，更是一个执著且坚定的酿酒师，哪怕已经过去十五年，他和泰坦酒的传奇依旧铭刻在我们的心中。”库尔特站着看着坐在台下的埃菲，神情有些复杂道：“非常感谢你让我们再次感受到他无与伦比的魅力，但根据品酒大会的规则，孤品藏酒是不能用于参赛的，因为这意味着客人在你的酒馆中无法购买到它。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T031322Z" creationid="Longbell" creationdate="20220406T031201Z">
@@ -36818,6 +36826,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T131130Z" creationid="sitong" creationdate="20220417T131130Z">
         <seg>Eiffie covered her mouth and smiled embarrassedly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲换了一身衣服，洗干净面庞，画了个淡妆，便带着玛拉来了塞班酒馆。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T095340Z" creationid="Longbell" creationdate="20220420T095340Z">
+        <seg>Eiffie changed her clothes, washed her face, put on light makeup and then brought Mala to Saipan Tavern.</seg>
       </tuv>
     </tu>
     <tu>
