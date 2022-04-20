@@ -11702,6 +11702,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“当然是真的。”麦格笑着点头，“今天就到这里吧，一会吃了晚饭再回去。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T083603Z" creationid="Longbell" creationdate="20220420T083603Z">
+        <seg>"Of course." Mag nodded with a smile. "That's all for today. You can go back after having dinner."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“当然，当你用完这个酒窖里的酒时，希望你已经能够将你酿的泰坦酒装桶再次放入酒窖之中。”麦格看着有点出神的埃菲说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T143947Z" creationid="Longbell" creationdate="20220326T143947Z">
@@ -49698,6 +49706,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After experiencing this incident, Mag also wasn't sure if Josh was still in Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>经过一个下午的相处，玛拉征得麦格同意之后，已经改称他为师父了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T083258Z" creationid="Longbell" creationdate="20220420T083258Z">
+        <seg>After spending the whole afternoon together and obtaining Mag's permission, Mala started to address him as "Master".</seg>
       </tuv>
     </tu>
     <tu>
