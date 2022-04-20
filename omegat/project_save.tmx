@@ -9766,6 +9766,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好的，请稍等。”麦格眼睛一亮，转身走进了厨房。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T141445Z" creationid="Longbell" creationdate="20220420T141445Z">
+        <seg>"Sure. Please give me some time." Mag lit up his eyes and went into the kitchen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好的，请稍等，我们需要核实一下。”沙哑的声音响起，然后便彻底没了声音。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220415T162452Z" creationid="sitong" creationdate="20220415T162452Z">
@@ -44698,6 +44706,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T090001Z" creationid="Longbell" creationdate="20220404T085855Z">
         <seg>Xi looked at Mag and pondered for a moment before shaking her head. "You are a qualified and attractive bait. Perhaps, Cthulhu will come looking for you again."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>晞看着麦格的目光，第一次有了几分敬重，不过依旧冷淡道：“我要先尝尝，看看那红烧肉是否值得一门主炮。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T141352Z" creationid="Longbell" creationdate="20220420T141352Z">
+        <seg>Xi looked at Mag with a respectful gaze for the first time, but she still coldly said, "I want to try to see if that red braised pork is worthy to exchange for a cannon."</seg>
       </tuv>
     </tu>
     <tu>
