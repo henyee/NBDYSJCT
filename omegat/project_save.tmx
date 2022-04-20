@@ -12270,6 +12270,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“您想要招募什么样的服务员呢？薪酬大约是多少？”埃菲问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T100727Z" creationid="Longbell" creationdate="20220420T100727Z">
+        <seg>"What kind of service staff do you intend to hire? How much is the salary?" Eiffie asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“您是说她是伪装的？”诺亚想了想，又是有些恍然道：“也对哦，麦老板是亚历克斯大人，那他的夫人，也只能是伊琳娜公主了。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -20506,6 +20514,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"How much do you need? I'll give you all I have…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“要手脚麻利，待客大方，最好稍微年轻一点的。薪酬方面，大致是月薪5000铜币左右，当然，如果对方足够优秀的话，还是可以增加的。”麦格说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T101126Z" creationid="Longbell" creationdate="20220420T101126Z">
+        <seg>"They have to be fast workers and gracious hosts. It will be good if they can be younger. As for the salary, it will be around 5000 copper coins. Of course, if they are good, I can pay them more." Mag answered.</seg>
       </tuv>
     </tu>
     <tu>
