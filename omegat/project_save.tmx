@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“不是，这是师父送我的菜刀。”玛拉笑着摇摇头，还隔空挥了挥，“可好用了呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T092935Z" creationid="Longbell" creationdate="20220420T092935Z">
+        <seg>"No. This is the cleaver that Master gave me." Mala shook her head with a smile. She even waved it around. "It's a breeze to use."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“不是，这里有一半是我要吃的呢。”艾米摇摇头说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T094722Z" creationid="Longbell" creationdate="20220403T094722Z">
@@ -36802,6 +36810,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220416T070222Z" creationid="Longbell" creationdate="20220416T070222Z">
         <seg>Eiffie twisted her body which was completely bundled up awkwardly. She blushed a little and was a little excited for no reason?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>埃菲有些惊讶：“师父？哈迪斯先生收你为徒了？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T093000Z" creationid="Longbell" creationdate="20220420T093000Z">
+        <seg>Eiffie was rather taken back. "Master? Did Mr. Hades take you in as his disciple?"</seg>
       </tuv>
     </tu>
     <tu>
