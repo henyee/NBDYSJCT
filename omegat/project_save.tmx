@@ -45870,10 +45870,18 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>泰坦酒馆惨遭暴徒抢劫，老板埃菲更是被掳走经历了惊魂一夜，这个消息在酒馆圈子里还是传开了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T120831Z" creationid="Longbell" creationdate="20220420T120831Z">
+        <seg>The news of Titan Tavern being robbed and its Boss Eiffie experiencing a scary night had already spread in the tavern circle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>泰坦酒馆有八位服务员，这两天她都觉得有些忙不过来，打算再招募两位服务员。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220420T100650Z" creationid="Longbell" creationdate="20220420T100650Z">
-        <seg>Titan Tavern had eight service staff and even she felt overwhelmed in the past two days. She intended to employ two more service staff.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T120244Z" creationid="Longbell" creationdate="20220420T100650Z">
+        <seg>Titan Tavern had eight service staff members and even she felt overwhelmed in the past two days. She intended to employ two more service staff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48610,6 +48618,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220416T101413Z" creationid="sitong" creationdate="20220416T101413Z">
         <seg>Chapter 2111: You're Lucky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百二十章 您这是在放火！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T120212Z" creationid="Longbell" creationdate="20220420T120212Z">
+        <seg>Chapter 2120: You're Setting Fire Here!</seg>
       </tuv>
     </tu>
     <tu>
