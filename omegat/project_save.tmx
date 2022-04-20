@@ -3174,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你是一名人类骑士，她是一位魔法师，你们得到了主炮，也无法发挥作用。”晞说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T140225Z" creationid="Longbell" creationdate="20220420T140225Z">
+        <seg>"You're a human knight and she is a magic caster. You guys can't use the cannon even if you are given one." Xi said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你是什么人？！要干什么？！”玛拉大声呵斥道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T200646Z" creationid="Longbell" creationdate="20220414T200646Z">
