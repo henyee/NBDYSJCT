@@ -7246,6 +7246,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“嗯，不错，这把菜刀就送给你了，平时有空就在家练练刀工。”麦格看着玛拉缓慢但稳定的切好一个土豆，颇为满意的点了点头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T081058Z" creationid="Longbell" creationdate="20220420T081058Z">
+        <seg>Mag watched Mala slice a potato slowly but steadily and nodded. "Mmm. Not bad. I'll give this cleaver to you then. Practise your cutting skills whenever you're free at home."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“嗯，买了点菜，正准备回去给夫人和孩子做饭。”麦格晃了晃手里的菜篮子，里边装了几样菜。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -38320,8 +38328,8 @@
       <tuv lang="zh-CN">
         <seg>好在玛拉的悟性不错，而且积极性很高，再加上麦格那哪里不会点哪里的金手指。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220420T080304Z" creationid="Longbell" creationdate="20220420T080304Z">
-        <seg>Fortunately, Mala got the gist quickly and was very proactively, in addition to Mag's "Goldfinger".</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T080527Z" creationid="Longbell" creationdate="20220420T080304Z">
+        <seg>Fortunately, Mala got the gist quickly and was very proactively, in addition to Mag's "Midas Touch".</seg>
       </tuv>
     </tu>
     <tu>
@@ -49674,6 +49682,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After experiencing this incident, Mag also wasn't sure if Josh was still in Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>经过一个下午的练习，玛拉已经能够有模有样的将土豆切成大小均匀的薄片。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220420T080611Z" creationid="Longbell" creationdate="20220420T080611Z">
+        <seg>After practising for the whole afternoon, Mala could already slice the potato into even thin slices.</seg>
       </tuv>
     </tu>
     <tu>
