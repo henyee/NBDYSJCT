@@ -14630,6 +14630,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“按照要求，你们应该不在这个世界上了，或者不该有这段记忆和现在这段对话。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220421T081154Z" creationid="Longbell" creationdate="20220421T081154Z">
+        <seg>"According to the requirements, you guys shouldn't be in this world, or have this memory and this conversation."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“按照说明书来看，是一台核动力印刷机。”麦格说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T154008Z" creationid="Longbell" creationdate="20220402T154008Z">
@@ -44816,8 +44824,8 @@
       <tuv lang="zh-CN">
         <seg>晞看着伊琳娜沉默许久，然后道：“我就是古老者对这个世界能够帮助的极限，而起我必须保证自己不会暴露古老者的存在。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220421T080831Z" creationid="Longbell" creationdate="20220421T080831Z">
-        <seg>Xi stared at Irina silently for a long time before saying, "I am the limit of the Elder Things' assistance to this world and I have to make sure that I won't expose the Elder Things' existence.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220421T080838Z" creationid="Longbell" creationdate="20220421T080831Z">
+        <seg>Xi stared at Irina silently for a long time before saying, "I am the limit of the Elder Things' assistance to this world and I have to make sure that I won't expose the Elder Things' existence."</seg>
       </tuv>
     </tu>
     <tu>
