@@ -3222,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你是来拯救这个世界的？”伊琳娜继续问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220421T074943Z" creationid="Longbell" creationdate="20220421T074943Z">
+        <seg>"Did you come to save this world?" Irina continued to ask.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你是神吗？”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220420T141802Z" creationid="Longbell" creationdate="20220420T141802Z">
@@ -12722,6 +12730,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220409T123407Z" creationid="sitong" creationdate="20220409T123407Z">
         <seg>"I am not a businessman. I am a chef. I just invest in some assets that had been heavily underrated." Mag said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我不是神。”晞微微摇头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220421T074902Z" creationid="Longbell" creationdate="20220421T074902Z">
+        <seg>"I'm not a god." Xi shook her head.</seg>
       </tuv>
     </tu>
     <tu>
