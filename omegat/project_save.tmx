@@ -22414,6 +22414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这个人类的刀工，真是令人惊讶的艺术。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T011811Z" creationid="Longbell" creationdate="20220422T011804Z">
+        <seg>"This human's cutting skill is indeed an astonishing artwork."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这个凉拌猪耳朵和凉拌猪舌头，看起来好像麦老板做的夫妻肺片啊。”温妮莎看着面前的两份凉拌菜，有些惊讶道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -45278,6 +45286,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>晞颇为欣赏的看着均匀等边的肉块，甚至连角度都几乎没有丝毫偏差，然后把肉喂到嘴里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T011903Z" creationid="Longbell" creationdate="20220422T011903Z">
+        <seg>Xi looked at the meat that was equally cut at all sides with appreciation. Even the angles were perfect. Then, she fed it into her mouth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>暮光森林。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220417T132534Z" creationid="Longbell" creationdate="20220417T132534Z">
@@ -57768,8 +57784,8 @@
       <tuv lang="zh-CN">
         <seg>这野猪肉切成了方块长条，浓稠的汤汁将野猪肉染成了深红色，肥瘦相间的猪肉触感柔软而又弹性。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220422T011021Z" creationid="Longbell" creationdate="20220422T011021Z">
-        <seg>"This wi</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T011740Z" creationid="Longbell" creationdate="20220422T011021Z">
+        <seg>This wild boar meat was cut into long cubic shape and the thick gravey dyed the wild boar meat a deep red color. The interlaying fat and lean pork was soft and bouncy.</seg>
       </tuv>
     </tu>
     <tu>
