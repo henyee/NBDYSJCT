@@ -3798,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“兄弟，我能借你的也只有这么多了，下个月记得还款，5个点啊。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T153953Z" creationid="Longbell" creationdate="20220422T153953Z">
+        <seg>"Bro, I can only lend you that many. Remember to pay me back next month. Five points."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“先不必进去坐，我今天来，就是想问问你们这里是否承接商铺出租的中介服务？”麦格看着费奇开门见山道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220409T132148Z" creationid="sitong" creationdate="20220409T132148Z">
@@ -9214,6 +9222,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好吧……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T154210Z" creationid="Longbell" creationdate="20220422T154210Z">
+        <seg>"Alright..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好吧。”艾米乖巧的点点头，没有强求。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T180041Z" creationid="Longbell" creationdate="20220409T180041Z">
@@ -11346,6 +11362,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220422T132523Z" creationid="Longbell" creationdate="20220422T132523Z">
         <seg>"Little Ancestor..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“小祖宗，这下您满意了吧？”系统的声音在艾米的脑海中响起。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T152812Z" creationid="Longbell" creationdate="20220422T152812Z">
+        <seg>"Little Ancestor, are you satisfied now?" The system's voice rang in Amy's mind again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14970,6 +14994,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Side Quest: Attack on Cucumber! Please learn to make this dish and experience cooking for real."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“放屁！谁跟你难兄难弟了，我对宿主可是一向强势霸道，说一不二的，你以后得向大哥我多学习，当一个有原则，有立场的系统！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T154202Z" creationid="Longbell" creationdate="20220422T154202Z">
+        <seg>"Nonsense! Who is your brother? I have always bossy and dominant to my host. You have to learn from me and be a system with principles!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19150,6 +19182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“看在这么多零食的份上，我就暂时原谅你吧。”艾米吃着薯片，怀里还抱着几包，不亦乐乎。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T153849Z" creationid="Longbell" creationdate="20220422T153849Z">
+        <seg>"For the sake of so many snacks, I'll forgive you temporarily." Amy ate the chips happily, hugging a few more packets of chips in her arms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“看来不止我们在盯着这件事。”道格拉斯看着手中的情报，有些惊讶的说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -21722,6 +21762,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220419T140354Z" creationid="Longbell" creationdate="20220419T140154Z">
         <seg>"Thank you, Big Sister Eiffie." Amy held a biscuit in her mouth and went off happily with the basket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“谢谢大哥啊！咱们也算是难兄难弟了，以后您可得多罩着小弟一点……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T154040Z" creationid="Longbell" creationdate="20220422T154040Z">
+        <seg>"Thank you, big bro! We can be considered as brothers now. Please take care of me in the future..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -30614,6 +30662,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>交易结束。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T154232Z" creationid="Longbell" creationdate="20220422T154232Z">
+        <seg>End of trade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>亲眼目睹了这一切的数十个奴隶宿舍，终于开始骚动起来。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T083212Z" creationid="sitong" creationdate="20220414T083212Z">
@@ -33642,6 +33698,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T103433Z" creationid="sitong" creationdate="20220403T103433Z">
         <seg>Just listen to that. Did that even sound like what a human would say?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>你看，小吃货就是这么好哄。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T152742Z" creationid="Longbell" creationdate="20220422T152742Z">
+        <seg>See, the little chowhound was so easily appeased.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51455,6 +51519,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>系统：“那我谢谢您了啊……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T153913Z" creationid="Longbell" creationdate="20220422T153913Z">
+        <seg>"Then I really have to thank you..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>系统：“？？？”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220322T053518Z" creationid="sitong" creationdate="20220322T053518Z">
@@ -53667,6 +53739,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T131615Z" creationid="Longbell" creationdate="20220326T131248Z">
         <seg>As for restricting the consuming in the tavern, it was to prevent the scalpers from bringing the liquor out and selling them outside, and to prevent the prevalence of fake liquor."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>至于填井的事情，已经被她抛到了脑后。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T152729Z" creationid="Longbell" creationdate="20220422T152729Z">
+        <seg>As for filling up the well, she had forgotten all about it.</seg>
       </tuv>
     </tu>
     <tu>
