@@ -40054,6 +40054,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>学霸系统：系统属于信息流的存在，并不存在实体，请问你的宿主是用那种形式填了你？或者说我们最近出了实体系统吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T142039Z" creationid="Longbell" creationdate="20220422T142039Z">
+        <seg>Star Student System: Systems are existences that belonged to the information flow. We don't exist physically, so how is your host going to fill you up? Perhaps, we have a physical system lately?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>孩子们上楼睡觉，麦格洗漱之后，一个人躺在床上，点开了脑海中两个金光闪闪的经验包。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -53707,6 +53715,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T073341Z" creationid="sitong" creationdate="20220325T073341Z">
         <seg>Bootlicker System: Exactly, do it right, satisfy all needs and you'll have everything you want!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>舔狗系统：早告诉你宿主要靠舔你不听吧，舔到最后应有尽有啊！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T142148Z" creationid="Longbell" creationdate="20220422T142148Z">
+        <seg>Bootlicker System: Told you that you need to suck up to your host until you have everything you want!</seg>
       </tuv>
     </tu>
     <tu>
