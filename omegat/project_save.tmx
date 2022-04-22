@@ -10598,6 +10598,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“安息吧。”艾米用小铲子铲起一铲子土，神情庄重的说道，然后就要往井里倒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T150325Z" creationid="Longbell" creationdate="20220422T150325Z">
+        <seg>"Rest in peace." Amy shoveled up some soil with her little shovel and solemnly said before pouring the soil down the well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“完美！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32106,6 +32114,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Irina and Annie looked surprised too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜和安妮站在门口有些疑惑的看着两人，不知道大早上的，这口井怎么惹到这对父女了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T150211Z" creationid="Longbell" creationdate="20220422T150211Z">
+        <seg>Irina and Annie stood at the door and watched the two of them with befuddlement. They didn't how the well angered the father-and-daughter duo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61275,6 +61291,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220419T064958Z" creationid="Longbell" creationdate="20220419T064958Z">
         <seg>Mag and Amy turned their heads around at the same time and looked at Irina with shock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格和艾米来到后院，一人手里拿着一把铲子。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T145950Z" creationid="Longbell" creationdate="20220422T145950Z">
+        <seg>Mag and Amy went to the backyard with a shovel each.</seg>
       </tuv>
     </tu>
     <tu>
