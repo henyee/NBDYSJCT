@@ -10606,6 +10606,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“宝宝？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132456Z" creationid="Longbell" creationdate="20220422T132456Z">
+        <seg>"Baby?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“实力不在我之下。”麦格点头。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T084719Z" creationid="sitong" creationdate="20220403T084719Z">
@@ -10990,6 +10998,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“小主？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132452Z" creationid="Longbell" creationdate="20220422T132452Z">
+        <seg>"Little Mistress?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“小场面，她一般不会太在意。”麦格微笑着说道，其实他也没有很兴奋的感觉。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T144830Z" creationid="Longbell" creationdate="20220406T144830Z">
@@ -11262,6 +11278,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“小宝贝？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132507Z" creationid="Longbell" creationdate="20220422T132507Z">
+        <seg>"Little Precious?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“小心一点！”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220416T175525Z" creationid="Longbell" creationdate="20220416T175525Z">
@@ -11274,6 +11298,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Kid, you've got to see the world." Irina shook her head, and did not speak further.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“小祖宗……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132523Z" creationid="Longbell" creationdate="20220422T132523Z">
+        <seg>"Little Ancestor..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -38752,8 +38784,8 @@
       <tuv lang="zh-CN">
         <seg>太没牌面了吧……</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132417Z" creationid="Longbell" creationdate="20220422T132417Z">
-        <seg>It was so </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132445Z" creationid="Longbell" creationdate="20220422T132417Z">
+        <seg>It was so demeaning...</seg>
       </tuv>
     </tu>
     <tu>
@@ -48707,6 +48739,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T073046Z" creationid="sitong" creationdate="20220325T073046Z">
         <seg>Life Experience System's Request Post: New System requesting for a second-hand color printer for the Little Mistress! Hope that all the seniors can lend a helping hand and make the price a little more pretty...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>生活体验系统在发现宿主真的将它屏蔽之后，终于还是慌了……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132646Z" creationid="Longbell" creationdate="20220422T132646Z">
+        <seg>The Life Experience System finally panicked after realizing that its host had blocked it.</seg>
       </tuv>
     </tu>
     <tu>
