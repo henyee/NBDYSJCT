@@ -31110,6 +31110,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>他太难了！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132150Z" creationid="Longbell" creationdate="20220422T132150Z">
+        <seg>Its life is so hard!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>他如果是冲着钱来的，直接提走就行了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T082825Z" creationid="Longbell" creationdate="20220415T082752Z">
@@ -38738,6 +38746,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220411T072322Z" creationid="Longbell" creationdate="20220411T072322Z">
         <seg>It was too late.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>太没牌面了吧……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132417Z" creationid="Longbell" creationdate="20220422T132417Z">
+        <seg>It was so </seg>
       </tuv>
     </tu>
     <tu>
@@ -51185,8 +51201,8 @@
       <tuv lang="zh-CN">
         <seg>系统：“……”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220401T124240Z" creationid="sitong" creationdate="20220401T124240Z">
-        <seg>System: "..."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T132135Z" creationid="sitong" creationdate="20220401T124240Z">
+        <seg>"..." The system.</seg>
       </tuv>
     </tu>
     <tu>
