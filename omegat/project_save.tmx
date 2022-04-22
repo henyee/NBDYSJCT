@@ -39110,6 +39110,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>她明白了！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T060945Z" creationid="Longbell" creationdate="20220422T060945Z">
+        <seg>She got it!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>她有着蓝银色的头发，以及浅绿色的眼睛。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T082953Z" creationid="Longbell" creationdate="20220331T082953Z">
@@ -45672,8 +45680,9 @@
       <tuv lang="zh-CN">
         <seg>松软的米饭，带着新米的芳香，越嚼越香甜，将吃了红烧肉的几分腻感完美带走，简直就是为了红烧肉而存在！</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220422T060609Z" creationid="Longbell" creationdate="20220422T060609Z">
-        <seg>The soft rice had a new rice's fragrance.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T060940Z" creationid="Longbell" creationdate="20220422T060609Z">
+        <seg>The soft rice had a new rice's fragrance. The rice got even more fragrant after chewing and the slight greasiness was quickly suppressed by the sweet and fragrant white rice. It was as though it was meant for the red braised pork!
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -48578,6 +48587,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220422T005724Z" creationid="Longbell" creationdate="20220422T005724Z">
         <seg>In the picture book, the red braised pork was served along with a bowl of rice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>画册里果然是真的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T061000Z" creationid="Longbell" creationdate="20220422T061000Z">
+        <seg>The picture book was real.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57346,6 +57363,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T135050Z" creationid="Longbell" creationdate="20220406T135050Z">
         <seg>In that case, the situation had become a little awkward now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这样美味的红烧肉，连她都无法抵抗，更别说不谙世事的小美人鱼了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220422T061035Z" creationid="Longbell" creationdate="20220422T061035Z">
+        <seg>Even she couldn't resist such delicious red braised pork, let alone the innocent little mermaid.</seg>
       </tuv>
     </tu>
     <tu>
