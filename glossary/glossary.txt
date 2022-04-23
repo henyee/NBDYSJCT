@@ -2956,3 +2956,4 @@ DVD	DVD
 总酋长	Chieftain
 许愿井	wishing well
 大反派系统	Villain System
+辣条	spicy strip
