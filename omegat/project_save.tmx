@@ -8942,6 +8942,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“她很聪明，我相信她不会让自己陷入险境。”伊琳娜微微摇头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220423T084921Z" creationid="Longbell" creationdate="20220423T084921Z">
+        <seg>Irina shook her head and replied, "She's very smart. I believe she won't get herself in danger."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“她想喝点酒。”麦格和伊琳娜解释道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220420T123724Z" creationid="Longbell" creationdate="20220420T123724Z">
@@ -11874,6 +11882,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T141431Z" creationid="Longbell" creationdate="20220407T141431Z">
         <seg>Kurt gave the trophy to Eiffie and encouraged, "I hope you can carry on Marcus' work and pass on the legacy of Titan Liquor."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“希望如此，我已经让混乱之城那边帮忙找她，在决战时刻，她的存在，或许能够让让我们更容易解决兰克斯特这个点。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220423T085022Z" creationid="Longbell" creationdate="20220423T085022Z">
+        <seg>"I certainly hope so. I've got Chaos City to help look for her. At the critical moment, her presence could perhaps help us resolve Rankster easier."</seg>
       </tuv>
     </tu>
     <tu>
@@ -63322,6 +63338,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220419T092612Z" creationid="sitong" creationdate="20220419T092612Z">
         <seg>Everyone was so stunned watching Mag eat that they forgotto eat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格目前也只能等待消息，明天还要回混乱之城参加各族大会，希望能够得到一个好消息。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220423T085114Z" creationid="Longbell" creationdate="20220423T085114Z">
+        <seg>Mag could only wait for the news now. He still had to return to Chaos City to attend the racial meeting tomorrow. He hoped he could receive a good news then.</seg>
       </tuv>
     </tu>
     <tu>
