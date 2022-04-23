@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你在担心伊丽莎白？”伊琳娜看着心事重重的从外面回来的麦格，轻声问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220423T084737Z" creationid="Longbell" creationdate="20220423T084737Z">
+        <seg>Irina saw Mag returned home with a worried look, so she gently asked, "Are you worried about Elizabeth?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你在教我做事？”伊琳娜侧头看着他。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -43982,6 +43990,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>所以他想利用混乱之城的情报网，找到伊丽莎白，拦住她。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220423T084647Z" creationid="Longbell" creationdate="20220423T084647Z">
+        <seg>Therefore, he wanted to use the Chaos City's intel network to find Elizabeth and stop her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>所以他提着斧头，如砍小鸡仔一般将这群三四级的骑士送走了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220416T081921Z" creationid="Longbell" creationdate="20220416T081921Z">
@@ -45968,8 +45984,8 @@
       <tuv lang="zh-CN">
         <seg>更大的可能是，她还来不及见到兰克斯特，便已经被游荡的亡灵军团撕碎。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220423T084602Z" creationid="Longbell" creationdate="20220423T084602Z">
-        <seg>What was more plausible was she could be torn apart by the wandering Army of the Dead before she could even see Rankster.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220423T084652Z" creationid="Longbell" creationdate="20220423T084602Z">
+        <seg>What was more plausible was that she could be torn apart by the wandering Army of the Dead before she could even see Rankster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63034,6 +63050,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T141028Z" creationid="sitong" creationdate="20220417T141028Z">
         <seg>Mag nodded. Elliot was Shirley's father. If he killed Shirley's father, there would be no end to this hatred.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格点头，轻叹了一口气道：“是的，如果她现在出现在极北冰原，我怕她会变成兰克斯特那样。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220423T084833Z" creationid="Longbell" creationdate="20220423T084833Z">
+        <seg>Mag nodded. With a gentle sigh, he said, "Yes. I'm afraid she would turn into someone like Rankster if she appeared at the ice plain at the north now."</seg>
       </tuv>
     </tu>
     <tu>
