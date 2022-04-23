@@ -19182,6 +19182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“目前风之森林的混乱已经渐渐平息，底层精灵的生存环境得到了一定的改善。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220423T114101Z" creationid="Longbell" creationdate="20220423T114101Z">
+        <seg>"The chaos in the Wind Forest has gradually subsided now. The living environment of the elves in the lower classes has improved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“直接去和安德烈谈判？”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -52978,6 +52986,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>On top of that, the faint flickering golden glow started moving.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而原本的贵族精灵们虽然失去了一些特权，但依旧保持着各方面的优越条件。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220423T114220Z" creationid="Longbell" creationdate="20220423T114220Z">
+        <seg>Although some of the elven nobles have lost some of their priviledges, they still maintain their excellent conditions in all areas.</seg>
       </tuv>
     </tu>
     <tu>
