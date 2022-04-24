@@ -11326,6 +11326,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“小姐，机车工程部目前已经全部转投进入火炮研究和生产中，工程师和工人们的积极性很高。”秘书走进门来，看着希尔说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T101025Z" creationid="Longbell" creationdate="20220424T095912Z">
+        <seg>The secretary came in and reported to Scheer, "Young Mistress, the entire steam engine department is diverted into the study and production of cannons. The engineers and workers are very enthusiastic."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“小姐，现在大家都知道我们拿了金奖呢，还有不少人来祝贺呢。”玛拉兴致冲冲的跑进酿酒坊，看着正在机器前认真操作的埃菲说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T131301Z" creationid="Longbell" creationdate="20220409T131301Z">
@@ -40040,8 +40048,8 @@
       <tuv lang="zh-CN">
         <seg>她曾经一度不想再踏足这片海域和这座城堡，哪怕永远漂泊无依。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220424T095452Z" creationid="Longbell" creationdate="20220424T095452Z">
-        <seg>She had once thought of never returning to this waters and castle, even if she had to wander forever.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T095714Z" creationid="Longbell" creationdate="20220424T095452Z">
+        <seg>She had once thought of never returning to these waters and castle, even if she had to wander forever.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48798,6 +48806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>灯火通明的书房里，希尔正在伏案翻阅资料。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T095837Z" creationid="Longbell" creationdate="20220424T095837Z">
+        <seg>In the brightly-lit study, Scheer was poring through the documents on the desk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>灰神殿在洛都有办事处，作为一个获得了极高权限的内部人员，麦格到混乱之城的第一天便已经和该办事处对接上，每天都能收到最新情报。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -50552,8 +50568,8 @@
       <tuv lang="zh-CN">
         <seg>福克斯是个扶不起的废材，如果他成为族长，只会让冰霜巨龙族更快失去在龙岛的地位。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220423T141813Z" creationid="Longbell" creationdate="20220423T141813Z">
-        <seg>Fox was an hopeless idiot. The Frost Dragons would only lose their status even faster on the Dragon Islands if he became the chief.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T095707Z" creationid="Longbell" creationdate="20220423T141813Z">
+        <seg>Fox was a hopeless idiot. The Frost Dragons would only lose their status even faster on the Dragon Islands if he became the chief.</seg>
       </tuv>
     </tu>
     <tu>
