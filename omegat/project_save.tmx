@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16782,6 +16782,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是的，菜谱背熟是没有用的，得做出来才知道你究竟掌握了几分。”麦格点点头，教她如何打火之后，便负着双手站在一旁。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T123537Z" creationid="sitong" creationdate="20220424T123537Z">
+        <seg>"Yes. There's no use memorizing the recipe. You will only know how much you've mastered it after you make it." Mag nodded. After teaching Mala how to light up the stove, he stood at the side with his hands behind him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是的，虽然他穿着黑袍，但属下与他战斗之时伤了他，刚好看到了他的脸，可以确定是乔修殿下。”利尔点头道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -19426,6 +19434,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220423T114101Z" creationid="Longbell" creationdate="20220423T114101Z">
         <seg>"The chaos in the Wind Forest has gradually subsided now. The living environment of the elves in the lower classes has improved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“直接做吗？”玛拉有点意外测试是让她做鱼香茄子。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T123446Z" creationid="sitong" creationdate="20220424T123446Z">
+        <seg>"Straight away?" Mala was rather surprised that her test was to make the eggplant with garlic sauce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28978,6 +28994,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>However, she still swallowed that mouthful of rice eventually and put down the spoon quietly. She drank a big glass of water and showed a forced smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不过她的厨艺不知道是跟哪个糟糕的师父学的，路子野到不能再野了，握着菜刀愣握出了铡刀的既视感。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T144243Z" creationid="sitong" creationdate="20220424T144243Z">
+        <seg>However, she must have learned from a terrible teacher for her cooking style was very wild. She held a cleaver like it was a hay cutter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38710,6 +38734,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲握着拳头给她加油了一声，然后直接闪人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T142917Z" creationid="sitong" creationdate="20220424T142917Z">
+        <seg>Eiffie clenched her fist and cheered her on before she dashed away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲放下酒杯，重新认真的审视着面前的这杯啤酒。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220424T110741Z" creationid="sitong" creationdate="20220424T110741Z">
@@ -48030,6 +48062,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>没了后援，玛拉收回目光，深吸了一口气，闭上眼睛开始回忆鱼香茄子的菜谱，然后开始洗手处理食材。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T143314Z" creationid="sitong" creationdate="20220424T143314Z">
+        <seg>Without her reinforcement, Mala turned away. She took in a deep breath and closed her eyes to recall the recipe for the eggplant with garlic sauce. After that, she washed her hands and started preparing the ingredients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>没办法，自己生的崽，完美继承了自己的厨艺天赋。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -49734,6 +49774,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>玛拉求助的看向门口的方向。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T142844Z" creationid="sitong" creationdate="20220424T142844Z">
+        <seg>Mala looked towards the door, asking for help.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>玛拉看着埃菲说道：“小姐，你还要睡回笼觉吗？”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220419T140416Z" creationid="Longbell" creationdate="20220419T140416Z">
@@ -49786,6 +49834,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220419T091551Z" creationid="sitong" creationdate="20220419T091551Z">
         <seg>Mala could learn from Mr. Hades and as Mala's parent, it would make more sense for Eiffie to come over for more free meals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>玛拉除了有些紧张，动作还算干脆利落。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T144142Z" creationid="sitong" creationdate="20220424T144142Z">
+        <seg>Other than being a little nervous, Mala's actions were rather swift.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55946,6 +56002,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T174928Z" creationid="sitong" creationdate="20220411T174928Z">
         <seg>Heroes would appreciate each other. As one of the strongest in this world, Dominic had a rather good impression of Rankster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>茄子被剁成了大小不一的块状，应该是意识到了这些块状实在差别过大，玛拉还特意对他们进行了一番精修，导致大小差距愈发悬殊。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T144346Z" creationid="sitong" creationdate="20220424T144346Z">
+        <seg>The eggplant was cut into varied sizes and Mala probably realized that as she even took the effort to refine it but that caused the size difference to grow bigger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62418,6 +62482,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220420T130256Z" creationid="Longbell" creationdate="20220420T130256Z">
         <seg>Mag faltered his steps. He was a little surprised that there was a hint of emotions in Xi's perpetual calm tone of voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格全程一言不发的站在一旁看着。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T144127Z" creationid="sitong" creationdate="20220424T144127Z">
+        <seg>Mag stood at the side, watching, without saying a word throughout.</seg>
       </tuv>
     </tu>
     <tu>
