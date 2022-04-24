@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6046,6 +6046,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“哇哦……好厉害！”玛拉的眼睛睁得大大的，仿佛发现了新大陆一般。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145713Z" creationid="sitong" creationdate="20220424T145713Z">
+        <seg>"Wow... impressive!" Mala's eyes widened, looking as though she found land.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“哇哦。”麦格眼睛一亮，这美人鱼画的。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -9930,6 +9938,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Alright." Mag nodded, and watched that young staff member strode away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好的刀工是烹饪开始，今天我们先从切片开始学，你看着我的握刀姿势……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145805Z" creationid="sitong" creationdate="20220424T145805Z">
+        <seg>"Having good cutting skills is the start to cooking. Today, we will start from learning cutting slices. Look at how I hold the knife..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -16658,6 +16674,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T132843Z" creationid="sitong" creationdate="20220414T132843Z">
         <seg>"Yes. I'm not sure if it would be to your liking." Mag nodded and took a soup dumpling for himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是的，不过学做菜之前，你得先学刀工。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145539Z" creationid="sitong" creationdate="20220424T145539Z">
+        <seg>"Yes. But before learning how to cook, you have to learn how to cut."</seg>
       </tuv>
     </tu>
     <tu>
@@ -27602,6 +27626,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T160911Z" creationid="Longbell" creationdate="20220403T160911Z">
         <seg>That giant snake seemed to panick as it failed to strike the three powerhouses and were surrounded and attacked by them. It flapped its wings and two hurricanes appeared as it moved backwards rapidly. The giant snake's tail twirled around and rolled towards that knight who was swinging his sword downwards. At the same time, a head opened its mouth and tried to bite him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一分钟后，麦格收回到，土豆皮落下，一只憨态可掬的小熊就出现了，俨然是趴在柜台上睡觉的丑小鸭的样子。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145657Z" creationid="sitong" creationdate="20220424T145657Z">
+        <seg>A minute later, Mag kept the cleaver. The potato skins fell and a cute little bear appeared, looking rather similar to Ugly Duckling, who was sleeping at the counter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40610,6 +40642,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220424T110424Z" creationid="sitong" creationdate="20220424T110357Z">
         <seg>Eiffie picked up her glass and drank another mouthful. This time, she did nto swallow immediately, but savored its taste slowly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她第一次知道菜刀竟然还可以这样用！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145727Z" creationid="sitong" creationdate="20220424T145727Z">
+        <seg>It was the first time she knew that cleavers could be used that way!</seg>
       </tuv>
     </tu>
     <tu>
@@ -62506,6 +62546,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220424T123434Z" creationid="sitong" creationdate="20220424T123434Z">
         <seg>Mag took out a few ingredients from the fridge and placed them on the kitchen counter, saying, "I have all the ingredients here. Just make the eggplant with garlic sauce for me based on what you understood." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格从冰箱里拿出了一堆土豆、胡萝卜，从刀架上随手拿了一把菜刀，手腕翻转，菜刀飞舞。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145620Z" creationid="sitong" creationdate="20220424T145620Z">
+        <seg>Mag took out a pile of potatos and carrots from the fridge. After that, he took a cleaver from the knife holder and turned his wrist. The cleaver danced in the air.</seg>
       </tuv>
     </tu>
     <tu>
