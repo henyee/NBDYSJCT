@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14238,6 +14238,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我是琼斯，今年十八岁，当过五年的酒馆和餐厅服务员，而且当过一年的小领班。”先前那个短发的姑娘先开口说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T145205Z" creationid="Longbell" creationdate="20220424T145205Z">
+        <seg>The maiden with short hair spoke up first, "I'm Jones and I'm 18 years old this year. I have worked as a tavern and restaurant's service staff for five years and I was a small captain for one year."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我是认真的。”伊琳娜强调道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -20896,8 +20904,8 @@
       <tuv lang="zh-CN">
         <seg>“能够达到六级魔法师的威力吗？！”希尔有些惊讶。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220424T125322Z" creationid="Longbell" creationdate="20220424T125322Z">
-        <seg>"It can reached the power of a 6th-tier magic caster?!" Scheer was rather shocked.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T145308Z" creationid="Longbell" creationdate="20220424T125322Z">
+        <seg>"It can reach the power of a 6th-tier magic caster?!" Scheer was rather shocked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33912,8 +33920,8 @@
       <tuv lang="zh-CN">
         <seg>但埃菲小姐昨日将他们推荐给了对门的这家塞班酒馆，据说这塞班酒馆也拿到了品酒大会的金奖，而且店里还没有员工，正是缺人的时候，给出了不错的薪资。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220424T143351Z" creationid="Longbell" creationdate="20220424T143351Z">
-        <seg>However, Miss Eiffie recommended them to this Saipan Tavern opposite. Apparently, this Saipan Tavern had gotten the liquor tasting event's gold award too and the tavern\</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T144819Z" creationid="Longbell" creationdate="20220424T143351Z">
+        <seg>However, Miss Eiffie recommended them to this Saipan Tavern opposite. Apparently, this Saipan Tavern had gotten the liquor tasting event's gold award too and it had no employees yet. The bosses needed manpower and they gave quite a high salary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51614,6 +51622,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千一百二十七章 可怕的天才</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T145229Z" creationid="Longbell" creationdate="20220424T145229Z">
+        <seg>Chapter 2127: A Scary Genius</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千一百二十三章 足以载入史册的交易</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220422T095609Z" creationid="Longbell" creationdate="20220422T095609Z">
@@ -62642,6 +62658,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220420T130256Z" creationid="Longbell" creationdate="20220420T130256Z">
         <seg>Mag faltered his steps. He was a little surprised that there was a hint of emotions in Xi's perpetual calm tone of voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格先开口道：“我是哈迪斯，这家塞班酒馆的老板，这位是老板娘，你们可以分别做个自我介绍吗？最好是把工作履历也单独说一下。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T144922Z" creationid="Longbell" creationdate="20220424T144808Z">
+        <seg>Mag spoke up first, "I'm Hades, the boss of Saipan Tavern. This is the lady boss. Can you guys do a short introduction of yourself first? It will great to talk about your resume too."</seg>
       </tuv>
     </tu>
     <tu>
