@@ -44542,6 +44542,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>我们无法上前线杀敌，但能够在后方尽一份力，哪怕只是让上前线的将士有一件防寒保暖的衣服，也好过什么都不做。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T141007Z" creationid="Longbell" creationdate="20220424T141007Z">
+        <seg>We cannot go to the frontline to kill the enemy, but we can do our part at the rear. Even if we can only provide a piece of winter wear for the soldiers, it's better than doing nothing at all."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>我感觉这个人不对劲，但我没有证据……</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T072901Z" creationid="sitong" creationdate="20220325T072901Z">
@@ -47530,6 +47538,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220424T140126Z" creationid="Longbell" creationdate="20220424T140126Z">
         <seg>Gloria listened to Jeffree explained the Norland Continent's current situation with a grave expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>歌洛璃娅神情认真的道：“现在各族已是一衣带水，唯有团结一心，方能博得一线生机。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T140735Z" creationid="Longbell" creationdate="20220424T140735Z">
+        <seg>Gloria said with a serious expression, "All the races are in a dire situation now. We can only survive by facing the crisis as one together.</seg>
       </tuv>
     </tu>
     <tu>
