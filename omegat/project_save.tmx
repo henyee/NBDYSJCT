@@ -12318,6 +12318,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“很好，看来作为族长这么多年，大哥你还是把我们的规则背的很熟悉。”德古拉邪魅一笑，目光扫过在场的吸血鬼，然后朗声道：“梅纳德品行不端，今日起罢免族长之位，由卡米拉代为继承。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T085826Z" creationid="Longbell" creationdate="20220424T085826Z">
+        <seg>"Excellent. Seems like Big Brother still remembers our rules very well even after being the chief for so many years." Dracula smiled sinisterly. His gaze swept over the vampires present and loudly said, "Maynard's morals and behavior are appalling. He will be remove from the postition of chief today and Camilla will take over the position."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“很好，继续保持！”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -40346,6 +40354,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>If it was really Second Prince Josh who killed Blum, then the murderer who massacred their colleagues' families was very likely to be Josh too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果梅纳德被罢免，那会是由谁来成为新的族长？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T085420Z" creationid="Longbell" creationdate="20220424T085420Z">
+        <seg>If Maynard was deposed, who would become the new chief?</seg>
       </tuv>
     </tu>
     <tu>
