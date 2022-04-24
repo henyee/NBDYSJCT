@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38510,6 +38510,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲显然不太能吃辣的样子，虽然喝着水，还是忍不住唏嘘。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T105438Z" creationid="sitong" creationdate="20220424T105438Z">
+        <seg>It was apparent that Eiffie was not able to take much spice. Although she kept drinking water, she still could not help taking in deep breaths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲有些不太自在的扭了扭自己被完全捆绑的身体，脸蛋微红，又莫名的有点兴奋？</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220416T070222Z" creationid="Longbell" creationdate="20220416T070222Z">
@@ -59566,6 +59574,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这麻辣爽口的田螺，配上冰啤，也是越喝越上头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T104547Z" creationid="sitong" creationdate="20220424T104547Z">
+        <seg>The refreshing and spicy escargot, together with chilled beer, was extremely addictive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>进入洛斯帝国之后，魔气的存在变弱了许多，零散存在，但毫无章法和规律，最后离奇消失，彻底断了踪迹。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -65459,6 +65475,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Seely heaved a breath of relief when he didn't see Mapo in Mapo Tofu, but failing to find fish in the eggplant with garlic sauce made him feel cheated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麻辣田螺里加点滚刀块的黄瓜，清爽解腻，是麦格的最爱。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T104525Z" creationid="sitong" creationdate="20220424T104525Z">
+        <seg>Cubes of cucumber were added into the spicy escargot. The cucumbers were refreshing and were Mag's favorite.</seg>
       </tuv>
     </tu>
     <tu>
