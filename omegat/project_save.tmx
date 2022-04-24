@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -45822,6 +45822,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>明日各族将在混乱之城共商大事，不出意外的话，还会现场签订新的和平条约。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T123440Z" creationid="Longbell" creationdate="20220424T123440Z">
+        <seg>All the races would meet in Chaos City tomorrow to discuss the matter. It things went as expected, they would sign a new peace treaty on the spot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>星空洞府中。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -58566,6 +58574,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这意味着如果诺兰大陆能够抗住这次的魔鬼和亡灵军团危机，将再次迎来一百年的和平。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T124018Z" creationid="Longbell" creationdate="20220424T124018Z">
+        <seg>This meant that if the Norland Continent could get through the current crisis of the devil and the Army of the Dead, it would welcome another 100 years of peace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这感觉，简直妙不可言！</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220419T092038Z" creationid="sitong" creationdate="20220419T092038Z">
@@ -58818,6 +58834,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This was a scandal that could crucify it on the pillar of shame!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这是关乎着整个诺兰大陆上各族生存危机的事情，作为一个将诺兰大陆作为市场的银行家，她看到了危机之下潜藏着的机遇。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T120824Z" creationid="Longbell" creationdate="20220424T120824Z">
+        <seg>This was a matter that concerned the survival of all the races on the Norland Continent. As a banker whose market was the Norland Continent, she saw the opportunity under the crisis.</seg>
       </tuv>
     </tu>
     <tu>
