@@ -2959,3 +2959,4 @@ DVD	DVD
 辣条	spicy strip
 黄金大殿	Golden Hall
 群岛	archipelago
+琼斯	Jones
