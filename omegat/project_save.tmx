@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23382,6 +23382,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这么快吗？”几位姑娘都愣了一下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T165047Z" creationid="Longbell" creationdate="20220424T165047Z">
+        <seg>"So fast?" The maidens were taken aback.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这么快就结束了吗？”刚拿了钱从楼上下来的玛拉，有些惊讶的看着埃菲。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220402T165009Z" creationid="sitong" creationdate="20220402T165009Z">
@@ -29552,8 +29560,8 @@
       <tuv lang="zh-CN">
         <seg>不过这也是正常服务员的水准，哪有那么多公主、女王给他捡。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220424T150014Z" creationid="Longbell" creationdate="20220424T150014Z">
-        <seg>However, this was the standards of normal service staff. He couldn't be picking up princesses and queens everywhere he went.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T164756Z" creationid="Longbell" creationdate="20220424T150014Z">
+        <seg>However, this was the standards of normal service staff. He couldn't be picking up princesses and queens everywhere he went, right?</seg>
       </tuv>
     </tu>
     <tu>
@@ -34518,6 +34526,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>像塞班酒馆这样富有名气的酒馆，招募服务员都会有各种要求，来的时候他们甚至没抱什么希望，没想到竟然全部被应聘上了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T165216Z" creationid="Longbell" creationdate="20220424T165216Z">
+        <seg>A famous tavern like Saipan Tavern would usually have all kinds of requirements when they employed service staff. They even didn't have much hopes when they came. They didn't expect that they would all be hired.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>充能完毕的箭首巨炮再次向着克苏鲁发射了一枚电磁炮，同时投下了数枚集束炸弹，借着电磁炮的反冲力，瞬间拉开了与克苏鲁的距离，撕裂虚空，离开了这里。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220411T105713Z" creationid="Longbell" creationdate="20220411T105713Z">
@@ -35650,6 +35666,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Half an hour later, Mag carried two grills, one ice cream machine, and a food crate full of ingredients, and went out with Amy and Annie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>半个小时后，麦格看着四人微笑着说道：“挺好的，如果你们对工资没有异议的话，今天晚上就可以来上班了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T165025Z" creationid="Longbell" creationdate="20220424T165025Z">
+        <seg>30 minutes later, Mag smiling said to the four of them, "You guys are fine. If you have no objections to the salary, you can start working tonight."</seg>
       </tuv>
     </tu>
     <tu>
@@ -40810,6 +40834,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220320T030927Z" creationid="sitong" creationdate="20220320T030927Z">
         <seg>Luckily, Mag reacted quickly and caught the bottle. Mag smiled and wiped the cola on Amy's hands with a handkerchief and said, "This is Cola. It's the happy water of a fatty. You can't shake it before drinking it, otherwise the drink would squirt out."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>好的一点是，埃菲显然是挑选过的，这四位姑娘的品性都还不错，是踏实做事的人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T164848Z" creationid="Longbell" creationdate="20220424T164848Z">
+        <seg>One good thing about it was, Eiffie had obviously chosen them in advance. The four maidens had good characters and down-to-earth people.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49730,6 +49762,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The familiar spiciness and the ingredients that no one would usually serve: pig's ears and tongue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>熟手的好处是招募之后就直接能够上手，不需要慢慢调教培养。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T164934Z" creationid="Longbell" creationdate="20220424T164934Z">
+        <seg>The pros of employing experienced people was that they could start working right away. He didn't have to teach them slowly from the beginning.</seg>
       </tuv>
     </tu>
     <tu>
