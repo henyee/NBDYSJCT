@@ -512,8 +512,8 @@
       <tuv lang="zh-CN">
         <seg>“不啊，他对小姐姐一般都很温柔的。”艾米摇摇头。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220424T144927Z" creationid="sitong" creationdate="20220424T144927Z">
-        <seg>"No, he had always been very gentle to big sisters." Amy said with a shake of her ehad. </seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T144938Z" creationid="sitong" creationdate="20220424T144927Z">
+        <seg>"No, he had always been very gentle to big sisters." Amy said with a shake of her head.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,6 +1058,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"However, her master is so fat, just like that pig."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不过我挺好奇，你的厨艺是跟菜市口的刽子手学的吗？为何风格如此豪放。”麦格有些好奇的看着玛拉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145235Z" creationid="sitong" creationdate="20220424T145235Z">
+        <seg>"But I am rather curious about one thing. Did you learn your cooking from the executioner? What a suave style." Mag looked at Mala curiously.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12894,6 +12902,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“您看……我还有机会吗？”玛拉忍着眼泪，带着几分委屈道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145007Z" creationid="sitong" creationdate="20220424T145007Z">
+        <seg>"Do you think... I still stand a chance?" Mala asked with grievance as she tried to hold her tears back.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“您老就消消气吧，昨天那奥尔登可是前车之鉴，这老板不好惹。”同来的官员笑着道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -15858,6 +15874,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Really?" Irina did not seem to believe it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是吗？”伊琳娜似笑非笑的看着麦格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T144947Z" creationid="sitong" creationdate="20220424T144947Z">
+        <seg>"Is that so?" Irina looked at Mag with a seeming smile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49878,6 +49902,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>玛拉瞪大了眼睛，微微张着嘴看着麦格，一脸难以置信。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145034Z" creationid="sitong" creationdate="20220424T145034Z">
+        <seg>Mala's eyes widened as she looked at Mag with her mouth opened, in disbelief.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>玛拉表现的比他预期要好许多，无论是各种食材下锅的时机，还是对于调料的把控，都做的还不错。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220424T144509Z" creationid="sitong" creationdate="20220424T144509Z">
@@ -62714,6 +62746,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220419T091140Z" creationid="sitong" creationdate="20220419T091140Z">
         <seg>However, Mag shook his head and said, "In that case, it would depend on whether your Young Mistress is agreeable and whether you have the talent in cooking."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格却是露出了笑容，摇摇头道：“不，你被录取了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220424T145019Z" creationid="sitong" creationdate="20220424T145019Z">
+        <seg>Mag smiled and shook his head as he said, "No, you're hired."</seg>
       </tuv>
     </tu>
     <tu>
