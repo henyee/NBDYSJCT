@@ -22656,8 +22656,8 @@
       <tuv lang="zh-CN">
         <seg>“这……这安排恐怕不太合适吧？”梅纳德神情有些难看的看着德古拉和卡米拉，“卡米拉还是个孩子，从未接触过族中事务，现在正逢多事之秋，让她来接受族长的事务，恐怕会误了大事。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220424T090948Z" creationid="Longbell" creationdate="20220424T090948Z">
-        <seg>"I'm afraid th-this arrangement isn't appropriate, right?" Maynard looked at Dracula and Camilla with an ugly expression. "Camilla is still a child. She doesn't have much exprience with the affairs in the race. We're in an eventful period right now. I'm afraid she will mess up if we let her take over the chief's affairs right now."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T091024Z" creationid="Longbell" creationdate="20220424T090948Z">
+        <seg>"I'm afraid th-this arrangement isn't appropriate, right?" Maynard looked at Dracula and Camilla with an ugly expression. "Camilla is still a child. She doesn't have much exprience with the affairs in the race. We're in an eventful period right now. I'm afraid she will mess up if we let her take over the chief's affairs now."</seg>
       </tuv>
     </tu>
     <tu>
@@ -28386,6 +28386,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220407T135250Z" creationid="sitong" creationdate="20220407T135250Z">
         <seg>Many started to look at Boris and Eiffie. Back then, Marcus  also won the gold award twice from Reese Tavern and was known to be Boris's one and only rival. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不少吸血鬼跟着点头附和。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T091019Z" creationid="Longbell" creationdate="20220424T091019Z">
+        <seg>Many vampires nodded in agreement.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43930,6 +43938,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220423T142642Z" creationid="Longbell" creationdate="20220423T142642Z">
         <seg>Dracula sat at the main seat as he swirled a crystal glass filled with bloody red liquid and smilingly said to the chief of the vampire race, Maynard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>德古拉晃了晃手中的红酒杯，有些嘲讽的看着梅纳德道：“你现在说她还是个孩子，恐怕不太合适吧？要知道逼她出嫁给自己换筹码这种事情，你已经干了两次了呢。逼一个孩子做这样的事情，你配当一个父亲吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220424T091628Z" creationid="Longbell" creationdate="20220424T091628Z">
+        <seg>Dracula swirled his red wine glass and mockingly said to Maynard, "I'm afraid it's inappropriate to say that she's a child now, right? You knew you had already forced her to marry twice for your benefits, right? Are you fit to be a father when you forced a child to do such a thing?"</seg>
       </tuv>
     </tu>
     <tu>
