@@ -2964,3 +2964,7 @@ DVD	DVD
 黑猫歌剧院	Black Cat Opera House
 剧院	opera house
 歌剧	opera
+帕斯卡	Pascal
+团长	Maestro
+黑猫歌剧团	Black Cat Opera
+马卡歌剧团	Maca Opera
