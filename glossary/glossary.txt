@@ -2960,3 +2960,4 @@ DVD	DVD
 黄金大殿	Golden Hall
 群岛	archipelago
 琼斯	Jones
+工作服	uniform
