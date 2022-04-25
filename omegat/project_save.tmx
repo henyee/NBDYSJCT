@@ -30126,6 +30126,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>与其说是歌剧院，不如说是一个破落的农家小院。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T101759Z" creationid="Longbell" creationdate="20220425T101759Z">
+        <seg>Furthermore, it looked more than a dilapidated farm yard than an opera house.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>与旧日支配者同源的魔气极为浓郁，而且他确定这不是一只简单被控制的魔兽，更像是拥有着自己灵智的魔物。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T135444Z" creationid="Longbell" creationdate="20220403T135444Z">
@@ -60742,6 +60750,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>透风的木门上挂着一块白色的牌子，用清秀的黑炭字迹写着：‘黑猫歌剧院’五个大字，最后还画着一只黑色的小猫。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T102135Z" creationid="Longbell" creationdate="20220425T102135Z">
+        <seg>There was a white sign on the cracked wooden door with delicate black charcoal words, "Black Cat Opera House" and a little cat drawn next to them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>通过一条长长的冰道，前方豁然开朗，一个巨大的冰窟出现在视线中，而他们的位置处于冰窟的中间。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T070802Z" creationid="Longbell" creationdate="20220410T070802Z">
@@ -63896,8 +63912,8 @@
       <tuv lang="zh-CN">
         <seg>麦格带着两个小家伙，在城南复杂的小巷里转悠了一个多小时，绕晕了好几个本地人之后，终于在一个和申请书上所留的完全不同的地方，找到了黑猫歌剧院。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220425T101710Z" creationid="Longbell" creationdate="20220425T101710Z">
-        <seg>Mag brought the two little ones around in the complex alleys at the south of the city for over an hour. After confusing a few locals, they finally found the Black Cat Opera House at a completely different location from the application form.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T101813Z" creationid="Longbell" creationdate="20220425T101710Z">
+        <seg>Mag brought the two little ones around in the complex alleys at the south of the city for over an hour. After confusing a few locals, they finally found the Black Cat Opera House at a completely different location from the application form's address.</seg>
       </tuv>
     </tu>
     <tu>
