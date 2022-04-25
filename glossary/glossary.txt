@@ -2962,3 +2962,4 @@ DVD	DVD
 琼斯	Jones
 工作服	uniform
 黑猫歌剧院	Black Cat Opera House
+剧院	opera house
