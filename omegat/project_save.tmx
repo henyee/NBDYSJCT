@@ -3280,8 +3280,8 @@
       <tuv lang="zh-CN">
         <seg>“你忙去吧，不用招呼我们。”麦格扫了一眼那用布条绑着的椅子腿，有点担心经不起自己稍微用力的表情。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220425T154435Z" creationid="Longbell" creationdate="20220425T154435Z">
-        <seg>"Go and do your things. You don't have to take care of us." Mag flicked a glance at that chair's leg that was bundled up with cloth with a worried expression.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T154746Z" creationid="Longbell" creationdate="20220425T154435Z">
+        <seg>"Go and do your things. You don't have to take care of us." Mag flicked a glance at the chair's leg that was bundled up with cloth with a worried expression.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45622,6 +45622,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>所以麦格和安妮也坐上了安全的自带板凳。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T154908Z" creationid="Longbell" creationdate="20220425T154908Z">
+        <seg>Hence, Mag and Annie were sitting safely on the folding chairs that she brought along.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>所以麦格直接跳了出去，向着端坐在房间门口的利尔走去，一道道黑色的虚影在他的身后显现。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -56328,8 +56336,8 @@
       <tuv lang="zh-CN">
         <seg>艾米已经拿出了自带的折叠凳，而且作为消耗品，她非常机智的学习她母亲多备了几把。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220425T154743Z" creationid="Longbell" creationdate="20220425T154743Z">
-        <seg>Amy had already taken out her her own folding chair. Being a consumable, she prepared a few more of folding chairs smartly like her  </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T154830Z" creationid="Longbell" creationdate="20220425T154743Z">
+        <seg>Amy had already taken out her her own folding chair. Being a consumable, she had prepared a few more of folding chairs smartly like her mother.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56970,6 +56978,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220324T100034Z" creationid="sitong" creationdate="20220324T100034Z">
         <seg>The thin bamboo skin was almost translucent. It looked very cute and it was filled with soup, yet it kept its full, round shape. The folds were even and beautiful and there was a spot of crab roe in the middle of the bamboo steamer, looking like a blossomed chrysanthemum flower.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>薇琪表情略显尴尬，但也是颇为兴奋，至少有客人坐下了，这是个不错的讯号。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T155158Z" creationid="Longbell" creationdate="20220425T155158Z">
+        <seg>Vicki had an embarrassed expression, but she was also very excited. At least, the customers were sitting down, which was a good sign.</seg>
       </tuv>
     </tu>
     <tu>
