@@ -2968,3 +2968,5 @@ DVD	DVD
 团长	Maestro
 黑猫歌剧团	Black Cat Opera
 马卡歌剧团	Maca Opera
+薇琪	Vicki
+薇琪团长	Maestro Vicki
