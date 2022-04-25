@@ -6014,6 +6014,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“咕噜噜~”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T184359Z" creationid="Longbell" creationdate="20220425T184359Z">
+        <seg>"Grrrr~"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“咚咚。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220416T135352Z" creationid="sitong" creationdate="20220416T135352Z">
@@ -29178,6 +29186,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T080741Z" creationid="sitong" creationdate="20220414T080741Z">
         <seg>Someone sighed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>不知道谁的肚子发出了一串响应的声音。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T184509Z" creationid="Longbell" creationdate="20220425T184509Z">
+        <seg>Someone's tummy made a series of rumbling sounds.</seg>
       </tuv>
     </tu>
     <tu>
