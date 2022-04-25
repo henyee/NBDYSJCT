@@ -2970,3 +2970,4 @@ DVD	DVD
 马卡歌剧团	Maca Opera
 薇琪	Vicki
 薇琪团长	Maestro Vicki
+歌剧团	opera troupe
