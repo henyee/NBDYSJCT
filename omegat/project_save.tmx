@@ -10374,6 +10374,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好的，路上注意安全。”麦格点点头，也知道暗夜精灵那边还有不少事情需要伊琳娜处理。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T064734Z" creationid="sitong" creationdate="20220426T064734Z">
+        <seg>"Alright. Be careful on the way." Mag nodded. He knew that there were a lot that Irina had to handle for the Night Elves' side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好的，辛苦了。”麦格点点头，颇为欣赏的看着琼斯。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220425T081622Z" creationid="Longbell" creationdate="20220425T081622Z">
@@ -14914,6 +14922,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I want to have a little bear, and then the little penguin." Amy put on her disposable gloves immediately, and grabbed one animal in each hand. She stuffed the little bear mung bean pastry into her mouth, and bit its head off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我要先回一趟混乱之城，处理一下暗夜精灵的事情，你和孩子们明天再回吧。”伊琳娜没有和麦格多扯。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T064702Z" creationid="sitong" creationdate="20220426T064702Z">
+        <seg>"I have to make a trip to Chaos City to settle the affairs of the Night Elves. You cango back with the children tomorrow." Irina did not continue the nonsense with Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26008,8 +26024,8 @@
       <tuv lang="zh-CN">
         <seg>“那天上人间……”麦格瞄了一眼目光渐渐危险的伊琳娜，话头一转，“哪有家里好，男人的加油站，应该是温暖的家才对。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220426T064534Z" creationid="sitong" creationdate="20220426T064534Z">
-        <seg>"In heaven and on earth..." Mag glanced at Irina, whose gaze looked increasingly dangerous, and </seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T064618Z" creationid="sitong" creationdate="20220426T064534Z">
+        <seg>"In heaven and on earth..." Mag glanced at Irina, whose gaze looked increasingly dangerous, and said, "there's no place better than home. A man's fuel station should be the warm family."</seg>
       </tuv>
     </tu>
     <tu>
@@ -33826,6 +33842,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Irina stared at Mag for quite some time before nodding. "That's quite good."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜直接用魔法离开，麦格才从垃圾桶里把刚刚那两张纸拿了出来，垫到最底下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T064816Z" creationid="sitong" creationdate="20220426T064751Z">
+        <seg>After Irina left with her magic, Mag picked up the two papers he threw into the bin and placed them at the bottom of the pile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57986,6 +58010,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>If they wanted to promote the Chaos City's system throughout the Norland Continent, and completely resolve the problem of racial war, they would have to change and revolutionize the races that were stuck in their old ways.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>要想打造一条吃喝玩乐俱全的商业街，生态的全面性很重要。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T064847Z" creationid="sitong" creationdate="20220426T064847Z">
+        <seg>To create a holistic entertainment commercial street, it was important to have a holistic ecosystem.</seg>
       </tuv>
     </tu>
     <tu>
