@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“一起？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T172017Z" creationid="Longbell" creationdate="20220426T172017Z">
+        <seg>"Together?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“三……恭喜这位美女，一圈三只……”老板的表情已经彻底垮了，他算是看出来了，他这三十只鹅还不够人家套的呢。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -1018,6 +1026,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"No way. Father has a hard time making it. Father has to eat the first salted egg yolk pastry." Amy shook her head with conviction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“不要。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T172020Z" creationid="Longbell" creationdate="20220426T172020Z">
+        <seg>"No."</seg>
       </tuv>
     </tu>
     <tu>
@@ -66978,6 +66994,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220327T125414Z" creationid="Longbell" creationdate="20220327T125414Z">
         <seg>Mag made a pot of tea and poured himself a cup. He was reading a book about abnormal magic beasts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格洗了个热水澡，运动一番后，躺在大圆床上，舒服的伸个懒腰。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T173113Z" creationid="Longbell" creationdate="20220426T173113Z">
+        <seg>Mag lay on the bed and stretched out lazily after a hot shower and exercise.</seg>
       </tuv>
     </tu>
     <tu>
