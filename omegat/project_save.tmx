@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21702,6 +21702,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“行了！都给我闭嘴！”薇琪突然气势一变，红色眼眸扫过众人，如王者在审视着自己的子民，沉声道：“好的歌剧演员是永远不会为了吃饭发愁的，只要你们能够好好表演，拿出实力和状态，没有人能少的了门票钱，除非他不想踏出这个院门！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T073943Z" creationid="Longbell" creationdate="20220426T073943Z">
+        <seg>"Alright! Let's shut up!" Vicki suddenly changed her demeanor. Her red eyes swept over all of them like a king surveying his subject as said in a low voice, "A good opera singer will never worry about food. As long as you do your best in your performance, everyone will have to pay for the tickets, unless he didn't want to step out of this yard!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“行了，到时候我去和陛下说说，他要是同意，我就带你去。”亚伯罕笑着道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34302,6 +34310,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>众人脸上难掩担忧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220425T184526Z" creationid="Longbell" creationdate="20220425T184526Z">
+        <seg>Everyone had ill-concealed worry on their faces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>众人若有所思，只当是伊丽莎白有事提前休假，便没有再多问。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34394,6 +34410,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220425T184055Z" creationid="Longbell" creationdate="20220425T184055Z">
         <seg>All of them sighed immediately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人顿时噤若寒蝉，纷纷开始做登台准备。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T074039Z" creationid="Longbell" creationdate="20220426T074039Z">
+        <seg>Everyone fell silent instantly and began to make preparations to go on stage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43450,6 +43474,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220324T095853Z" creationid="sitong" creationdate="20220324T095853Z">
         <seg>The three soup dumplings took up almost all the space in the bamboo steamer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>小被子终究还是派上了用场，不过没想到这次不是为了睡觉，而是为了御寒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T074248Z" creationid="Longbell" creationdate="20220426T074248Z">
+        <seg>The small blankets were finally used, but they didn't expect it would be used to ward off the cold instead of sleeping.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64474,6 +64506,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag left and returned to the tavern. On his way back, he met Eiffie, who was carrying some takeaway food.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格和两个小家伙，坐在寒风凛冽的院子里，已经拿出小被子裹上了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T074141Z" creationid="Longbell" creationdate="20220426T074141Z">
+        <seg>Mag and the two little ones had already taken out the small blankets to cover themselves in the cold yard.</seg>
       </tuv>
     </tu>
     <tu>
