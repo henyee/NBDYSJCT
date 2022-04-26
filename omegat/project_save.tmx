@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32118,6 +32118,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>他们之间剩下的，只有纯粹的金钱关系。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T062905Z" creationid="sitong" creationdate="20220426T062905Z">
+        <seg>Whatever was left between them would be monetary ties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>他们似乎明白了一直安分的奴隶，今晚为何突然变得亢奋且激进。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T080455Z" creationid="Longbell" creationdate="20220414T080455Z">
@@ -37214,6 +37222,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>可被麦格温柔期待的目光注视着，到了嘴边拒绝的话语，却又如何都说不出口来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T062940Z" creationid="sitong" creationdate="20220426T062940Z">
+        <seg>But under Mag's gentle gaze, she was unable to bring herself to say those hurtful words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>可让斯纳尔奇怪的是，精灵护卫队迟迟没有行动，向来将自由视为洪水猛兽的海伦娜，竟然默许这一切在生命之城公然发生？</seg>
       </tuv>
       <tuv lang="en-US">
@@ -39574,6 +39590,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>埃菲的内心悲伤而抗拒的看着麦格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T062746Z" creationid="sitong" creationdate="20220426T062746Z">
+        <seg>Eiffie looked at Mag with despair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>埃菲的嘴角抽搐了一下，要不是这些年开酒馆练就了好脾气，这会早暴走了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T104218Z" creationid="sitong" creationdate="20220327T104218Z">
@@ -41186,6 +41210,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220424T133431Z" creationid="Longbell" creationdate="20220424T133431Z">
         <seg>She had seen the cannon's raw materials. Although they were unusual, they were not expensive and rare. The goblins could provide them in abundance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>她知道自己沦陷了……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T062946Z" creationid="sitong" creationdate="20220426T062946Z">
+        <seg>She knew she had fallen in too deep...</seg>
       </tuv>
     </tu>
     <tu>
@@ -45246,6 +45278,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>悲伤那么大……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T062823Z" creationid="sitong" creationdate="20220426T062823Z">
+        <seg>How sorrowful...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>悲惨的身世，童年流落街头的经历，都让这些孩子比起一般的孩子更加胆怯和自卑，他们像刺猬一样将锋芒留在外面，防范着世界，也不将自己的柔软和情绪向世界展露。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -45466,6 +45506,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220327T152833Z" creationid="sitong" creationdate="20220327T152833Z">
         <seg>Let me tell you. I'll give you three more days. If you can't bring out the right attitude to make this dish, all of you will leave! Even the housewife living beside me cooks better than you. Aren't you ashamed?" a restuarant owner chided with his arms akimbo at the back kitchen agitatedly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>我这么喜欢你，而你却只是把我当成一个工具人？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T062756Z" creationid="sitong" creationdate="20220426T062756Z">
+        <seg>I like you so much but you just treat me as a tool?</seg>
       </tuv>
     </tu>
     <tu>
@@ -52366,6 +52414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千一百二十九章 黑猫歌剧团</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T062730Z" creationid="sitong" creationdate="20220426T062730Z">
+        <seg>Chapter 2129: Black Cat Opera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千一百二十二章 画册里果然不是骗人吗？</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220421T130826Z" creationid="Longbell" creationdate="20220421T130826Z">
@@ -54722,6 +54778,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T130557Z" creationid="Longbell" creationdate="20220326T130320Z">
         <seg>Furthermore, how could a high-end liquor that won the liquor tasting's gold award only sell for 200 copper coins per bottle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而且，一旦她接受这个安排，意味着以后或许很难再见到哈迪斯先生他们一家了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T062849Z" creationid="sitong" creationdate="20220426T062849Z">
+        <seg>Besides, once she accepts this arrangement, it would mean that she probably would not see Mr. Hades and his family anymore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57674,6 +57738,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220416T140345Z" creationid="sitong" creationdate="20220416T140345Z">
         <seg>If Eiffie takes out The Plum in the Golden Vase, he would have to get a hard beating.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>要是往常，她一定会：hetui……渣男！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220426T063007Z" creationid="sitong" creationdate="20220426T063007Z">
+        <seg>If it was in the past, she would definitely: Pah... Scoundrel!</seg>
       </tuv>
     </tu>
     <tu>
