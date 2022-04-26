@@ -2971,3 +2971,4 @@ DVD	DVD
 薇琪	Vicki
 薇琪团长	Maestro Vicki
 歌剧团	opera troupe
+团员	troupe member
