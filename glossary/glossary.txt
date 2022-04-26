@@ -2972,3 +2972,4 @@ DVD	DVD
 薇琪团长	Maestro Vicki
 歌剧团	opera troupe
 团员	troupe member
+黑猫小姐	Miss Black Cat
