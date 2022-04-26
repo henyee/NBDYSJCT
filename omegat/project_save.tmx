@@ -48208,8 +48208,8 @@
       <tuv lang="zh-CN">
         <seg>最让麦格惊讶的还是黑猫小姐的扮演者——薇琪。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220426T083017Z" creationid="Longbell" creationdate="20220426T083017Z">
-        <seg>What made Mag most impressed was the actor of Miss Black Cat—V</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T083042Z" creationid="Longbell" creationdate="20220426T083017Z">
+        <seg>What made Mag most impressed was the actor of Miss Black Cat—Vicki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60170,6 +60170,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This young and handsome boss had amazing culinary skills. He was simply too outstanding!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这位身材娇小的团长，有着令人震撼的高音，对于声音的掌控更是令人惊艳无比，和其他演员拉出了好几个段位。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T083304Z" creationid="Longbell" creationdate="20220426T083304Z">
+        <seg>This petite maestro had a shocking soprano. Her control over her voice was even more impressive. She was several notches above the other actors.</seg>
       </tuv>
     </tu>
     <tu>
