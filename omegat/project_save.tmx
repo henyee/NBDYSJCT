@@ -4046,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“先洗澡，一身油烟和酒味。”伊琳娜抬手，止住了麦格靠上前的身体。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T172010Z" creationid="Longbell" creationdate="20220426T172010Z">
+        <seg>"Go and shower first. You smelled of smoke and liquor." Irina raised her hand and stopped Mag's approaching body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“先清除周围的古尸，给他减轻一些压力。”伊琳娜很快收回目光，吟唱着魔法咒语，用圣光术扫荡着那些试图靠近麦格的古尸。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T153927Z" creationid="sitong" creationdate="20220410T153927Z">
@@ -11202,6 +11210,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220401T141925Z" creationid="sitong" creationdate="20220401T141925Z">
         <seg>"Annie, do you have something you wish to tell me?" Mag asked Annie with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“安妮，画完这一页就睡觉了哦。”麦格盯住了安妮一声，把两个孩子安顿好。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T170438Z" creationid="Longbell" creationdate="20220426T170438Z">
+        <seg>"Annie, go to bed after drawing this page." Mag reminded Annie and settled the two children in.</seg>
       </tuv>
     </tu>
     <tu>
