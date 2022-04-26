@@ -5742,6 +5742,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“吃肉！！！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T134533Z" creationid="Longbell" creationdate="20220426T134533Z">
+        <seg>"Eat meat!!!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“吃饱了吗？还要不要再来一份羊肉卷？”麦格看着终于把碗里的菜全部吃完的艾米，笑着问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34642,6 +34650,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220426T074039Z" creationid="Longbell" creationdate="20220426T074039Z">
         <seg>Everyone fell silent instantly and began to make preparations to go on stage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人顿时欢呼起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T134858Z" creationid="Longbell" creationdate="20220426T134858Z">
+        <seg>Everyone cheered instantanteously.</seg>
       </tuv>
     </tu>
     <tu>
