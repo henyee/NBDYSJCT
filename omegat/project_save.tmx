@@ -13238,6 +13238,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“您可能不太了解，黑猫小姐这个故事对我来说很重要，也耗费了我许多的心血……希望您可以理解。”薇琪还语调温柔的解释道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T133307Z" creationid="Longbell" creationdate="20220426T133210Z">
+        <seg>Vicki still explained in a gentle tone, "You might not understand, but the story of 'Miss Black Cat' is very important to me. It took me a lot of effort...I hope you can understand."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“您吃的满意吗？”卡诺有点紧张的看着希利问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -57976,8 +57984,8 @@
       <tuv lang="zh-CN">
         <seg>薇琪看着麦格说道：“黑猫小姐这个故事是我创作的，如果这位妹妹想要画成绘本发行的话，我需要先看过她的作品，确定符合我的预期后，我们可以再谈如何分成的问题。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220426T133106Z" creationid="Longbell" creationdate="20220426T133106Z">
-        <seg>Vicki said to Mag, "I created the story of 'Miss Black Cat'. If this little sister wants to draw it into a picture book and publish it, I'll need to look at her work first. After making sure that it's up to my expectations, we can talk about the issue of spliting the profits."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220426T133213Z" creationid="Longbell" creationdate="20220426T133106Z">
+        <seg>Vicki said to Mag, "I created the story of 'Miss Black Cat'. If this little sister wants to draw it into a picture book and publish it, I'll need to look at her work first. After making sure that it's up to my expectations, we can talk about the issue of spliting the profits then."</seg>
       </tuv>
     </tu>
     <tu>
