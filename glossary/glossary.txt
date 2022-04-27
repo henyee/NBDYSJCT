@@ -2974,3 +2974,4 @@ DVD	DVD
 团员	troupe member
 黑猫小姐	Miss Black Cat
 早餐	breakfast
+蒸屉	steamer
