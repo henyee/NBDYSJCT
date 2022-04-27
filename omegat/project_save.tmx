@@ -9094,6 +9094,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“大早上的，就不喝酒了。”麦格端着一排蒸屉从厨房里出来，接过汉娜手里的酒，顺手放到了一旁的柜台上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T090035Z" creationid="Longbell" creationdate="20220427T090035Z">
+        <seg>"Let's not drink so early in the morning." Mag came out of the kitchen with a row of steamers. He took the bottle of rum from Hannah and put it on a counter at the side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“大概也只有男爵大人才有这样的气质吧。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T163510Z" creationid="sitong" creationdate="20220404T163510Z">
@@ -21616,8 +21624,8 @@
       <tuv lang="zh-CN">
         <seg>“老板，我的酒可以出厂了，你要不要尝尝？”汉娜提着一瓶酒进门来，冲着麦格晃了晃手里的酒瓶说道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220427T085901Z" creationid="Longbell" creationdate="20220427T081808Z">
-        <seg>"Boss, my rum is ready. Do you want to try it?" Hannah came in with a bottle of rum and shook the bottle of rum at Mag.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T085911Z" creationid="Longbell" creationdate="20220427T081808Z">
+        <seg>"Boss, my rum is ready. Do you want to try it?" Hannah came in with a bottle of rum and shook the bottle at Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43858,6 +43866,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220408T063219Z" creationid="Longbell" creationdate="20220408T063219Z">
         <seg>Perhaps, an easy customer like Hades was every sales person's favorite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>对于汉娜的酿酒技艺，他是没有半点怀疑，既然她认定能够出厂的酒，必定是好酒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T090311Z" creationid="Longbell" creationdate="20220427T090311Z">
+        <seg>He had no doubts about Hannah's brewing techniques. Since it was a bottle of rum that she deemed was ready to be sold, it had to be good rum.</seg>
       </tuv>
     </tu>
     <tu>
