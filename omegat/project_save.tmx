@@ -19366,6 +19366,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“熟悉的味道，有美味早餐的生活，又要开始了吗？”安吉拉跟着进门来，颇为兴奋的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T081732Z" creationid="Longbell" creationdate="20220427T081732Z">
+        <seg>Angela followed her in and excitedly said, "The familiar taste. The life with delicious breakfast. Is it going to begin right now?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“爱妃小姐是想听点好听的话，还是听点真实的评价。”麦格看着她问道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220325T132904Z" creationid="sitong" creationdate="20220325T132904Z">
@@ -21590,10 +21598,26 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“老板，安妮。”简微笑着打招呼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T081744Z" creationid="Longbell" creationdate="20220427T081744Z">
+        <seg>"Boss, Annie." Jane greeted them with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“老板，您说什么？”小伙计没听清。</seg>
       </tuv>
       <tuv lang="en-US">
         <seg>"What are you saying, Boss?" The waiter didn't catch her words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“老板，我的酒可以出厂了，你要不要尝尝？”汉娜提着一瓶酒进门来，冲着麦格晃了晃手里的酒瓶说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T085901Z" creationid="Longbell" creationdate="20220427T081808Z">
+        <seg>"Boss, my rum is ready. Do you want to try it?" Hannah came in with a bottle of rum and shook the bottle of rum at Mag.</seg>
       </tuv>
     </tu>
     <tu>
