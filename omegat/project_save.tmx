@@ -25286,6 +25286,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是灌汤包哦，父亲大人最近新做的早餐，超好吃的。”艾米爬上了自己的专属高脚凳，拿了一个碟子，伸手捏起一只汤汁饱满的灌汤包，“我来教你们吃哦。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T091200Z" creationid="Longbell" creationdate="20220427T091200Z">
+        <seg>"This is the soup dumpling, Father's latest creation for breakfast. It's super delicious." Amy climbed onto her desginated high chair. She took a plate and reached out to pick a juicy soup dumpling. "Let me teach you how to eat it."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是熊猫，不是魔兽，只是一种靠卖萌为生的动物。”艾米摇摇头。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34674,6 +34682,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T161536Z" creationid="sitong" creationdate="20220417T161536Z">
         <seg>Everyone turned to look at Babla too. She had been busy helping out at the city lord's castle recently and finally made time to come back today to gather with them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人也是被这一摞的蒸屉吸引了目光。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T090858Z" creationid="Longbell" creationdate="20220427T090858Z">
+        <seg>Everyone's gaze was attracted by the steamers too.</seg>
       </tuv>
     </tu>
     <tu>
