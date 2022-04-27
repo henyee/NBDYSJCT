@@ -11670,6 +11670,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“对，现在没有比你更合适的人选了。”伊琳娜点头，“不论是混乱之城外引雷电战克苏鲁，还是与洛斯帝国决裂之后的自由人身份，以及足够强大的个人实力和魅力，你都是最合适的人选。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T075849Z" creationid="Longbell" creationdate="20220427T075849Z">
+        <seg>"Yes. There's no one more suitable than you right now." Irina nodded. "Be it battling Cthulhu with lightning outside Chaos City, or the free man identity after breaking away from the Roth Empire, or your strong individual power and charm, you are the best candidate."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“将军！”骑士面色一变，顾不上后腰的疼痛，扭头向后看去，布卢姆的卧室已然被点燃，火焰熊熊燃烧，并且向外快速蔓延而去。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -15474,6 +15482,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I, Irina, would never roll off the bed!" Irina said seriously as she blushed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T075200Z" creationid="Longbell" creationdate="20220427T075200Z">
+        <seg>"Me?"</seg>
       </tuv>
     </tu>
     <tu>
