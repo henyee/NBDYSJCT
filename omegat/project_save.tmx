@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“伊琳娜和暗夜精灵支持诺拉大陆和平，并且愿意为阻击亡灵军团的入侵尽一份力，她参加本次会议，合情合理。”迈克尔神态自若道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T140538Z" creationid="Longbell" creationdate="20220427T140348Z">
+        <seg>"Irina and the Night Elves support a peaceful Norland Continent and are willing to pitch in to stop the Army of the Dead. It is perfectly appropriate for her to take part in this meeting." Michael answered normally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“伊琳娜殿下，我是布鲁斯特家族的德克，您深夜降临，有何贵干。”管家硬着头皮上前，看着伊琳娜恭敬道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T081607Z" creationid="Longbell" creationdate="20220414T081607Z">
@@ -34726,6 +34734,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜缓步走进门来，目光一扫，在写着自己名字的位置坐下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T140325Z" creationid="Longbell" creationdate="20220427T140325Z">
+        <seg>Irina walked in gradually. She looked around and eventually sat down at the position that had her name written on it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜自己拿了一个酒杯，也倒了一杯酒坐在她对面喝了起来。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220421T122021Z" creationid="Longbell" creationdate="20220421T122021Z">
@@ -51162,6 +51178,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220423T114734Z" creationid="Longbell" creationdate="20220423T114734Z">
         <seg>Helena appeared to back off and accepted the conditions, but she had never lost control over the elven race. She even dissolved the internal conflict in a gentle manner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>海伦娜面色一冷，侧头看着迈克尔道：“迈克尔城主，这样不妥吧？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T140411Z" creationid="Longbell" creationdate="20220427T140345Z">
+        <seg>Helena's expression went cold and she turned to look at Michael, "City Lord Michael, I think this is inappropriate, right?"</seg>
       </tuv>
     </tu>
     <tu>
