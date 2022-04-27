@@ -2973,3 +2973,4 @@ DVD	DVD
 歌剧团	opera troupe
 团员	troupe member
 黑猫小姐	Miss Black Cat
+早餐	breakfast
