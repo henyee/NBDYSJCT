@@ -17806,6 +17806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“暗夜精灵，伊琳娜到！”外面响起了一声报幕。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T140219Z" creationid="Longbell" creationdate="20220427T140219Z">
+        <seg>"The Night Elves. Irina has arrived!" Someone loudly reported outside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“最后再问你一个问题，当年埃菲父母遇害的事情，是否和你有关？”麦格看着他问道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220417T085419Z" creationid="Longbell" creationdate="20220417T085419Z">
@@ -34922,6 +34930,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T163550Z" creationid="sitong" creationdate="20220404T163523Z">
         <seg>Everyone looked at Mag with envy, jealousy, and lemons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人的目光向着门口的方向看去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220427T140242Z" creationid="Longbell" creationdate="20220427T140242Z">
+        <seg>Everyone's gaze moved to the door.</seg>
       </tuv>
     </tu>
     <tu>
