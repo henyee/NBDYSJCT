@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32542,6 +32542,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>也是近十年来，诺兰大陆上最强大的骑士，或者说……是最强大的存在！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220428T061407Z" creationid="Longbell" creationdate="20220428T061407Z">
+        <seg>He was also the most powerful knight, or perhaps...the most powerful existence on the Norland Continent in the recent 10 years!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>也是这十多年来她一直在寻找和试图创造出来，却一直未能成功的香味。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220412T120052Z" creationid="sitong" creationdate="20220412T120052Z">
@@ -33082,6 +33090,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220427T130538Z" creationid="Longbell" creationdate="20220427T130538Z">
         <seg>Yabemiya nodded and said, "Yes. So, you're really not going to open the restaurant in these two days? Even opening for two days can bring some consolation to the customers."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>亚历克斯。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220428T055043Z" creationid="Longbell" creationdate="20220428T055043Z">
+        <seg>Alex.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39450,6 +39466,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T083138Z" creationid="sitong" creationdate="20220428T083138Z">
         <seg>The various representatives were shocked to hear that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>各族如此迅速的重聚混乱之城，和他从极北之地带回来的那块留影石不无关系。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220428T105650Z" creationid="Longbell" creationdate="20220428T105650Z">
+        <seg>All the races quickly regathered at Chaos City because of that Photostone he brought back from the extreme north.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47450,6 +47474,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220419T092038Z" creationid="Longbell" creationdate="20220419T092038Z">
         <seg>Obviously, under the influence of the twin stars Titan Tavern and Saipan Tavern, a new sophiscated commercial circle was in midst of brewing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>很难想象，如果不是他提前发现了魔鬼和亡灵军团的存在，等到亡灵军团南下之时，毫无准备的诺兰大陆各族，将会面对怎样惨烈的局面。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220428T110735Z" creationid="Longbell" creationdate="20220428T110735Z">
+        <seg>t was hard to imagine what would happen if he didn't discover the existence of the devil and the Army of the Dead and what a tragic situation all the unprepared Norland Continent's races would be in when the Army of the Dead marched southwards.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62306,6 +62338,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T090422Z" creationid="Longbell" creationdate="20220328T090422Z">
         <seg>Currently, he didn't know if he should be happy or unhappy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这个曾经在混乱之城外力挽狂澜，将即将脱离封印的魔鬼重新封印，阻止了一场劫难的男人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220428T060043Z" creationid="Longbell" creationdate="20220428T060043Z">
+        <seg>The man who had done his utmost to stem a raging tide by resealing the devil that was about to break through the seal and stopped a catastrophe.</seg>
       </tuv>
     </tu>
     <tu>
