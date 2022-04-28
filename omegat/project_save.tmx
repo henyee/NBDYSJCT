@@ -4814,6 +4814,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“博比先生，很抱歉的通知您，黑猫歌剧团还是拒绝了我们的合并邀请，而且那个该死的女人还把我的脸撕破了。”帕斯卡捂着自己满是血痕的脸，神情有些愤怒。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T073803Z" creationid="sitong" creationdate="20220428T073803Z">
+        <seg>"Mr Bobby, I regret to inform you that the Black Cat Opera still rejected our cooperation. On top of that, that darn woman even scratched me." Pascal held on to his face that was filled with bloody scratch marks angrily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“卡米拉？”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220424T085837Z" creationid="Longbell" creationdate="20220424T085828Z">
@@ -40074,6 +40082,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T134712Z" creationid="Longbell" creationdate="20220415T134712Z">
         <seg>There were a young man and a little girl standing behind him suddenly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>在他面前站着的年轻男人摇头道：“我对您的遭遇表示同情，不过薇琪姑娘是个温柔的姑娘，您不应该这样诬陷她。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T073936Z" creationid="sitong" creationdate="20220428T073936Z">
+        <seg>The young man standing in front shook his head and said," I am sorry for what you've encountered but Miss Vicki is a very gentle lady. You should not malign her like that."</seg>
       </tuv>
     </tu>
     <tu>
