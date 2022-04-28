@@ -37070,6 +37070,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>兽人族将派出二十万兽人战士加入联军，作为一个能够和洛斯帝国叫板的强族，兽人族同样有着数量庞大的部落战士。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T090013Z" creationid="sitong" creationdate="20220428T090013Z">
+        <seg>The Orcs would send out 20,000 soldiers to join the allied forces. As a strong race that could take on the Roth Empire, the Orcs also had a large population.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>兽人族方面颇为引人注目，康妮已然成为暮光森林唯一的女王，这是兽人族数百年来未曾出现过的光景，而无发行者坐在她身侧，俨然是第一光头护法，令人不敢小瞧这对师徒。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220427T132615Z" creationid="Longbell" creationdate="20220427T132615Z">
@@ -45798,6 +45806,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>巨魔族将派出一万巨魔战士，以及两万后勤巨魔，可以肩负起雪原搬运工作。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T085802Z" creationid="sitong" creationdate="20220428T085802Z">
+        <seg>The Trolls sent out 10,000 soldiers and 20,000 logistical support, in charge of moving the logistics to the plains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>巨龙数量是诺兰大陆各族中最少的，八千巨龙，基本是巨龙族的核心力量。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T085344Z" creationid="sitong" creationdate="20220428T085344Z">
@@ -54234,6 +54250,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220427T133031Z" creationid="Longbell" creationdate="20220427T133031Z">
         <seg>The King of the Dwarves came personally. He was chatting softly with the King of the Goblins. Their topic was related to the cannons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>矮人族派出五千矮人战士，并且承担了整个联军的兵器修复、工事建设等工作，是非常出色的工具人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T085918Z" creationid="sitong" creationdate="20220428T085918Z">
+        <seg>The Dwarves sent out 5000, soldiers and took on the responsibility of weapon maintenance, site building and other work. They were very excellent craftsmen.</seg>
       </tuv>
     </tu>
     <tu>
