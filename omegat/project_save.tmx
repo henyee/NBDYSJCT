@@ -47326,6 +47326,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>所有人的目光都看向了门口的方向。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220428T055041Z" creationid="Longbell" creationdate="20220428T055041Z">
+        <seg>Everyone's gaze turned towards the door.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>所有人都一脸震惊的看着脸上挂满红油和猪耳朵，一脸懵逼的奥尔登。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -63434,6 +63442,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220426T142910Z" creationid="Longbell" creationdate="20220426T142910Z">
         <seg>That man was loaded!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那个男人，来了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220428T054631Z" creationid="Longbell" creationdate="20220428T054631Z">
+        <seg>That man had arrived.</seg>
       </tuv>
     </tu>
     <tu>
