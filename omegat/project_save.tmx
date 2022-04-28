@@ -22766,6 +22766,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“该语种不在本系统的语言库范围内，无法查询，无法直译，非诺兰大陆常见种族所用语言。”系统很快回复道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T061001Z" creationid="sitong" creationdate="20220428T061001Z">
+        <seg>"The language is not within the System's langugage bank. There is no way of ascertaining and translating. This is not a commonly used language by the races on Norland Continent," the System replied very quickly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“说了这酒劲大，不信邪吧。”麦格看着沾到他怀里就睡着了的伊琳娜，有些无奈的笑着把她横抱起来，直接送上了楼。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -67762,6 +67770,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag hemmed and hawed for a long time before saying, "It's just a sketch, so it has to satisfy the readers' imagination. It doesn't matter that it doesn't look like me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格沉吟道：“那你说他是穿越者，还是某个隐匿种族？又或者是像晞一样，从地底下跑出来的？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T061043Z" creationid="sitong" creationdate="20220428T061043Z">
+        <seg>Mag said softly, "Do you mean she is a transmigrant or from some hidden race? Or maybe she's like Xi, she came from underground?"</seg>
       </tuv>
     </tu>
     <tu>
