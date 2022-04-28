@@ -9526,6 +9526,22 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“她叫什么名字呢？”玛拉接过纸袋。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T075127Z" creationid="sitong" creationdate="20220428T075127Z">
+        <seg>"What is her name?" Mala received the bag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“她叫薇琪。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T075132Z" creationid="sitong" creationdate="20220428T075132Z">
+        <seg>"She's called Vicki."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“她喝了点酒，有些醉了，所以今晚先睡觉了。”麦格微笑着说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -10514,6 +10530,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T064054Z" creationid="sitong" creationdate="20220321T064054Z">
         <seg>"Yes. I'll be on it." The editor left quickly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好的，我记住了，我会盯着这边的。”玛拉认真的点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T075148Z" creationid="sitong" creationdate="20220428T075148Z">
+        <seg>"Alright, I got it. I will keep a look out." Mala nodded seriously.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16510,6 +16534,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“明天我们要回去的话，是不是应该给姐姐们带些礼物回去呢？”艾米抱着丑小鸭凑到麦格面前，仰着头问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T075254Z" creationid="sitong" creationdate="20220428T075254Z">
+        <seg>Amy carried Ugly Duckling in her arms, looked up at Mag and asked,"If we're going back tomorrow, should we bring the big sisters some presents?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“明日一早送到宫里去，向父皇汇报此事。”肖恩收回目光，沉声下令道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T145617Z" creationid="sitong" creationdate="20220321T145617Z">
@@ -17674,6 +17706,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T094800Z" creationid="sitong" creationdate="20220403T094800Z">
         <seg>"Yes. Annie is a good child." Irina nodded. She thought for a while and said, "So that woman came yesterday and also discovered Annie?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是的，小米要是不提这件事，我都忘了。”麦格笑着点头，说起来他们这趟出门已经两周，是该给姑娘们带点礼物回去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T075336Z" creationid="sitong" creationdate="20220428T075336Z">
+        <seg>"Yes. If Amy baby didn't bring it up, I would have forgotten about it." Mag nodded with a smile. They had already been out for two weeks. It was only right to bring some gifts back for the ladies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36334,6 +36374,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>傍晚，四位新员工提前到来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T075346Z" creationid="sitong" creationdate="20220428T075346Z">
+        <seg>In the evening, the four new employees came in advance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>像他前世那么飘的，容易招人嫉妒。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220320T032044Z" creationid="sitong" creationdate="20220320T032044Z">
@@ -48874,6 +48922,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>It was apparent that this was a family.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>晚餐麦格没有留玛拉，毕竟她家里还有一个嗷嗷待哺的埃菲等着她回去做晚餐。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220428T075212Z" creationid="sitong" creationdate="20220428T075212Z">
+        <seg>Mag did not make Mala stay for dinner. After all, there was still Eiffie back there waiting for her to feed.</seg>
       </tuv>
     </tu>
     <tu>
