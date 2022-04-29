@@ -2976,3 +2976,4 @@ DVD	DVD
 早餐	breakfast
 蒸屉	steamer
 博比	Bobby
+大酋长	chieftain
