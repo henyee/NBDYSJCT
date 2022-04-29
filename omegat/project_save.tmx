@@ -36352,8 +36352,8 @@
       <tuv lang="zh-CN">
         <seg>但这场战争对我们兽人族造成了巨大的损伤，数十个部落在战争中被屠灭，十数万兽人丧生，给暮光森林留下了满目苍夷。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220429T100602Z" creationid="Longbell" creationdate="20220429T100602Z">
-        <seg>this war had caused a huge damage to us orcs. Dozens of tribes were massacred and annihilated in this war and hundreds of thousands of orcs had perished, leaving ruins everywhere in the Twilight Forest.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T101349Z" creationid="Longbell" creationdate="20220429T100602Z">
+        <seg>this war had caused huge damage to us orcs. Dozens of tribes were massacred and annihilated in this war and hundreds of thousands of orcs had perished, leaving ruins everywhere in the Twilight Forest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46782,6 +46782,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>康妮的表态很强硬。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T101456Z" creationid="Longbell" creationdate="20220429T101456Z">
+        <seg>Connie's stance was very forceful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>康妮缓缓站起身来，看着安德烈道：“虽然从调查的结果来看，是乔修出卖灵魂给魔鬼之后，主导了这场洛斯帝国针对兽人族的战争。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T100305Z" creationid="Longbell" creationdate="20220429T100305Z">
@@ -52286,6 +52294,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>洛斯帝国如果不立刻对那场入侵暮光森林的战争做出回应，给予适当的赔偿，或许兽人族与洛斯帝国的战争会比亡灵军团入侵更早发生。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T101710Z" creationid="Longbell" creationdate="20220429T101710Z">
+        <seg>If the Roth Empire didn't respond to the war that invaded the Twilight Forest right now and make an appropriate compensation, perhaps the war between the Roth Empire and the orcs would happen before the invasion of the Army of the Dead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>洛斯帝国对兽人族和精灵族悍然发动战争，让诺兰大陆的局势陷入了紧张之中。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -52344,8 +52360,8 @@
       <tuv lang="zh-CN">
         <seg>洛斯帝国首当其中面对亡灵军团的威胁，还等着各族谈好协议，出兵援助，已经失去谈条件的资格。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220429T094521Z" creationid="Longbell" creationdate="20220429T094521Z">
-        <seg>The Roth Empire was the closest to the threat of the Army of the Dead. They were still waiting for the other races to negotiate their terms and send troops to help them out. They had already lose their right to negotiate.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T101335Z" creationid="Longbell" creationdate="20220429T094521Z">
+        <seg>The Roth Empire was the closest to the threat of the Army of the Dead. They were still waiting for the other races to negotiate their terms and send troops to help them out. They had already lost their right to negotiate.</seg>
       </tuv>
     </tu>
     <tu>
