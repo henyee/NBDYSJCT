@@ -2978,3 +2978,4 @@ DVD	DVD
 博比	Bobby
 大酋长	chieftain
 西北军团	Northwestern Legion
+最高指挥官	supreme commander
