@@ -36608,8 +36608,8 @@
       <tuv lang="zh-CN">
         <seg>倒不是他故意装逼最晚到场，只是刚刚和姑娘们多聊了会天。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220429T074140Z" creationid="Longbell" creationdate="20220429T074140Z">
-        <seg>He didn't deliberately arrive last to flex. It was because he chatted with the ladies for a while longer earlier.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T074412Z" creationid="Longbell" creationdate="20220429T074140Z">
+        <seg>He didn't deliberately arrive last to flex. It was because he had chatted with the ladies for a while longer earlier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57198,6 +57198,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而且……他是准时的，只是这些人来的太早了而已。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T074205Z" creationid="Longbell" creationdate="20220429T074205Z">
+        <seg>Moreover, he was punctual. It was these people who came too early.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而且一旦确定谁是指挥官，意味着掌控者调配各族的权利，各族代表自然都存了些心思。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T092604Z" creationid="sitong" creationdate="20220428T092604Z">
@@ -68410,6 +68418,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220331T155817Z" creationid="sitong" creationdate="20220331T155731Z">
         <seg>Mag propped his head on his hand and thought for a while. Suddenly, he asked, "I am suddenly curious about what God is? What kind of existence is it? Why did it create the System and send them out to various worlds?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格扫了一圈到场的人，各族代表和上次差不多，只是兽人族只剩下了康妮的声音。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T074331Z" creationid="Longbell" creationdate="20220429T074331Z">
+        <seg>Mag swept his gaze over the people present. The various representatives were almost the same as the previous meeting, just that only Connie's voice was left for the orcs.</seg>
       </tuv>
     </tu>
     <tu>
