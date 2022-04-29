@@ -40766,6 +40766,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>因为魔鬼，他没了一个儿子，没了几个大臣，没了一批英勇的兵士。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T125030Z" creationid="Longbell" creationdate="20220429T125030Z">
+        <seg>Because of the devil, he had lost a son, a few courtiers and a batch of brave soldiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>团员们在不远处也是望着这边，先前听到团长要免去票钱的时候，众人心都凉了半截，现在又被重新提了起来。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220426T130813Z" creationid="Longbell" creationdate="20220426T130813Z">
@@ -44968,8 +44976,8 @@
       <tuv lang="zh-CN">
         <seg>安德烈的这段话甩锅段位极高，反正这件事和他无关，和洛斯帝国也无关，都是魔鬼惹的祸。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220429T124930Z" creationid="Longbell" creationdate="20220429T124930Z">
-        <seg>Andre's words were really smooth at pushing away his resposibility. Anyway, this matter had nothing to do with or the Roth Empire. It was all the devil's fault.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T124942Z" creationid="Longbell" creationdate="20220429T124930Z">
+        <seg>Andre's words were really smooth at pushing his resposibility away. Anyway, this matter had nothing to do with or the Roth Empire. It was all the devil's fault.</seg>
       </tuv>
     </tu>
     <tu>
