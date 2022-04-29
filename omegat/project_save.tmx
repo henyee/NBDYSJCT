@@ -16408,8 +16408,8 @@
       <tuv lang="zh-CN">
         <seg>“新的和平条约现在发放到诸位的手中，内容与之前版本相同，和一百年前我们签订的和平条约内容也一致，不过在无尽海域之中，在恶魔群岛的范围之外，会有一片区域属于兰蒂斯特族。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220429T075915Z" creationid="Longbell" creationdate="20220429T075915Z">
-        <seg>"All of has the new peace treaty in your hands now. The content is same to the previous edition and the one we signed 100 years ago. However, in the Boundless Sea Realm, beyond the territorial waters of the Demon Islands, there will be an area that belonged to the Lantisdeans."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T080347Z" creationid="Longbell" creationdate="20220429T075915Z">
+        <seg>"All of you have the new peace treaty in your hands now. The content is same to the previous edition and the one we signed 100 years ago. However, in the Boundless Sea Realm, beyond the territorial waters of the Demon Islands, there will be an area that belonged to the Lantisdeans."</seg>
       </tuv>
     </tu>
     <tu>
@@ -45826,6 +45826,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220406T015101Z" creationid="Longbell" creationdate="20220406T015101Z">
         <seg>The staff member showed the perfect seal on the bottle to the audience before removing the cork in front of everyone and poured it into the glasses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>工作人员将厚厚一册条约发放到圆桌前的每一位参会人员手中。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T080648Z" creationid="Longbell" creationdate="20220429T080648Z">
+        <seg>The staff members placed a thick stack of documents into the hands of the participants sitting in front of the round table.</seg>
       </tuv>
     </tu>
     <tu>
