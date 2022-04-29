@@ -2977,3 +2977,4 @@ DVD	DVD
 蒸屉	steamer
 博比	Bobby
 大酋长	chieftain
+西北军团	Northwestern Legion
