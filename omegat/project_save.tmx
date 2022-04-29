@@ -1950,6 +1950,30 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“亚历克斯。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T152029Z" creationid="Longbell" creationdate="20220429T152029Z">
+        <seg>"Alex."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“亚历克斯。”德古拉代表吸血鬼族表态。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T152026Z" creationid="Longbell" creationdate="20220429T152026Z">
+        <seg>"Alex." Dracula stated his vote on behalf of the vampires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“亚历克斯。”烈焰恶魔族族长第一个表态。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T152010Z" creationid="Longbell" creationdate="20220429T152010Z">
+        <seg>"Alex." The Flaming Demons' chief was the first to state his vote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“亚历克斯！你深夜来访，所谓何事？！”一道中气十足的声音从城楼上响起。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T075959Z" creationid="sitong" creationdate="20220411T075959Z">
@@ -50826,6 +50850,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>At last, Noya chose a black two-story building in the corner. The first floor was a little teahouse, while the second floor offered more privacy. There was a complete set of old furniture, and the previous owner even left two beds and blankets behind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>最终，兽人族内部，亚历克斯以9:1的绝对优势，战胜了深渊恶魔族族长，获得了第一票。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T152216Z" creationid="Longbell" creationdate="20220429T152216Z">
+        <seg>Finally, Alex had defeated the Abyss Demons' chief with 9:1 votes in the demons' internal voting and received the very first vote.</seg>
       </tuv>
     </tu>
     <tu>
