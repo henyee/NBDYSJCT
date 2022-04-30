@@ -7454,6 +7454,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“哦，这该死的柔软……好像又长大了一点？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T155318Z" creationid="Longbell" creationdate="20220430T155318Z">
+        <seg>"Oh, this darned softness...they seem to have grown bigger again?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“哦？”麦格有点意外，小家伙可是一向喜欢夸赞他的，没想到现在竟然会给出一个不贵完美的评价。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -34274,6 +34282,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220404T072235Z" creationid="Longbell" creationdate="20220404T072235Z">
         <seg>Looking at the scene, this seemed to be a one-sided battle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>从脸上熟悉的柔软，和那淡淡的香味，麦格已经判断出来人是谁。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T155427Z" creationid="Longbell" creationdate="20220430T155427Z">
+        <seg>Judging from the familiar softness on his face and the faint fragrance, Mag also knew who the person was.</seg>
       </tuv>
     </tu>
     <tu>
