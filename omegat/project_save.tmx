@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -57122,6 +57122,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220430T104539Z" creationid="Longbell" creationdate="20220430T104539Z">
         <seg>Chapter 2142: I-I Know The Way!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百四十章 我参选</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220430T171118Z" creationid="sitong" creationdate="20220430T171118Z">
+        <seg>Chapter 2140: I'll Take Part</seg>
       </tuv>
     </tu>
     <tu>
