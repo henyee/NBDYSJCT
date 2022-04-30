@@ -29150,6 +29150,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“麦格叔叔。”安娜跑进餐厅，直接扑进了麦格的怀里。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T122953Z" creationid="Longbell" creationdate="20220430T122953Z">
+        <seg>"Uncle Mag." Anna ran into the restaurant and leaped straight into Mag's arms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“麦格叔叔做的美食，没有人能够拒绝的。”杰西卡深以为然的点头。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -70462,6 +70470,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格抱起小家伙转了两圈，看着又长高了几分的安娜，笑着道：“小安娜，最近过得开心吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T123053Z" creationid="Longbell" creationdate="20220430T123053Z">
+        <seg>Mag carried the little one and turned around twice. Looking at Anna, who had grown taller, he smilingly asked, "Did you have a happy time recently, Little Anna?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格拔开瓶塞，然后在两个酒杯里倒上酒。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -70560,8 +70576,8 @@
       <tuv lang="zh-CN">
         <seg>麦格提前回到了餐厅，备好各种食材，不多久，姑娘们便陆续来了。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220430T122733Z" creationid="Longbell" creationdate="20220430T122733Z">
-        <seg>Mag returned to the restaurant in advance and prepared all sorts of ingredients. Soon after, the ladies arrived one by one.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T122742Z" creationid="Longbell" creationdate="20220430T122733Z">
+        <seg>Mag returned to the restaurant in advance and prepared all sorts of ingredients. Soon after, the ladies arrived one by another.</seg>
       </tuv>
     </tu>
     <tu>
