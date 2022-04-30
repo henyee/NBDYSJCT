@@ -15352,8 +15352,8 @@
       <tuv lang="zh-CN">
         <seg>“我有个问题，我们恶魔族内部根本无法达成一致，那这一票该怎么算？”德古拉举手，认真提问。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220429T151657Z" creationid="Longbell" creationdate="20220429T151657Z">
-        <seg>Dracula put his hand up and seriously asked, "I have a question. We demons can't reached a consensus, so how do we cast our vote?"</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T192102Z" creationid="Longbell" creationdate="20220429T151657Z">
+        <seg>Dracula put his hand up and seriously asked, "I have a question. We demons can't reach a consensus, so how do we cast our vote?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -47368,8 +47368,8 @@
       <tuv lang="zh-CN">
         <seg>康妮点头，心里已经有了决定。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220429T144536Z" creationid="Longbell" creationdate="20220429T144536Z">
-        <seg>Connie nodded. She already had make a decision inwardly.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220429T192035Z" creationid="Longbell" creationdate="20220429T144536Z">
+        <seg>Connie nodded. She had already made a decision inwardly.</seg>
       </tuv>
     </tu>
     <tu>
