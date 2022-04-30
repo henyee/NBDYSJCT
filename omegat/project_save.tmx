@@ -8318,6 +8318,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“嗯嗯，我最近都在负责改善暗夜精灵的伙食呢，现在食堂里已经每天都能供应鱼香茄子和麻婆豆腐了，这是大家最喜欢的菜，而且早上还可以吃到热乎乎的皮蛋瘦肉粥。”菲丽丝点着头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T144920Z" creationid="Longbell" creationdate="20220430T144920Z">
+        <seg>Firis nodded and said, "Mmm. I'm responsible for improving the Night Elves' food recently. The canteen is supplying the eggplant with garlic sauce and Mapo Tofu everyday now. They are everyone's favorite dishes. Futhermore, they get to eat piping hot congee with pork and century egg every morning too."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“嗯，不错，这把菜刀就送给你了，平时有空就在家练练刀工。”麦格看着玛拉缓慢但稳定的切好一个土豆，颇为满意的点了点头道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220420T081058Z" creationid="Longbell" creationdate="20220420T081058Z">
@@ -22970,6 +22978,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"There are no new dishes on the menu…"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“菲丽丝，最近有好好做菜吗？”麦格把热油浇在剁椒鱼头上，随口问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T144606Z" creationid="Longbell" creationdate="20220430T144606Z">
+        <seg>Mag drizzled the hot oil over the steamed fish head with diced hot red peppers and casually asked, "Firis, have you been cooking recently?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -58298,6 +58314,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220420T132112Z" creationid="Longbell" creationdate="20220420T132112Z">
         <seg>Red braised pork wasn't hard to make, but it would take time to braise. It couldn't be served quickly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>红红的剁椒在滋滋滋的热油中跳舞，给鱼头注入了灵魂，鲜香四溢。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T144658Z" creationid="Longbell" creationdate="20220430T144658Z">
+        <seg>The red chopped chilli sizzled in the hot oil and infused a soul onto into the fish head. A fresh aroma spread everywhere.</seg>
       </tuv>
     </tu>
     <tu>
