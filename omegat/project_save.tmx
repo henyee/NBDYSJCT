@@ -54374,6 +54374,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>熟悉，而又陌生的城市。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T121721Z" creationid="Longbell" creationdate="20220430T121721Z">
+        <seg>A familiar yet strange city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>熟手的好处是招募之后就直接能够上手，不需要慢慢调教培养。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220424T164934Z" creationid="Longbell" creationdate="20220424T164934Z">
@@ -62168,8 +62176,8 @@
       <tuv lang="zh-CN">
         <seg>行走在冬夜的冷风中，路上没有行人，长长的街巷也显得颇为寂寥。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220430T121421Z" creationid="Longbell" creationdate="20220430T121421Z">
-        <seg>Walking</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T121703Z" creationid="Longbell" creationdate="20220430T121421Z">
+        <seg>Walking in the cold winter wind, there were no pedestrains on the street and the long streets looked rather desolated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66658,6 +66666,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220422T094616Z" creationid="Longbell" creationdate="20220422T094616Z">
         <seg>On that ice plain that day, Mag had witnessed the firepower of Xi's battleship personally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那日她鼓起勇气，离开了森林，一路来到了这座城市。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T121752Z" creationid="Longbell" creationdate="20220430T121752Z">
+        <seg>That day, she gathered all her courage to leave the forest and ran all the way to this city.</seg>
       </tuv>
     </tu>
     <tu>
