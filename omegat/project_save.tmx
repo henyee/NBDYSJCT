@@ -4248,8 +4248,8 @@
       <tuv lang="zh-CN">
         <seg>“先坐一会吧，等他们回来咱们再开吃。”麦格笑着点点头，倒是有点诧异雪莉尔的气息，短短半个月不见，她竟然已经成功突破九级。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220430T123817Z" creationid="Longbell" creationdate="20220430T123817Z">
-        <seg>"Please take a seat first. We'll start eating once they are back." Mag nodded with a smile. He was rather surprised at Shirley's aura. She had successfully ascended to the 9th-tier in a short two weeks period.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T124246Z" creationid="Longbell" creationdate="20220430T123817Z">
+        <seg>"Please take a seat first. We'll start eating once they are back." Mag nodded with a smile. He was rather surprised at Shirley's aura. She had successfully advanced to the 9th-tier in a short two weeks period.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4350,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“公主殿下。”雪莉尔起身，向着伊琳娜行礼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T124228Z" creationid="Longbell" creationdate="20220430T124228Z">
+        <seg>"Your Highness." Shirley got up and bowed to Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“公主殿下可能有事要忙。”琼纳斯有些不好意思的解释道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220430T083724Z" creationid="Longbell" creationdate="20220430T083724Z">
@@ -4362,6 +4370,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Lola placed a small plate of snacks in front of Vanessa, and whispered, "Princess, you are not thinking of escaping again?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“公主，老板真的回来了吗？小米也回来了？”菲丽丝的声音在门外响起，跟着伊琳娜走进门来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T124201Z" creationid="Longbell" creationdate="20220430T124201Z">
+        <seg>"Princess, is Boss really back? Is Little Amy back too?" Firis' voice sounded at the door as she followed Irina in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35970,6 +35986,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220426T063644Z" creationid="sitong" creationdate="20220426T063644Z">
         <seg>Irina watched Eiffie leave and looked at Mag with a smile as she said, "It seems like she'd fallen for you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜看着雪莉尔，同样面露讶色，道：“你突破了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T124237Z" creationid="Longbell" creationdate="20220430T124237Z">
+        <seg>Irina</seg>
       </tuv>
     </tu>
     <tu>
