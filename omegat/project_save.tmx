@@ -808,8 +808,8 @@
       <tuv lang="zh-CN">
         <seg>“不是不相信。”芭芭拉摇头，一脸认真道：“是难以置信。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220430T094426Z" creationid="Longbell" creationdate="20220430T094426Z">
-        <seg>"It's not we don't trust you." Babla shook her head and gravely said, "It's simply to hard to believe."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T094500Z" creationid="Longbell" creationdate="20220430T094426Z">
+        <seg>"It's not that we don't trust you." Babla shook her head and gravely said, "It's simply too hard to believe it."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5058,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Danger! Mag thought to himself. After so much calculation, he forgot that the family finances had already landed in Irina's hands. Right now, every single cent he spent would be considered his secret stash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“厉害了。”卡米拉竖起了一个大拇指，她已经信了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T095124Z" creationid="Longbell" creationdate="20220430T094900Z">
+        <seg>"You're formidable." Camilla gave her a thumbs up. She had already believed Connie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10170,6 +10178,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T130843Z" creationid="Longbell" creationdate="20220418T130843Z">
         <seg>"Alright. I simply cannot reject her." Mag sighed inwardly. He put down the knife, stood up and smilingly said, "Let's go check out the back yard. Perhaps we can find one there."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好吧，虽然的确不是我自己找到他的房间的，但他的确是我杀的，趁着他睡着的时候，用了三剑。”康妮伸出三根手指比划了一下，“厉害吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T094634Z" creationid="Longbell" creationdate="20220430T094634Z">
+        <seg>"Alright. Although I didn't find his room by myself, he was indeed killed by me. I used three strikes while he was sleeping." Connie extended three fingers and waved them. "Ain't I formidable?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -21430,6 +21446,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“真是你杀的啊？”芭芭拉惊讶的看着康妮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T094715Z" creationid="Longbell" creationdate="20220430T094715Z">
+        <seg>"It was really you who killed him?" Babla stared at Connie with shock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“真是善良的好孩子。”工作人员由衷的称赞道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -23578,6 +23602,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Come to speak of it, it was Bobby who brought me here," Lucien said to Bobby, who was standing at the edge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“请叫我刺客。”康妮仰头，露出了一个骄傲的下巴。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T094839Z" creationid="Longbell" creationdate="20220430T094839Z">
+        <seg>"Please call me assassin." Connie looked up to reveal her proud chin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38762,6 +38794,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T074106Z" creationid="sitong" creationdate="20220428T074106Z">
         <seg>Black Cat Opera took out a bag of silver coins and passed it to Pascal as he said calmly, "This is your pay. Deliver a part of it to Black Cat Opera. They are in a very difficult situation right now but many of them are very excellent performers. Yo know it, such chances are hard to come by."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>卡米拉也是笑着点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T094444Z" creationid="Longbell" creationdate="20220430T094444Z">
+        <seg>Camilla nodded with a smile too.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61722,6 +61762,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Although there was only one bill, they had earned 2030 copper coins. That would have surpassed many at Romo street.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然她是一位八级空间魔法师，但她从未想过有人能够跨越两级，杀死一位十级强者。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T094811Z" creationid="Longbell" creationdate="20220430T094811Z">
+        <seg>Even though she was an 8th-tier spatial magic caster, she had never imagine someone could go two tiers above them and kill a 10th-tier powerhouse.</seg>
       </tuv>
     </tu>
     <tu>
