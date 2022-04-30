@@ -49912,8 +49912,8 @@
       <tuv lang="zh-CN">
         <seg>新的和平协议签订完成，麦格以绝对优势成为了联军指挥官。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220430T080652Z" creationid="Longbell" creationdate="20220430T080652Z">
-        <seg>The new peace accord was signed. Mag became the allied forces' c</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T080713Z" creationid="Longbell" creationdate="20220430T080652Z">
+        <seg>The new peace accord was signed. Mag became the allied forces' chief commander with an absolute majority.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51642,6 +51642,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220330T064414Z" creationid="sitong" creationdate="20220330T064414Z">
         <seg>Identify the origin of the "nuclear" power. Check if it has anything to do with the external civilization.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>根据各族协议，联军签订了一份协议，其中包括各族出兵的准确数量，以及后勤方面的一些细节。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T081126Z" creationid="Longbell" creationdate="20220430T081126Z">
+        <seg>According the races' negotiation, the allied forces signed a pact, incluing the exact number of soldiers that each race was supposed to send and some details about the logistics.</seg>
       </tuv>
     </tu>
     <tu>
