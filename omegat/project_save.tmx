@@ -6742,6 +6742,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“哇哦，那雪莉尔你现在不就是九级魔法师了吗？好厉害！”跟着进门来的菲丽丝一脸惊叹的看着雪莉尔。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T124509Z" creationid="Longbell" creationdate="20220430T124509Z">
+        <seg>"Wow. Are you a 9th-tier magic caster now, Shirley? That's formidable!" Firis who followed Irina in, looked at Shirley with amazement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“哇喔，没想到哈迪斯老板还是一个会做饭的好男人呢。”埃菲一脸惊讶的掩嘴，轻笑道：“不知道什么时候有机会尝尝您的厨艺，您的夫人可真是一位幸福的女人。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -17114,6 +17122,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T134633Z" creationid="Longbell" creationdate="20220418T134633Z">
         <seg>"They obviously look different from the traits that I've described earlier, alright?!" Mag went forward to take a look at those three ordinary snails. They looked horribly slimy. Mag quickly shook his head. "No. They're not edible. Let's look around. They usually hide around the roots of the trees."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“昨夜侥幸突破。”雪莉尔点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T124341Z" creationid="Longbell" creationdate="20220430T124341Z">
+        <seg>"I did it last night with a stroke of luck." Shirley nodded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35992,8 +36008,8 @@
       <tuv lang="zh-CN">
         <seg>伊琳娜看着雪莉尔，同样面露讶色，道：“你突破了。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220430T124237Z" creationid="Longbell" creationdate="20220430T124237Z">
-        <seg>Irina</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T124315Z" creationid="Longbell" creationdate="20220430T124237Z">
+        <seg>Irina also looked at Shirley with a surprised look as she said, "You have advanced."</seg>
       </tuv>
     </tu>
     <tu>
@@ -54954,6 +54970,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220425T141905Z" creationid="Longbell" creationdate="20220425T141905Z">
         <seg>Get out of here right now! Otherwise, I'm going to give it to you! I think you need to be educated!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>现在精灵族年轻一辈当中，除了公主殿下，实力最强的就是雪莉尔了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T124553Z" creationid="Longbell" creationdate="20220430T124553Z">
+        <seg>Among the younger generations of the elves, Shirley was the most powerful apart from the princess.</seg>
       </tuv>
     </tu>
     <tu>
