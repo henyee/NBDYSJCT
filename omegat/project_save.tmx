@@ -9550,6 +9550,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“大祭司，我有些乏了，想先回去休息。”莎莉在海伦娜身侧轻声道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T121329Z" creationid="Longbell" creationdate="20220430T121329Z">
+        <seg>"High Priestess, I'm a little tired. I'll like to go back to rest." Sally whispered at Helena's side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“大祭司，生命之城中越来越多的家族宣布烧毁奴隶契约，还族中奴仆自由身，场面已经失去控制。”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -53598,6 +53606,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>海伦娜看了她一会，才点头，“去吧。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T121348Z" creationid="Longbell" creationdate="20220430T121348Z">
+        <seg>Helena flicked a glance at her before nodding, "Go ahead."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>海伦娜笑了，有点感慨道：“但凡艾略特有你一半的智慧和心性，也不至于如此。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T154855Z" creationid="Longbell" creationdate="20220414T154855Z">
@@ -61614,6 +61630,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>莎莉起身离开热闹的议事大厅，然后离开了城主府。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T121415Z" creationid="Longbell" creationdate="20220430T121415Z">
+        <seg>Sally got up and left the boisterous meeting hall. Then, she left the city lord's castle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>莫尔顿庄园。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220424T135738Z" creationid="Longbell" creationdate="20220424T135738Z">
@@ -62138,6 +62162,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Alright, there was no way to continue the conversation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>行走在冬夜的冷风中，路上没有行人，长长的街巷也显得颇为寂寥。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T121421Z" creationid="Longbell" creationdate="20220430T121421Z">
+        <seg>Walking</seg>
       </tuv>
     </tu>
     <tu>
