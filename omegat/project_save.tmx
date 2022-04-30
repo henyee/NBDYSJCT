@@ -47158,6 +47158,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>师承无发行者的康妮，练就了一身刺杀技艺，刺杀睡梦中的奥斯特，有心算无心，得手也就合理了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T100322Z" creationid="Longbell" creationdate="20220430T100322Z">
+        <seg>Connie, whose master was the Hairless Monk, had mastered many assassination techniques. It was reasonable for her to assassinate Auster in his sleep and succeed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>希利作为教会的大主教，此次奉教皇之命从洛都来到混乱之城，为的是找到神女，并尽可能带她返回教廷。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -52410,6 +52418,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T060014Z" creationid="sitong" creationdate="20220428T060014Z">
         <seg>For example... Yordels?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>比如一个魔法师，在睡梦之中，哪怕是一个手持利刃的普通人类，都能将其杀死。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220430T100131Z" creationid="Longbell" creationdate="20220430T100131Z">
+        <seg>For example, even a normal human being with a dagger could kill a magic caster when he was sleeping.</seg>
       </tuv>
     </tu>
     <tu>
