@@ -37438,6 +37438,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>会有很多人在这场战争中死去，谁也无法保证会是谁。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T131411Z" creationid="Longbell" creationdate="20220501T131411Z">
+        <seg>Many people would die in this war. No one could guarantee who they would be.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>传送魔法失效，四人被留在了原地。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T115338Z" creationid="sitong" creationdate="20220410T115338Z">
@@ -66754,6 +66762,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T161025Z" creationid="Longbell" creationdate="20220403T161025Z">
         <seg>This was a rather intense battle. Only the three severedly wounded 10th-tier powerhouses and a mess were left on the scene when the other powerhouses rushed over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这是一场麦格无法掌控的战争，他们将要面对的是强大的克苏鲁，以及被他控制的兰克斯特和百万亡灵军团。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T130552Z" creationid="Longbell" creationdate="20220501T130552Z">
+        <seg>This was a war that was beyond Mag's control. They would have to face the powerful Cthulhu and Rankster and the Army of the Dead under his control.</seg>
       </tuv>
     </tu>
     <tu>
