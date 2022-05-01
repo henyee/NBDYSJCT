@@ -2980,3 +2980,4 @@ DVD	DVD
 西北军团	Northwestern Legion
 最高指挥官	supreme commander
 联盟	alliance
+军团	legion
