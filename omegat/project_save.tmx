@@ -15614,6 +15614,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我很失望。”麦格摇头，“你应该清楚，写下这份预案的时候，你已经不再只是洛斯帝国的元帅，你是整个联军的元帅，无论他们来自拿个种族，他们现在都是你的士兵，都在为了守护这个世界而战斗。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T144510Z" creationid="Longbell" creationdate="20220501T144510Z">
+        <seg>"I'm very disappointed." Mag shook his head. "You should know very well that you're no longer the Roth Empire's marshal when you wrote this plan. You are the marshal of the entire allied forces. No matter which race they come from, they are all your soldiers now. They're all fighting for this world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我很欣慰，你把她留下了。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T094912Z" creationid="sitong" creationdate="20220403T094906Z">
@@ -44434,6 +44442,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T174625Z" creationid="sitong" creationdate="20220411T174625Z">
         <seg>Dominic's expression turned grave. As the Marshal of the empire, he knew very clearly what such ghost soldiers meant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>多米尼克表情微僵。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T144226Z" creationid="Longbell" creationdate="20220501T144226Z">
+        <seg>Dominic's expression froze on his face.</seg>
       </tuv>
     </tu>
     <tu>
