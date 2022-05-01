@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11642,6 +11642,14 @@
       </tuv>
       <tuv lang="en-US" changeid="jeremy" changedate="20220326T125555Z" creationid="jeremy" creationdate="20220326T125555Z">
         <seg>"My father would be very happy if he could hear your praises." A smile appeared on Eiffie's face and she proudly said, "This brewery, the whole tavern and this underground cellar were all designed by him."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“如果我说的是嘴巴呢？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T125907Z" creationid="Longbell" creationdate="20220501T125907Z">
+        <seg>"What if I said it's your mouth?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -29318,6 +29326,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“非常中肯。”麦格点头，顺手关上了门啊。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T130425Z" creationid="Longbell" creationdate="20220501T130425Z">
+        <seg>"That's a very apt description." Mag nodded and closed the door.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“非常抱歉，帕斯卡团长，我们黑猫歌剧团现在的确碰到了一些困难，但是我们依旧打算继续表演歌剧，没有并入你们马卡歌剧团的打算，您请回吧。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220425T133707Z" creationid="Longbell" creationdate="20220425T133707Z">
@@ -36314,6 +36330,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220321T152639Z" creationid="sitong" creationdate="20220321T152639Z">
         <seg>Irina shook her head slightly and said, "I am unable to contact the Queen too. However, this has to do with the fate of the Elves, and the future of our people. The stance of the Queen is not important. What is important is what we truly think."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜愣了一下，突然明白了什么，脸一红，什么手打了一下他的胸口，嗔怪道：“油嘴滑舌。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T130356Z" creationid="Longbell" creationdate="20220501T130356Z">
+        <seg>Irina was stunned and then she suddenly realized something. She blushed, slapped him across his chest and said with a pout, "Smooth-tongued."</seg>
       </tuv>
     </tu>
     <tu>
@@ -66718,6 +66742,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这是一场践行酒，为即将上战场的人，包括麦格自己。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T130501Z" creationid="Longbell" creationdate="20220501T130501Z">
+        <seg>This was a farewell dinner for those that were going to the battle, including Mag himself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这是一场颇为激烈的战斗，当其他强者赶到的时候，现场只剩下了三个重伤的十级强者，和一地狼藉。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T161025Z" creationid="Longbell" creationdate="20220403T161025Z">
@@ -72946,6 +72978,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag frowned. He realized that things did not seem so simple. He might be making a loss in this investment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格眉头一皱，摇头道：“这就有点不合理了，除了你，应该没有人知道我嘴上功夫了得。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T130235Z" creationid="Longbell" creationdate="20220501T130235Z">
+        <seg>Mag frowned and shook his head as he said, "That is a little unreasonable. Apart from you, no one else would know that I'm very good with my mouth."</seg>
       </tuv>
     </tu>
     <tu>
