@@ -2981,3 +2981,4 @@ DVD	DVD
 最高指挥官	supreme commander
 联盟	alliance
 军团	legion
+副指挥官	deputy commander
