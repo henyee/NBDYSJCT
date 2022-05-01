@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10230,6 +10230,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好了，坐下慢慢吃，慢慢聊吧。”麦格说道，当先坐下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T073754Z" creationid="Longbell" creationdate="20220501T073754Z">
+        <seg>"Alright, let's sit and slowly chat as we eat." Mag said. He was the first to take a seat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好了，我决定收回之前的话，这其实是一道非常难的菜。”麦格看着面前卖相接近完美，但依旧被系统判定失败的酒鬼花生，有些无奈道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -13498,6 +13506,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T082059Z" creationid="sitong" creationdate="20220428T082059Z">
         <seg>"Chief Connie, what do you think?" Andre asked Connie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“康妮姐姐，那以后我去兽人族，只要报你的名字，是不是就可以横着走了呢？”艾米好奇的看着康妮，还学着螃蟹横着走了几步。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T073430Z" creationid="Longbell" creationdate="20220501T073430Z">
+        <seg>"Big Sister Connie, if I just tell them your name, am I able to walk sideways like a crab and do anything I please in the orc race in the future?" Amy looked at Connie curiously and even imitated the crab by walking sideways.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29054,6 +29070,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“难道不报我的名字，还有人能拦着小米横着走吗？”康妮笑着反问。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T073636Z" creationid="Longbell" creationdate="20220501T073636Z">
+        <seg>"Could anyone stop Little Amy from walking sideway even if you don't tell them my name?" Connie smilingly asked instead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“难道你就真的想一辈子都被人嘲笑一个做菜的系统，随意踢出群聊？拥有一个强大的宿主，才能让你在系统史上留下名字，被永远铭记！”麦格慷慨激昂道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T142103Z" creationid="sitong" creationdate="20220403T142103Z">
@@ -29282,6 +29306,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T084028Z" creationid="Longbell" creationdate="20220412T084028Z">
         <seg>"The food's condition is perfect. There are so many ingredients and yet they are so precisely controlled. This chef must processed very strong control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“餐厅要恢复营业了吗？”卡米拉看着麦格问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T074842Z" creationid="Longbell" creationdate="20220501T074842Z">
+        <seg>"Is the restaurant going to reopen for business again?" Camilla asked Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35966,6 +35998,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>伊琳娜在他身侧坐下，虽然没有和他进行互动，却俨然一副女主人的模样。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T073904Z" creationid="Longbell" creationdate="20220501T073904Z">
+        <seg>Irina sat down next to him. Although she didn't interact with him, she acted just like the lady of the house.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>伊琳娜在家里休息了一早，吃了午饭便又出门去了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -36526,6 +36566,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>众人也是纷纷笑了起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T073650Z" creationid="Longbell" creationdate="20220501T073650Z">
+        <seg>Everyone laughed too after hearing that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>众人也是被这一摞的蒸屉吸引了目光。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220427T090858Z" creationid="Longbell" creationdate="20220427T090858Z">
@@ -36546,6 +36594,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>All of them were having discussions, expressing their great interest in their new neighbor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人分别有段时间了，自然少不了一阵寒暄。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T071427Z" creationid="Longbell" creationdate="20220501T071427Z">
+        <seg>Everyone had been apart from quite some time, so they naturally did a lot of catchup.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36970,6 +37026,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>All the courtiers bowed, and said, "Your Majesty is wise."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众女也是安静下来，看着麦格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T075148Z" creationid="Longbell" creationdate="20220501T075148Z">
+        <seg>All the ladies quieted down and looked at Mag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50486,6 +50550,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>接下来各族很快就会宣布进入战争状态，全面保障联军北伐，这种时候，显然是不适合带着孩子继续出游的。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T080413Z" creationid="Longbell" creationdate="20220501T080413Z">
+        <seg>All the races would announce entering into the state of war soon. They would soon put in all their efforts to support the allied forces to go north. Obviously, it wasn't suitable to bring children out for travels again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>接下来晞不再说话，安静的喝完了那瓶威士忌和三份下酒菜。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T130454Z" creationid="Longbell" creationdate="20220401T130454Z">
@@ -53258,6 +53330,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>After all, he could eat the pig's eyes that would explode in his mouth. The pig's tongue and ears were just a piece of cake in comparison.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>毕竟这个小妹妹刚来餐厅的时候，可是娇柔可人的模样，没想到不光成了法克部落的酋长，现在更是成了整个兽人族的大酋长。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T072248Z" creationid="Longbell" creationdate="20220501T072248Z">
+        <seg>After all, this little girl was soft and cute when she arrived at the restaurant. They didn't expect that not only did she become the Falk Tribe's chief, she even became the chieftain of the orcs now.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59230,6 +59310,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>美食好酒招待，众人尽兴吃喝，倒是没有人提及今日在城主府发生的一系列事情。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T074609Z" creationid="Longbell" creationdate="20220501T074609Z">
+        <seg>With good food and drinks, everyone enjoyed their meals. No one talked about the events that happened at the city lord's castle today.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>群美环绕，麦格步入教堂的时候，俨然成了全场最靓的崽。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T163230Z" creationid="sitong" creationdate="20220404T163230Z">
@@ -59426,6 +59514,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220405T154505Z" creationid="Longbell" creationdate="20220405T154505Z">
         <seg>Meanwhile, a tavern with many drink options had a very strong core competitiveness. Perhaps, this was why Reese Tavern was one of the top taverns in Rodu despite not having a gold award.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而一旁堆成肉山的烤肉串，更是让人期待。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T071209Z" creationid="Longbell" creationdate="20220501T071209Z">
+        <seg>Meanwhile, the kebabs that was piled up at the side filled people up with anticipation too.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60538,6 +60634,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T095520Z" creationid="Longbell" creationdate="20220414T091616Z">
         <seg>Dirk and the elven soldiers were terrified and caught in between.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而成了兽人族大酋长的康妮，成了众人调侃和逗趣的对象。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T071607Z" creationid="Longbell" creationdate="20220501T071607Z">
+        <seg>Connie, who had become the chieftain of the orcs, became everyone's teasing target.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61798,6 +61902,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>艾米和米娅她们从冰激凌店回来，餐厅众人便算是到齐了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T071320Z" creationid="Longbell" creationdate="20220501T071320Z">
+        <seg>Amy and Miya returned from the ice cream shop and everyone from the restaurant was now present.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>艾米回头，看着埃菲恍然道：“是你啊，漂亮姐姐。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T093002Z" creationid="Longbell" creationdate="20220403T093002Z">
@@ -62026,6 +62138,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Amy stopped feeling sad, and clicked open that ability of 'Attribute Identification'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米爬上了自己的高脚凳，姑娘们也是纷纷落座，一大张圆桌都坐满了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T074122Z" creationid="Longbell" creationdate="20220501T074122Z">
+        <seg>Amy climbed onto her high chair and the ladies all took their seats. The big round table was soon all occupied.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63626,6 +63746,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Speaking of that, he still hadn't let his customers try his Maotai and whiskey yet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>说起来，小米才是真正的小天才呢。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T073713Z" creationid="Longbell" creationdate="20220501T073713Z">
+        <seg>Speaking of it, Little Amy was the real little genius.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66406,6 +66534,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这是麦米餐厅许久没有的热闹光景了，毕竟从麦格他们离开混乱之城，前往洛都之后，餐厅一直关门歇业，格外冷清。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T074427Z" creationid="Longbell" creationdate="20220501T074427Z">
+        <seg>This was a boisterous scene that hadn't appeared in Mamy Restaurant for a long time now. After all, the restaurant had been closed since Mag and his family left Chaos City for Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这是，从厨房里飘来了一阵浓浓的肉香。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220421T124948Z" creationid="Longbell" creationdate="20220421T124948Z">
@@ -66714,6 +66850,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This scene had continued for over a year, and the remaining shops' owners were also beginning to consider the issue of closing down. They couldn't survive on passion alone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这的确是一场盛宴，满桌的菜，几乎搬空了餐厅的菜谱。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T070558Z" creationid="Longbell" creationdate="20220501T070558Z">
+        <seg>This was indeed a feast. The restaurant's recipes had almost all appeared on the table full of dishes. </seg>
       </tuv>
     </tu>
     <tu>
@@ -68930,6 +69074,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The restaurant would be closed, but it wouldn't be sealed completely. After all, it was the entrance to the only teleportation portal between the Moon Nation and the Norland Continent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>餐厅歇业两周，这可是从未有过的长假期。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T075703Z" creationid="Longbell" creationdate="20220501T075703Z">
+        <seg>The restaurant had closed for two weeks. This was a long break that had never happened before.</seg>
       </tuv>
     </tu>
     <tu>
