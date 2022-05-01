@@ -2983,3 +2983,4 @@ DVD	DVD
 军团	legion
 副指挥官	deputy commander
 森林	forest
+战术预案	tactical plan
