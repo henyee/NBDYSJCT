@@ -4310,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“元帅，你不适合说谎。”麦格笑了，“这是昨晚才修改出来的预案吧，为了减少洛斯帝国骑兵的损失，所以多了很多漏洞，对联军致命的漏洞。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T144216Z" creationid="Longbell" creationdate="20220501T144058Z">
+        <seg>"Marshal, you're not suitable to lie." Mag chuckled."This is the plan that you've just changed last night, right? To prevent the loss of the Roth Empire's cavalry, many loopholes are added in. Loopholes that are fatal to the allied forces."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“兄弟，我能借你的也只有这么多了，下个月记得还款，5个点啊。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220422T153953Z" creationid="Longbell" creationdate="20220422T153953Z">
@@ -44394,6 +44402,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T175413Z" creationid="sitong" creationdate="20220411T175413Z">
         <seg>Dominic fell silent. The road down south from the northern highlands to the Roth Empire would get increasingly flat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>多米尼克沉默，然后点头：“这是之前准备的预案。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T143918Z" creationid="Longbell" creationdate="20220501T143918Z">
+        <seg>Dominic was silent. Then, he nodded, "This is the plan that we have prepared."</seg>
       </tuv>
     </tu>
     <tu>
