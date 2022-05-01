@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74283,6 +74283,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220419T105527Z" creationid="Longbell" creationdate="20220419T105527Z">
         <seg>Mag walked around before leaving with disappointment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格转身，微笑着看着伊琳娜，“我给小米许诺的满汉全席，现在还差了许多呢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T133914Z" creationid="Longbell" creationdate="20220501T133914Z">
+        <seg>Mag turned around and smiled at Irina. "I've promised to make the Manchu Han Imperial Feast for Little Amy, but I'm still far from making it."</seg>
       </tuv>
     </tu>
     <tu>
