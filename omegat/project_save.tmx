@@ -66222,6 +66222,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>这场盛宴，一直到十二点钟才以烤肉全部被消灭而结束。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T123848Z" creationid="Longbell" creationdate="20220501T123848Z">
+        <seg>This feast lasted until 12 midnight and only ended after all the kebabs were eliminated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>这场运动，就像是一场烈火，瞬间席卷了风之森林，已然不可控制。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -73538,6 +73546,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag stood by the door, and watched him disappear down the street. After ensuring that Pasa could go home on his own, he turned to enter the tavern, and switched off the light for the signboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格站在门口，看着相邀离去的众人，微笑着说道：“我希望你们都能前途似锦，但也希望你们能够幸福快乐，无论你们身处何方，会成为什么样的人，麦米餐厅一直都在这里，大门永远向你们敞开。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T124056Z" creationid="Longbell" creationdate="20220501T124056Z">
+        <seg>Mag stood at the door and watched them leave. With a smile, he said, "I hope all of you will have a bright future and you can happy and blissful too. No matter where you are, or you become, Mamy Restaurant will always be here and its door will always be opened for you."</seg>
       </tuv>
     </tu>
     <tu>
