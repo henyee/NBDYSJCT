@@ -5430,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“发生什么事情了吗？”亚北米娅放下手里的碗，关切的看着康妮问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T082338Z" creationid="Longbell" creationdate="20220501T082338Z">
+        <seg>Yabemiya put down her bowl and asked Connie with concern, "What happen?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“发生什么事情了吗？”艾米一脸疑惑的问道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T101818Z" creationid="Longbell" creationdate="20220403T101818Z">
@@ -18866,6 +18874,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>A rotund boss stood in front of the restaurant's door with his back leaning against the door's pillar, yawning, and said, "The lords didn't come and eat recently. Our business is bad."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“最近大家都少出远门吧，就待在混乱之城挺好的。”康妮说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T082439Z" creationid="Longbell" creationdate="20220501T082439Z">
+        <seg>"It's better for everyone to stay in Chaos City and not travel far now." Connie said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34182,6 +34198,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>亚北米娅迟疑着问道：“那……伊丽莎白会有危险吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T082458Z" creationid="Longbell" creationdate="20220501T082458Z">
+        <seg>Yabemiya hesitantly asked, "Then...will Elizabeth be in danger?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>亚历克斯。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220428T055043Z" creationid="Longbell" creationdate="20220428T055043Z">
@@ -48426,6 +48450,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T133803Z" creationid="Longbell" creationdate="20220429T133803Z">
         <seg>Connie looked at Andre in silence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>康妮神情有点不自然的看了一眼卡米拉，关于兰克斯特的消息，在今天的会议上多次被提起。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T083030Z" creationid="Longbell" creationdate="20220501T083030Z">
+        <seg>Connie flicked a glance at Camilla unnaturally. Rankster's news had been brought up many times at the meeting today.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63056,8 +63088,8 @@
       <tuv lang="zh-CN">
         <seg>虽然麦格拿着她的留影石整夜观摩卑鄙了一点，但除此之外人还是不错的，做饭又好吃，和大家相处的也好……</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220501T082258Z" creationid="Longbell" creationdate="20220501T082258Z">
-        <seg>Although Mag was despicable for watching her photostone at night, this man was not bad apart from that. He was a great cook and get along well with everyone.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T082303Z" creationid="Longbell" creationdate="20220501T082258Z">
+        <seg>Although Mag was despicable for watching her photostone at night, this man was not bad apart from that. He was a great cook and get along well with everyone...</seg>
       </tuv>
     </tu>
     <tu>
