@@ -4312,8 +4312,8 @@
       <tuv lang="zh-CN">
         <seg>“元帅，你不适合说谎。”麦格笑了，“这是昨晚才修改出来的预案吧，为了减少洛斯帝国骑兵的损失，所以多了很多漏洞，对联军致命的漏洞。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220501T144216Z" creationid="Longbell" creationdate="20220501T144058Z">
-        <seg>"Marshal, you're not suitable to lie." Mag chuckled."This is the plan that you've just changed last night, right? To prevent the loss of the Roth Empire's cavalry, many loopholes are added in. Loopholes that are fatal to the allied forces."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T144526Z" creationid="Longbell" creationdate="20220501T144058Z">
+        <seg>"Marshal, you're not good at lying." Mag chuckled."This is the plan that you've just changed last night, right? To prevent the loss of the Roth Empire's cavalry, many loopholes are added in. Loopholes that are fatal to the allied forces."</seg>
       </tuv>
     </tu>
     <tu>
@@ -58178,6 +58178,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220430T104539Z" creationid="Longbell" creationdate="20220430T104539Z">
         <seg>Chapter 2142: I-I Know The Way!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百四十五章 元帅，你不适合说谎</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T144622Z" creationid="Longbell" creationdate="20220501T144622Z">
+        <seg>Chapter 2145: Marshal, You're Not Good At Lying</seg>
       </tuv>
     </tu>
     <tu>
