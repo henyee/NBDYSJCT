@@ -48672,8 +48672,8 @@
       <tuv lang="zh-CN">
         <seg>康妮会亲自带领兽人军团北伐，卡米拉也在吸血鬼的战斗序列之中，芭芭拉要随她师父一起去前线布置阵法，雪莉尔已经申请加入暗夜精灵的战斗部队，姬娜会随兰蒂斯特出征，莎莉也必然会随精灵军团出征。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220501T131950Z" creationid="Longbell" creationdate="20220501T131950Z">
-        <seg>Connie would bring the orcs' legion to the north personally. Camilla was also among the vampires' fighting forces. Babla would follow her master to the frontline to set up the seal spell formation. Shirley had already applied to join the Night Elves' combat forces. Gina would go into battle with Lantisde and Sally would go into battle with the elves' legion.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T132007Z" creationid="Longbell" creationdate="20220501T131950Z">
+        <seg>Connie would bring the orcs' legion to the north personally. Camilla was also among the vampires' fighting forces. Babla would follow her master to the frontline to set up the seal spell formation. Shirley had already applied to join the Night Elves' combat forces. Gina would go into battle with Lantisde and Sally would also go into battle with the elves' legion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71346,6 +71346,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T140534Z" creationid="sitong" creationdate="20220417T140534Z">
         <seg>Mag smiled as he passed the letter to Irina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格将和她们并肩作战，只是这一次不再是老板的身份。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T132134Z" creationid="Longbell" creationdate="20220501T132134Z">
+        <seg>Mag would fight alongside with them. But this time, he wouldn't use the identity of their boss.</seg>
       </tuv>
     </tu>
     <tu>
