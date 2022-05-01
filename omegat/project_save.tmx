@@ -19102,6 +19102,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“有把握吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T132358Z" creationid="Longbell" creationdate="20220501T132358Z">
+        <seg>"Are you confident?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“有效了！”诺亚惊喜的叫道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T172932Z" creationid="Longbell" creationdate="20220410T172932Z">
@@ -36634,6 +36642,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220426T063644Z" creationid="sitong" creationdate="20220426T063644Z">
         <seg>Irina watched Eiffie leave and looked at Mag with a smile as she said, "It seems like she'd fallen for you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>伊琳娜看着站在窗边发呆的麦格，在他身后轻声问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T133803Z" creationid="Longbell" creationdate="20220501T133803Z">
+        <seg>Irina looked at Mag, who was dazing next to the window and asked him softly behind.</seg>
       </tuv>
     </tu>
     <tu>
