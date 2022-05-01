@@ -2256,8 +2256,8 @@
       <tuv lang="zh-CN">
         <seg>“今天难得能够齐聚一堂，大家已经开始走出餐厅这个小地方，下一次相聚又不知道是什么时候了，来，吃的满足，喝得尽兴吧。”麦格笑着举杯。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220501T085024Z" creationid="Longbell" creationdate="20220501T085024Z">
-        <seg>"It's rare that we can get together today. Everyone is beginning to move out of the restaurant, which is a small place. We don't know when we will get together again. Come, let's eat and drink to our hearts' content." Mag raised his cup with a laugh.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T085102Z" creationid="Longbell" creationdate="20220501T085024Z">
+        <seg>"It's rare that we can get together today. Everyone is beginning to move out of the restaurant, which is a small place. We don't know when we will get together again. Come, let's eat and drink to our hearts' content." Mag raised his glass with a laugh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36638,6 +36638,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>众人举杯，然后笑着碰杯。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T085055Z" creationid="Longbell" creationdate="20220501T085055Z">
+        <seg>Everyone raised their glases and clinked them laughingly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>众人也是纷纷看向迈克尔。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220430T190344Z" creationid="sitong" creationdate="20220430T190344Z">
@@ -48118,6 +48126,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>干杯！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T085027Z" creationid="Longbell" creationdate="20220501T085027Z">
+        <seg>Cheers!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>平日那些吹嘘自己千杯不醉的，那喝的都是几乎没有酒精度数的果酒，只要泌尿系统能跟得上，千杯不醉根本不算奇事。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220413T124426Z" creationid="Longbell" creationdate="20220413T124426Z">
@@ -48162,6 +48178,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The young staff member whispered in the middle-aged staff member's ear before smilingly saying to Mag, "Please wait a moment. I'll get the director over. We can't decide on this matter."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>广场上，一道身影看着灯火明亮的麦米餐厅，愣愣出神。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T085128Z" creationid="Longbell" creationdate="20220501T085128Z">
+        <seg>On the square, a figure stared at the brightly-lit Mamy Restaurant in a daze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63034,6 +63058,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Although she couldn't understand the title, there was also a beautiful woman with revealing the top of her breasts on the cover. She was standing seductively next to the window holding onto a short bamboo and looking at a man standing downstairs smilingly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>虽然看不清餐厅里的人影，也听不清他们的喧闹声，但那暖色的灯光，在这寒冷的夜里，依旧让人感觉温暖。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T085309Z" creationid="Longbell" creationdate="20220501T085309Z">
+        <seg>Even though she couldn't see the figures in the restaurant clearly, nor could she hear their boisterous sounds, that warm lighting still made her feel warm in this cold winter night.</seg>
       </tuv>
     </tu>
     <tu>
