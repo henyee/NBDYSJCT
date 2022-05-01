@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16074,6 +16074,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T162751Z" creationid="Longbell" creationdate="20220415T162209Z">
         <seg>"I knew you need money, but you don't need the money on the floor." Mag went to the other side and then stepped onto his other hand. He gradually stepped harder as he smilingly asked, "So, who promised to give you more money to deal with Lady Boss Eiffie?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我知道这是他的意思，作为帝国元帅，你无法拒绝这个要求。”麦格打破了沉默，看着多米尼克道：“但是，元帅，你现在是联军的副指挥官，肩负着带领联军守卫诺兰大陆的重任，不再只是洛斯帝国的元帅。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220501T133832Z" creationid="sitong" creationdate="20220501T133832Z">
+        <seg>"I know this is his intentions. As the empire's marshal, you cannot refuse this request." Marshal broke the silence. He looked at Dominic and said, "But, Marshal, you are now the deputy commander of the allied forces and you have the responsibility of leading the allied forces to protect the Norland Continent</seg>
       </tuv>
     </tu>
     <tu>
@@ -71482,6 +71490,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag helped Irina put a plate of different mushrooms into the clear soup. This was her favorite way of eating.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格平静的注视着多米尼克，这位帝国的功勋元帅，此刻却微微低着头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220501T132617Z" creationid="sitong" creationdate="20220501T132617Z">
+        <seg>Mag watched Dominic calmly. The empire's marshal had his head hanging.</seg>
       </tuv>
     </tu>
     <tu>
