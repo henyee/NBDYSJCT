@@ -34182,6 +34182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>亚北米娅之前和伊丽莎白形影不离，关系最是密切，如果让她知道伊丽莎白现在的处境，恐怕会十分担忧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T083801Z" creationid="Longbell" creationdate="20220501T083801Z">
+        <seg>Yabemiya was closest to Elizabeth. She would be worried sick if she knew about Elizabeth's situation now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>亚北米娅有些诧异的看了一眼麦格。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -35784,8 +35792,8 @@
       <tuv lang="zh-CN">
         <seg>伊丽莎白现在还没有被找到，这是冰霜巨龙族的大长老道格拉斯亲口透露的消息，并且希望各族能够提供一些帮助。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220501T083202Z" creationid="Longbell" creationdate="20220501T083202Z">
-        <seg>Elizabeth was still not found yet. This was the information shared by the Frost Dragons' great elder, Douglas. He also hoped all the races would help them.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T083305Z" creationid="Longbell" creationdate="20220501T083202Z">
+        <seg>Elizabeth was still not found yet. This was the information shared by the Frost Dragons' great elder, Douglas. He also hoped that all the races would help them find her.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37850,6 +37858,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T125109Z" creationid="Longbell" creationdate="20220429T125109Z">
         <seg>As a victim, he was willing to give the other victim some compensation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>作为同事和朋友，他们自然关心伊丽莎白的安危。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T083239Z" creationid="Longbell" creationdate="20220501T083239Z">
+        <seg>As colleauges and friends, they naturally cared about Elizabeth's safety.</seg>
       </tuv>
     </tu>
     <tu>
