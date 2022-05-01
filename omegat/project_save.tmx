@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -46950,6 +46950,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>宽敞的议事厅里只有两个人，但此刻的气氛却有些压抑。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220501T130256Z" creationid="sitong" creationdate="20220501T130256Z">
+        <seg>There were only 2 people in the spacious meeting room but the current atmosphere was very suppressive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>宿主实力过低，无法将其捕获。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220401T103234Z" creationid="Longbell" creationdate="20220401T103234Z">
@@ -57930,6 +57938,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220430T104539Z" creationid="Longbell" creationdate="20220430T104539Z">
         <seg>Chapter 2142: I-I Know The Way!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百四十六章 你有看过我们的演出吗？</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220501T130225Z" creationid="sitong" creationdate="20220501T130225Z">
+        <seg>Chapter 2146: Have You Seen Our Performance?</seg>
       </tuv>
     </tu>
     <tu>
