@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“今天难得能够齐聚一堂，大家已经开始走出餐厅这个小地方，下一次相聚又不知道是什么时候了，来，吃的满足，喝得尽兴吧。”麦格笑着举杯。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T085024Z" creationid="Longbell" creationdate="20220501T085024Z">
+        <seg>"It's rare that we can get together today. Everyone is beginning to move out of the restaurant, which is a small place. We don't know when we will get together again. Come, let's eat and drink to our hearts' content." Mag raised his cup with a laugh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“今日任务发布：勇敢的走向未知！请小主前往五百米外的早餐店，替全家人购买今日份的早餐。任务完成可获得一次大转盘奖励！”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220403T070247Z" creationid="Longbell" creationdate="20220403T070247Z">
@@ -10090,6 +10098,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220402T143244Z" creationid="Longbell" creationdate="20220402T143244Z">
         <seg>"She is a whole new lifeform. She's different from Cthulhu. She deserves the right to lead a normal life like any young girl." Mag picked up the Little Mermaid picture book on the counter and tossed it to Xi. "She also deserves to have a dream of becoming a comic artist. This child has an extraordinary talent in this area."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“她是个聪明的姑娘，不会有问题的。”伊琳娜开口道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T083827Z" creationid="Longbell" creationdate="20220501T083827Z">
+        <seg>"She's a smart girl. She would be alright." Irina said.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34210,6 +34226,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220501T082458Z" creationid="Longbell" creationdate="20220501T082458Z">
         <seg>Yabemiya hesitantly asked, "Then...will Elizabeth be in danger?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>亚北米娅闻言，神情放松了许多，冲着伊琳娜笑着点头道：“谢谢。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T084335Z" creationid="Longbell" creationdate="20220501T084335Z">
+        <seg>Yabemiya was visually more relaxed when she heard that. She smiled at Irina. "Thank you."</seg>
       </tuv>
     </tu>
     <tu>
