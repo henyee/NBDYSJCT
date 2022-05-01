@@ -17262,6 +17262,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“既然回来了，不进来喝一杯吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T094244Z" creationid="Longbell" creationdate="20220501T094244Z">
+        <seg>"Since you're here, why don't you come in for a drink?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“既然姑娘已经打开了酒馆的门，那便请进吧，我有酒有肉，不知姑娘可有故事？”麦格微笑着看着女人说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220331T100053Z" creationid="Longbell" creationdate="20220331T100053Z">
@@ -45142,6 +45150,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>她转身，准备离开。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T085953Z" creationid="Longbell" creationdate="20220501T085953Z">
+        <seg>She turned around and prepared to leave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>她还是个孩子啊。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220415T133054Z" creationid="Longbell" creationdate="20220415T133054Z">
@@ -69250,6 +69266,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220501T075703Z" creationid="Longbell" creationdate="20220501T075703Z">
         <seg>The restaurant had closed for two weeks. This was a long break that had never happened before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>餐厅的门打开了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T090000Z" creationid="Longbell" creationdate="20220501T090000Z">
+        <seg>The restaurant's door opened.</seg>
       </tuv>
     </tu>
     <tu>
