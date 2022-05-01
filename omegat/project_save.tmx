@@ -3646,6 +3646,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“你我都清楚，这不是最佳预案。”麦格看着多米尼克，有些失望的摇了摇头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T143846Z" creationid="Longbell" creationdate="20220501T143846Z">
+        <seg>"You and I both know very well that this isn't the best plan." Mag looked at Dominic and shook his head in disappointment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“你手上还有多少罗莫街的房子？”麦格抬眼看着费奇问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -70610,6 +70618,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag got today's intel from the secret tree hole. He altered it a little and embellished it a little. He then changed his appearance with the face-altering mask, and sold this latest intel to the few information centers in Rodu. At the same time, he gave a free copy to all the storytellers in the teahouses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格仔细看了一遍详细战术，然后放下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220501T143730Z" creationid="Longbell" creationdate="20220501T143730Z">
+        <seg>Mag read through the detailed tactics carefully before putting it down.</seg>
       </tuv>
     </tu>
     <tu>
