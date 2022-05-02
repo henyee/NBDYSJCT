@@ -11510,6 +11510,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T150258Z" creationid="Longbell" creationdate="20220502T150258Z">
+        <seg>"Alright!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好！”奥斯特满意的看着众人，点点头道：“我就知道你们都是有血有肉的真汉子！我今日让你们来这里，不是商量如何倒向洛斯帝国的，而是商议共同起兵，围攻法克部落，绞杀杀父逆女康妮的！”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220417T143739Z" creationid="Longbell" creationdate="20220417T143739Z">
@@ -42914,6 +42922,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T125030Z" creationid="Longbell" creationdate="20220429T125030Z">
         <seg>Because of the devil, he had lost a son, a few courtiers and a batch of brave soldiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>团员们也是笑着回应道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T150503Z" creationid="Longbell" creationdate="20220502T150503Z">
+        <seg>The troupe members laughingly answered too.</seg>
       </tuv>
     </tu>
     <tu>
