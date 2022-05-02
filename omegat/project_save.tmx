@@ -10782,6 +10782,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好嘞！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T144636Z" creationid="Longbell" creationdate="20220502T144636Z">
+        <seg>"Yes!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好嘞！”手下应了一声，干劲十足。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T110538Z" creationid="Longbell" creationdate="20220409T110538Z">
@@ -37394,6 +37402,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Everyone smiled upon seeing that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人答应了一声，拿上为数不多的行礼，又把屋里的火灭了，这便出门去了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T144933Z" creationid="Longbell" creationdate="20220502T144933Z">
+        <seg>Everyone answered. They got whatever little baggage they had, extinguished the fire and left.</seg>
       </tuv>
     </tu>
     <tu>
