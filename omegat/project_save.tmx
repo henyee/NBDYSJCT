@@ -35384,8 +35384,8 @@
       <tuv lang="zh-CN">
         <seg>他们有着可怕的能力，无法被杀死，甚至不能被重创。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T180456Z" creationid="Longbell" creationdate="20220502T180456Z">
-        <seg>They had terrifying power and couldn't be killed. They even couldn't be injured seriously.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T180510Z" creationid="Longbell" creationdate="20220502T180456Z">
+        <seg>They had terrifying power and couldn't be killed. They even couldn't be seriously injured.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40906,6 +40906,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Only a real chowhound would dare to try different food.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>只有远古流传下来的封印阵法，才能将他们重新封印。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T181223Z" creationid="Longbell" creationdate="20220502T181223Z">
+        <seg>Only the seal spell formation that was passed down from the ancient times could seal them away.</seg>
       </tuv>
     </tu>
     <tu>
