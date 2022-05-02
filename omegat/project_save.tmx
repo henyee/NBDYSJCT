@@ -49392,8 +49392,8 @@
       <tuv lang="zh-CN">
         <seg>当然……这是被现实无数次吊打之后的畸形梦想。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T075142Z" creationid="Longbell" creationdate="20220502T075142Z">
-        <seg>Of course...it was the deformed dream that was battered by reality for numerous time.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T075149Z" creationid="Longbell" creationdate="20220502T075142Z">
+        <seg>Of course...it was the deformed dream that was battered by reality for numerous times.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62138,6 +62138,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220426T085617Z" creationid="Longbell" creationdate="20220426T085617Z">
         <seg>Receiving the audience's applause and praises was an opera singer's honor. It was also the motivation for their perseverance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>能够遮风挡雨，有一个足够体面的舞台，能够给客人们安排上座位，有个售票的小窗口……</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T075800Z" creationid="Longbell" creationdate="20220502T075800Z">
+        <seg>It could shelter them from the weather, a respectable stage, designated seats for the audience and a small window to sell the tickets...</seg>
       </tuv>
     </tu>
     <tu>
