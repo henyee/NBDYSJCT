@@ -16728,8 +16728,8 @@
       <tuv lang="zh-CN">
         <seg>“或许他的信里有说。”玛拉提醒道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T080733Z" creationid="Longbell" creationdate="20220502T080733Z">
-        <seg>"Perhaps, he mentioned it in the letter."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T152634Z" creationid="Longbell" creationdate="20220502T080733Z">
+        <seg>"Perhaps, he mentioned it in the letter." Mala reminded her.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38454,6 +38454,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>作为一名不太合格的指挥官，麦格靠着从亚历克斯那里继承来的经验，与多米尼克进行了一番深入的探讨和谋划。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T153024Z" creationid="Longbell" creationdate="20220502T153024Z">
+        <seg>As a rather unqualified commander, Mag conducted a deep discussion and planning with Dominic with the experience he inherited from the Alex.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>作为一名合格的销售，费奇非常清楚一条商业街的人气聚集原理。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T091536Z" creationid="Longbell" creationdate="20220409T091536Z">
@@ -47600,8 +47608,8 @@
       <tuv lang="zh-CN">
         <seg>宽阔的大厅，足有三百多平米，而且层高达到了六米左右，看起来极为开阔。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T071913Z" creationid="Longbell" creationdate="20220502T071913Z">
-        <seg>The spacious hall was about 300 square meters big and the ceiling was about six meter all. It looked very spacious.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T152609Z" creationid="Longbell" creationdate="20220502T071913Z">
+        <seg>The spacious hall was about 300 square meters big and the ceiling was about six meters tall. It looked very spacious.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58730,6 +58738,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T192016Z" creationid="Longbell" creationdate="20220429T192016Z">
         <seg>Chapter 2141: Alex!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>第二千一百四十七章 黑猫歌剧院</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T152553Z" creationid="Longbell" creationdate="20220502T152553Z">
+        <seg>Chapter 2147: Black Cat Opera House</seg>
       </tuv>
     </tu>
     <tu>
@@ -75787,6 +75803,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220426T144209Z" creationid="Longbell" creationdate="20220426T144209Z">
         <seg>The Black Cat Opera's performance had far exceeded his expectations, so he intended to give them a chance and let them perform in a more professional location.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>黑猫歌剧院！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T152535Z" creationid="Longbell" creationdate="20220502T152535Z">
+        <seg>Black Cat Opera House!</seg>
       </tuv>
     </tu>
     <tu>
