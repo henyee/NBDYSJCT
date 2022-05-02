@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="zh-CN">
+        <seg>101号楼外，歌剧团的演员们看着敞开着大门的剧院，纷纷张着嘴，难掩震惊。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T145524Z" creationid="Longbell" creationdate="20220502T145524Z">
+        <seg>Outside of Building 101, the opera troupe members stared at the theater with widely-opened doors with agaped mouths and ill-concealed shock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>2000铜币一瓶的价格，属于绝对的良心老板了。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T140028Z" creationid="Longbell" creationdate="20220412T140028Z">
@@ -20182,6 +20190,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“气派！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T145008Z" creationid="Longbell" creationdate="20220502T145008Z">
+        <seg>"Imposing!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“水分变少了呢！”艾米惊喜道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -25926,6 +25942,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这个舞台！爱了爱了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T145039Z" creationid="Longbell" creationdate="20220502T145039Z">
+        <seg>"This stage! I love it."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这个要怎么吃呢？”艾米抓起一瓶可口可乐晃了晃，然后用力一掰。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220320T030630Z" creationid="sitong" creationdate="20220320T030630Z">
@@ -26106,6 +26130,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220330T064739Z" creationid="sitong" creationdate="20220330T064739Z">
         <seg>"You can't get me to reimburse that, right?" Mag replied without thinking and continued to read.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这也太棒了吧！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T145029Z" creationid="Longbell" creationdate="20220502T145029Z">
+        <seg>"This is simply awesome!"</seg>
       </tuv>
     </tu>
     <tu>
