@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9258,6 +9258,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220425T184345Z" creationid="Longbell" creationdate="20220425T184345Z">
         <seg>A troupe member looked at Vicki with exasperation and said, "Maestro, we haven't had any income for two weeks. If this goes on, we might all died of hunger..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“团长，老四和阿宝也走了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T084149Z" creationid="Longbell" creationdate="20220502T084032Z">
+        <seg>"Maestro, Four and Bao have left too.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63842,6 +63850,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220426T085201Z" creationid="Longbell" creationdate="20220426T085201Z">
         <seg>Vicki led all the actors to take a bow. It was obvious that they were in an excellent mood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>薇琪推开门走进破旧的院子，一个中年汉子情绪不高的说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T135035Z" creationid="Longbell" creationdate="20220502T084233Z">
+        <seg>A middle-aged man said happily as Vicki pushed open the door and walked into the dilapilated yard.</seg>
       </tuv>
     </tu>
     <tu>
