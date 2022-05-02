@@ -21848,8 +21848,8 @@
       <tuv lang="zh-CN">
         <seg>“百万亡灵军团，悍不畏死的冲锋，单纯的防线是守不住的，所以我打算在这三条峡谷出开口子，放他们进来。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T160655Z" creationid="Longbell" creationdate="20220502T160655Z">
-        <seg>"A simple line of defense isn't going to hold back the fearless charge by 1000,000 of the Army of the Dead, so I intend to have an opening here in these three ravines to let them in."</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T161814Z" creationid="Longbell" creationdate="20220502T160655Z">
+        <seg>"A simple line of defense isn't going to hold back the fearless charge by 1000,000 of the Army of the Dead, so I intend to have an opening here in these three ravines to let them in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43216,8 +43216,8 @@
       <tuv lang="zh-CN">
         <seg>在峡谷出口位置布置一个口袋状的包围圈，设阵法和重兵死守。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T161629Z" creationid="Longbell" creationdate="20220502T161629Z">
-        <seg>There would be a line of ambush that resembled a pocket at the ravine's exit where spell formations and a massive military force was stationed.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T161852Z" creationid="Longbell" creationdate="20220502T161629Z">
+        <seg>There will also be a line of ambush that resembled a pocket at the ravine's exit where spell formations and a massive military force are stationed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47904,8 +47904,8 @@
       <tuv lang="zh-CN">
         <seg>将百万雄兵分流，然后拉长战线。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T160733Z" creationid="Longbell" creationdate="20220502T160733Z">
-        <seg>He was going to stream the 1000,000 soldiers and stretch the battleline.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T161820Z" creationid="Longbell" creationdate="20220502T160733Z">
+        <seg>I'm going to stream the 1000,000 soldiers and stretch the battleline.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48552,8 +48552,8 @@
       <tuv lang="zh-CN">
         <seg>峡谷两侧布置火炮营和魔法师团，最大限度的杀伤亡灵军团。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T161222Z" creationid="Longbell" creationdate="20220502T161222Z">
-        <seg>There would be battlions of cannons and legions of magic casters stationed at both sides of the ravine to take out the Army of the Dead to the utmost extent.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T161833Z" creationid="Longbell" creationdate="20220502T161222Z">
+        <seg>There will be battlions of cannons and legions of magic casters stationed at both sides of the ravine to take out the Army of the Dead to the utmost extent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48794,6 +48794,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T085802Z" creationid="sitong" creationdate="20220428T085802Z">
         <seg>The Trolls sent out 10,000 soldiers and 20,000 logistical support, in charge of moving the logistics to the plains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>巨龙军团前出，凭借制空优势提前杀伤亡灵军团。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T161919Z" creationid="Longbell" creationdate="20220502T161803Z">
+        <seg>The giant dragons legion will take the lead and kill the Army of the Dead from the sky with their air superiority.</seg>
       </tuv>
     </tu>
     <tu>
