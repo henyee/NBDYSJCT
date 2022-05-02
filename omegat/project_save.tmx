@@ -38302,6 +38302,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>你好薇琪小姐：</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T081058Z" creationid="Longbell" creationdate="20220502T081045Z">
+        <seg>Dear Miss Vicki,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>你看，三言两语之间，一个战争迫害国，转眼就变成了小可怜。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T125339Z" creationid="Longbell" creationdate="20220429T125339Z">
@@ -50050,6 +50058,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>That such a taste could be created was beyond his imagination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>很高兴你能读到这封信，说明你还是考虑了我的提议。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T082659Z" creationid="Longbell" creationdate="20220502T082659Z">
+        <seg>I'm very happy that you can read this letter. This meant that you have considered my suggestion.</seg>
       </tuv>
     </tu>
     <tu>
