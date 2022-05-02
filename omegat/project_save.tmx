@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13758,6 +13758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“当年训诫你们的话，我自己却没有能够做到，说来还真是有些嘲讽。”多米尼克有些自嘲的笑了笑，然后神色一肃，起身立正站定，“我将辞去洛斯帝国元帅的职务，以联军副指挥的身份来参与这场战争，竭尽所能。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220502T092827Z" creationid="sitong" creationdate="20220502T092827Z">
+        <seg>"It's quite an irony that I am unable to put into action the words that I've lectured you all with." Dominic laughed at himself. After that, he had a serious expression as he stood up tall. "I will resign from my duties as the Roth Empire marshal and join this war as the deputy commander of the allied forces and do my very best."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“当年靠着一家泰坦酒馆就带起了一条罗莫街，现在加上一家塞班酒馆，罗莫街重回巅峰指日可待。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T123827Z" creationid="Longbell" creationdate="20220407T123827Z">
@@ -14514,6 +14522,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Got it. Brothers are more important than your wives. The most important thing after work is to go drinking with your brothers." Irina rolled her eyes. She glanced at Mag, and said murderously, "If you dare to do that, I don't mind being a widow."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“成为军人之前，我们先宣誓成为了一名骑士，我们应该保护的是弱者，这是当年第一次见面的时候，你和我说的话。”麦格看着多米尼克，“现在各族诚意十足的出兵援助洛斯帝国，组成联军北上，如果洛斯帝国依旧奉行帝国至上的原则，这是我无法接受的。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220502T092649Z" creationid="sitong" creationdate="20220502T092649Z">
+        <seg>"Before becoming a soldier, we first swore to become a knight. The people we should protect are the weak. This was what you told me when we first met back then." Mag looked at Dominic. "Now, the various races are very sincere in sending out reinforcement to aid the Roth Empire, forming the allied forces to go northward. I am unable to accept it if you are still going to abide by your principles of putting the Roth Empire first."</seg>
       </tuv>
     </tu>
     <tu>
@@ -16152,8 +16168,8 @@
       <tuv lang="zh-CN">
         <seg>“我知道这是他的意思，作为帝国元帅，你无法拒绝这个要求。”麦格打破了沉默，看着多米尼克道：“但是，元帅，你现在是联军的副指挥官，肩负着带领联军守卫诺兰大陆的重任，不再只是洛斯帝国的元帅。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220501T133832Z" creationid="sitong" creationdate="20220501T133832Z">
-        <seg>"I know this is his intentions. As the empire's marshal, you cannot refuse this request." Marshal broke the silence. He looked at Dominic and said, "But, Marshal, you are now the deputy commander of the allied forces and you have the responsibility of leading the allied forces to protect the Norland Continent</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220502T075006Z" creationid="sitong" creationdate="20220501T133832Z">
+        <seg>"I know this is his intentions. As the empire's marshal, you cannot refuse this request." Marshal broke the silence. He looked at Dominic and said, "But, Marshal, you are now the deputy commander of the allied forces and you have the responsibility of leading the allied forces to protect the Norland Continent. You're no longer just a marshal for the Roth Empire."</seg>
       </tuv>
     </tu>
     <tu>
@@ -44498,6 +44514,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T173638Z" creationid="sitong" creationdate="20220411T173638Z">
         <seg>Dominic walked into the hall first.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>多米尼克抬头看着麦格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220502T075350Z" creationid="sitong" creationdate="20220502T075350Z">
+        <seg>Dominic looked up at Mag.</seg>
       </tuv>
     </tu>
     <tu>
