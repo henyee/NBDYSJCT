@@ -2984,3 +2984,5 @@ DVD	DVD
 副指挥官	deputy commander
 森林	forest
 战术预案	tactical plan
+马戏剧院	Circus Theater
+剧院	theater
