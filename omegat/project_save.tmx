@@ -15150,6 +15150,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我们终于要离开这里了！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T143448Z" creationid="Longbell" creationdate="20220502T143448Z">
+        <seg>"We're finally leaving here!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我们自由了！”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T133150Z" creationid="Longbell" creationdate="20220414T133150Z">
@@ -37202,6 +37210,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220501T071427Z" creationid="Longbell" creationdate="20220501T071427Z">
         <seg>Everyone had been apart from quite some time, so they naturally did a lot of catchup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>众人又惊又喜，兴奋不已，还有人忍不住哭了起来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T143721Z" creationid="Longbell" creationdate="20220502T143721Z">
+        <seg>All of them were surprised and ecstatic. Some of them even cried.</seg>
       </tuv>
     </tu>
     <tu>
