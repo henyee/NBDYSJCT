@@ -2987,3 +2987,5 @@ DVD	DVD
 马戏剧院	Circus Theater
 剧院	theater
 101号楼	Building 101
+老四	Four
+阿宝	Bao
