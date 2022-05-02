@@ -45806,6 +45806,22 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>如果你无法接受这个条件的话，可以将钥匙交还给玛拉。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T083346Z" creationid="Longbell" creationdate="20220502T083346Z">
+        <seg>If you cannot accept this condition, you may return the key to Mala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>如果你答应的话，可以直接搬入101号楼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T083327Z" creationid="Longbell" creationdate="20220502T083327Z">
+        <seg>If you agree, you can move into Building 101 right away.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>如果兽人族和洛斯帝国继续在战争赔偿的问题上扯皮，导致和平条约无法签订，可能他们还在开会，亡灵军团便已南下。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T140211Z" creationid="Longbell" creationdate="20220429T140211Z">
@@ -48578,6 +48594,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220424T101206Z" creationid="Longbell" creationdate="20220424T101206Z">
         <seg>Scheer put down the documents and looked up at the secretary, "Well done. Give all the engineers and workers one month of salary in advance. Give it to them tomorrow and according to the previous standard."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>希望你能够好好考虑。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220502T083259Z" creationid="Longbell" creationdate="20220502T083259Z">
+        <seg>I hope you can consider it.</seg>
       </tuv>
     </tu>
     <tu>
