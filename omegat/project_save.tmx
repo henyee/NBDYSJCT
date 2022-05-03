@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -41438,6 +41438,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>只要诺兰大陆能够撑过这一波，接下来的百年和平，火车必然会成为引领发展的存在。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T125417Z" creationid="Longbell" creationdate="20220503T125417Z">
+        <seg>If the Norland Continent could survive this episode, the train would lead the development in the coming 100 years of peace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>叮！</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220410T135402Z" creationid="sitong" creationdate="20220410T135402Z">
@@ -62606,6 +62614,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>而希尔手握巴菲特钱庄这个大金库，又有着先发的优势，手里还捏着蒸汽机的核心技术，简直就是一个优秀的赚钱工具人啊。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T125805Z" creationid="Longbell" creationdate="20220503T125805Z">
+        <seg>Furthermore, Scheer had control of the Buffett Bank, had the first mover advantage and the core technology of the steam engine. She was the perfect money-making machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>而当年那场雨夜伏杀，麦格在伏击的人当中看到的几位军方强者，正是出自这位布卢姆的麾下。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -64558,6 +64574,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>若不是当下局势混乱，大敌当前，各族必然会关注到这条畅通的运输线。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T125305Z" creationid="Longbell" creationdate="20220503T125305Z">
+        <seg>If the current situation wasn't in a mess and they were facing a great enemy, all the races would have noticed this smooth transport route.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>英雄相惜，作为这个世界上最作风和战斗方式最为强硬的几个人之一，多米尼克对于兰克斯特有着不错的印象。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220411T174928Z" creationid="sitong" creationdate="20220411T174928Z">
@@ -65602,6 +65626,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>If they wanted to promote the Chaos City's system throughout the Norland Continent, and completely resolve the problem of racial war, they would have to change and revolutionize the races that were stuck in their old ways.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>要想富，先修路。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T125444Z" creationid="Longbell" creationdate="20220503T125444Z">
+        <seg>If you wanna get rich, build the routes first.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68010,6 +68042,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>This was a big boss in the Ministry of Law. Such a distinguished status and identity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这可是真理一般的存在。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T125624Z" creationid="Longbell" creationdate="20220503T125624Z">
+        <seg>That was the truth.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74698,6 +74738,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag deliberately chose a bookshop that was rather boisterous so that he could see for himself if the Perfect Food was indeed as popular as those two chaps said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格甚至已经想到了以后自己躺在巨人的肩膀上，过着财务自由的生活了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T125854Z" creationid="Longbell" creationdate="20220503T125854Z">
+        <seg>Mag could even imagine himself lying on the shoulders of the giant and enjoying a life of financial freedom.</seg>
       </tuv>
     </tu>
     <tu>
