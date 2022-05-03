@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30566,6 +30566,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“麦老板，感谢这段时间的招待，你是我们熔岩恶魔族的贵人，就此道别。”萨格拉斯单手锤了一下自己的胸口，献上熔岩恶魔的敬礼。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T130449Z" creationid="sitong" creationdate="20220503T130449Z">
+        <seg>"Boss Mag, I am thankful for your care over this period. You are a saint to the lava demons. We would hereby bade our farewell to you." Sargeras pounded his chest with his fist, greeting Mag with the lava demon salute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“麦老板，我们还能不能进去喝一杯啊？”门口站着的一老一少看着麦格笑着说道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -57038,6 +57046,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>燃烧军团，这一刻让麦格动容。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T130136Z" creationid="sitong" creationdate="20220503T130136Z">
+        <seg>At this moment, the Burning Legion touched Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>爆炸酒是里斯酒馆的招牌酒，本届品酒大会再次用爆炸酒参赛，而且得到诸位评委的认可，可见里斯酒馆老板的野心。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220405T135524Z" creationid="Longbell" creationdate="20220405T135524Z">
@@ -58850,6 +58866,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T062359Z" creationid="sitong" creationdate="20220428T062359Z">
         <seg>Mag had decided, with the idea of getting a high return of interest, that if Vicki came to look for him, he would build them a opera house but at the same time, ask for a portion of the opera troupe's profits in return.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>种族仇恨可以搁置，个人安危可以放在身后，却担起了骑士般的准则。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T130125Z" creationid="sitong" creationdate="20220503T130125Z">
+        <seg>They could put their hatred aside and put their personal safety behind them to uphold the principle of a knight.</seg>
       </tuv>
     </tu>
     <tu>
