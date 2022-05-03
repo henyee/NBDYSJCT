@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3610,6 +3610,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Hi, what would you like to drink?" Mag asked from behind the counter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“你好，我是亚历克斯。”麦格看着他说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132155Z" creationid="Longbell" creationdate="20220503T132155Z">
+        <seg>"Hello, I'm Alex." Mag said to him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15734,6 +15742,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我听说你不屠龙了，现在改屠魔了，是吗？”康帝看着麦格，有些兴奋的问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132248Z" creationid="Longbell" creationdate="20220503T132248Z">
+        <seg>"I heard that you have stopped killing dragons. You're killing devils now, right?" Conti asked Mag excitedly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我听说你们洛斯帝国刚刚偷袭了我们兽人族，而且还屠杀了许多部落，这是真的吗？”那兽人又问道，神色间明显有了几分敌意。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -19450,6 +19466,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220501T082439Z" creationid="Longbell" creationdate="20220501T082439Z">
         <seg>"It's better for everyone to stay in Chaos City and not travel far now." Connie said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“最近是这样安排的。”麦格微微点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132303Z" creationid="Longbell" creationdate="20220503T132303Z">
+        <seg>"It's indeed like that recently." Mag nodded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27834,6 +27858,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"In this case, perhaps the project of 'Cooking Master Boy[1. Chūka Ichiban! is a Japanese manga series written and illustrated by Etsushi Ogawa. It was serialized in Kodansha's Weekly Shōnen Magazine from October 1995 to May 1999. From 1995 to 1996 it was serialized as Chūka Ichiban! An anime television series adaptation by Nippon Animation aired on Fuji TV from April 1997 to September 1998. In some other countries, the anime adaptation was also called Cooking Master Boy.]'… can be lauched soon?" Mag rubbed his china and thought deeply.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这样的话，那我也只能加入混乱之城的北伐军团，才能与你并肩作战了。”康帝有些憨厚的笑着道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132723Z" creationid="Longbell" creationdate="20220503T132723Z">
+        <seg>Conti smiled and bashfully said, "In that case, I have to join the Chaos City's northern expedition's legion in order to fight alongside you."</seg>
       </tuv>
     </tu>
     <tu>
@@ -36552,8 +36584,8 @@
       <tuv lang="zh-CN">
         <seg>他看起来黑了些，左脸多了一条细长的疤痕，看起来像是被某种魔兽的爪子留下的痕迹。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132008Z" creationid="Longbell" creationdate="20220503T132008Z">
-        <seg>He looked a little darker and had a new long and narrow scar on his left face that looked like the mark left by some magic beast's </seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132031Z" creationid="Longbell" creationdate="20220503T132008Z">
+        <seg>He looked a little darker and had a new long and narrow scar on his left face that looked like a mark left by some magic beast's claws.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38562,6 +38594,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220426T142152Z" creationid="Longbell" creationdate="20220426T142152Z">
         <seg>If only her money bag had been a little fuller, their Black Cat Opera would have been on the shortcut to success now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>但只有那双眼睛，依旧清凉有神，如朗朗少年！</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132139Z" creationid="Longbell" creationdate="20220503T132139Z">
+        <seg>However, that pair of eyes were still cool and bright like a young man's!</seg>
       </tuv>
     </tu>
     <tu>
@@ -66938,6 +66978,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T112942Z" creationid="Longbell" creationdate="20220418T112942Z">
         <seg>Ugly Duckling, who was crouching at the side looking at the soup dumpling in Amy's plate, widened its eyes. It quickly stood up and quietly backed off.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>身上的铠甲有着许多磨损的痕迹，不复明亮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132105Z" creationid="Longbell" creationdate="20220503T132105Z">
+        <seg>There were also many scratches on his armor and it was no shiny.</seg>
       </tuv>
     </tu>
     <tu>
