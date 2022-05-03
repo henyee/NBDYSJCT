@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9896,8 +9896,8 @@
       <tuv lang="zh-CN">
         <seg>“大光头叔叔，我祝福你们哦。”艾米举起小拳头。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220503T131053Z" creationid="sitong" creationdate="20220503T131053Z">
-        <seg>"Bald Uncle, all the best to all of you." Amy raised her little fist.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T132210Z" creationid="sitong" creationdate="20220503T131053Z">
+        <seg>"Bald Uncle, I wish you all the best." Amy raised her little fist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42614,6 +42614,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>听到声响，两人同时抬眼向着麦格看去。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T132138Z" creationid="sitong" creationdate="20220503T132138Z">
+        <seg>The sound of Mag alighting made the two turn at the same time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>听到声音，三人齐刷刷的抬头看了一眼麦格，再看他手里端着的绿豆糕。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -61738,6 +61746,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220501T071209Z" creationid="Longbell" creationdate="20220501T071209Z">
         <seg>Meanwhile, the kebabs that was piled up at the side filled people up with anticipation too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而一旁白色羽绒服配黑色毛衣长裙的歌洛璃娅，看起来则更为优雅内敛，站在希尔身旁，气场并未落下风。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T132109Z" creationid="sitong" creationdate="20220503T132109Z">
+        <seg>Meanwhile, beside her, in a white down jacket and black woollen dress, Gloria appeared elegant and restrained. However, she did not lose in terms of presence standing beside Scheer.</seg>
       </tuv>
     </tu>
     <tu>
