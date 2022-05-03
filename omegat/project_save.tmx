@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18242,6 +18242,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Yeah, there aren't many neighbors who start hugging, using nicknames, and even invite the other over for an exchange," Irina said with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“是啊，乱世当前，巾帼不让须眉。”迈克尔颇为感慨的点头，“不仅是希尔小姐，莫尔顿家族的那位歌洛璃娅小姐，前日来到城主府，说要为联军捐献一批数量庞大的作战棉衣。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T130217Z" creationid="Longbell" creationdate="20220503T130217Z">
+        <seg>"Yes. In times of chaos, women are no inferior to men." Michael lamented and nodded. "And, it's not just Miss Scheer alone. Miss Gloria from the Moreton Family had also come to the city lord's castle two days ago to donate a huge batch of battle winter wear for the allied forces."</seg>
       </tuv>
     </tu>
     <tu>
