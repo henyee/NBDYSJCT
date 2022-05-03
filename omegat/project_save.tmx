@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26210,6 +26210,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220417T130947Z" creationid="sitong" creationdate="20220417T130935Z">
         <seg>"This eggplant with garlic sauce is too good! I'm going to cry..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这个，你到时候就知道了。”麦格笑了笑，“排兵布阵交给你，陷阱阵法的事情交给我，我对你的唯一要求是消灭20万亡灵军团，并且保证封锁线不被突破。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T121918Z" creationid="Longbell" creationdate="20220502T184855Z">
+        <seg>"You will find out when it's time." Mag smiled. "I'll leave the battle formation to you and you'll leave the traps and seal spell formations to me. My only requirement of you is to exterminate 200,000 Army of the Dead and make sure the line of defense doesn't break down."</seg>
       </tuv>
     </tu>
     <tu>
