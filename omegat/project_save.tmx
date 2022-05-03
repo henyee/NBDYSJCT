@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12686,6 +12686,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“对！我们都是自愿去的，干他娘的亡灵军团！”基尔附和道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T130000Z" creationid="sitong" creationdate="20220503T130000Z">
+        <seg>"Yes! We are all going willingly to kick the *ss of the Army of the Dead!" Kiel concured.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“对，乔修殿下把兵部的几位实权大臣全部着急在一起，然后拿出了陛下的点将牌，下令让边军出击，进攻兽人族和精灵族。我们兵部做了什么？只是按照陛下当年定下的见点将牌如见他的规则，听从乔修殿下的指令，发出了命令而已。”卢西恩掩面，抽噎了一会，还是忍不住落泪，“可最后定罪的却是我们兵部的那些忠诚的臣子，死的是他们的家人，哪有这种道理……”</seg>
       </tuv>
       <tuv lang="en-US">
@@ -14306,6 +14314,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"How is it? How's the taste of the chilled mung bean pastry?" Mag asked with a smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“怎么突然决定要去北境？”麦格有些意外。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T125734Z" creationid="sitong" creationdate="20220503T125734Z">
+        <seg>"Why did you suddenly decide to go to the north?" Mag was surprised.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56974,6 +56990,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>熔岩恶魔族的情况他是了解的，就靠萨格拉斯和燃烧军团撑着了，要是此番折损在北境，那可就再无翻身的机会。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T125829Z" creationid="sitong" creationdate="20220503T125829Z">
+        <seg>He knew the situation of the lava demons. Sargeras and the Burning Legion were the only ones holding the entire tribe up. If he dies at the north, he would have no chance of making a comeback.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>熟悉的辣味，还有这一般人不敢拿上桌的食材：猪耳朵、猪舌头。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -56994,6 +57018,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220424T164934Z" creationid="Longbell" creationdate="20220424T164934Z">
         <seg>The pros of employing experienced people was that they could start working right away. He didn't have to teach them slowly from the beginning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>燃烧军团众人也是跟着哄笑起来，气氛倒是变得轻松了许多。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T130020Z" creationid="sitong" creationdate="20220503T130020Z">
+        <seg>The people of the Burning Legion all burst out laughing, making the mood a lot lighter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64754,6 +64786,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The orcs in the tent all pulled a long face, hesitating to speak as they looked at Auster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>萨格拉斯笑着道：“我们要是躲在后边，谁来保护你们，这是我们该做的事情。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T125930Z" creationid="sitong" creationdate="20220503T125930Z">
+        <seg>Sargeras said with a smile, "If we hide at the back, who would protect all of you? This is what we should be doing."</seg>
       </tuv>
     </tu>
     <tu>
@@ -75490,6 +75530,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220426T065158Z" creationid="sitong" creationdate="20220426T065158Z">
         <seg>Mag looked at the application form of the Black Cat Opera House within the pile. They wanted the shop at the corner shop to make it into a theatre but their offer was very low.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格看着这群汉子，突然肃然起敬。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T130055Z" creationid="sitong" creationdate="20220503T130055Z">
+        <seg>Mag looked at this group of men and had more respect for them.</seg>
       </tuv>
     </tu>
     <tu>
