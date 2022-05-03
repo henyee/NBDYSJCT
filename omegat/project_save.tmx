@@ -10382,6 +10382,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好……好酒，麦老板，你这是什么酒？”克拉苏虚着眼睛，看着麦格问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T121315Z" creationid="sitong" creationdate="20220503T121315Z">
+        <seg>"Great... great wine. Boss Mag, what is this liquor?" Krassu asked Mag with his eyes semi-opened.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好……就说我不在。”费奇点点头。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220409T131137Z" creationid="sitong" creationdate="20220409T131121Z">
@@ -14672,8 +14680,8 @@
       <tuv lang="zh-CN">
         <seg>“感谢这段时间以来两位师父对艾米的精心教导，这杯酒，我敬你们。”麦格端起酒杯，看着两人诚挚的说道，然后一饮而尽。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220503T093412Z" creationid="sitong" creationdate="20220503T093358Z">
-        <seg>"I am thankful to both of your patient guidance toward Amy. A toast to the both of you," Mag raised his wine glass as he said a toast to Krassu and Urien sincerely. After that, he finished his drink in one shot.</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T121209Z" creationid="sitong" creationdate="20220503T093358Z">
+        <seg>"I am thankful to both of your patient guidance toward Amy. A toast to the both of you," Mag raised his glass as he said a toast to Krassu and Urien sincerely. After that, he finished his drink in one shot.</seg>
       </tuv>
     </tu>
     <tu>
