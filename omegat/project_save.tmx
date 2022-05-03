@@ -18712,8 +18712,8 @@
       <tuv lang="zh-CN">
         <seg>“是啊，这么巧，我们也还没有吃呢，一起吃的话，还真是有点不好意思呢。”克拉苏说着已经在桌边坐下了。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220503T162259Z" creationid="Longbell" creationdate="20220503T162259Z">
-        <seg>"Yes, what a coincidence. We</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T162357Z" creationid="Longbell" creationdate="20220503T162259Z">
+        <seg>"Yes, what a coincidence. We haven't eaten yet. I feel shy to impose on you guys." Krassu already sat at the table as he spoke.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29522,6 +29522,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Then she should be fine after a sleep." Mag nodded and covered her with a blanket.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“那稍坐一会，还有两个菜没做好。”麦格给他们倒了杯水，继续进厨房做菜。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T162528Z" creationid="Longbell" creationdate="20220503T162528Z">
+        <seg>"Please wait a while. I still have two more dishes to cook." Mag poured them a glass of water each before going back to the kitchen to continue cooking.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48982,6 +48990,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>尤利安看了他一眼，皱了皱眉，也是在桌边坐下。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T162430Z" creationid="Longbell" creationdate="20220503T162430Z">
+        <seg>Urien flicked a glance at him and frowned, but he also sat at the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>尤利安端起酒杯喝了一口，然后看着麦格叮嘱道：“罗姆会给小米锻造一把全新的武器，麦老板记得时常去问问。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220503T115608Z" creationid="sitong" creationdate="20220503T115608Z">
@@ -67866,6 +67882,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T094615Z" creationid="Longbell" creationdate="20220409T094615Z">
         <seg>That wasn't a rate that was much higher than the market rate, but a very reasonable rental rate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这两位一向水火不容，今天一起登门造访，多半是有什么事。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T162650Z" creationid="Longbell" creationdate="20220503T162650Z">
+        <seg>These two were intolerable of each other. They must have some issues that made them come visit Mag together today.</seg>
       </tuv>
     </tu>
     <tu>
