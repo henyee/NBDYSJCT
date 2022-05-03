@@ -15622,6 +15622,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“我去开门！”艾米放下丑小鸭，迈着小短腿飞快的向着门口跑去，然后踮起脚尖有些费劲的拉开大门。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T161100Z" creationid="Longbell" creationdate="20220503T161100Z">
+        <seg>"I'll go get the door!" Amy put Ugly Duckling down and ran to the door with her short legs. She tiptoed and struggled to pull open the door.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“我去开门！”艾米跳下椅子，蹦跳着向着门口跑去。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220327T125603Z" creationid="Longbell" creationdate="20220327T125603Z">
@@ -68954,6 +68962,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T195855Z" creationid="Longbell" creationdate="20220414T195855Z">
         <seg>Right then, heavy knockings suddenly sounded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>这时，门外响起了敲门声。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T155549Z" creationid="Longbell" creationdate="20220503T155549Z">
+        <seg>Right then, someone knocked on the door.</seg>
       </tuv>
     </tu>
     <tu>
