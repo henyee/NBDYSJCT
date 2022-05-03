@@ -2991,3 +2991,4 @@ DVD	DVD
 阿宝	Bao
 沙盘	scenario table
 千层饼	mille crepe
+康帝	Conti
