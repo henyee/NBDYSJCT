@@ -10454,6 +10454,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好。”麦格点头，此事罗姆大师之前说过，但最近一直没有消息。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T115628Z" creationid="sitong" creationdate="20220503T115628Z">
+        <seg>"Alright." Mag nodded. Master Rom had brought this up before but there had been no news recently.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好。”麦格点头，没有多问。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220423T124730Z" creationid="Longbell" creationdate="20220423T124730Z">
@@ -11634,6 +11642,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Alright. We'll search for him according to your deduction." Merante nodded without any doubts about Mag's deduction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“好，我会时常敦促她练习魔法。”麦格点头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T115723Z" creationid="sitong" creationdate="20220503T115723Z">
+        <seg>"Alright</seg>
       </tuv>
     </tu>
     <tu>
@@ -39162,6 +39178,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220503T095700Z" creationid="sitong" creationdate="20220503T095700Z">
         <seg>Krassu and Urien had taught Amy and also helped the father-and-daughter on many ocassions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>克拉苏跟着说道：“艾米乖巧，但毕竟还是个孩子，难免会有倦怠的时候，麦老板平日还是要多多敦促她，唯有勤奋者，方能成为强者。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T115729Z" creationid="sitong" creationdate="20220503T115718Z">
+        <seg>Krassu said, "Amy is very obedient but she is still a child after all. There would be times she would feel lazy. Boss Mag, please watch her and make sure she trains hard. Only hard work would help one become a powerhouse."</seg>
       </tuv>
     </tu>
     <tu>
