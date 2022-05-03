@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29934,6 +29934,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“靠着希尔小姐的全力支持，目前火炮的日产量已经达到300门，炮弹产量达到5000发。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T122846Z" creationid="Longbell" creationdate="20220503T122846Z">
+        <seg>"With Miss Scheer's full support, the cannons' daily production has already reached 300 and artillery shells' daily production has reached 5000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“面积的确和酒馆一样大，不过他花了十年的时间，还有两个酒窖没有装满。”埃菲有些遗憾道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T145259Z" creationid="Longbell" creationdate="20220326T145259Z">
@@ -42586,6 +42594,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>It was gentle and sweet like fruit wine, and its refreshingness was different from that of beer. This Maotai made her realize that wine could be savored slowly. The elegant and fine texture made it irresistible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>和矮人族那边也已经对接成功，昨日五十名技术人员携带图纸已经抵达矮人族，他们将全力供应火炮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T123250Z" creationid="Longbell" creationdate="20220503T123250Z">
+        <seg>We have also get in touch successfully with the dwarves. 50 technicians have already arrived at the dwarves with the blueprints yesterday. They will supply us the cannons at full force.</seg>
       </tuv>
     </tu>
     <tu>
