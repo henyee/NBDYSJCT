@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23846,6 +23846,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“萨总。”麦格笑着打招呼道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T125318Z" creationid="sitong" creationdate="20220503T125318Z">
+        <seg>"Chief Sargeras," Mag greeted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“蒸馏设备已经调试好了，接下来我要教你如何使用这套设备，用来酿造泰坦酒。”麦格脱掉手套，看着端着茶站在一旁的埃菲。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220402T163207Z" creationid="sitong" creationdate="20220402T162935Z">
@@ -30470,6 +30478,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“麦老板！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T122844Z" creationid="sitong" creationdate="20220503T122844Z">
+        <seg>"Boss Mag!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“麦老板，你们来了。”梅兰特从洞穴中快步走了出来。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T062023Z" creationid="Longbell" creationdate="20220410T062023Z">
@@ -30522,6 +30538,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Vivian came over, and said to Mag, "Boss Mag, I am already a teacher at the Hope School. You can call me Teacher Vivian in the future."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“麦老板，没想到你真的回来了，我还说今天可能也碰不到你呢。”萨格拉斯憨厚的笑着摸了摸自己的光头说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T125527Z" creationid="sitong" creationdate="20220503T125527Z">
+        <seg>"Boss Mag, I didn't expect you to really be back. I thought I won't be able to meet you," Sargeras said with a foolish smile as he rubbed his bald head.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31682,6 +31706,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>A scoff filled the cave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一道洪亮的声音响起。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T122850Z" creationid="sitong" creationdate="20220503T122850Z">
+        <seg>A bright voice called out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52498,6 +52530,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The pope looked at him meaningfully, and said, "You must remember this. The Holy See has never existed for imperial power. We set up imperial power back then to better protect the human race."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>敞着上衣的萨格拉斯，身上的熔岩纹路散发着彪悍的气息，气势极强，俨然已经摸到了十级的门槛。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T125309Z" creationid="sitong" creationdate="20220503T125309Z">
+        <seg>Sargeras, who had his shirt unbuttoned, was exuding with the ferocious vibes off the flaming lava cracks on his body. He was already reaching the 10th-tier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73926,6 +73966,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格抬眼看去，几个彪形大汉快步走来，为首的正是萨格拉斯，基尔、蒙德几位小兄弟也是在他身侧。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T124129Z" creationid="sitong" creationdate="20220503T124129Z">
+        <seg>Mag looked over and saw a few big and burly men walk over quickly. Sargeras lead the group and Kiel, Mond, and a few other lackeys were walking beside him.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格抬眼，认出了波比，而从他稍稍谦卑的态度来看，跟在他身后进门来的那位中年男人，官职要比他大不少。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -75650,6 +75698,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag shook his head with a smile and continued to smack the cucumbers in hsi hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格笑着摸了摸艾米的脑袋，转身准备进门。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T122841Z" creationid="sitong" creationdate="20220503T122841Z">
+        <seg>Mag smiled and stroked Amy's head as he turned to go in.</seg>
       </tuv>
     </tu>
     <tu>
