@@ -5248,8 +5248,8 @@
       <tuv lang="zh-CN">
         <seg>“千层饼？”多米尼克摇头，这听起来像个食物的理论，又是什么东西？</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T182714Z" creationid="Longbell" creationdate="20220502T182714Z">
-        <seg>"Thousand layer cake?" Dominic shook his head. What was this theory that sounded like a food?</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T133120Z" creationid="Longbell" creationdate="20220502T182714Z">
+        <seg>"A thousand layer cake?" Dominic shook his head. What was this theory that sounded like a food?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21450,6 +21450,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Amy put on her little bunny hat, looked up at Mag, and expectantly asked, "Father, where are we going to play today?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“父亲大人，我们接下来是留在混乱之城，还是去洛都呢？”麦格在厨房里做饭，艾米搬了个小板凳坐在厨房门口，一手撸猫，一边看着麦格问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T155050Z" creationid="Longbell" creationdate="20220503T155050Z">
+        <seg>Mag was cooking in the kitchen when Amy carried a stool to the kitchen's entrance and sat on it, rubbing the cat as she asked, "Father, are we going to stay in Chaos City or go to Rodu next?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -42888,8 +42896,8 @@
       <tuv lang="zh-CN">
         <seg>和矮人族那边也已经对接成功，昨日五十名技术人员携带图纸已经抵达矮人族，他们将全力供应火炮。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220503T123250Z" creationid="Longbell" creationdate="20220503T123250Z">
-        <seg>We have also get in touch successfully with the dwarves. 50 technicians have already arrived at the dwarves with the blueprints yesterday. They will supply us the cannons at full force.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T133140Z" creationid="Longbell" creationdate="20220503T123250Z">
+        <seg>We have also gotten in touch successfully with the dwarves. 50 technicians have already arrived at the dwarves with the blueprints yesterday. They will supply us the cannons at full force.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59782,6 +59790,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千一百四十八章 驴不错</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T133045Z" creationid="Longbell" creationdate="20220503T133045Z">
+        <seg>Chapter 2148: The Donkey's Not Bad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千一百四十六章 你有看过我们的演出吗？</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220501T130225Z" creationid="sitong" creationdate="20220501T130225Z">
@@ -75568,8 +75584,8 @@
       <tuv lang="zh-CN">
         <seg>麦格看着他，又是看了眼他牵着的那头黑驴，笑着道：“驴不错。”</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132900Z" creationid="Longbell" creationdate="20220503T132900Z">
-        <seg>Mag looked at him, and then at his black donkey and chuckled. "That's a good donkey.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T133006Z" creationid="Longbell" creationdate="20220503T132900Z">
+        <seg>Mag looked at him, and then at his black donkey and chuckled. "The donkey's not bad."</seg>
       </tuv>
     </tu>
     <tu>
