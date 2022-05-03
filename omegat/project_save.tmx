@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2482,6 +2482,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Aren't they Auster's followers?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“他们啊，他们要去拯救世界。”麦格微笑着说道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T122431Z" creationid="sitong" creationdate="20220503T122431Z">
+        <seg>"They are going to save the world," Mag said with a smile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21262,6 +21270,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“父亲大人，师父他们要去哪里呢？”艾米站在麦格的身后，有些好奇的问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T122421Z" creationid="sitong" creationdate="20220503T122421Z">
+        <seg>"Father, where are my Masters going?" Amy asked Mag curiously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“父亲大人，我也来帮忙吧。”艾米搬了个小板凳过来，也是学着麦格的样子从盆里抓了一把绿豆，不过绿豆被她放在手里一搓，就变成了绿色的爆米花。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27398,6 +27414,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这是茅台酒，这两瓶你们拿着，等两位师父回来，咱们继续喝。”麦格笑着往两人怀里塞了两瓶茅台，然后把两人送出了门。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T121523Z" creationid="sitong" creationdate="20220503T121523Z">
+        <seg>"This is Maotai. take these two bottles with you. When you're back, we can continue drinking." Master smiled as he pushed two bottles into their arms before sending them out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这是谣言。”麦格摇头。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -27582,6 +27606,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“这样啊。”艾米嘟起小嘴，叹了口气，小声嘀咕道：“好想快点长大啊……”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T122829Z" creationid="sitong" creationdate="20220503T122829Z">
+        <seg>"I see."Amy pouted her little mouth and sighed. After that, she muttered, "I want to grow up quickly..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“这样啊。”麦格沉吟，目光重新落到了地上的那个巨汉身上。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T095206Z" creationid="sitong" creationdate="20220414T095206Z">
@@ -27690,6 +27722,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Is this a little inappropriate?" Vanessa asked as she pointed to the rice bowl in front of her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“这次不行，因为这事大人的事情，等到艾米长大以后才可以。”麦格摇摇头。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T122809Z" creationid="sitong" creationdate="20220503T122809Z">
+        <seg>"Not this time. Because this is an adult matter. Amy can do it when you grow up." Mag shook his head.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34514,6 +34554,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The purchase was very successful. Mag used all his bargaining skills, and every strike hit the seller right at the heart. Finally, Mag bought this property in the Rodu's city center with 1,051,200 copper coins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>争了一辈子的两人，喝醉后却是勾肩搭背，有些踉跄的进了魔法药水铺。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T122408Z" creationid="sitong" creationdate="20220503T122408Z">
+        <seg>The two who had been squabbling for their entire lives ended up with their arms around each other when they were drunk, staggering into the magic potion shop together.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64218,6 +64266,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220409T175841Z" creationid="Longbell" creationdate="20220409T175841Z">
         <seg>Amy lit up her eyes and looked at him expectantly, "Can you bring me along too? I can fight very well too."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>艾米眼睛一亮，满是期待的看着麦格：“那可以带上我吗？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T122447Z" creationid="sitong" creationdate="20220503T122447Z">
+        <seg>Amy's eyes lit up. She looked at Mag expectantly and asked, "Can they bring me along?"</seg>
       </tuv>
     </tu>
     <tu>
