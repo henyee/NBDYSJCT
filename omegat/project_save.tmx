@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2106,6 +2106,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T185704Z" creationid="Longbell" creationdate="20220429T185704Z">
         <seg>"Alex receives seven votes, so he will be the allied forces' supreme commander." Michael declared loudly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“亚历克斯！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T131024Z" creationid="Longbell" creationdate="20220503T131024Z">
+        <seg>"Alex!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -20310,6 +20318,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“歌洛璃娅吗？”麦格眉梢微挑，说起来，他也有些日子没见那位喜欢吃豆腐脑的姑娘了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T130254Z" creationid="Longbell" creationdate="20220503T130254Z">
+        <seg>"Gloria?" Mag raised his brows slightly. Speaking of it, he hadn't meet that maiden who liked to eat tofu pudding for some time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“正是。”麦格点头。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T060621Z" creationid="Longbell" creationdate="20220407T060621Z">
@@ -31822,6 +31838,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>一道有些惊喜的声音响起。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T131038Z" creationid="Longbell" creationdate="20220503T131038Z">
+        <seg>A surprised voice called out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>一道洪亮的声音响起。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220503T122850Z" creationid="sitong" creationdate="20220503T122850Z">
@@ -35630,6 +35654,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>从城主府出来，正是正午时光。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T130313Z" creationid="Longbell" creationdate="20220503T130313Z">
+        <seg>It was noon when Mag came out the city lord's castle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>从她对于版权的意识来看，麦格认为她绝非如诺亚他们一般的隐匿种族，应该是在版权保护程度更高的地方生活过。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T061611Z" creationid="sitong" creationdate="20220428T061611Z">
@@ -36514,6 +36546,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220326T140708Z" creationid="Longbell" creationdate="20220326T140708Z">
         <seg>He looked at Amy who was holding onto her diary at the side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>他看起来黑了些，左脸多了一条细长的疤痕，看起来像是被某种魔兽的爪子留下的痕迹。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T132008Z" creationid="Longbell" creationdate="20220503T132008Z">
+        <seg>He looked a little darker and had a new long and narrow scar on his left face that looked like the mark left by some magic beast's </seg>
       </tuv>
     </tu>
     <tu>
@@ -50210,6 +50250,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220418T080920Z" creationid="Longbell" creationdate="20220418T080601Z">
         <seg>Connie rode up on a white unicorn. Clearing her throat, she said, "Those inside listen up. I'm Chief Connie of the Falk Tribe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>康帝·尼古拉斯。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T131752Z" creationid="Longbell" creationdate="20220503T131752Z">
+        <seg>Conti Nicolas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71222,6 +71270,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>阳光落在他脸上，有些刺眼，积雪已经化的差不多，一旁的柳树尖尖冒起了一点绿色，看来，春天快来了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T131021Z" creationid="Longbell" creationdate="20220503T131021Z">
+        <seg>The sunlight landed on his face and it was a little glaring. The snow had almost melted and the new leaves had sprouted on the willows at the side. It looked like spring was approaching soon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>阿尔宾俯身背起安东的尸体，嘴里轻声道：“走，安东，我带你去看外面的世界。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T135724Z" creationid="Longbell" creationdate="20220414T135724Z">
@@ -74502,6 +74558,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>麦格收回目光，看着站在身前这个牵着一头黑驴的骑士，国字脸，腰间配着一把绿宝石长剑，笑容憨厚，一双眼睛清亮有神。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T131747Z" creationid="Longbell" creationdate="20220503T131747Z">
+        <seg>Mag retracted his gaze and looked at the knight who was pulling a black donkey. He had a square face and an emerald longsword at his waist. He had a bashful smile and a pair of bright eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>麦格收回脚，有些鄙夷的看着惨叫的巨汉。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220414T095648Z" creationid="sitong" creationdate="20220414T095648Z">
@@ -75186,6 +75250,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Mag's spiritual power was very strong. It was much stronger than most people in this world, including some 10th-tier great magic casters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格的脑海里第一时间浮出了他的名字，说起来，有好几个月没有见到他了。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T131839Z" creationid="Longbell" creationdate="20220503T131839Z">
+        <seg>His name appeared in Mag's mind immediately. Speaking of it, Mag hadn't met him for a few months now.</seg>
       </tuv>
     </tu>
     <tu>
