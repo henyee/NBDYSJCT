@@ -14656,8 +14656,8 @@
       <tuv lang="zh-CN">
         <seg>“感谢这段时间以来两位师父对艾米的精心教导，这杯酒，我敬你们。”麦格端起酒杯，看着两人诚挚的说道，然后一饮而尽。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="sitong" changedate="20220503T093358Z" creationid="sitong" creationdate="20220503T093358Z">
-        <seg>"I am thankful to both of your patient guidance toward Amy. A toast to the both of you," Mag raised his wine glass as he said a toast to Krassu and Urien</seg>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T093412Z" creationid="sitong" creationdate="20220503T093358Z">
+        <seg>"I am thankful to both of your patient guidance toward Amy. A toast to the both of you," Mag raised his wine glass as he said a toast to Krassu and Urien sincerely. After that, he finished his drink in one shot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39130,6 +39130,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Krassu and Urien were complete lunatics. The only difference between the two was that Krassu restrained himself a little because of his status at the Magus Tower, while Urien always did as he pleased. It was completely impossible to use the Holy See to subdue them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>克拉苏和尤利安，对艾米有授业之恩，对他们父女也有相护之情。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220503T095700Z" creationid="sitong" creationdate="20220503T095700Z">
+        <seg>Krassu and Urien had taught Amy and also helped the father-and-daughter on many ocassions.</seg>
       </tuv>
     </tu>
     <tu>
