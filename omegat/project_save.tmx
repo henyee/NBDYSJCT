@@ -3022,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“何解？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T111209Z" creationid="sitong" creationdate="20220504T111209Z">
+        <seg>"What do you mean?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“作为一个系统，你也要有点追求啊。一个厨神，干了战神的事，说出去，是不是很拉风啊？”麦格说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220403T141906Z" creationid="sitong" creationdate="20220403T141906Z">
@@ -14382,6 +14390,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“很简单，给这个炸弹再加一个保护壳。”琼纳斯笑着道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T111205Z" creationid="sitong" creationdate="20220504T111205Z">
+        <seg>"This is simple. Make a protective shell over this," Jonas said witha  smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“得到了一个什么？”麦格笑着问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -21426,6 +21442,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220503T130958Z" creationid="sitong" creationdate="20220503T130958Z">
         <seg>"Burning Legion!" Sargeras shouted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“爆裂阵法是极为简单的一级阵法，哪怕是一级魔法师也能轻松铭刻，的确是性价比极高的选择。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T111242Z" creationid="sitong" creationdate="20220504T111242Z">
+        <seg>"The ignition spell formation is a very simple spell formation. Even a 1st-tier magic caster could easily carve it out and it is indeed a very cost effective choice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63698,6 +63722,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>Additionally, mind control was what the Great Old Ones were best at. It was also the ability that gave him the most trouble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>而维持它稳定性的方法其实也很简单，直接隔绝它与炮筒的摩擦，利用炮弹引爆爆裂阵法，而不是让爆裂阵法引爆炮弹。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T111434Z" creationid="sitong" creationdate="20220504T111434Z">
+        <seg>To ensure its stability is even simpler. Just isolate it from the friction between the bomb and the cannon. Make use of the bomb explosion to trigger the spell formation instead of using the spell formation to trigger the bomb.</seg>
       </tuv>
     </tu>
     <tu>
