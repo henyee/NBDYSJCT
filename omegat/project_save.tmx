@@ -40646,6 +40646,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>兽人、恶魔、巨魔这种皮糙肉厚的种族还好，但像人类这种娇弱的身体，要是没有冬衣庇体，光是寒冷的天气，就能冻伤无数。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T121054Z" creationid="Longbell" creationdate="20220504T121054Z">
+        <seg>The orcs, demons and trolls, who had tough skins, would still be alright, but the humans who had weak bodies, would be seriously injured by the cold if they didn't have ample winter clothing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>兽人族与洛斯帝国之间的矛盾被调和，签订和平条约之事，也就变得顺当了许多。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220428T082402Z" creationid="sitong" creationdate="20220428T082402Z">
@@ -41890,6 +41898,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220504T081106Z" creationid="Longbell" creationdate="20220504T081106Z">
         <seg>Mag also stopped cooking in the kitchen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>厨房里，麦格也是皱眉思考。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T120918Z" creationid="Longbell" creationdate="20220504T120918Z">
+        <seg>Mag was also pondering with a frown in the kitchen.</seg>
       </tuv>
     </tu>
     <tu>
