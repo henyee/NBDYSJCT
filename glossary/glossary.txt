@@ -2992,3 +2992,4 @@ DVD	DVD
 沙盘	scenario table
 千层饼	mille crepe
 康帝	Conti
+炮弹	artillery shell
