@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -60174,6 +60174,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>第二千一百五十三章 您可真是个人才</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T105548Z" creationid="sitong" creationdate="20220504T105548Z">
+        <seg>Chapter 2153: You're Such A Talent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>第二千一百五十章 我祝福你们哦</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220503T091342Z" creationid="sitong" creationdate="20220503T091342Z">
@@ -76186,6 +76194,14 @@
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220401T172651Z" creationid="sitong" creationdate="20220401T172651Z">
         <seg>Mag frowned when he saw the two mini motorcycles parked at the backyard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格看着在琼纳斯手中裂开的炸弹，眉梢微挑，感觉这个家伙，的确有点东西。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T110248Z" creationid="sitong" creationdate="20220504T110248Z">
+        <seg>Mag looed at the exploded bomb in Jonas's hand and raised his brow. He felt that this fellow was quite something.</seg>
       </tuv>
     </tu>
     <tu>
