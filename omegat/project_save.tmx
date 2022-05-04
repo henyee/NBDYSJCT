@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16058,6 +16058,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"I heard that your Roth Empire has just launched a sneak attack on us orcs, and massacred many tribes. Is it true?" that orc asked again. His expression was obviously becoming a little more hostile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“我听说你最近在忙着给出征的战士筹备棉衣？这事准备的如何了？”希尔先开口问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T114544Z" creationid="Longbell" creationdate="20220504T114544Z">
+        <seg>"I heard you have been busy at preparing the winter wear for the soldiers? How is it going?" Scheer asked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50482,6 +50490,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220504T085518Z" creationid="Longbell" creationdate="20220504T085518Z">
         <seg>Scheer had spent a great deal of money and effort to build the cannons. She created a cannon production line with the fastest speed, which helped him greatly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>希尔和歌洛璃娅相对而坐，餐厅里温暖舒适的环境，倒是让气氛变得没那么尴尬。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T113814Z" creationid="Longbell" creationdate="20220504T113814Z">
+        <seg>Scheer and Gloria sat facing each other. The restaurant's warm and comfortable environment made the ambiance less awkward.</seg>
       </tuv>
     </tu>
     <tu>
