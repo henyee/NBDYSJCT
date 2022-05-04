@@ -2993,3 +2993,4 @@ DVD	DVD
 千层饼	mille crepe
 康帝	Conti
 炮弹	artillery shell
+阵法加持	Spell formation enhancements
