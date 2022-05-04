@@ -50694,6 +50694,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>希尔可不是什么无聊来吃饭的人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T140351Z" creationid="Longbell" creationdate="20220504T140351Z">
+        <seg>Scheer wasn't someone who came to eat out of boredom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>希尔和歌洛璃娅相对而坐，餐厅里温暖舒适的环境，倒是让气氛变得没那么尴尬。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220504T113814Z" creationid="Longbell" creationdate="20220504T113814Z">
@@ -51320,8 +51328,8 @@
       <tuv lang="zh-CN">
         <seg>开玩笑，作为一个非常有原则的人，绝对不会轻易向邪恶势力低头。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220504T135259Z" creationid="Longbell" creationdate="20220504T135259Z">
-        <seg>What a joke. As a man with principles, he definitely wouldn't bow to evil forces easily.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T140625Z" creationid="Longbell" creationdate="20220504T135259Z">
+        <seg>What a joke. As a man with principles, he definitely wouldn't bow down to evil forces so easily.</seg>
       </tuv>
     </tu>
     <tu>
