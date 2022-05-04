@@ -5318,6 +5318,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“北境寒冷，和我们混乱之城气候迥异，如果将士没有御寒冬衣，很容易冻伤。”希尔皱眉，她最近忙着火炮的事情，倒是没有意识到这个问题的严重性。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T120639Z" creationid="Longbell" creationdate="20220504T120639Z">
+        <seg>"The north is cold and its weather is completely different from our Chaos City. The warriors would get frozen if they didn't have winter wear with them." Scheer frowned. She had been busy with the cannons, so she didn't realize the severity of that problem yet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“北面局势有些紧急，我希望纺织厂能够暂停手中的所有业务，全面赶制这一批火炮。”麦格将一叠图纸交给艾许莉。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220412T100036Z" creationid="Longbell" creationdate="20220412T100036Z">
@@ -36106,6 +36114,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220417T134612Z" creationid="Longbell" creationdate="20220417T134612Z">
         <seg>Auster gathered them for a discussion today was most likely related to it as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>今日来麦米餐厅，她也是想找麦格先生聊聊，想看看他是否有其他办法。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T120015Z" creationid="Longbell" creationdate="20220504T120015Z">
+        <seg>She came to Mamy Restaurant today to ask Mr. Mag if he had any solutions for it.</seg>
       </tuv>
     </tu>
     <tu>
