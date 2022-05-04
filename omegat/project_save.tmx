@@ -2358,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“今天是休息日，这份牛排已经算是加班了，晚上不营业。”麦格果断拒绝。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T135136Z" creationid="Longbell" creationdate="20220504T135136Z">
+        <seg>"Today is my rest day. Making this steak is already considered as working overtime. I'm not working tonight." Mag rejected her decisively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“今天是麦米餐厅的专场吗？”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T101027Z" creationid="Longbell" creationdate="20220429T101027Z">
