@@ -13382,6 +13382,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“小艾米，来这边。”克拉苏招呼艾米过来，拉着她的小手上下打量了一会，满意的点点头，“虽然看起来没什么进步，但脸蛋倒是圆了几分，看起来更可爱了。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T072242Z" creationid="Longbell" creationdate="20220503T162759Z">
+        <seg>"Come over here, Little Amy." Krassu got Amy to go over. He held her hand and sized her up for a while before he nodded with satisfatcion. "Although there's not much improvement, your face has gotten round and you looked cuter."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“小艾，我们吃不了这么多鹅，不如我们挑两只最肥的，剩下的就卖掉吧。”麦格看着艾米说道，他实在无法想象自己扛着三十只大肥鹅的场景。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -38976,8 +38984,8 @@
       <tuv lang="zh-CN">
         <seg>但这又是何等困难的事情，他们的算计，在它看来，恐怕也只是笑话而已。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220502T181259Z" creationid="Longbell" creationdate="20220502T181259Z">
-        <seg>However, what a difficult that was. Perhaps, their plan was only a joke in its eyes.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T163024Z" creationid="Longbell" creationdate="20220502T181259Z">
+        <seg>However, what a difficult task that was. Perhaps, their plan was only a joke in its eyes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72610,6 +72618,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220421T120809Z" creationid="Longbell" creationdate="20220421T120809Z">
         <seg>Mag gravely said, "I hope you Elder Things can evaluate the risk of the races on the Norland Continent giving up fighting and becoming the devils' servants completely. You should know very well that an allied force that is formed at the last minute isn't very reliable. Moreover, they have deep hatred for one another."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格一边做着饭，一边侧耳听着外边的动静。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220503T162713Z" creationid="Longbell" creationdate="20220503T162713Z">
+        <seg>Mag listened to their conversation while he cooked.</seg>
       </tuv>
     </tu>
     <tu>
