@@ -16064,8 +16064,8 @@
       <tuv lang="zh-CN">
         <seg>“我听说你最近在忙着给出征的战士筹备棉衣？这事准备的如何了？”希尔先开口问道。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220504T114544Z" creationid="Longbell" creationdate="20220504T114544Z">
-        <seg>"I heard you have been busy at preparing the winter wear for the soldiers? How is it going?" Scheer asked.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T114605Z" creationid="Longbell" creationdate="20220504T114544Z">
+        <seg>"I heard you have been busy with preparing the winter wear for the soldiers? How is it going?" Scheer asked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55842,6 +55842,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220424T140126Z" creationid="Longbell" creationdate="20220424T140126Z">
         <seg>Gloria listened to Jeffree explained the Norland Continent's current situation with a grave expression.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>歌洛璃娅微微摇头，神情有些黯然道：“目前正在加班加点的赶工制作，但裁缝数量有限，以目前的进度，很难在出征前让所有将士都能穿上新棉衣。”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T114918Z" creationid="Longbell" creationdate="20220504T114556Z">
+        <seg>Gloria shook her head and said with a forlorn expression, "We're rushing with the production now, but we only have a limited number of tailors, so with our current progress, it will be very hard to provide all the warriors with a new winter jacket when they set off."</seg>
       </tuv>
     </tu>
     <tu>
