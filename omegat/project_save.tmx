@@ -62590,6 +62590,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>经过阵法加持的魔法火炮，射程从8公里直接提升到了20公里，而爆炸威力更是提高了数倍，弹坑直径扩大三倍。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T170233Z" creationid="Longbell" creationdate="20220504T170233Z">
+        <seg>The range of the magical cannon that was enhanced by the spell formations, was raised from eight kilometers to 20 kilometers, and its explosive power was increased a few times. The crater it made was three times bigger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>经过麦格改造的蒸馏设备，用经久耐烧的煤炭石作为燃料，而且整个蒸馏过程不需要随时盯着，只要不是查看蒸馏进度即可，可谓是将整个蒸馏过程变得十分简单。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220412T113556Z" creationid="sitong" creationdate="20220412T113556Z">
