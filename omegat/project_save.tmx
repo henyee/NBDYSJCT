@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="zh-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="paragraph" srclang="zh-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4614,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“先试试银剑有没有用。”麦格掏出了一把纯银锻造的长剑。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T113817Z" creationid="sitong" creationdate="20220504T113817Z">
+        <seg>"Let's first try if the silver sword is of any use." Mag pulled out a longsword made of pure silver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“光之神，请赐予我力量，让我清除这个邪恶的存在，涤荡一切肮脏与罪恶！”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T170734Z" creationid="Longbell" creationdate="20220410T170734Z">
@@ -6642,6 +6650,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T090020Z" creationid="Longbell" creationdate="20220429T090020Z">
         <seg>The Flaming Demons' chief flared his nostrils and said, "The vampires have indeed chosen a lousy chief! Maynard was at least more courageous than you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“吼——”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T113704Z" creationid="sitong" creationdate="20220504T113704Z">
+        <seg>"Howl--"</seg>
       </tuv>
     </tu>
     <tu>
@@ -22222,6 +22238,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“现在怎么做？”伊琳娜侧头问道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T113756Z" creationid="sitong" creationdate="20220504T113756Z">
+        <seg>"What do we do now?" Irina turned to Mag and asked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“现在怎么搞？看来乔修的确已经变成了魔鬼的傀儡，连布卢姆都杀了，恐怕接下来还会杀更多的人，挑起战争，吸收更多的怨气。”路易斯靠在窗边，看着坐在桌边的道格拉斯问道。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -32386,6 +32410,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220407T054824Z" creationid="Longbell" creationdate="20220407T054824Z">
         <seg>All the gazes swept over and landed on Eiffie, who was wearing red clothes, before landing on Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>一道黑色的音浪从他的身体释放，那些骷髅士兵仿佛被唤醒了一般，一双双红色的眼睛亮了起来，身上的冰凌刷刷往下掉落，露出了森然的白骨。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T113659Z" creationid="sitong" creationdate="20220504T113659Z">
+        <seg>A black soundwave was released from its body and the eyes of the other skeleton soldiers all lit up red, as though they were all awakened. The frost all fell from their bodies, revealing their deathly white bones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49726,6 +49758,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>就在这时，在那群骷髅士兵中央，那具足有数十米高的巨人骷髅硕大的眼睛突然亮了起来，宛如两道红色的聚光灯，落到了紫纹狮鹫上。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T113603Z" creationid="sitong" creationdate="20220504T113603Z">
+        <seg>Just then, among the skeleton soldiers, a giant skeleton standing at tens of meters high, suddenly came to live as its eyes lit up liek two red lasers, landing on the purple-striped griffin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>就在这时，天空投下了一片巨大的阴影。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220413T163347Z" creationid="Longbell" creationdate="20220413T163347Z">
@@ -53786,6 +53826,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220410T153058Z" creationid="Longbell" creationdate="20220410T153058Z">
         <seg>Countless black hurricanes appeared out of nowhere and ripped apart the spaces. They blocked the purple-striped griffin and gradually surrounded it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>无数骷髅士兵开始攀爬峡谷的岩壁，向着麦格他们扑来。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T113744Z" creationid="sitong" creationdate="20220504T113744Z">
+        <seg>Countless skeleton soldiers started crawling up the valley, towards Mag and Irina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71362,6 +71410,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>The general's expression became a little better. He said seriously, "Continue searching! They might very well be the murderer from the incident the night before. Find them, and His Majesty will reward you handsomely!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>那巨人骷髅发出了一声怒吼，手中握着的一杆冰晶长枪向着麦格他们的方向一指。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="sitong" changedate="20220504T113723Z" creationid="sitong" creationdate="20220504T113723Z">
+        <seg>That giant skeleton let out a furious roar and pointed at Mag with its icy spear.</seg>
       </tuv>
     </tu>
     <tu>
