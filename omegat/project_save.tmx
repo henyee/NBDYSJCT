@@ -9182,6 +9182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“嗯，第一版已经通过测设，这是对比数据。”希尔从包里抽出了另一张纸，直接交给麦格。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T165245Z" creationid="Longbell" creationdate="20220504T165245Z">
+        <seg>"Yes. The first version has already passed the tests. This is the correlation data." Scheer pulled another piece of paper from her bag and passed to Mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“嗯，等零件到了，我会帮你组装调试的，使用的方法也要现场教你才行。”麦格点点头，埃菲毕竟不是汉娜，对于机械一无所知。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220328T092805Z" creationid="Longbell" creationdate="20220328T092805Z">
@@ -74082,6 +74090,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220501T143730Z" creationid="Longbell" creationdate="20220501T143730Z">
         <seg>Mag read through the detailed tactics carefully before putting it down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格仔细看着实验数据，眼睛愈发明亮。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T165528Z" creationid="Longbell" creationdate="20220504T165528Z">
+        <seg>Mag read through the experimental data carefully and his eyes got increasingly brighter.</seg>
       </tuv>
     </tu>
     <tu>
