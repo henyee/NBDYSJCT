@@ -11262,6 +11262,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“好家伙！”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T170245Z" creationid="Longbell" creationdate="20220504T170245Z">
+        <seg>"Good fellow!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“好巧，我们也刚到呢。”埃菲笑着说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="sitong" changedate="20220404T155335Z" creationid="sitong" creationdate="20220404T155335Z">
@@ -72718,6 +72726,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>阵法加持，这是诺兰大陆上非常常见的提升武器性能的方式。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T170356Z" creationid="Longbell" creationdate="20220504T170356Z">
+        <seg>Spell formation enhancements was a very common method to enhance a weapon on the Norland Continent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>阿尔宾俯身背起安东的尸体，嘴里轻声道：“走，安东，我带你去看外面的世界。”</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220414T135724Z" creationid="Longbell" creationdate="20220414T135724Z">
@@ -78283,6 +78299,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220422T100009Z" creationid="Longbell" creationdate="20220422T100009Z">
         <seg>Mag chose a few spots and marked them on the map before returning to Rodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>麦格都忍不住拍手赞叹。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T170305Z" creationid="Longbell" creationdate="20220504T170305Z">
+        <seg>Mag couldn't help but to clap and amaze.</seg>
       </tuv>
     </tu>
     <tu>
