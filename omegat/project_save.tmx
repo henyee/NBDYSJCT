@@ -14366,6 +14366,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“怎么会呢，小艾米那么可爱，师父怎么会舍得不要你。”克拉苏摇头道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T081702Z" creationid="Longbell" creationdate="20220504T081702Z">
+        <seg>Krassu shook his head and said, "Why would I? Little Amy is so adorable. How can Master bear to abandon you?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“怎么会有如此多珍贵的食材！”系统有些惊了。</seg>
       </tuv>
       <tuv lang="en-US">
@@ -41410,6 +41418,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220501T094923Z" creationid="Longbell" creationdate="20220501T094923Z">
         <seg>So, there were still people waiting for her to come back.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>厨房里，麦格也是停下了炒菜的动作。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220504T081106Z" creationid="Longbell" creationdate="20220504T081106Z">
+        <seg>Mag also stopped cooking in the kitchen.</seg>
       </tuv>
     </tu>
     <tu>
