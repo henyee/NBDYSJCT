@@ -3007,3 +3007,4 @@ DVD	DVD
 糯米	glutinous rice
 骷髅兵	skeleton soldier
 九叔	Uncle Nine
+五十里	80 km
