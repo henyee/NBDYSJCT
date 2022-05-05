@@ -2996,3 +2996,5 @@ DVD	DVD
 阵法加持	Spell formation enhancements
 炸膛	chamber blow
 骷髅士兵	skeleton soldier
+朱砂	cinnabar
+桃木	mahogany
