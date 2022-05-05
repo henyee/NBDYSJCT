@@ -3004,3 +3004,4 @@ DVD	DVD
 桃木箭	mahogany arrow
 杀伤力	lethality
 桃木剑	mahogany sword
+糯米	glutinous rice
