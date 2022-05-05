@@ -2998,3 +2998,4 @@ DVD	DVD
 骷髅士兵	skeleton soldier
 朱砂	cinnabar
 桃木	mahogany
+弩	crossbow
