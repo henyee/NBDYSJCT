@@ -2994,3 +2994,4 @@ DVD	DVD
 康帝	Conti
 炮弹	artillery shell
 阵法加持	Spell formation enhancements
+炸膛	chamber blow
