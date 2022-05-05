@@ -3005,3 +3005,5 @@ DVD	DVD
 杀伤力	lethality
 桃木剑	mahogany sword
 糯米	glutinous rice
+骷髅兵	skeleton soldier
+九叔	Uncle Nine
