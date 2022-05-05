@@ -24182,6 +24182,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“老板，你怎么来了？”芭芭拉从城主府里出来，手里乃攥着两颗蓝色的冰晶石，看了眼麦格身旁那粗壮的炮筒，和几箱子神秘物品，“这又是什么？”</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220505T013052Z" creationid="Longbell" creationdate="20220505T013052Z">
+        <seg>"What are you doing here, Boss?" Babla came out of the city lord's castle with two blue ice crystal rocks in her hands. Throwing a quick glance at the cannon and a few boxes of mysterious objects, she asked, "What are these?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“老板，你是不知道客人们有多想念你，每天来冰激凌店询问餐厅什么时候重新营业的人都有几十个呢。”亚北米娅有点幽怨的说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220427T123050Z" creationid="Longbell" creationdate="20220427T123050Z">
@@ -24442,6 +24450,14 @@
       </tuv>
       <tuv lang="en-US">
         <seg>"Amy, you are here!" A small figure ran over. It was Jessica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>“芭芭拉，你师父不是阵法大师吗？我有件非常重要的事情，想要请他帮忙。”麦格开门见山道。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220505T013146Z" creationid="Longbell" creationdate="20220505T013146Z">
+        <seg>"Babla, isn't your master a great spell formation master? I have something very important that needs his help." Mag got straight to the point.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50826,6 +50842,14 @@
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220504T142037Z" creationid="Longbell" creationdate="20220504T142037Z">
         <seg>Scheer's smile got wider. Indeed, her instinct was never wrong.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
+        <seg>希尔在一旁打量着芭芭拉，她可是知道芭芭拉的身份的，月之国的公主，身份尊贵。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220505T013240Z" creationid="Longbell" creationdate="20220505T013240Z">
+        <seg>Scheer sized up Babla at the side. She knew Babla was the princess of the Moon Nation. Her identity was very noble.</seg>
       </tuv>
     </tu>
     <tu>
