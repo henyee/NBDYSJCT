@@ -2999,3 +2999,4 @@ DVD	DVD
 朱砂	cinnabar
 桃木	mahogany
 弩	crossbow
+箭头	arrowhead
