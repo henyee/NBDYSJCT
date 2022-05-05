@@ -3008,3 +3008,4 @@ DVD	DVD
 骷髅兵	skeleton soldier
 九叔	Uncle Nine
 五十里	80 km
+圣水	Holy Water
