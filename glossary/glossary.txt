@@ -2995,3 +2995,4 @@ DVD	DVD
 炮弹	artillery shell
 阵法加持	Spell formation enhancements
 炸膛	chamber blow
+骷髅士兵	skeleton soldier
