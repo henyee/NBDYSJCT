@@ -3001,3 +3001,4 @@ DVD	DVD
 弩	crossbow
 箭头	arrowhead
 木箭	wooden arrow
+桃木箭	mahogany arrow
