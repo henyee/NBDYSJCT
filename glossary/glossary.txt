@@ -3002,3 +3002,5 @@ DVD	DVD
 箭头	arrowhead
 木箭	wooden arrow
 桃木箭	mahogany arrow
+杀伤力	lethality
+桃木剑	mahogany sword
