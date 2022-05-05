@@ -19918,6 +19918,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>“是麦格先生啊，不知找我有何事？”琼纳斯笑着迎出门来，丝毫没有因为麦格的身份有丝毫怠慢。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220505T013959Z" creationid="Longbell" creationdate="20220505T013959Z">
+        <seg>"It's Mr. Mag. I wonder how can I help you?" Jonas came out with a smile. He didn't treat Mag lightly because of his status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>“是麦格叔叔很棒，我都是跟着麦格叔叔学的呢。”安娜笑眯眯的说道。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220430T150159Z" creationid="Longbell" creationdate="20220430T150159Z">
@@ -55494,6 +55502,14 @@
     </tu>
     <tu>
       <tuv lang="zh-CN">
+        <seg>月之国的国王之前多番叮嘱，要把麦格先生当做月之国的上宾，这可是拯救了公主殿下的人。</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220505T045606Z" creationid="Longbell" creationdate="20220505T045606Z">
+        <seg>The king of the Moon Nation had reminded him many times to treat Mr. Mag as the Moon Nation's VIP. He was the man who saved the princess.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="zh-CN">
         <seg>月之国的大阵法师琼纳斯也在场，和芭芭拉作为月之国的代表参加了这场会议。</seg>
       </tuv>
       <tuv lang="en-US" changeid="Longbell" changedate="20220429T074513Z" creationid="Longbell" creationdate="20220429T074513Z">
@@ -78256,8 +78272,8 @@
       <tuv lang="zh-CN">
         <seg>麦格觉得这话中听，老板和老师，怎么也算是个平级。</seg>
       </tuv>
-      <tuv lang="en-US" changeid="Longbell" changedate="20220505T013847Z" creationid="Longbell" creationdate="20220505T013847Z">
-        <seg>Mag found her words rather soothing. Master and Boss were equal in status.</seg>
+      <tuv lang="en-US" changeid="Longbell" changedate="20220505T013853Z" creationid="Longbell" creationdate="20220505T013847Z">
+        <seg>Mag found her words rather soothing. Master and Boss were at least equal in status.</seg>
       </tuv>
     </tu>
     <tu>
