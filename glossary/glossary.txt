@@ -3010,3 +3010,4 @@ DVD	DVD
 五十里	80 km
 圣水	Holy Water
 杀伤	lethal
+联络人	liaisons
