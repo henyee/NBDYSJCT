@@ -2997,13 +2997,10 @@ DVD	DVD
 炸膛	chamber blow
 骷髅士兵	skeleton soldier
 朱砂	cinnabar
-桃木	mahogany
 弩	crossbow
 箭头	arrowhead
 木箭	wooden arrow
-桃木箭	mahogany arrow
 杀伤力	lethality
-桃木剑	mahogany sword
 糯米	glutinous rice
 骷髅兵	skeleton soldier
 九叔	Uncle Nine
@@ -3011,3 +3008,6 @@ DVD	DVD
 圣水	Holy Water
 杀伤	lethal
 联络人	liaisons
+桃木	peach wood
+桃木箭	peach wood arrow
+桃木剑	peach wood sword
