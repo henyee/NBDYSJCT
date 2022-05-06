@@ -3009,3 +3009,4 @@ DVD	DVD
 九叔	Uncle Nine
 五十里	80 km
 圣水	Holy Water
+杀伤	lethal
