@@ -3023,3 +3023,5 @@ DVD	DVD
 工兵	sapper
 豁口	gap
 天堑	natural chasm
+风系魔法师	wind magic caster
+水系魔法师	water magic caster
