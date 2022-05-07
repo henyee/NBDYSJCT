@@ -3030,3 +3030,5 @@ DVD	DVD
 战线	battle front
 泄洪通道	flood-relief channel
 防洪提	flood dike
+峡谷	canyon
+峡谷	ravine
