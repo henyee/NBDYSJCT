@@ -3026,3 +3026,5 @@ DVD	DVD
 风系魔法师	wind magic caster
 水系魔法师	water magic caster
 冰系魔法师	ice magic caster
+战线	battle line
+战线	battle front
