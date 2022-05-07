@@ -3018,3 +3018,4 @@ DVD	DVD
 格斯山脉	Gus Mountains
 山脉	mountain range
 工兵团	engineer corp
+冰原	ice sheets
