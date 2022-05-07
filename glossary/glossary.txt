@@ -3015,3 +3015,4 @@ DVD	DVD
 桃树	peach tree
 集结	assemble
 征召令	summoning order
+格斯山脉	Gus Mountains
