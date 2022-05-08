@@ -3034,3 +3034,5 @@ DVD	DVD
 峡谷	ravine
 临时指挥部	interim command
 军官	officer
+大殿	great hall
+营地	base
