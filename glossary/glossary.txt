@@ -3036,3 +3036,4 @@ DVD	DVD
 军官	officer
 大殿	great hall
 营地	base
+议事厅	meeting room
