@@ -3032,3 +3032,4 @@ DVD	DVD
 防洪提	flood dike
 峡谷	canyon
 峡谷	ravine
+临时指挥部	interim command
