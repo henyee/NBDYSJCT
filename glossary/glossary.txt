@@ -3044,3 +3044,4 @@ DVD	DVD
 冰枪	ice javelin
 光系魔法师	light magic caster
 风龙	Wind Dragon
+空间储存器	spatial storgae equipment
