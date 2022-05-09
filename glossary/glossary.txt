@@ -3051,3 +3051,4 @@ DVD	DVD
 通天柱	infinity column
 门票	ticket
 邻居	neighbor
+街坊	neighbor
