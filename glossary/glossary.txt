@@ -3046,3 +3046,4 @@ DVD	DVD
 风龙	Wind Dragon
 空间储存器	spatial storage equipment
 空间储物器	spatial storage equipment
+炮弹	ammunition
