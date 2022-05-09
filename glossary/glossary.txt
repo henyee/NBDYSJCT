@@ -3048,3 +3048,4 @@ DVD	DVD
 空间储物器	spatial storage equipment
 炮弹	ammunition
 朱砂粉	cinnabar power
+通天柱	infinity column
