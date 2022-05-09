@@ -3052,3 +3052,4 @@ DVD	DVD
 门票	ticket
 邻居	neighbor
 街坊	neighbor
+演员	actor
