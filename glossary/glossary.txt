@@ -3050,3 +3050,4 @@ DVD	DVD
 朱砂粉	cinnabar power
 通天柱	infinity column
 门票	ticket
+邻居	neighbor
