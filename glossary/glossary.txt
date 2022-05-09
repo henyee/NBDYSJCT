@@ -3049,3 +3049,4 @@ DVD	DVD
 炮弹	ammunition
 朱砂粉	cinnabar power
 通天柱	infinity column
+门票	ticket
