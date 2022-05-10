@@ -3056,3 +3056,4 @@ DVD	DVD
 伊巴卡	Ibaka
 罗斯福	Roosevelt
 情报驿站	intel center
+远古入侵者	ancient invader
