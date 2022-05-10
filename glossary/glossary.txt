@@ -3062,3 +3062,4 @@ DVD	DVD
 追踪导弹	homing missile
 武器仓	weapons bay
 机甲	mech
+弯刀	scimitar
