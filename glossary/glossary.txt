@@ -3060,3 +3060,5 @@ DVD	DVD
 战机	fighter jet
 武器操作系统	weapon operating system
 追踪导弹	homing missile
+武器仓	weapons bay
+机甲	mech
