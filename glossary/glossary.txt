@@ -3057,3 +3057,4 @@ DVD	DVD
 罗斯福	Roosevelt
 情报驿站	intel center
 远古入侵者	ancient invader
+战机	fighter jet
