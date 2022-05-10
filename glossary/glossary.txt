@@ -3058,3 +3058,5 @@ DVD	DVD
 情报驿站	intel center
 远古入侵者	ancient invader
 战机	fighter jet
+武器操作系统	weapon operating system
+追踪导弹	homing missile
