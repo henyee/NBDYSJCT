@@ -3054,3 +3054,4 @@ DVD	DVD
 街坊	neighbor
 演员	actor
 伊巴卡	Ibaka
+罗斯福	Roosevelt
