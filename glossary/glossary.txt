@@ -3053,3 +3053,4 @@ DVD	DVD
 邻居	neighbor
 街坊	neighbor
 演员	actor
+伊巴卡	Ibaka
