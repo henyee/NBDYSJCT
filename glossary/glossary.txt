@@ -3067,3 +3067,4 @@ DVD	DVD
 蘑菇云	mushroom cloud
 自爆程序	self-destruction program
 穿甲弹	armour-piercing projectile
+推进器	thruster
