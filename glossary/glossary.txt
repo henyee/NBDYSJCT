@@ -3071,3 +3071,4 @@ DVD	DVD
 近防炮	Close-In Weapon System
 灰色战舰	gray battleship
 神级	god's tier
+附魔	enchanted
