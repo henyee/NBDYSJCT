@@ -3068,3 +3068,4 @@ DVD	DVD
 自爆程序	self-destruction program
 穿甲弹	armour-piercing projectile
 推进器	thruster
+近防炮	Close-In Weapon System
