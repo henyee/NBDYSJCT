@@ -3064,3 +3064,4 @@ DVD	DVD
 机甲	mech
 弯刀	scimitar
 枪口	muzzle
+蘑菇云	mushroom cloud
