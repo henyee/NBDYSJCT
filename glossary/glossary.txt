@@ -3079,3 +3079,4 @@ DVD	DVD
 费迪南德先生	Mr. Ferdinand
 爷爷	grandfather
 委托令	power of attorney
+联防军	Allied Defence Force
