@@ -3085,3 +3085,4 @@ DVD	DVD
 第一舰队	First Fleet
 晞舰长	Captain Xi
 薇琪小姐	Miss Vicki
+紫色闪电	purple lightning
