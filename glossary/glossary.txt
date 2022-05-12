@@ -3073,3 +3073,4 @@ DVD	DVD
 神级	god's tier
 附魔	enchanted
 空间箱子	spatial box
+舰长	captain
