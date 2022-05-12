@@ -3080,3 +3080,4 @@ DVD	DVD
 爷爷	grandfather
 委托令	power of attorney
 联防军	Allied Defence Force
+费迪南德大人	Lord Ferdinand
