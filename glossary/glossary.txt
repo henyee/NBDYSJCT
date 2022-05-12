@@ -3087,3 +3087,5 @@ DVD	DVD
 薇琪小姐	Miss Vicki
 紫色闪电	purple lightning
 神境	god's realm
+瘴气	miasma
+十里	16 km
