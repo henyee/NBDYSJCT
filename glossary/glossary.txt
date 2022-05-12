@@ -3077,3 +3077,5 @@ DVD	DVD
 黑猫号	"Black Cat"
 费迪南德	Ferdinand
 费迪南德先生	Mr. Ferdinand
+爷爷	grandfather
+委托令	power of attorney
