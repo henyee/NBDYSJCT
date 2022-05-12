@@ -3074,3 +3074,4 @@ DVD	DVD
 附魔	enchanted
 空间箱子	spatial box
 舰长	captain
+黑猫号	"Black Cat"
