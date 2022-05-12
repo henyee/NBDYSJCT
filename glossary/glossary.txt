@@ -3075,3 +3075,5 @@ DVD	DVD
 空间箱子	spatial box
 舰长	captain
 黑猫号	"Black Cat"
+费迪南德	Ferdinand
+费迪南德先生	Mr. Ferdinand
