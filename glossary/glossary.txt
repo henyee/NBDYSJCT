@@ -3089,3 +3089,4 @@ DVD	DVD
 神境	god's realm
 瘴气	miasma
 十里	16 km
+第二炮兵团	Second Artillery Regiment
