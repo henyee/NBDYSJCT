@@ -3100,3 +3100,4 @@ DVD	DVD
 炸药包	blasting charge
 投石器	catapult
 绞肉机	meat grinder
+雪狐	snow fox
