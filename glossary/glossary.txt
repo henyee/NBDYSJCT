@@ -3092,3 +3092,4 @@ DVD	DVD
 第二炮兵团	Second Artillery Regiment
 拉莱耶城	R'lyeh City
 麦克瑞	Macron
+空中幽灵	Air Spirits
