@@ -3095,3 +3095,4 @@ DVD	DVD
 空中幽灵	Air Spirits
 骨龙	skeleton dragon
 幽光	Dark Light
+火凤	fire phoenix
