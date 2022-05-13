@@ -3096,3 +3096,4 @@ DVD	DVD
 骨龙	skeleton dragon
 幽光	Dark Light
 火凤	fire phoenix
+前线	frontline
