@@ -3101,3 +3101,4 @@ DVD	DVD
 投石器	catapult
 绞肉机	meat grinder
 雪狐	snow fox
+兵工厂	weapon factory
