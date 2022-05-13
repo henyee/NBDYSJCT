@@ -3098,3 +3098,4 @@ DVD	DVD
 火凤	fire phoenix
 前线	frontline
 炸药包	blasting charge
+投石器	catapult
