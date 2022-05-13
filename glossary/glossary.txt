@@ -3093,3 +3093,5 @@ DVD	DVD
 拉莱耶城	R'lyeh City
 麦克瑞	Macron
 空中幽灵	Air Spirits
+骨龙	skeleton dragon
+幽光	Dark Light
