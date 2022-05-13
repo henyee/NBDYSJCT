@@ -3097,3 +3097,4 @@ DVD	DVD
 幽光	Dark Light
 火凤	fire phoenix
 前线	frontline
+炸药包	blasting charge
