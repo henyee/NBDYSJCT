@@ -3105,3 +3105,4 @@ DVD	DVD
 驴	donkey
 坐骑	steed
 晞姐	Big Sister Xi
+征服者	Conquerers
