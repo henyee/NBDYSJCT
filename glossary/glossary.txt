@@ -3104,3 +3104,4 @@ DVD	DVD
 兵工厂	weapon factory
 驴	donkey
 坐骑	steed
+晞姐	Big Sister Xi
