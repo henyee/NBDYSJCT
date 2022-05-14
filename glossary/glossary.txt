@@ -3103,3 +3103,4 @@ DVD	DVD
 雪狐	snow fox
 兵工厂	weapon factory
 驴	donkey
+坐骑	steed
