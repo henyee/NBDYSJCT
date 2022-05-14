@@ -3108,3 +3108,4 @@ DVD	DVD
 征服者	Conquerers
 连弩	repeater crossbow
 医疗兵	Medic
+冰川	glacier
