@@ -3106,3 +3106,4 @@ DVD	DVD
 坐骑	steed
 晞姐	Big Sister Xi
 征服者	Conquerers
+连弩	repeater crossbow
