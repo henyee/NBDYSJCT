@@ -3102,3 +3102,4 @@ DVD	DVD
 绞肉机	meat grinder
 雪狐	snow fox
 兵工厂	weapon factory
+驴	donkey
