@@ -3109,3 +3109,4 @@ DVD	DVD
 连弩	repeater crossbow
 医疗兵	Medic
 冰川	glacier
+炮兵	artilleryman
