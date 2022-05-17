@@ -3112,3 +3112,4 @@ DVD	DVD
 炮兵	artilleryman
 热兵器	firearms
 辣子鸡	Sichuan Spicy Chicken
+慕斯蛋糕	mousse cake
