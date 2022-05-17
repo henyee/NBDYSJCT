@@ -3110,3 +3110,4 @@ DVD	DVD
 医疗兵	Medic
 冰川	glacier
 炮兵	artilleryman
+热兵器	firearms
