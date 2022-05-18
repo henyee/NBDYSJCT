@@ -3120,3 +3120,4 @@ DVD	DVD
 大哥	Big Brother
 冰霜龙岛	Frost Dragon Island
 冰霜王座	Frost Throne
+米老头	Old Man Mi
