@@ -3117,3 +3117,4 @@ DVD	DVD
 哈斯塔	Hastur
 天罚	Heaven's Punishment
 地球	Earth
+大哥	Big Brother
