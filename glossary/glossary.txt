@@ -3122,3 +3122,4 @@ DVD	DVD
 冰霜王座	Frost Throne
 米老头	Old Man Mi
 小白	Whitie
+红烧牛肉	red braised beef
