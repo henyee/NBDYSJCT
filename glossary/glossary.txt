@@ -3125,3 +3125,5 @@ DVD	DVD
 红烧牛肉	red braised beef
 小美人鱼的故事	The Tale of The Little Mermaid
 绘本	picture book
+黑白绘本	black-and-white picture book
+黑白	black-and-white
