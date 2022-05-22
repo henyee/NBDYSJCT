@@ -3130,3 +3130,4 @@ DVD	DVD
 世界	world
 莫莉	Molly
 夏娃	Eve
+骨汤	bone broth
