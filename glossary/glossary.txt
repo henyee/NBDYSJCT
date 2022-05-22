@@ -3136,3 +3136,4 @@ DVD	DVD
 漫画	comic
 教程	tutorial
 编辑社	editorial agency
+独家专栏	exclusive column
