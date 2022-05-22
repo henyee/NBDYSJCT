@@ -3134,3 +3134,4 @@ DVD	DVD
 面皮	dough skin
 烤鸭	roasted duck
 漫画	comic
+教程	tutorial
