@@ -3132,3 +3132,4 @@ DVD	DVD
 夏娃	Eve
 骨汤	bone broth
 面皮	dough skin
+烤鸭	roasted duck
