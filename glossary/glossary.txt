@@ -3140,3 +3140,4 @@ DVD	DVD
 独家	exclusive
 美食专栏	gourmet column
 美食教学	culinary tutorial
+卡姿兰	Carslan
