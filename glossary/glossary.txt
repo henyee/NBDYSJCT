@@ -3138,3 +3138,4 @@ DVD	DVD
 编辑社	editorial agency
 独家专栏	exclusive column
 独家	exclusive
+美食专栏	gourmet column
