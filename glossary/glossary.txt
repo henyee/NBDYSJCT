@@ -3141,3 +3141,5 @@ DVD	DVD
 美食专栏	gourmet column
 美食教学	culinary tutorial
 卡姿兰	Carslan
+阿莉斯	Alice
+王子	prince
