@@ -3144,3 +3144,4 @@ DVD	DVD
 阿莉斯	Alice
 王子	prince
 卡姿然	Carslan
+冰糖葫芦	candied haws
