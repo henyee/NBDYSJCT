@@ -3146,3 +3146,4 @@ DVD	DVD
 卡姿然	Carslan
 冰糖葫芦	candied haws
 茶馆	teahouse
+折叠椅	folding chair
