@@ -3147,3 +3147,5 @@ DVD	DVD
 冰糖葫芦	candied haws
 茶馆	teahouse
 折叠椅	folding chair
+猪舌头	pig tongue
+猪舌	pig tongue
