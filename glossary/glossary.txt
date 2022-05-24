@@ -3150,3 +3150,4 @@ DVD	DVD
 猪舌头	pig tongue
 猪舌	pig tongue
 服务员	server
+洛丽塔	Lolita
