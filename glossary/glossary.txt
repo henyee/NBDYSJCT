@@ -3151,3 +3151,4 @@ DVD	DVD
 猪舌	pig tongue
 服务员	server
 洛丽塔	Lolita
+版权	copyright
