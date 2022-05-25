@@ -3153,3 +3153,4 @@ DVD	DVD
 洛丽塔	Lolita
 版权	copyright
 授权收益	licensing revenue
+授权	licensing
