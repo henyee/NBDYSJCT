@@ -3152,3 +3152,4 @@ DVD	DVD
 服务员	server
 洛丽塔	Lolita
 版权	copyright
+授权收益	licensing revenue
