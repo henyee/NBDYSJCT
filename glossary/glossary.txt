@@ -3158,3 +3158,4 @@ DVD	DVD
 博卡	Bobby
 后台	backstage
 演出服	costume
+金主	sponsor
