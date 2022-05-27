@@ -3161,3 +3161,4 @@ DVD	DVD
 金主	sponsor
 舔狗	bootlicker
 票	ticket
+笨蛋系统	Stupid System
