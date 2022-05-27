@@ -3163,3 +3163,4 @@ DVD	DVD
 票	ticket
 笨蛋系统	Stupid System
 邻里关系	neighborly relationship
+好感度	Favorability
