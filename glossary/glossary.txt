@@ -3160,3 +3160,4 @@ DVD	DVD
 演出服	costume
 金主	sponsor
 舔狗	bootlicker
+票	ticket
