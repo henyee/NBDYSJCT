@@ -3168,3 +3168,4 @@ DVD	DVD
 合同	contract
 编辑部	editorial department
 郝克托	Hector
+彩色绘本	colored picture book
