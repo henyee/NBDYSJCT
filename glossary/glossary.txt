@@ -3169,3 +3169,4 @@ DVD	DVD
 编辑部	editorial department
 郝克托	Hector
 彩色绘本	colored picture book
+彩绘	colored picture book
