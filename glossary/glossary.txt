@@ -3165,3 +3165,4 @@ DVD	DVD
 邻里关系	neighborly relationship
 好感度	Favorability
 小七	Little Seven
+合同	contract
