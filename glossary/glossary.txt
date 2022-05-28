@@ -3164,3 +3164,4 @@ DVD	DVD
 笨蛋系统	Stupid System
 邻里关系	neighborly relationship
 好感度	Favorability
+小七	Little Seven
