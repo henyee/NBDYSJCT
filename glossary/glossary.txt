@@ -3171,3 +3171,5 @@ DVD	DVD
 彩色绘本	colored picture book
 彩绘	colored picture book
 彩印	color printing
+财富密码	secret of wealth
+纸媒	paper media
