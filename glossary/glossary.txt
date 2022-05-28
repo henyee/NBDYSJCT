@@ -3166,3 +3166,5 @@ DVD	DVD
 好感度	Favorability
 小七	Little Seven
 合同	contract
+编辑部	editorial department
+郝克托	Hector
