@@ -3173,3 +3173,4 @@ DVD	DVD
 彩印	color printing
 财富密码	secret of wealth
 纸媒	paper media
+黑板	blackboard
