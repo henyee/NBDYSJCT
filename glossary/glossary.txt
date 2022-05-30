@@ -3175,3 +3175,4 @@ DVD	DVD
 黑板	blackboard
 辣子鸡	Sichuan spicy chicken
 抄手皮	wonton skin
+胃	stomach
