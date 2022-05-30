@@ -3176,3 +3176,4 @@ DVD	DVD
 辣子鸡	Sichuan spicy chicken
 抄手皮	wonton skin
 胃	stomach
+高脚凳	barstool
