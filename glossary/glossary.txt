@@ -3179,3 +3179,4 @@ DVD	DVD
 高脚凳	barstool
 核能	nuclear-powered
 太子	crown prince
+降维打击	dimensionality reduction attack
