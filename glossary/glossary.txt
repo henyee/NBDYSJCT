@@ -3177,3 +3177,4 @@ DVD	DVD
 抄手皮	wonton skin
 胃	stomach
 高脚凳	barstool
+核能	nuclear-powered
