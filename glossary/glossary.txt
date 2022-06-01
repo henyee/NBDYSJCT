@@ -3182,3 +3182,4 @@ DVD	DVD
 降维打击	dimensionality reduction attack
 天才	genius
 超凡者	Extraordinaire
+通讯栏	notification column
