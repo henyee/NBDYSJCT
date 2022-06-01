@@ -3183,3 +3183,4 @@ DVD	DVD
 天才	genius
 超凡者	Extraordinaire
 通讯栏	notification column
+尤妮斯	Eunice
