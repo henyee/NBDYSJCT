@@ -3184,3 +3184,4 @@ DVD	DVD
 超凡者	Extraordinaire
 通讯栏	notification column
 尤妮斯	Eunice
+希望小学	Hope Primary School
