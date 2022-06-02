@@ -3188,3 +3188,4 @@ DVD	DVD
 尤妮斯夫人	Lady Eunice
 辣椒	chili
 鸡	chicken
+公筷	serving chopsticks
