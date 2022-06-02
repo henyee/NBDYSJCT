@@ -3186,3 +3186,4 @@ DVD	DVD
 尤妮斯	Eunice
 希望小学	Hope Primary School
 尤妮斯夫人	Lady Eunice
+辣椒	chili
