@@ -3191,3 +3191,4 @@ DVD	DVD
 公筷	serving chopsticks
 郝克托老板	Boss Hector
 印刷工厂	printing factory
+印刷厂	printing house
