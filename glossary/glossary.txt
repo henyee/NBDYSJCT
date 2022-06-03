@@ -3192,3 +3192,4 @@ DVD	DVD
 郝克托老板	Boss Hector
 印刷工厂	printing factory
 印刷厂	printing house
+办公室	office
