@@ -3194,3 +3194,4 @@ DVD	DVD
 印刷厂	printing house
 办公室	office
 药剂瓶	medicinal vial
+减肥药剂	slimming drug
