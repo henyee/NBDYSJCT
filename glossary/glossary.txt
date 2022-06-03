@@ -3190,3 +3190,4 @@ DVD	DVD
 鸡	chicken
 公筷	serving chopsticks
 郝克托老板	Boss Hector
+印刷工厂	printing factory
