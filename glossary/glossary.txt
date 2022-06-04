@@ -3195,3 +3195,5 @@ DVD	DVD
 办公室	office
 药剂瓶	medicinal vial
 减肥药剂	slimming drug
+技术	technology
+技术	technique
