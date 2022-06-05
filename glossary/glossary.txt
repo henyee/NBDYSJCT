@@ -3197,3 +3197,5 @@ DVD	DVD
 减肥药剂	slimming drug
 技术	technology
 技术	technique
+海神珠	Magical Pearl of the Sea
+海神	God of Sea
