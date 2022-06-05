@@ -3199,3 +3199,4 @@ DVD	DVD
 技术	technique
 海神珠	Magical Pearl of the Sea
 海神	God of Sea
+水晶球	crystal ball
