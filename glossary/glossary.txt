@@ -3201,3 +3201,4 @@ DVD	DVD
 海神	God of Sea
 水晶球	crystal ball
 特菲娜	Tryphaena
+辛德拉	Syndra
