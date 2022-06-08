@@ -3200,3 +3200,4 @@ DVD	DVD
 海神珠	Magical Pearl of the Sea
 海神	God of Sea
 水晶球	crystal ball
+特菲娜	Tryphaena
