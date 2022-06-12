@@ -3202,3 +3202,4 @@ DVD	DVD
 水晶球	crystal ball
 特菲娜	Tryphaena
 辛德拉	Syndra
+职业技能老师	professional skills teacher
