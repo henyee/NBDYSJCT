@@ -3203,3 +3203,4 @@ DVD	DVD
 特菲娜	Tryphaena
 辛德拉	Syndra
 职业技能老师	professional skills teacher
+希拉	Hera
