@@ -3206,3 +3206,4 @@ DVD	DVD
 希拉	Hera
 梅丽	Meli
 埃尔顿	Elton
+观众	audience
