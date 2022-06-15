@@ -3208,3 +3208,4 @@ DVD	DVD
 埃尔顿	Elton
 观众	audience
 牙签	toothpick
+麻辣田螺	Spicy Escargots
