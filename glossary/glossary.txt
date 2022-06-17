@@ -3213,3 +3213,5 @@ DVD	DVD
 冰激凌店	ice cream shop
 姐姐	Sister
 新东方厨师学院	New East Culinary School
+厨师学院	culinary school
+师培养基地	chef-grooming ground
