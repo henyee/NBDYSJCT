@@ -3215,3 +3215,4 @@ DVD	DVD
 新东方厨师学院	New East Culinary School
 厨师学院	culinary school
 师培养基地	chef-grooming ground
+工程队	construction team
