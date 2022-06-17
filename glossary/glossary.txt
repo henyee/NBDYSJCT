@@ -3210,3 +3210,4 @@ DVD	DVD
 牙签	toothpick
 麻辣田螺	Spicy Escargots
 克利夫兰	Cleveland
+冰激凌店	ice cream shop
