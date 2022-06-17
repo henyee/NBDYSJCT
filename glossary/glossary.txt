@@ -3212,3 +3212,4 @@ DVD	DVD
 克利夫兰	Cleveland
 冰激凌店	ice cream shop
 姐姐	Sister
+新东方厨师学院	New East Culinary School
