@@ -3217,3 +3217,4 @@ DVD	DVD
 师培养基地	chef-grooming ground
 工程队	construction team
 金目白虎	Golden-Eyed White Tiger
+妖核	phantom core
