@@ -3227,3 +3227,4 @@ DVD	DVD
 蛋花汤	egg drop soup
 铁背狂牛	Iron-back Bull
 荆棘丛	Thorny Shrub
+西红柿鸡蛋汤	tomato and egg soup
