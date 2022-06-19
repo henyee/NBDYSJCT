@@ -3220,3 +3220,4 @@ DVD	DVD
 妖核	phantom core
 丹尼斯	Dennis
 团长	Captain
+猴子	Monkey
