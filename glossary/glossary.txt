@@ -3221,3 +3221,4 @@ DVD	DVD
 丹尼斯	Dennis
 团长	Captain
 猴子	Monkey
+斑纹魂豹	Striped Soul Leopard
