@@ -3222,3 +3222,4 @@ DVD	DVD
 团长	Captain
 猴子	Monkey
 斑纹魂豹	Striped Soul Leopard
+魂豹	soul leopard
