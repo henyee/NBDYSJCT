@@ -3223,3 +3223,4 @@ DVD	DVD
 猴子	Monkey
 斑纹魂豹	Striped Soul Leopard
 魂豹	soul leopard
+西红柿蛋汤	tomato and egg soup
