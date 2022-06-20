@@ -3228,3 +3228,4 @@ DVD	DVD
 铁背狂牛	Iron-back Bull
 荆棘丛	Thorny Shrub
 西红柿鸡蛋汤	tomato and egg soup
+神秘空间节点	Mysterious Space Node
