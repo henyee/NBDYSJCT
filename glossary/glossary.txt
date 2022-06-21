@@ -3235,3 +3235,4 @@ DVD	DVD
 权游	Game of Thrones
 魅魔	succubi
 安小倩	An Xiaoqian
+中校	Commander
