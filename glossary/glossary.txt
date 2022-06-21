@@ -3231,3 +3231,4 @@ DVD	DVD
 神秘空间节点	Mysterious Space Node
 魅魔互助协会	Succubi Support Association
 电影	Movie
+倩女幽魂	A Chinese Ghost Story
