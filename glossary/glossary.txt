@@ -3237,3 +3237,4 @@ DVD	DVD
 安小倩	An Xiaoqian
 中校	Commander
 分子料理	molecular gastronomy
+米饭	rice
