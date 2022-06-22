@@ -3238,3 +3238,4 @@ DVD	DVD
 中校	Commander
 分子料理	molecular gastronomy
 米饭	rice
+银河舰队	Galácticos
