@@ -2544,7 +2544,6 @@ T血清	Serum T
 巴菲特庄园	Buffett Manor
 摩尔顿庄园	Moreton Manor
 族长	head of the family
-丹尼斯	Denise
 莫尔顿家族	Moreton Family
 甜脆饼	pancake
 神识	consciousness
