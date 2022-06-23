@@ -3240,3 +3240,4 @@ DVD	DVD
 银河舰队	Galácticos
 亚历克斯先生	Mr. Alex
 山姆	Sam
+狂化药剂	Madness Potion
