@@ -3240,3 +3240,4 @@ DVD	DVD
 米饭	rice
 银河舰队	Galácticos
 亚历克斯先生	Mr. Alex
+山姆	Sam
