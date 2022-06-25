@@ -3243,3 +3243,4 @@ DVD	DVD
 狂化药剂	Madness Potion
 卡马洛	Camaro
 药剂师	pharmacist
+佣兵团	mercenary squad
