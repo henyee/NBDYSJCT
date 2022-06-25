@@ -3244,3 +3244,4 @@ DVD	DVD
 卡马洛	Camaro
 药剂师	pharmacist
 佣兵团	mercenary squad
+窜天猴	sky monkey
