@@ -3241,3 +3241,5 @@ DVD	DVD
 亚历克斯先生	Mr. Alex
 山姆	Sam
 狂化药剂	Madness Potion
+卡马洛	Camaro
+药剂师	pharmacist
