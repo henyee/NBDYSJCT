@@ -3245,3 +3245,4 @@ DVD	DVD
 药剂师	pharmacist
 佣兵团	mercenary squad
 窜天猴	sky monkey
+机械学院	Machinery College
