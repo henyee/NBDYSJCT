@@ -3248,3 +3248,6 @@ DVD	DVD
 机械学院	Machinery College
 校长	principal
 发声器	acoustic generator
+实训中心	training center
+灶台	cooktop
+麦格老师	Teacher Mag
