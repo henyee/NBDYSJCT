@@ -3247,3 +3247,4 @@ DVD	DVD
 窜天猴	sky monkey
 机械学院	Machinery College
 校长	principal
+发声器	acoustic generator
