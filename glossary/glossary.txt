@@ -3251,3 +3251,4 @@ DVD	DVD
 实训中心	training center
 灶台	cooktop
 麦格老师	Teacher Mag
+厨师实训中心	Chef's Training Center
