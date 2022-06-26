@@ -3246,3 +3246,4 @@ DVD	DVD
 佣兵团	mercenary squad
 窜天猴	sky monkey
 机械学院	Machinery College
+校长	principal
