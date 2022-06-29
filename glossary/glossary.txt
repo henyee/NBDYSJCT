@@ -3254,3 +3254,4 @@ DVD	DVD
 厨师实训中心	Chef's Training Center
 老师	teacher
 露娜校长	Principal Luna
+纸袋	paper bag
