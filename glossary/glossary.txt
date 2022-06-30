@@ -3256,3 +3256,4 @@ DVD	DVD
 露娜校长	Principal Luna
 纸袋	paper bag
 泳装	swimsuit
+泳衣	swimsuit
