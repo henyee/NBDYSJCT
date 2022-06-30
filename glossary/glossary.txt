@@ -3257,3 +3257,4 @@ DVD	DVD
 纸袋	paper bag
 泳装	swimsuit
 泳衣	swimsuit
+豹纹泳装	leopard print swimsuit
