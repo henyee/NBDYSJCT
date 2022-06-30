@@ -3258,3 +3258,7 @@ DVD	DVD
 泳装	swimsuit
 泳衣	swimsuit
 豹纹泳装	leopard print swimsuit
+大黄鱼	large yellow croaker
+清蒸大黄鱼	steamed large yellow croaker
+碳烤生蚝	charcoal-grilled oyster
+蒜蓉粉丝蒸扇贝	scallops with minced garlic and bean vermicelli
