@@ -3264,3 +3264,4 @@ DVD	DVD
 蒜蓉粉丝蒸扇贝	scallops with minced garlic and bean vermicelli
 红烧青蟹	red braised blue crab
 海带	seaweed
+扇贝	scallop
