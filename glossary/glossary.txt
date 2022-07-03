@@ -3265,3 +3265,5 @@ DVD	DVD
 红烧青蟹	red braised blue crab
 海带	seaweed
 扇贝	scallop
+切莉	Cherie
+伊妮	Eni
