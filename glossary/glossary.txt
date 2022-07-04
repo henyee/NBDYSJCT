@@ -3268,3 +3268,4 @@ DVD	DVD
 切莉	Cherie
 伊妮	Eni
 安圣岛	Anson Island
+卡罗德	Carrod
