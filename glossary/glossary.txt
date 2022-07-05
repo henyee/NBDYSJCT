@@ -3276,3 +3276,6 @@ DVD	DVD
 遗迹	traces
 传承	legacy
 潜水艇	submarine
+大理石	marble
+裂缝	crack
+裂缝	interstice
