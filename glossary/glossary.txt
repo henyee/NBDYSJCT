@@ -3275,3 +3275,4 @@ DVD	DVD
 空间裂缝	spatial interstice
 遗迹	traces
 传承	legacy
+潜水艇	submarine
