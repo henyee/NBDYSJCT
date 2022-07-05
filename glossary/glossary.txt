@@ -3272,3 +3272,6 @@ DVD	DVD
 菲彼得	Field
 拜伦	Byron
 德里克	Derek
+空间裂缝	spatial interstice
+遗迹	traces
+传承	legacy
