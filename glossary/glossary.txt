@@ -3279,3 +3279,4 @@ DVD	DVD
 大理石	marble
 裂缝	crack
 裂缝	interstice
+小乖	Kiddo
