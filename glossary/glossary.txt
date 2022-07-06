@@ -3280,3 +3280,4 @@ DVD	DVD
 裂缝	crack
 裂缝	interstice
 小乖	Kiddo
+卵生哺乳	Oviparous
