@@ -3283,3 +3283,4 @@ DVD	DVD
 卵生哺乳	Oviparous
 妹妹	younger sister
 妹妹	little sister
+炒饭	fried rice
