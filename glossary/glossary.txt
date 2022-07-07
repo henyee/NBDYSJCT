@@ -3282,3 +3282,4 @@ DVD	DVD
 小乖	Kiddo
 卵生哺乳	Oviparous
 妹妹	younger sister
+妹妹	little sister
