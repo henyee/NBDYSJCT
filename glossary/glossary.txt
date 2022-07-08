@@ -3284,3 +3284,4 @@ DVD	DVD
 妹妹	younger sister
 妹妹	little sister
 炒饭	fried rice
+写生	sketch
