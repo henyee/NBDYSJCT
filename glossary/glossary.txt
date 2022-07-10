@@ -3286,3 +3286,5 @@ DVD	DVD
 炒饭	fried rice
 写生	sketch
 吸血鬼岛	Vampire Island
+中级诅咒魔法	intermediate cursing spell
+诅咒魔法	cursing spell
