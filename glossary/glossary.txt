@@ -3288,3 +3288,4 @@ DVD	DVD
 吸血鬼岛	Vampire Island
 中级诅咒魔法	intermediate cursing spell
 诅咒魔法	cursing spell
+减肥茶	slimming tea
