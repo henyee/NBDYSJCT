@@ -3290,3 +3290,4 @@ DVD	DVD
 诅咒魔法	cursing spell
 减肥茶	slimming tea
 钱袋	money bag
+黑蛤蟆	Black Toad
