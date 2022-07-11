@@ -3292,3 +3292,4 @@ DVD	DVD
 钱袋	money bag
 黑蛤蟆	Black Toad
 卡罗琳	Caroline
+卡罗琳阿姨	Auntie Caroline
