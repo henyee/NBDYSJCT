@@ -3289,3 +3289,4 @@ DVD	DVD
 中级诅咒魔法	intermediate cursing spell
 诅咒魔法	cursing spell
 减肥茶	slimming tea
+钱袋	money bag
