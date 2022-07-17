@@ -3300,3 +3300,5 @@ DVD	DVD
 减肥果汁	slimming fruit juice
 魔影	Magvie
 代理权	dealership
+电影院	cinema
+光影	holographic
