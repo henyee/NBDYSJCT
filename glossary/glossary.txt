@@ -3308,3 +3308,4 @@ DVD	DVD
 播放器	player
 剧本	script
 编剧	scriptwriter
+分镜	storyboard
