@@ -3306,3 +3306,4 @@ DVD	DVD
 播放设备	playback device
 设备	equipment
 播放器	player
+剧本	script
