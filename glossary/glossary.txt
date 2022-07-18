@@ -3304,3 +3304,4 @@ DVD	DVD
 光影	holographic
 拍摄设备	shooting equipment
 播放设备	playback device
+设备	equipment
