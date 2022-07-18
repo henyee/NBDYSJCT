@@ -3307,3 +3307,4 @@ DVD	DVD
 设备	equipment
 播放器	player
 剧本	script
+编剧	scriptwriter
