@@ -3309,3 +3309,4 @@ DVD	DVD
 剧本	script
 编剧	scriptwriter
 分镜	storyboard
+春笋炒肉片	stir-fried pork with spring bamboo shoots
