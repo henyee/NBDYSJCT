@@ -3312,3 +3312,4 @@ DVD	DVD
 春笋炒肉片	stir-fried pork with spring bamboo shoots
 树妖	dryad
 脑机接口	brain-computer interface
+脑机	brain-computer interface
