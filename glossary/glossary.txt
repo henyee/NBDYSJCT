@@ -3326,3 +3326,4 @@ DVD	DVD
 同人小说	fan fiction
 蓝特出版社	Randt Publishing House
 发行使用费	Issue royalties
+笑得合不拢嘴	grin from ear to ear
