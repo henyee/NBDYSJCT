@@ -3323,3 +3323,4 @@ DVD	DVD
 帕达尔	Padar
 出版社	publishing house
 稿费	remuneration
+同人小说	fan fiction
