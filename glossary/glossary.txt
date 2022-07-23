@@ -3328,3 +3328,4 @@ DVD	DVD
 发行使用费	Issue royalties
 笑得合不拢嘴	grin from ear to ear
 同行	peers
+制式合同	standard contract
