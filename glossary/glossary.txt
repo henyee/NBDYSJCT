@@ -3330,3 +3330,4 @@ DVD	DVD
 同行	peers
 制式合同	standard contract
 担保人	guarantor
+敷衍	perfunctory
