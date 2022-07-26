@@ -3338,3 +3338,4 @@ DVD	DVD
 小小老板	Tiny Boss
 杀气	murderous intent
 神秘奖励	Mysterious reward
+黑粉	Anti-fan
