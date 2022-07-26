@@ -3339,3 +3339,4 @@ DVD	DVD
 杀气	murderous intent
 神秘奖励	Mysterious reward
 黑粉	Anti-fan
+布西街	Boosey Street
