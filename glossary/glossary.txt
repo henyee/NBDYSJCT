@@ -3336,3 +3336,4 @@ DVD	DVD
 合约	contract
 精神系魔法师	spiritual magic caster
 小小老板	Tiny Boss
+杀气	murderous intent
