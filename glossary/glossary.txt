@@ -3340,3 +3340,5 @@ DVD	DVD
 神秘奖励	Mysterious reward
 黑粉	Anti-fan
 布西街	Boosey Street
+围挡	hoarding
+麦米广场	Mamy Square
