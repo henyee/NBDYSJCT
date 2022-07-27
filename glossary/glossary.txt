@@ -3345,3 +3345,4 @@ DVD	DVD
 商业中心	commercial center
 麦米影城	Mamy Cineplex
 影城	cineplex
+商城	mall
