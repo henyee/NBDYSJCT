@@ -3344,3 +3344,4 @@ DVD	DVD
 麦米广场	Mamy Square
 商业中心	commercial center
 麦米影城	Mamy Cineplex
+影城	cineplex
