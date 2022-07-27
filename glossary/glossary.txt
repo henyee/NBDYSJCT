@@ -3347,3 +3347,4 @@ DVD	DVD
 影城	cineplex
 商城	mall
 植物系魔法师	botany magic casters
+建工地	construction site
