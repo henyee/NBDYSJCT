@@ -3363,3 +3363,4 @@ DVD	DVD
 实践课程	practical course
 麦老师	Teacher Mag
 助教	teaching assistant
+课程表	timetable
