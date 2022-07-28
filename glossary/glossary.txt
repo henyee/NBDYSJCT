@@ -3362,3 +3362,4 @@ DVD	DVD
 副主编	deputy chief editor
 实践课程	practical course
 麦老师	Teacher Mag
+助教	teaching assistant
