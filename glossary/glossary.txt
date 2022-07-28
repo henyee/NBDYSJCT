@@ -3357,3 +3357,4 @@ DVD	DVD
 奥罗拉	Aurora
 洗浴中心	bathhouse
 埃莉诺	Eleanor
+作者	author
