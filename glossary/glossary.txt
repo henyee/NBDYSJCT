@@ -3359,3 +3359,4 @@ DVD	DVD
 作者	author
 麦米出版社	Mamy Publishing House
 魅魔情缘	Love Of A Succubus
+副主编	deputy chief editor
