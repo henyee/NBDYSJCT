@@ -3356,3 +3356,4 @@ DVD	DVD
 女编辑	female editor
 奥罗拉	Aurora
 洗浴中心	bathhouse
+埃莉诺	Eleanor
