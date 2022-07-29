@@ -3368,3 +3368,5 @@ DVD	DVD
 教学楼	teaching building
 希拉老师	Teacher Hera
 贝克	Beck
+厨师	chef
+厨师	cook
