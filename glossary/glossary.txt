@@ -3366,3 +3366,4 @@ DVD	DVD
 课程表	timetable
 孩子	children
 教学楼	teaching building
+希拉老师	Teacher Hera
