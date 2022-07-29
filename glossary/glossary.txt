@@ -3364,3 +3364,5 @@ DVD	DVD
 麦老师	Teacher Mag
 助教	teaching assistant
 课程表	timetable
+孩子	children
+教学楼	teaching building
