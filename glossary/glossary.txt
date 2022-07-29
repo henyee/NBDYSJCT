@@ -3371,3 +3371,4 @@ DVD	DVD
 厨师	chef
 厨师	cook
 厨神进阶班	God of Cookery's Advanced Class
+铁锅	metal pot
