@@ -3370,3 +3370,4 @@ DVD	DVD
 贝克	Beck
 厨师	chef
 厨师	cook
+厨神进阶班	God of Cookery's Advanced Class
