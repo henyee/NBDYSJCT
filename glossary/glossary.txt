@@ -3367,3 +3367,4 @@ DVD	DVD
 孩子	children
 教学楼	teaching building
 希拉老师	Teacher Hera
+贝克	Beck
