@@ -3380,3 +3380,4 @@ DVD	DVD
 实训	practical course
 教师	teacher
 大楼	building
+学生	student
