@@ -3376,3 +3376,4 @@ DVD	DVD
 半兽人	half-orc
 食堂	canteen
 学号	Student Number
+讲台	lectern
