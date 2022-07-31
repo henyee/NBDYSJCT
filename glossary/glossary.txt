@@ -3377,3 +3377,4 @@ DVD	DVD
 食堂	canteen
 学号	Student Number
 讲台	lectern
+实训	practical course
