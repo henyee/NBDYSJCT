@@ -3374,3 +3374,4 @@ DVD	DVD
 铁锅	metal pot
 法拉	Farah
 半兽人	half-orc
+食堂	canteen
