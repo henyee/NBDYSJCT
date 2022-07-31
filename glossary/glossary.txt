@@ -3375,3 +3375,4 @@ DVD	DVD
 法拉	Farah
 半兽人	half-orc
 食堂	canteen
+学号	Student Number
