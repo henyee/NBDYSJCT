@@ -3379,3 +3379,4 @@ DVD	DVD
 讲台	lectern
 实训	practical course
 教师	teacher
+大楼	building
