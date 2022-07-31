@@ -3378,3 +3378,4 @@ DVD	DVD
 学号	Student Number
 讲台	lectern
 实训	practical course
+教师	teacher
