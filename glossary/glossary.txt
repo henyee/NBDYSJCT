@@ -3382,3 +3382,4 @@ DVD	DVD
 大楼	building
 学生	student
 贵妇	wealthy ladies
+蛋糕	Cake
