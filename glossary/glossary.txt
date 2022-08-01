@@ -3385,3 +3385,4 @@ DVD	DVD
 蛋糕	Cake
 芒果慕斯蛋糕	mango mousse cake
 芒果	mango
+芒果慕斯	Mango Mousse
