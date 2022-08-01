@@ -3386,3 +3386,5 @@ DVD	DVD
 芒果慕斯蛋糕	mango mousse cake
 芒果	mango
 芒果慕斯	Mango Mousse
+提拉米苏	tiramisu
+抹茶慕斯	Macha mousse
