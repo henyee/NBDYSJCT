@@ -3387,6 +3387,7 @@ DVD	DVD
 芒果	mango
 芒果慕斯	Mango Mousse
 提拉米苏	tiramisu
-抹茶慕斯	Macha mousse
 月考	monthly test
 梅丽老师	Teacher Meli
+抹茶慕斯	Matcha mousse
+姜丝	shredded ginger
