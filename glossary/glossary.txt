@@ -3392,3 +3392,4 @@ DVD	DVD
 抹茶慕斯	Matcha mousse
 姜丝	shredded ginger
 进阶班	Advanced Class
+出来吧!	Manifest!
