@@ -3391,3 +3391,4 @@ DVD	DVD
 梅丽老师	Teacher Meli
 抹茶慕斯	Matcha mousse
 姜丝	shredded ginger
+进阶班	Advanced Class
