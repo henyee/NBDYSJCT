@@ -3396,3 +3396,4 @@ DVD	DVD
 冰箭	ice arrow
 神器	artifact
 回去吧！	Go back!
+阿尔瓦	Alva
