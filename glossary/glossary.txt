@@ -3395,3 +3395,4 @@ DVD	DVD
 出来吧!	Manifest!
 冰箭	ice arrow
 神器	artifact
+回去吧！	Go back!
