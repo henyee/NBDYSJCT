@@ -3400,3 +3400,5 @@ DVD	DVD
 卖米餐厅	Mami Restaurant
 孙悟空三打白骨精	Monkey Subdues White-Skeleton Demon
 西游记	Journey to the West
+孙悟空	Monkey
+唐僧	Tripitaka
