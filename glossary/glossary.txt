@@ -3403,3 +3403,4 @@ DVD	DVD
 孙悟空	Monkey
 唐僧	Tripitaka
 白虎岭	White Tiger Ridge
+唐三藏	Tripitaka
