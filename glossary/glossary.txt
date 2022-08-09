@@ -3409,3 +3409,4 @@ DVD	DVD
 男主角	male lead
 克莱得	Clyde
 酸辣土豆丝	Hot and sour shredded potato
+伊莎	Issa
