@@ -3411,3 +3411,4 @@ DVD	DVD
 酸辣土豆丝	Hot and sour shredded potato
 伊莎	Issa
 椒盐土豆	Salt & Pepper Potatoes
+土豆丝	shredded potatoes
