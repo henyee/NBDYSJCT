@@ -3414,3 +3414,4 @@ DVD	DVD
 土豆丝	shredded potatoes
 基石	cornerstone
 小猪	piglet
+猪	pig
