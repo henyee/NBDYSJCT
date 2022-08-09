@@ -3410,3 +3410,4 @@ DVD	DVD
 克莱得	Clyde
 酸辣土豆丝	Hot and sour shredded potato
 伊莎	Issa
+椒盐土豆	Salt & Pepper Potatoes
