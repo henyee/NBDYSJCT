@@ -3412,3 +3412,4 @@ DVD	DVD
 伊莎	Issa
 椒盐土豆	Salt & Pepper Potatoes
 土豆丝	shredded potatoes
+基石	cornerstone
