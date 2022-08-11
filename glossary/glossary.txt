@@ -3418,3 +3418,4 @@ DVD	DVD
 黑铁卫	Black Queensguard
 女王	Queen
 登基	ascension
+加冕	coronation
