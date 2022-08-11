@@ -3419,3 +3419,4 @@ DVD	DVD
 女王	Queen
 登基	ascension
 加冕	coronation
+加冕大典	coronation ceremony
