@@ -3421,3 +3421,4 @@ DVD	DVD
 加冕	coronation
 加冕大典	coronation ceremony
 加冕典礼	coronation ceremony
+令牌	token
