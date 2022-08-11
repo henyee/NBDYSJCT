@@ -3420,3 +3420,4 @@ DVD	DVD
 登基	ascension
 加冕	coronation
 加冕大典	coronation ceremony
+加冕典礼	coronation ceremony
