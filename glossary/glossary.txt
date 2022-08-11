@@ -3422,3 +3422,4 @@ DVD	DVD
 加冕大典	coronation ceremony
 加冕典礼	coronation ceremony
 令牌	token
+班奈特	Bennett
