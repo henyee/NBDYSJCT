@@ -3423,3 +3423,4 @@ DVD	DVD
 加冕典礼	coronation ceremony
 令牌	token
 班奈特	Bennett
+白玉阶梯	white jade stairs
