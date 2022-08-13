@@ -3427,3 +3427,4 @@ DVD	DVD
 白玉祭坛	white jade altar
 石碑	stele
 神格	divinity
+传音	telepathically
