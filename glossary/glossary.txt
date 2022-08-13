@@ -3426,3 +3426,4 @@ DVD	DVD
 白玉阶梯	white jade stairs
 白玉祭坛	white jade altar
 石碑	stele
+神格	divinity
