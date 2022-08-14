@@ -3429,3 +3429,4 @@ DVD	DVD
 神格	divinity
 传音	telepathically
 传声	telepathically
+神婴	holy infant
