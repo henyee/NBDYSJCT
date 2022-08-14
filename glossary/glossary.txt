@@ -3431,3 +3431,6 @@ DVD	DVD
 传声	telepathically
 神婴	holy infant
 女婴	baby girl
+摇篮	cradle
+金属舱	metal pod
+舱	pod
