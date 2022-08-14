@@ -3434,3 +3434,4 @@ DVD	DVD
 摇篮	cradle
 金属舱	metal pod
 舱	pod
+怪物	monster
