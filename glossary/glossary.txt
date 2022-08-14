@@ -3430,3 +3430,4 @@ DVD	DVD
 传音	telepathically
 传声	telepathically
 神婴	holy infant
+女婴	baby girl
