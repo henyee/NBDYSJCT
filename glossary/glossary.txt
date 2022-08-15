@@ -3435,3 +3435,4 @@ DVD	DVD
 金属舱	metal pod
 舱	pod
 怪物	monster
+陛下	Her Majesty
