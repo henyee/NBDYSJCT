@@ -3436,3 +3436,4 @@ DVD	DVD
 舱	pod
 怪物	monster
 陛下	Her Majesty
+母皇	Royal Mother
