@@ -3437,3 +3437,4 @@ DVD	DVD
 怪物	monster
 陛下	Her Majesty
 母皇	Royal Mother
+核心	nuclear core
