@@ -3440,3 +3440,4 @@ DVD	DVD
 核心	nuclear core
 金属仓	metal pod
 藤	vine
+孩子	child
