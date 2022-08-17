@@ -3446,3 +3446,4 @@ DVD	DVD
 执法队	law enforcement team
 上校	Colonel
 文明	civilization
+编年史	chronicle
