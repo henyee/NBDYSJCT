@@ -3445,3 +3445,4 @@ DVD	DVD
 越界者	trespasser
 执法队	law enforcement team
 上校	Colonel
+文明	civilization
