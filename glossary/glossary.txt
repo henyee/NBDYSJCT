@@ -3442,3 +3442,5 @@ DVD	DVD
 藤	vine
 孩子	child
 机关术	mechanism
+越界者	trespasser
+执法队	law enforcement team
