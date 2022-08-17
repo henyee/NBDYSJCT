@@ -3444,3 +3444,4 @@ DVD	DVD
 机关术	mechanism
 越界者	trespasser
 执法队	law enforcement team
+上校	Colonel
