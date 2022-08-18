@@ -3448,3 +3448,4 @@ DVD	DVD
 文明	civilization
 编年史	chronicle
 羊奶	goat's milk
+芽衣	Yayi
