@@ -3449,3 +3449,4 @@ DVD	DVD
 编年史	chronicle
 羊奶	goat's milk
 芽衣	Yayi
+芽衣小妹妹	Little Sister Yayi
