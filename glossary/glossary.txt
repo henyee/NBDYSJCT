@@ -3457,3 +3457,5 @@ DVD	DVD
 分析报告	analysis report
 核心	core
 五大	Big Five
+技术人员	Technical staff
+不死者	Immortel
