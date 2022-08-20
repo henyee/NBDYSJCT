@@ -3460,3 +3460,4 @@ DVD	DVD
 技术人员	Technical staff
 不死者	Immortel
 技术部	Technical Department
+越境者	trespassers
