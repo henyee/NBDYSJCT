@@ -3465,3 +3465,4 @@ DVD	DVD
 长矛	spear
 嘤	ouin
 超凡	Extraordinaire
+米娅老师	Teacher Miya
