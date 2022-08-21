@@ -3463,3 +3463,4 @@ DVD	DVD
 越境者	trespassers
 石柱	stone pillar
 长矛	spear
+嘤	ouin
