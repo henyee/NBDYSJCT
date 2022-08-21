@@ -3464,3 +3464,4 @@ DVD	DVD
 石柱	stone pillar
 长矛	spear
 嘤	ouin
+超凡	Extraordinaire
