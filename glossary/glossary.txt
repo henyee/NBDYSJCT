@@ -3468,3 +3468,4 @@ DVD	DVD
 米娅老师	Teacher Miya
 削皮	peel
 皮特	Pete
+标杆	benchmark
