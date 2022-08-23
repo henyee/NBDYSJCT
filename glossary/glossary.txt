@@ -3471,3 +3471,4 @@ DVD	DVD
 标杆	benchmark
 工艺	workmanship
 航母	aircraft carrier
+五十亿	5,000,000,000
