@@ -3470,3 +3470,4 @@ DVD	DVD
 皮特	Pete
 标杆	benchmark
 工艺	workmanship
+航母	aircraft carrier
