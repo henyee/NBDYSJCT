@@ -3472,3 +3472,4 @@ DVD	DVD
 工艺	workmanship
 航母	aircraft carrier
 五十亿	5,000,000,000
+三十亿	3,000,000,000
