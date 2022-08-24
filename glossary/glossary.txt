@@ -3476,3 +3476,4 @@ DVD	DVD
 生产链	supply chain
 十五亿	1,500,000,000
 领地	territory
+半步超凡	Almost-Extraordinaire
