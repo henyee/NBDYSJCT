@@ -3475,3 +3475,4 @@ DVD	DVD
 三十亿	3,000,000,000
 生产链	supply chain
 十五亿	1,500,000,000
+领地	territory
