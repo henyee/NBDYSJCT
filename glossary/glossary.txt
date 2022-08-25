@@ -3477,3 +3477,4 @@ DVD	DVD
 十五亿	1,500,000,000
 领地	territory
 半步超凡	Almost-Extraordinaire
+下属	subordinate
