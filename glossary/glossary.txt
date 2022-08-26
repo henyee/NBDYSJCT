@@ -3483,3 +3483,4 @@ DVD	DVD
 思想家	philosopher
 美食	Gourmet
 半超凡	Almost-Extraordinaire
+军方	military
