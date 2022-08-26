@@ -3482,3 +3482,4 @@ DVD	DVD
 铁路	railroad
 思想家	philosopher
 美食	Gourmet
+半超凡	Almost-Extraordinaire
