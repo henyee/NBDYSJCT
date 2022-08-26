@@ -3481,3 +3481,4 @@ DVD	DVD
 配菜	side ingredients
 铁路	railroad
 思想家	philosopher
+美食	Gourmet
