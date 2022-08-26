@@ -3480,3 +3480,4 @@ DVD	DVD
 下属	subordinate
 配菜	side ingredients
 铁路	railroad
+思想家	philosopher
