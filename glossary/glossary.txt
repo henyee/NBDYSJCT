@@ -3478,5 +3478,5 @@ DVD	DVD
 领地	territory
 半步超凡	Almost-Extraordinaire
 下属	subordinate
-铁路	rail road
 配菜	side ingredients
+铁路	railroad
