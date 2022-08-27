@@ -3484,3 +3484,11 @@ DVD	DVD
 美食	Gourmet
 半超凡	Almost-Extraordinaire
 军方	military
+联邦	Federation
+第一元帅	Number One Marshal
+手环	bangle
+身份手环	identity bangle
+黑曜石	obsidian
+雷电珠	Thunderball
+密匙	cryphographic key
+雷鸣舰	Thunder Ship
