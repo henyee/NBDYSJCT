@@ -3490,6 +3490,6 @@ DVD	DVD
 身份手环	identity bangle
 黑曜石	obsidian
 雷电珠	Thunderball
-密匙	cryphographic key
+密匙	cryptographic key
 雷鸣舰	Thunder Ship
 单人作战	solo combat
