@@ -3498,3 +3498,7 @@ DVD	DVD
 政治体系	political system
 总统	president
 第一元帅	First Marshal
+麦卡锡	McCarthy
+麦卡锡家族	McCarthy Family
+塔姆议员	Congressman Tamm
+阿曼德	Armand
