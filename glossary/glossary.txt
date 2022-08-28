@@ -3502,3 +3502,4 @@ DVD	DVD
 麦卡锡家族	McCarthy Family
 塔姆议员	Congressman Tamm
 阿曼德	Armand
+参悟	comprehend
