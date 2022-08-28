@@ -3493,3 +3493,4 @@ DVD	DVD
 密匙	cryptographic key
 雷鸣舰	Thunder Ship
 单人作战	solo combat
+神碑	sacred stele
