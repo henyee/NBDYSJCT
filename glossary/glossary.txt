@@ -3496,3 +3496,5 @@ DVD	DVD
 神碑	sacred stele
 神秘	mysterious
 地下城联邦	Underground City Federation
+政治体系	political system
+总统	president
