@@ -3485,7 +3485,6 @@ DVD	DVD
 半超凡	Almost-Extraordinaire
 军方	military
 联邦	Federation
-第一元帅	Number One Marshal
 手环	bangle
 身份手环	identity bangle
 黑曜石	obsidian
@@ -3498,3 +3497,4 @@ DVD	DVD
 地下城联邦	Underground City Federation
 政治体系	political system
 总统	president
+第一元帅	First Marshal
