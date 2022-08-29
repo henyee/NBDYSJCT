@@ -3509,3 +3509,4 @@ DVD	DVD
 载人列车	passenger train
 总工	chief engineer
 战服	combat suit
+保温盒	insulated box
