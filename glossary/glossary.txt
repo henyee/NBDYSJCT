@@ -3513,3 +3513,5 @@ DVD	DVD
 官方语言	official language
 飞车	flying car
 油门	accelerator
+仪表盘	instrument panel
+时速	speed
