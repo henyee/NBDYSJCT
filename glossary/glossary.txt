@@ -3512,3 +3512,4 @@ DVD	DVD
 保温盒	insulated box
 官方语言	official language
 飞车	flying car
+油门	accelerator
