@@ -3508,3 +3508,4 @@ DVD	DVD
 工程部	engineering department
 载人列车	passenger train
 总工	chief engineer
+战服	combat suit
