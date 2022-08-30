@@ -3518,3 +3518,4 @@ DVD	DVD
 普通话	common speech
 通用语	Common language
 影视库	video library
+防撞	collision avoidance
