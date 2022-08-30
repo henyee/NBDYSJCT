@@ -3515,3 +3515,5 @@ DVD	DVD
 油门	accelerator
 仪表盘	instrument panel
 时速	speed
+普通话	common speech
+通用语	Common language
