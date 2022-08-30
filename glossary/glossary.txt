@@ -3529,3 +3529,4 @@ DVD	DVD
 倾国绝恋	Desperate Love
 男主	male lead
 膀胱	bladder
+动漫	anime
