@@ -3525,3 +3525,4 @@ DVD	DVD
 武器库	armory
 加特林	Gatling
 教练	Coach
+好评榜	top rated list
