@@ -3533,3 +3533,4 @@ DVD	DVD
 二十四亿	24,000,000
 哈迪斯·塞班	Hades Saipan
 照片	photograph
+灵感	inspiration
