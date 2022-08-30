@@ -3527,3 +3527,5 @@ DVD	DVD
 教练	Coach
 好评榜	top-rated list
 倾国绝恋	Desperate Love
+男主	male lead
+膀胱	bladder
