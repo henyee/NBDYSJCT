@@ -3520,3 +3520,5 @@ DVD	DVD
 影视库	video library
 防撞	collision avoidance
 狙击枪	sniper rifle
+枪械	guns
+枪械库	armory
