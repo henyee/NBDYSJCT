@@ -3530,3 +3530,4 @@ DVD	DVD
 男主	male lead
 膀胱	bladder
 动漫	anime
+二十四亿	24,000,000
