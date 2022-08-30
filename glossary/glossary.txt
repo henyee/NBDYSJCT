@@ -3524,3 +3524,4 @@ DVD	DVD
 枪械库	armory
 武器库	armory
 加特林	Gatling
+教练	Coach
