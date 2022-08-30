@@ -3522,3 +3522,5 @@ DVD	DVD
 狙击枪	sniper rifle
 枪械	guns
 枪械库	armory
+武器库	armory
+加特林	Gatling
