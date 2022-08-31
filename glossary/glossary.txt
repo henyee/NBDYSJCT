@@ -3535,3 +3535,5 @@ DVD	DVD
 照片	photograph
 灵感	inspiration
 蒸汽朋克	steampunk
+哪吒	Nezha
+陈塘关	Chentang Pass
