@@ -3546,3 +3546,4 @@ DVD	DVD
 厨神争霸赛	Top Chef Competition
 界面	interface
 功能	function
+贾斯珀．弗拉格	Jasper Flagg
