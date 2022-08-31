@@ -3544,3 +3544,5 @@ DVD	DVD
 摩卡集团	Mocha Group
 比赛	competition
 厨神争霸赛	Top Chef Competition
+界面	interface
+功能	function
