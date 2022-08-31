@@ -3550,3 +3550,5 @@ DVD	DVD
 弗拉格	Flagg
 节目组	programming division
 神秘嘉宾	mysterious guest
+热搜	trending
+微推	WeTwit
