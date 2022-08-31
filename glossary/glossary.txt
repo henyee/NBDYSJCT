@@ -3542,3 +3542,4 @@ DVD	DVD
 塔克城	Tucker City
 综艺节目	variety show
 摩卡集团	Mocha Group
+比赛	competition
