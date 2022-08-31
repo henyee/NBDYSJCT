@@ -3538,3 +3538,5 @@ DVD	DVD
 哪吒	Nezha
 陈塘关	Chentang Pass
 四海龙王	Four Dragon Kings of the Sea
+厨王争霸赛	Top Chef Competition
+塔克城	Tucker City
