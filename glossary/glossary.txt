@@ -3547,3 +3547,6 @@ DVD	DVD
 界面	interface
 功能	function
 贾斯珀．弗拉格	Jasper Flagg
+弗拉格	Flagg
+节目组	programming division
+神秘嘉宾	mysterious guest
