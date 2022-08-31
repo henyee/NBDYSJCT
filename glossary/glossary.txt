@@ -3540,3 +3540,4 @@ DVD	DVD
 四海龙王	Four Dragon Kings of the Sea
 厨王争霸赛	Top Chef Competition
 塔克城	Tucker City
+综艺节目	variety show
