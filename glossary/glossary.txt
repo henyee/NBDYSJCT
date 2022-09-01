@@ -3571,3 +3571,4 @@ DVD	DVD
 八强赛	quarterfinal
 四强赛	semifinal
 决赛	final
+饭圈	fandom
