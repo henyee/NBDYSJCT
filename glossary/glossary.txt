@@ -3582,3 +3582,5 @@ DVD	DVD
 莫林	Merlin
 南希	Nancy
 运营	operations
+pk通道	pk channel
+引流活动	inbound marketing
