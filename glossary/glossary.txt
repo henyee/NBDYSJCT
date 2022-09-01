@@ -3567,3 +3567,4 @@ DVD	DVD
 练习生	intern
 娱乐公司	entertainment company
 网络人气	online popularity
+人气	popularity
