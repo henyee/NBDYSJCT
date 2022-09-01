@@ -3568,3 +3568,6 @@ DVD	DVD
 娱乐公司	entertainment company
 网络人气	online popularity
 人气	popularity
+八强赛	quarterfinal
+四强赛	semifinal
+决赛	final
