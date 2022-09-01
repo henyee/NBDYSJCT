@@ -3580,3 +3580,5 @@ DVD	DVD
 临时演员	Extras
 狄克逊庄园	Dixon Manor
 莫林	Merlin
+南希	Nancy
+运营	operations
