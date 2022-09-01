@@ -3576,3 +3576,4 @@ DVD	DVD
 巴特	Bart
 霍勒斯	Horace
 查利	Charlie
+不言而喻	self-evident
