@@ -3566,3 +3566,4 @@ DVD	DVD
 专业厨师组	professional chefs' team
 练习生	intern
 娱乐公司	entertainment company
+网络人气	online popularity
