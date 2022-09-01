@@ -3573,3 +3573,5 @@ DVD	DVD
 决赛	final
 饭圈	fandom
 娱乐圈	entertainment industry
+巴特	Bart
+霍勒斯	Horace
