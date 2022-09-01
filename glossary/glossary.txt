@@ -3572,3 +3572,4 @@ DVD	DVD
 四强赛	semifinal
 决赛	final
 饭圈	fandom
+娱乐圈	entertainment industry
