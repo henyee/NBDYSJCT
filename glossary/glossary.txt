@@ -3582,7 +3582,6 @@ DVD	DVD
 莫林	Merlin
 南希	Nancy
 运营	operations
-pk通道	pk channel
 引流活动	inbound marketing
 引流	redirection
 引流	referral traffic
@@ -3593,3 +3592,4 @@ pk通道	pk channel
 阿卡丽	Akali
 董事会	Board of Directors
 政府	government
+pk通道	PK channel
