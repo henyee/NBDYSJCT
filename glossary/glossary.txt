@@ -3585,3 +3585,4 @@ DVD	DVD
 pk通道	pk channel
 引流活动	inbound marketing
 引流	redirection
+引流	referral traffic
