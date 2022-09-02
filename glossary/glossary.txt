@@ -3593,3 +3593,4 @@ DVD	DVD
 董事会	Board of Directors
 政府	government
 pk通道	PK channel
+pk值	PK value
