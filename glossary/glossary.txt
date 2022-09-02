@@ -3592,3 +3592,4 @@ pk通道	pk channel
 评论区	comment section
 阿卡丽	Akali
 董事会	Board of Directors
+政府	government
