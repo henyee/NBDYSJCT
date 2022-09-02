@@ -3590,3 +3590,4 @@ pk通道	pk channel
 账号	account
 评论	comment
 评论区	comment section
+阿卡丽	Akali
