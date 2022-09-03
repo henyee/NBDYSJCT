@@ -3607,3 +3607,5 @@ pk链接	PK link
 pk页面	PK page
 十六强	round of 16
 十人评审团	ten-member judging panel
+评审团	panel
+专业	professional
