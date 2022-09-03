@@ -3605,3 +3605,5 @@ pk值	PK value
 pk链接	PK link
 网络评分	online score
 pk页面	PK page
+十六强	round of 16
+十人评审团	ten-member judging panel
