@@ -3596,3 +3596,4 @@ pk通道	PK channel
 pk值	PK value
 萝拉	Laura
 特工	agent
+高科技	high tech
