@@ -3604,3 +3604,4 @@ pk值	PK value
 翰尼	Johnny
 pk链接	PK link
 网络评分	online score
+pk页面	PK page
