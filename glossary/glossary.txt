@@ -3599,3 +3599,4 @@ pk值	PK value
 高科技	high tech
 摩卡大厦	Mocha Building
 工作证	staff pass
+货运通道	freight channel
