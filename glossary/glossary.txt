@@ -3598,3 +3598,4 @@ pk值	PK value
 特工	agent
 高科技	high tech
 摩卡大厦	Mocha Building
+工作证	staff pass
