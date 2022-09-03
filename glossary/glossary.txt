@@ -3602,3 +3602,5 @@ pk值	PK value
 货运通道	freight channel
 安保系统	security system
 翰尼	Johnny
+pk链接	PK link
+网络评分	online score
