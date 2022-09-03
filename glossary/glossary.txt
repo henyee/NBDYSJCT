@@ -3609,3 +3609,4 @@ pk页面	PK page
 十人评审团	ten-member judging panel
 评审团	panel
 专业	professional
+化妆间	dressing room
