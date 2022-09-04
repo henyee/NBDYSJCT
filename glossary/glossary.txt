@@ -3612,3 +3612,5 @@ pk页面	PK page
 化妆间	dressing room
 总裁	CEO
 评委	judges
+厨艺	culinary skills
+打投通道	voting channel
