@@ -3629,3 +3629,4 @@ pk页面	PK page
 正义哥	Brother Righteous
 水军	Internet water army
 哈迪斯小哥哥	Brother Hades
+总监	Chief Executive
