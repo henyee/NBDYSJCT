@@ -3625,3 +3625,5 @@ pk页面	PK page
 别墅	villa
 约翰逊	Johnny
 宣发部	Publicity Department
+正义	Righteous
+正义哥	Brother Righteous
