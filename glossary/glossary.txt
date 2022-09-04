@@ -3618,3 +3618,4 @@ pk页面	PK page
 阿莫斯	Amos
 秘书处	Secretariat
 网民	netizen
+置顶	pinned
