@@ -3616,3 +3616,4 @@ pk页面	PK page
 打投通道	voting channel
 军方秘书处	Military Secretariat
 阿莫斯	Amos
+秘书处	Secretariat
