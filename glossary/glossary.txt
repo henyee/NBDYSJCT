@@ -3614,3 +3614,4 @@ pk页面	PK page
 评委	judges
 厨艺	culinary skills
 打投通道	voting channel
+军方秘书处	Military Secretariat
