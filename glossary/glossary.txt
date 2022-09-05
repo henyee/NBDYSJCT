@@ -3639,3 +3639,5 @@ pk页面	PK page
 黑利草原	Haley Grassland
 野狼部落	Wild Wolf Tribe
 老亨特	Old Hunter
+美食评论家	food critic
+戴维	David
