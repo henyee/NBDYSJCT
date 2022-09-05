@@ -3644,3 +3644,4 @@ pk页面	PK page
 塔克大饭店	Tucker Restaurant
 朱利安	Julian
 弹幕	Bullet chat
+清炖玄玉龟	boiled black jade turtle in clear soup
