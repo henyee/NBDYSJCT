@@ -3636,3 +3636,6 @@ pk页面	PK page
 亨特	Hunter
 影视基地	film and video base
 黑利羊	Haley Goat
+黑利草原	Haley Grassland
+野狼部落	Wild Wolf Tribe
+老亨特	Old Hunter
