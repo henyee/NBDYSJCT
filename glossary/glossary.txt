@@ -3643,3 +3643,4 @@ pk页面	PK page
 戴维	David
 塔克大饭店	Tucker Restaurant
 朱利安	Julian
+弹幕	Bullet chat
