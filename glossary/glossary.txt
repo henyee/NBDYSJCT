@@ -3641,3 +3641,5 @@ pk页面	PK page
 老亨特	Old Hunter
 美食评论家	food critic
 戴维	David
+塔克大饭店	Tucker Restaurant
+朱利安	Julian
