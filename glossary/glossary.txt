@@ -3650,3 +3650,4 @@ pk页面	PK page
 乌龟汤	turtle soup
 安吉丽娜	Angelina
 七彩凤凰	Rainbow Phoenix
+山鸡	pheasant
