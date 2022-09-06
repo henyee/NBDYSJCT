@@ -3648,3 +3648,5 @@ pk页面	PK page
 碳烤羊排	Charcoal-roasted goat's ribs
 清蒸黄龙鱼	steamed yellow dragon fish
 乌龟汤	turtle soup
+安吉丽娜	Angelina
+七彩凤凰	Rainbow Phoenix
