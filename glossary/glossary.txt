@@ -3651,3 +3651,4 @@ pk页面	PK page
 安吉丽娜	Angelina
 七彩凤凰	Rainbow Phoenix
 山鸡	pheasant
+碳烤羊排	charcoal-roasted mutton ribs
