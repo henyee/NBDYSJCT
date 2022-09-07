@@ -3653,3 +3653,4 @@ pk页面	PK page
 山鸡	pheasant
 碳烤羊排	charcoal-roasted mutton ribs
 烤羊排	grilled mutton ribs
+炭	charcoal
