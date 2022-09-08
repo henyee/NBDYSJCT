@@ -3657,3 +3657,4 @@ pk页面	PK page
 主厨	head chef
 铁面	iron-face
 碳烤羊排	charcoal-grilled mutton ribs
+麦卡锡庄园	McCarthy Manor
