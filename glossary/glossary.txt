@@ -3662,3 +3662,4 @@ pk页面	PK page
 年轻人	young man
 审判者	The Adjudicator
 执事	deacon
+侦办局	Justice Investigation Bureau
