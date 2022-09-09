@@ -3665,3 +3665,4 @@ pk页面	PK page
 侦办局	Justice Investigation Bureau
 直播间	live-studio
 审判霍勒斯	Judging Horace
+侦查局	Justice Investigation Bureau
