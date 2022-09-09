@@ -3667,3 +3667,4 @@ pk页面	PK page
 审判霍勒斯	Judging Horace
 侦查局	Justice Investigation Bureau
 运营总监	Director of Operations
+帕沙特	Pashat
