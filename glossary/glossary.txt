@@ -3663,3 +3663,5 @@ pk页面	PK page
 审判者	The Adjudicator
 执事	deacon
 侦办局	Justice Investigation Bureau
+直播间	live-studio
+审判霍勒斯	Judging Horace
