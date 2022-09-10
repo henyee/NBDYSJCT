@@ -3669,3 +3669,5 @@ pk页面	PK page
 运营总监	Director of Operations
 帕沙特	Pashat
 侦查局	Bureau
+队长	Captain
+侦查员	Investigator
