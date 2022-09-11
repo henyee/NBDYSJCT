@@ -3675,3 +3675,4 @@ pk页面	PK page
 夸克	Quark
 卡斯集团	Cass Corporation
 生命迹象探测器	life detector
+包厢	private room
