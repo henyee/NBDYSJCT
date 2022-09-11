@@ -3674,3 +3674,4 @@ pk页面	PK page
 瞄准镜	gun sight
 夸克	Quark
 卡斯集团	Cass Corporation
+生命迹象探测器	life detector
