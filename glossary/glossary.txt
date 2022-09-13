@@ -3676,7 +3676,7 @@ pk页面	PK page
 卡斯集团	Cass Corporation
 生命迹象探测器	life detector
 包厢	private room
-控神决	God-controlling chant
 特聘厨师	special chef
 帕达斯	Padas
 人设	persona
+控神决	Psyche-controlling chant
