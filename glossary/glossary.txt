@@ -3693,5 +3693,5 @@ pk页面	PK page
 黄金羊	golden goat
 七彩虹鱼	rainbow fish
 索引	index
-白水虾	prawns
+白水虾	white water prawns
 币	coins
