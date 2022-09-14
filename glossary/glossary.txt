@@ -3696,3 +3696,4 @@ pk页面	PK page
 白水虾	white water prawns
 币	coins
 银角牛肉	silver horn beef
+猪皮	pork rind
