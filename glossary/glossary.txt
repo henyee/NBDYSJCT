@@ -3685,3 +3685,4 @@ pk页面	PK page
 卡币	Ca coin
 摩卡超市	Mocha Supermarket
 超市	supermarket
+购物车	shopping cart
