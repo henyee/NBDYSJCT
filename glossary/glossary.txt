@@ -3686,3 +3686,5 @@ pk页面	PK page
 摩卡超市	Mocha Supermarket
 超市	supermarket
 购物车	shopping cart
+屠宰场	abattoir
+银角野牛	silver horn bison
