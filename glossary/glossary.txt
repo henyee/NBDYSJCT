@@ -3690,3 +3690,4 @@ pk页面	PK page
 银角野牛	silver horn bison
 客服	customer service
 黄金羊腿	golden shank
+黄金羊	golden goat
