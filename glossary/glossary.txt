@@ -3694,3 +3694,4 @@ pk页面	PK page
 七彩虹鱼	rainbow fish
 索引	index
 白水虾	prawns
+币	coins
