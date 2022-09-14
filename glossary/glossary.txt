@@ -3682,3 +3682,4 @@ pk页面	PK page
 控神决	Psyche-controlling chant
 摩卡商场	Mocha Mall
 正义	justice
+卡币	Ca coin
