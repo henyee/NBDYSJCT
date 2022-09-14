@@ -3695,3 +3695,4 @@ pk页面	PK page
 索引	index
 白水虾	white water prawns
 币	coins
+银角牛肉	silver horn beef
