@@ -3689,3 +3689,4 @@ pk页面	PK page
 屠宰场	abattoir
 银角野牛	silver horn bison
 客服	customer service
+黄金羊腿	golden shank
