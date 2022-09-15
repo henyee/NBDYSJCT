@@ -3697,3 +3697,4 @@ pk页面	PK page
 币	coins
 银角牛肉	silver horn beef
 猪皮	pork rind
+海虹鱼	rainbow fish
