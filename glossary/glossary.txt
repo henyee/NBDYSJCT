@@ -3703,3 +3703,4 @@ pk页面	PK page
 皮皮虾	mantis shrimp
 卡门	Kamen
 红烧海虹鱼	braised rainbow fish in soy sauce
+红烧鱼	braised fish
