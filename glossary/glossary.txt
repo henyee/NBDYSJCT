@@ -3698,3 +3698,4 @@ pk页面	PK page
 银角牛肉	silver horn beef
 猪皮	pork rind
 海虹鱼	rainbow fish
+十万	100,000
