@@ -3710,3 +3710,4 @@ pk分	PK points
 牛肉泥	beef paste
 肉丸	meatball
 牛丸	beef ball
+杂耍	acrobatics
