@@ -3712,3 +3712,5 @@ pk分	PK points
 牛丸	beef ball
 杂耍	acrobatics
 牛肉丸	beef ball
+爆浆白水牛丸	Explosive White Water Beef Balls
+爆浆牛丸	Explosive Beef Balls
