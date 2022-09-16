@@ -3707,3 +3707,6 @@ pk页面	PK page
 素仿	mock meat
 pk分	PK points
 虾酱冻	prawn paste jelly
+牛肉泥	beef paste
+肉丸	meatball
+牛丸	beef ball
