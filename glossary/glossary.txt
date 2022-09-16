@@ -3705,3 +3705,4 @@ pk页面	PK page
 红烧海虹鱼	braised rainbow fish in soy sauce
 红烧鱼	braised fish
 素仿	mock meat
+pk分	PK points
