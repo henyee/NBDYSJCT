@@ -3717,3 +3717,4 @@ pk分	PK points
 翅膀	wings
 商贸城	shopping center
 塔克商贸城	Tucker City Shopping Center
+政治结构	political structure
