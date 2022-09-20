@@ -3716,3 +3716,4 @@ pk分	PK points
 爆浆牛丸	Explosive Beef Balls
 翅膀	wings
 商贸城	shopping center
+塔克商贸城	Tucker City Shopping Center
