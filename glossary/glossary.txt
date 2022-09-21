@@ -3718,3 +3718,4 @@ pk分	PK points
 商贸城	shopping center
 塔克商贸城	Tucker City Shopping Center
 政治结构	political structure
+局长	chief
