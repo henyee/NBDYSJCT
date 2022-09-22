@@ -3722,3 +3722,5 @@ pk分	PK points
 弗格斯事件	Fergus incident
 霍勒斯事件	Horace incident
 猪腰	pig's kidney
+美杜莎	Medusa
+腰子	kidney
