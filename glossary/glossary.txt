@@ -3727,3 +3727,4 @@ pk分	PK points
 黑暗之心	Heart of Darkness
 三亿	300,000,000
 诺玛	Norma
+蛇腰子	snake's kidney
