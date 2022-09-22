@@ -3721,3 +3721,4 @@ pk分	PK points
 局长	chief
 弗格斯事件	Fergus incident
 霍勒斯事件	Horace incident
+猪腰	pig's kidney
