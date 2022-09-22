@@ -3725,3 +3725,4 @@ pk分	PK points
 美杜莎	Medusa
 腰子	kidney
 黑暗之心	Heart of Darkness
+三亿	300,000,000
