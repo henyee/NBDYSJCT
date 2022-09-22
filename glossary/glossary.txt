@@ -3726,3 +3726,4 @@ pk分	PK points
 腰子	kidney
 黑暗之心	Heart of Darkness
 三亿	300,000,000
+诺玛	Norma
