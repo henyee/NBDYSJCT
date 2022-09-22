@@ -3728,3 +3728,4 @@ pk分	PK points
 三亿	300,000,000
 诺玛	Norma
 蛇腰子	snake's kidney
+综艺	variety show
