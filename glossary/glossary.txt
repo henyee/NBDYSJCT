@@ -3724,3 +3724,4 @@ pk分	PK points
 猪腰	pig's kidney
 美杜莎	Medusa
 腰子	kidney
+黑暗之心	Heart of Darkness
