@@ -3733,3 +3733,4 @@ pk分	PK points
 爆蛇腰	stir-fried snake's kidney
 爆炒蛇腰	stir-fried snake's kidney
 蛇腰	snake's kidney
+火爆猪腰	Stir-fried pig's kidney
