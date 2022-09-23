@@ -3732,3 +3732,4 @@ pk分	PK points
 美杜莎蛇	Medusa snake
 爆蛇腰	stir-fried snake's kidney
 爆炒蛇腰	stir-fried snake's kidney
+蛇腰	snake's kidney
