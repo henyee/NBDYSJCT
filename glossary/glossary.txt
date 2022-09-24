@@ -3735,3 +3735,4 @@ pk分	PK points
 蛇腰	snake's kidney
 火爆猪腰	Stir-fried pig's kidney
 百兽图	picture with 100 beasts
+杀人凶手	murderer
