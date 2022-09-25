@@ -3738,3 +3738,4 @@ pk分	PK points
 杀人凶手	murderer
 科林	Colin
 赛丽娜	Selena
+民意	public opinion
