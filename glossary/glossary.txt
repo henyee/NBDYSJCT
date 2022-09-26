@@ -3742,3 +3742,4 @@ pk分	PK points
 马拉群岛	Mala Archipelago
 巴克尔	Buckle
 审判弗格斯	Judging Fergus
+岛	island
