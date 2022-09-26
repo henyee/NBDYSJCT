@@ -3743,3 +3743,4 @@ pk分	PK points
 巴克尔	Buckle
 审判弗格斯	Judging Fergus
 岛	island
+安全屋	safe house
