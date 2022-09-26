@@ -3740,3 +3740,4 @@ pk分	PK points
 赛丽娜	Selena
 民意	public opinion
 马拉群岛	Mala Archipelago
+巴克尔	Buckle
