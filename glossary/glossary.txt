@@ -3747,3 +3747,4 @@ pk分	PK points
 六角大厦	Hexagon Building
 默林	Merlin
 默林	Merlin
+人工智能	Artificial Intelligence
