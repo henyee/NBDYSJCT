@@ -3745,3 +3745,4 @@ pk分	PK points
 岛	island
 安全屋	safe house
 六角大厦	Hexagon Building
+默林	Merlin
