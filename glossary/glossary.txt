@@ -3751,3 +3751,5 @@ pk分	PK points
 爆炒	Stir-frying
 科拉西	Colasi
 绑架	kidnap
+加德纳	Gardner
+西奥多	Theodore
