@@ -3749,3 +3749,4 @@ pk分	PK points
 默林	Merlin
 人工智能	Artificial Intelligence
 爆炒	Stir-frying
+科拉西	Colasi
