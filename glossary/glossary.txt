@@ -3750,3 +3750,4 @@ pk分	PK points
 人工智能	Artificial Intelligence
 爆炒	Stir-frying
 科拉西	Colasi
+绑架	kidnap
