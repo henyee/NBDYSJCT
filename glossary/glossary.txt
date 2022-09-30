@@ -3753,3 +3753,4 @@ pk分	PK points
 绑架	kidnap
 加德纳	Gardner
 西奥多	Theodore
+博桑	Baussaint
