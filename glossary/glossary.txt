@@ -3758,3 +3758,4 @@ pk分	PK points
 底蕴	heritage
 入职程序	employee admission procedure
 蛇肝	snake's kidney
+雇员守则	employees' rule book
