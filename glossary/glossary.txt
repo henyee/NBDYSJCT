@@ -3754,3 +3754,5 @@ pk分	PK points
 加德纳	Gardner
 西奥多	Theodore
 博桑	Baussaint
+庄园	compound
+底蕴	heritage
