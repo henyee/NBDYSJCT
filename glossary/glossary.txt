@@ -3756,3 +3756,4 @@ pk分	PK points
 博桑	Baussaint
 庄园	compound
 底蕴	heritage
+入职程序	employee admission procedure
