@@ -3761,3 +3761,4 @@ pk分	PK points
 雇员守则	employees' rule book
 番茄鸡蛋汤	tomato and egg soup
 后厨	back kitchen
+消息	message
