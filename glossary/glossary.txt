@@ -3768,3 +3768,4 @@ pk分	PK points
 阿尔奇	Archie
 破解机器人	deciphering robot
 彭克小镇	Penck Town
+猎神	Hunting Gods
