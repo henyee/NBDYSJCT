@@ -3769,3 +3769,4 @@ pk分	PK points
 破解机器人	deciphering robot
 彭克小镇	Penck Town
 猎神	Hunting Gods
+猎神	Hunting Gods
