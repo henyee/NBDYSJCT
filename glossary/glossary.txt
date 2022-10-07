@@ -3771,3 +3771,4 @@ pk分	PK points
 猎神	Hunting Gods
 猎神	Hunting Gods
 十殿主	Ten Hall Masters
+天问	Heavenly Questions
