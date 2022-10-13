@@ -3778,3 +3778,4 @@ pk分	PK points
 飘渺	ethereal
 请柬	invitation
 玄冥	Xuanming
+敞篷	convertible
